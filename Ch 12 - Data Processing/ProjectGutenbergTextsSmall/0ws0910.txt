@@ -1,0 +1,3689 @@
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+****************The Tragedie of Titus Andronicus****************
+
+This is our 3rd edition of most of these plays.  See the index.
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+The Tragedie of Titus Andronicus
+
+by William Shakespeare
+
+July, 2000  [Etext #2260]
+
+
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+****************The Tragedie of Titus Andronicus****************
+
+*****This file should be named 0ws0910.txt or 0ws0910.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 0ws0911.txt
+VERSIONS based on separate sources get new LETTER, 0ws0910a.txt
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Project Gutenberg's Etext of Shakespeare's The Tragedie of
+Titus Andronicus
+
+
+
+
+Executive Director's Notes:
+
+In addition to the notes below, and so you will *NOT* think all
+the spelling errors introduced by the printers of the time have
+been corrected, here are the first few lines of Hamlet, as they
+are presented herein:
+
+  Barnardo. Who's there?
+  Fran. Nay answer me: Stand & vnfold
+your selfe
+
+   Bar. Long liue the King
+
+***
+
+As I understand it, the printers often ran out of certain words
+or letters they had often packed into a "cliche". . .this is the
+original meaning of the term cliche. . .and thus, being unwilling
+to unpack the cliches, and thus you will see some substitutions
+that look very odd. . .such as the exchanges of u for v, v for u,
+above. . .and you may wonder why they did it this way, presuming
+Shakespeare did not actually write the play in this manner. . . .
+
+The answer is that they MAY have packed "liue" into a cliche at a
+time when they were out of "v"'s. . .possibly having used "vv" in
+place of some "w"'s, etc.  This was a common practice of the day,
+as print was still quite expensive, and they didn't want to spend
+more on a wider selection of characters than they had to.
+
+You will find a lot of these kinds of "errors" in this text, as I
+have mentioned in other times and places, many "scholars" have an
+extreme attachment to these errors, and many have accorded them a
+very high place in the "canon" of Shakespeare.  My father read an
+assortment of these made available to him by Cambridge University
+in England for several months in a glass room constructed for the
+purpose.  To the best of my knowledge he read ALL those available
+. . .in great detail. . .and determined from the various changes,
+that Shakespeare most likely did not write in nearly as many of a
+variety of errors we credit him for, even though he was in/famous
+for signing his name with several different spellings.
+
+So, please take this into account when reading the comments below
+made by our volunteer who prepared this file:  you may see errors
+that are "not" errors. . . .
+
+So. . .with this caveat. . .we have NOT changed the canon errors,
+here is the Project Gutenberg Etext of Shakespeare's The Tragedie
+of Titus Andronicus.
+
+Michael S. Hart
+Project Gutenberg
+Executive Director
+
+
+***
+
+
+Scanner's Notes: What this is and isn't.  This was taken from
+a copy of Shakespeare's first folio and it is as close as I can
+come in ASCII to the printed text.
+
+The elongated S's have been changed to small s's and the
+conjoined ae have been changed to ae.  I have left the spelling,
+punctuation, capitalization as close as possible to the
+printed text.  I have corrected some spelling mistakes (I have put
+together a spelling dictionary devised from the spellings of the
+Geneva Bible and Shakespeare's First Folio and have unified
+spellings according to this template), typo's and expanded
+abbreviations as I have come across them.  Everything within
+brackets [] is what I have added.  So if you don't like that
+you can delete everything within the brackets if you want a
+purer Shakespeare.
+
+Another thing that you should be aware of is that there are textual
+differences between various copies of the first folio.  So there may
+be differences (other than what I have mentioned above) between
+this and other first folio editions.  This is due to the printer's
+habit of setting the type and running off a number of copies and
+then proofing the printed copy and correcting the type and then
+continuing the printing run.  The proof run wasn't thrown away but
+incorporated into the printed copies.  This is just the way it is.
+The text I have used was a composite of more than 30 different
+First Folio editions' best pages.
+
+If you find any scanning errors, out and out typos, punctuation
+errors, or if you disagree with my spelling choices please feel
+free to email me those errors.  I wish to make this the best
+etext possible.  My email address for right now are haradda@aol.com
+and davidr@inconnect.com.  I hope that you enjoy this.
+
+David Reed
+
+The Tragedie of Titus Andronicus
+
+Actus Primus. Scoena Prima.
+
+Flourish. Enter the Tribunes and Senators aloft And then enter
+Saturninus
+and his Followers at one doore, and Bassianus and his Followers at
+the
+other, with Drum & Colours.
+
+  Saturninus. Noble Patricians, Patrons of my right,
+Defend the iustice of my Cause with Armes.
+And Countrey-men, my louing Followers,
+Pleade my Successiue Title with your Swords.
+I was the first borne Sonne, that was the last
+That wore the Imperiall Diadem of Rome:
+Then let my Fathers Honours liue in me,
+Nor wrong mine Age with this indignitie
+
+   Bassianus. Romaines, Friends, Followers,
+Fauourers of my Right:
+If euer Bassianus, Cæsars Sonne,
+Were gracious in the eyes of Royall Rome,
+Keepe then this passage to the Capitoll:
+And suffer not Dishonour to approach
+Th' Imperiall Seate to Vertue: consecrate
+To Iustice, Continence, and Nobility:
+But let Desert in pure Election shine;
+And Romanes, fight for Freedome in your Choice.
+Enter Marcus Andronicus aloft with the Crowne.
+
+Princes, that striue by Factions, and by Friends,
+Ambitiously for Rule and Empery:
+Know, that the people of Rome for whom we stand
+A speciall Party, haue by Common voyce
+In Election for the Romane Emperie,
+Chosen Andronicus, Sur-named Pious,
+For many good and great deserts to Rome.
+A Nobler man, a brauer Warriour,
+Liues not this day within the City Walles.
+He by the Senate is accited home
+From weary Warres against the barbarous Gothes,
+That with his Sonnes (a terror to our Foes)
+Hath yoak'd a Nation strong, train'd vp in Armes.
+Ten yeares are spent, since first he vndertooke
+This Cause of Rome, and chasticed with Armes
+Our Enemies pride. Fiue times he hath return'd
+Bleeding to Rome, bearing his Valiant Sonnes
+In Coffins from the Field.
+And now at last, laden with Honours Spoyles,
+Returnes the good Andronicus to Rome,
+Renowned Titus, flourishing in Armes.
+Let vs intreat, by Honour of his Name,
+Whom (worthily) you would haue now succeede,
+And in the Capitoll and Senates right,
+Whom you pretend to Honour and Adore,
+That you withdraw you, and abate your Strength,
+Dismisse your Followers, and as Suters should,
+Pleade your Deserts in Peace and Humblenesse
+
+   Saturnine. How fayre the Tribune speakes,
+To calme my thoughts
+
+   Bassia. Marcus Andronicus, so I do affie
+In thy vprightnesse and Integrity:
+And so I Loue and Honor thee, and thine,
+Thy Noble Brother Titus, and his Sonnes,
+And Her (to whom my thoughts are humbled all)
+Gracious Lauinia, Romes rich Ornament,
+That I will heere dismisse my louing Friends:
+And to my Fortunes, and the Peoples Fauour,
+Commit my Cause in ballance to be weigh'd.
+
+Exit Souldiours.
+
+  Saturnine. Friends, that haue beene
+Thus forward in my Right,
+I thanke you all, and heere Dismisse you all,
+And to the Loue and Fauour of my Countrey,
+Commit my Selfe, my Person, and the Cause:
+Rome, be as iust and gracious vnto me,
+As I am confident and kinde to thee.
+Open the Gates, and let me in
+
+   Bassia. Tribunes, and me, a poore Competitor.
+
+Flourish. They go vp into the Senat house.
+
+Enter a Captaine.
+
+  Cap. Romanes make way: the good Andronicus,
+Patron of Vertue, Romes best Champion,
+Successefull in the Battailes that he fights,
+With Honour and with Fortune is return'd,
+From whence he circumscribed with his Sword,
+And brought to yoke the Enemies of Rome.
+
+Sound Drummes and Trumpets. And then enter two of Titus
+Sonnes; After
+them, two men bearing a Coffin couered with blacke, then two
+other Sonnes.
+After them, Titus Andronicus, and then Tamora the Queene of
+Gothes, & her
+two Sonnes Chiron and Demetrius, with Aaron the Moore, and
+others, as many
+as can bee: They set downe the Coffin, and Titus speakes.
+
+  Andronicus. Haile Rome:
+Victorious in thy Mourning Weedes:
+Loe as the Barke that hath discharg'd his fraught,
+Returnes with precious lading to the Bay,
+From whence at first she weigh'd her Anchorage:
+Commeth Andronicus bound with Lawrell bowes,
+To resalute his Country with his teares,
+Teares of true ioy for his returne to Rome,
+Thou great defender of this Capitoll,
+Stand gracious to the Rites that we intend.
+Romaines, of fiue and twenty Valiant Sonnes,
+Halfe of the number that King Priam had,
+Behold the poore remaines aliue and dead!
+These that Suruiue, let Rome reward with Loue:
+These that I bring vnto their latest home,
+With buriall amongst their Auncestors.
+Heere Gothes haue giuen me leaue to sheath my Sword:
+Titus vnkinde, and carelesse of thine owne,
+Why suffer'st thou thy Sonnes vnburied yet,
+To houer on the dreadfull shore of Stix?
+Make way to lay them by their Bretheren.
+
+They open the Tombe.
+
+There greete in silence as the dead are wont,
+And sleepe in peace, slaine in your Countries warres:
+O sacred receptacle of my ioyes,
+Sweet Cell of vertue and Nobilitie,
+How many Sonnes of mine hast thou in store,
+That thou wilt neuer render to me more?
+  Luc. Giue vs the proudest prisoner of the Gothes,
+That we may hew his limbes, and on a pile
+Ad manus fratrum, sacrifice his flesh:
+Before this earthly prison of their bones,
+That so the shadowes be not vnappeas'd,
+Nor we disturb'd with prodigies on earth
+
+   Tit. I giue him you, the Noblest that Suruiues,
+The eldest Son of this distressed Queene
+
+   Tam. Stay Romaine Bretheren, gracious Conqueror,
+Victorious Titus, rue the teares I shed,
+A Mothers teares in passion for her sonne:
+And if thy Sonnes were euer deere to thee,
+Oh thinke my sonnes to be as deere to mee.
+Sufficeth not, that we are brought to Rome
+To beautifie thy Triumphs, and returne
+Captiue to thee, and to thy Romaine yoake,
+But must my Sonnes be slaughtred in the streetes,
+For Valiant doings in their Countries cause?
+O! If to fight for King and Common-weale,
+Were piety in thine, it is in these:
+Andronicus, staine not thy Tombe with blood.
+Wilt thou draw neere the nature of the Gods?
+Draw neere them then in being mercifull.
+Sweet mercy is Nobilities true badge,
+Thrice Noble Titus, spare my first borne sonne
+
+   Tit. Patient your selfe Madam, and pardon me.
+These are the Brethren, whom you Gothes beheld
+Aliue and dead, and for their Bretheren slaine,
+Religiously they aske a sacrifice:
+To this your sonne is markt, and die he must,
+T' appease their groaning shadowes that are gone
+
+   Luc. Away with him, and make a fire straight,
+And with our Swords vpon a pile of wood,
+Let's hew his limbes till they be cleane consum'd.
+
+Exit Sonnes with Alarbus.
+
+  Tamo. O cruell irreligious piety
+
+   Chi. Was euer Scythia halfe so barbarous?
+  Dem. Oppose me Scythia to ambitious Rome,
+Alarbus goes to rest, and we suruiue,
+To tremble vnder Titus threatning lookes.
+Then Madam stand resolu'd, but hope withall,
+The selfe same Gods that arm'd the Queene of Troy
+With opportunitie of sharpe reuenge
+Vpon the Thracian Tyrant in his Tent,
+May fauour Tamora the Queene of Gothes,
+(When Gothes were Gothes, and Tamora was Queene)
+To quit the bloody wrongs vpon her foes.
+Enter the Sonnes of Andronicus againe.
+
+  Luci. See Lord and Father, how we haue perform'd
+Our Romaine rightes, Alarbus limbs are lopt,
+And intrals feede the sacrifising fire,
+Whole smoke like incense doth perfume the skie.
+Remaineth nought but to interre our Brethren,
+And with low'd Larums welcome them to Rome
+
+   Tit. Let it be so, and let Andronicus
+Make this his latest farewell to their Soules.
+
+Flourish.
+
+Then Sound Trumpets, and lay the Coffins in the Tombe.
+
+In peace and Honour rest you heere my Sonnes,
+Romes readiest Champions, repose you heere in rest,
+Secure from worldly chaunces and mishaps:
+Heere lurks no Treason, heere no enuie swels,
+Heere grow no damned grudges, heere are no stormes,
+No noyse, but silence and Eternall sleepe,
+In peace and Honour rest you heere my Sonnes.
+Enter Lauinia.
+
+  Laui. In peace and Honour, liue Lord Titus long,
+My Noble Lord and Father, liue in Fame:
+Loe at this Tombe my tributarie teares,
+I render for my Bretherens Obsequies:
+And at thy feete I kneele, with teares of ioy
+Shed on the earth for thy returne to Rome.
+O blesse me heere with thy victorious hand,
+Whose Fortune Romes best Citizens applau'd
+
+   Ti. Kind Rome,
+That hast thus louingly reseru'd
+The Cordiall of mine age to glad my hart,
+Lauinia liue, out-liue thy Fathers dayes:
+And Fames eternall date for vertues praise
+
+   Marc. Long liue Lord Titus, my beloued brother,
+Gracious Triumpher in the eyes of Rome
+
+   Tit. Thankes Gentle Tribune,
+Noble brother Marcus
+
+   Mar. And welcome Nephews from succesfull wars,
+You that suruiue and you that sleepe in Fame:
+Faire Lords your Fortunes are all alike in all,
+That in your Countries seruice drew your Swords.
+But safer Triumph is this Funerall Pompe,
+That hath aspir'd to Solons Happines,
+And Triumphs ouer chaunce in honours bed.
+Titus Andronicus, the people of Rome,
+Whose friend in iustice thou hast euer bene,
+Send thee by me their Tribune and their trust,
+This Palliament of white and spotlesse Hue,
+And name thee in Election for the Empire,
+With these our late deceased Emperours Sonnes:
+Be Candidatus then, and put it on,
+And helpe to set a head on headlesse Rome
+
+   Tit. A better head her Glorious body fits,
+Then his that shakes for age and feeblenesse:
+What should I don this Robe and trouble you,
+Be chosen with proclamations to day,
+To morrow yeeld vp rule, resigne my life,
+And set abroad new businesse for you all.
+Rome I haue bene thy Souldier forty yeares,
+And led my Countries strength successefully,
+And buried one and twenty Valiant Sonnes,
+Knighted in Field, slaine manfully in Armes,
+In right and Seruice of their Noble Countrie:
+Giue me a staffe of Honour for mine age,
+But not a Scepter to controule the world,
+Vpright he held it Lords, that held it last
+
+   Mar. Titus, thou shalt obtaine and aske the Emperie
+
+   Sat. Proud and ambitious Tribune can'st thou tell?
+  Titus. Patience Prince Saturninus
+
+   Sat. Romaines do me right.
+Patricians draw your Swords, and sheath them not
+Till Saturninus be Romes Emperour:
+Andronicus would thou wert shipt to hell,
+Rather then rob me of the peoples harts
+
+   Luc. Proud Saturnine, interrupter of the good
+That Noble minded Titus meanes to thee
+
+   Tit. Content thee Prince, I will restore to thee
+The peoples harts, and weane them from themselues
+
+   Bass. Andronicus, I do not flatter thee
+But Honour thee, and will doe till I die:
+My Faction if thou strengthen with thy Friend?
+I will most thankefull be, and thankes to men
+Of Noble mindes, is Honourable Meede
+
+   Tit. People of Rome, and Noble Tribunes heere,
+I aske your voyces and your Suffrages,
+Will you bestow them friendly on Andronicus?
+  Tribunes. To gratifie the good Andronicus,
+And Gratulate his safe returne to Rome,
+The people will accept whom he admits
+
+   Tit. Tribunes I thanke you, and this sure I make,
+That you Create your Emperours eldest sonne,
+Lord Saturnine, whose Vertues will I hope,
+Reflect on Rome as Tytans Rayes on earth,
+And ripen Iustice in this Common-weale:
+Then if you will elect by my aduise,
+Crowne him, and say: Long liue our Emperour
+
+   Mar. An. With Voyces and applause of euery sort,
+Patricians and Plebeans we Create
+Lord Saturninus Romes Great Emperour.
+And say, Long liue our Emperour Saturnine.
+
+A long Flourish till they come downe.
+
+  Satu. Titus Andronicus, for thy Fauours done,
+To vs in our Election this day,
+I giue thee thankes in part of thy Deserts,
+And will with Deeds requite thy gentlenesse:
+And for an Onset Titus to aduance
+Thy Name, and Honorable Familie,
+Lauinia will I make my Empresse,
+Romes Royall Mistris, Mistris of my hart
+And in the Sacred Pathan her espouse:
+Tell me Andronicus doth this motion please thee?
+  Tit. It doth my worthy Lord, and in this match,
+I hold me Highly Honoured of your Grace,
+And heere in sight of Rome, to Saturnine,
+King and Commander of our Common-weale,
+The Wide-worlds Emperour, do I Consecrate,
+My Sword, my Chariot, and my Prisoners,
+Presents well Worthy Romes Imperiall Lord:
+Receiue them then, the Tribute that I owe,
+Mine Honours Ensignes humbled at my feete
+
+   Satu. Thankes Noble Titus, Father of my life,
+How proud I am of thee, and of thy gifts
+Rome shall record, and when I do forget
+The least of these vnspeakable Deserts,
+Romans forget your Fealtie to me
+
+   Tit. Now Madam are you prisoner to an Emperour,
+To him that for your Honour and your State,
+Will vse you Nobly and your followers
+
+   Satu. A goodly Lady, trust me of the Hue
+That I would choose, were I to choose a new:
+Cleere vp Faire Queene that cloudy countenance,
+Though chance of warre
+Hath wrought this change of cheere,
+Thou com'st not to be made a scorne in Rome:
+Princely shall be thy vsage euery way.
+Rest on my word, and let not discontent
+Daunt all your hopes: Madam he comforts you,
+Can make you Greater then the Queene of Gothes?
+Lauinia you are not displeas'd with this?
+  Lau. Not I my Lord, sith true Nobilitie,
+Warrants these words in Princely curtesie
+
+   Sat. Thankes sweete Lauinia, Romans let vs goe:
+Ransomlesse heere we set our Prisoners free,
+Proclaime our Honors Lords with Trumpe and Drum
+
+   Bass. Lord Titus by your leaue, this Maid is mine
+
+   Tit. How sir? Are you in earnest then my Lord?
+  Bass. I Noble Titus, and resolu'd withall,
+To doe my selfe this reason, and this right
+
+   Marc. Suum cuiquam, is our Romane Iustice,
+This Prince in Iustice ceazeth but his owne
+
+   Luc. And that he will and shall, if Lucius liue
+
+   Tit. Traytors auant, where is the Emperours Guarde?
+Treason my Lord, Lauinia is surpris'd
+
+   Sat. Surpris'd, by whom?
+  Bass. By him that iustly may
+Beare his Betroth'd, from all the world away
+
+   Muti. Brothers helpe to conuey her hence away,
+And with my Sword Ile keepe this doore safe
+
+   Tit. Follow my Lord, and Ile soone bring her backe
+
+   Mut. My Lord you passe not heere
+
+   Tit. What villaine Boy, bar'st me my way in Rome?
+  Mut. Helpe Lucius helpe. He kils him
+
+   Luc. My Lord you are vniust, and more then so,
+In wrongfull quarrell, you haue slaine your son
+
+   Tit. Nor thou, nor he are any sonnes of mine,
+My sonnes would neuer so dishonour me.
+Traytor restore Lauinia to the Emperour
+
+   Luc. Dead if you will, but not to be his wife,
+That is anothers lawfull promist Loue.
+Enter aloft the Emperour with Tamora and her two sonnes, and
+Aaron the
+Moore.
+
+  Empe. No Titus, no, the Emperour needs her not,
+Nor her, nor thee, nor any of thy stocke:
+Ile trust by Leisure him that mocks me once.
+Thee neuer: nor thy Trayterous haughty sonnes,
+Confederates all, thus to dishonour me.
+Was none in Rome to make a stale
+But Saturnine? Full well Andronicus
+Agree these Deeds, with that proud bragge of thine,
+That said'st, I beg'd the Empire at thy hands
+
+   Tit. O monstrous, what reproachfull words are these?
+  Sat. But goe thy wayes, goe giue that changing peece,
+To him that flourisht for her with his Sword:
+A Valliant sonne in-law thou shalt enioy:
+One, fit to bandy with thy lawlesse Sonnes,
+To ruffle in the Common-wealth of Rome
+
+   Tit. These words are Razors to my wounded hart
+
+   Sat. And therefore louely Tamora Queene of Gothes,
+That like the stately Thebe mong'st her Nimphs
+Dost ouer-shine the Gallant'st Dames of Rome,
+If thou be pleas'd with this my sodaine choyse,
+Behold I choose thee Tamora for my Bride,
+And will Create thee Empresse of Rome.
+Speake Queene of Goths dost thou applau'd my choyse?
+And heere I sweare by all the Romaine Gods,
+Sith Priest and Holy-water are so neere,
+And Tapers burne so bright, and euery thing
+In readines for Hymeneus stand,
+I will not resalute the streets of Rome,
+Or clime my Pallace, till from forth this place,
+I leade espous'd my Bride along with me
+
+   Tamo. And heere in sight of heauen to Rome I sweare,
+If Saturnine aduance the Queen of Gothes,
+Shee will a Hand-maid be to his desires,
+A louing Nurse, a Mother to his youth
+
+   Satur. Ascend Faire Queene,
+Panthean Lords, accompany
+Your Noble Emperour and his louely Bride,
+Sent by the heauens for Prince Saturnine,
+Whose wisedome hath her Fortune Conquered,
+There shall we Consummate our Spousall rites.
+
+Exeunt. omnes.
+
+  Tit. I am not bid to waite vpon this Bride:
+Titus when wer't thou wont to walke alone,
+Dishonoured thus and Challenged of wrongs?
+Enter Marcus and Titus Sonnes.
+
+  Mar. O Titus see! O see what thou hast done!
+In a bad quarrell, slaine a Vertuous sonne
+
+   Tit. No foolish Tribune, no: No sonne of mine,
+Nor thou, nor these Confedrates in the deed,
+That hath dishonoured all our Family,
+Vnworthy brother, and vnworthy Sonnes
+
+   Luci. But let vs giue him buriall as becomes:
+Giue Mutius buriall with our Bretheren
+
+   Tit. Traytors away, he rest's not in this Tombe:
+This Monument fiue hundreth yeares hath stood,
+Which I haue Sumptuously re-edified.
+Heere none but Souldiers, and Romes Seruitors,
+Repose in Fame: None basely slaine in braules,
+Bury him where you can, he comes not heere
+
+   Mar. My Lord this is impiety in you,
+My Nephew Mutius deeds do plead for him,
+He must be buried with his bretheren
+
+   Titus two Sonnes speakes. And shall, or him we will accompany
+
+   Ti. And shall! What villaine was it spake that word?
+  Titus sonne speakes. He that would vouch'd it in any place but
+heere
+
+   Tit. What would you bury him in my despight?
+  Mar. No Noble Titus, but intreat of thee,
+To pardon Mutius, and to bury him
+
+   Tit. Marcus, Euen thou hast stroke vpon my Crest,
+And with these Boyes mine Honour thou hast wounded,
+My foes I doe repute you euery one.
+So trouble me no more, but get you gone
+
+   1.Sonne. He is not himselfe, let vs withdraw
+
+   2.Sonne. Not I tell Mutius bones be buried.
+
+The Brother and the sonnes kneele.
+
+  Mar. Brother, for in that name doth nature plea'd
+
+   2.Sonne. Father, and in that name doth nature speake
+
+   Tit. Speake thou no more if all the rest will speede
+
+   Mar. Renowned Titus more then halfe my soule
+
+   Luc. Deare Father, soule and substance of vs all
+
+   Mar. Suffer thy brother Marcus to interre
+His Noble Nephew heere in vertues nest,
+That died in Honour and Lauinia's cause.
+Thou art a Romaine, be not barbarous:
+The Greekes vpon aduise did bury Aiax
+That slew himselfe: And Laertes sonne,
+Did graciously plead for his Funerals:
+Let not young Mutius then that was thy ioy,
+Be bar'd his entrance heere
+
+   Tit. Rise Marcus, rise,
+The dismall'st day is this that ere I saw,
+To be dishonored by my Sonnes in Rome:
+Well, bury him, and bury me the next.
+They put him in the Tombe.
+
+  Luc. There lie thy bones sweet Mutius with thy friends.
+Till we with Trophees do adorne thy Tombe.
+
+They all kneele and say.
+
+No man shed teares for Noble Mutius,
+He liues in Fame, that di'd in vertues cause.
+Enter.
+
+  Mar. My Lord to step out of these sudden dumps,
+How comes it that the subtile Queene of Gothes,
+Is of a sodaine thus aduanc'd in Rome?
+  Ti. I know not Marcus: but I know it is,
+(Whether by deuise or no) the heauens can tell,
+Is she not then beholding to the man,
+That brought her for this high good turne so farre?
+Yes, and will Nobly him remunerate.
+
+Flourish.
+
+Enter the Emperor, Tamora, and her two sons, with the Moore at
+one doore.
+Enter at the other doore Bassianus and Lauinia with others.
+
+  Sat. So Bassianus, you haue plaid your prize,
+God giue you ioy sir of your Gallant Bride
+
+   Bass. And you of yours my Lord: I say no more,
+Nor wish no lesse, and so I take my leaue
+
+   Sat. Traytor, if Rome haue law, or we haue power,
+Thou and thy Faction shall repent this Rape
+
+   Bass. Rape call you it my Lord, to cease my owne,
+My true betrothed Loue, and now my wife?
+But let the lawes of Rome determine all,
+Meane while I am possest of that is mine
+
+   Sat. 'Tis good sir: you are very short with vs,
+But if we liue, weele be as sharpe with you
+
+   Bass. My Lord, what I haue done as best I may,
+Answere I must, and shall do with my life,
+Onely thus much I giue your Grace to know,
+By all the duties that I owe to Rome,
+This Noble Gentleman Lord Titus heere,
+Is in opinion and in honour wrong'd,
+That in the rescue of Lauinia,
+With his owne hand did slay his youngest Son,
+In zeale to you, and highly mou'd to wrath.
+To be controul'd in that he frankly gaue:
+Receiue him then to fauour Saturnine,
+That hath expre'st himselfe in all his deeds,
+A Father and a friend to thee, and Rome
+
+   Tit. Prince Bassianus leaue to plead my Deeds,
+'Tis thou, and those, that haue dishonoured me,
+Rome and the righteous heauens be my iudge,
+How I haue lou'd and Honour'd Saturnine
+
+   Tam. My worthy Lord if euer Tamora,
+Were gracious in those Princely eyes of thine,
+Then heare me speake indifferently for all:
+And at my sute (sweet) pardon what is past
+
+   Satu. What Madam, be dishonoured openly,
+And basely put it vp without reuenge?
+  Tam. Not so my Lord,
+The Gods of Rome fore-fend,
+I should be Authour to dishonour you.
+But on mine honour dare, I vndertake
+For good Lord Titus innocence in all:
+Whose fury not dissembled speakes his griefes:
+Then at my sute looke graciously on him,
+Loose not so noble a friend on vaine suppose,
+Nor with sowre lookes afflict his gentle heart.
+My Lord, be rul'd by me, be wonne at last,
+Dissemble all your griefes and discontents,
+You are but newly planted in your Throne,
+Least then the people, and Patricians too,
+Vpon a iust suruey take Titus part,
+And so supplant vs for ingratitude,
+Which Rome reputes to be a hainous sinne.
+Yeeld at intreats, and then let me alone:
+Ile finde a day to massacre them all,
+And race their faction, and their familie,
+The cruell Father, and his trayt'rous sonnes,
+To whom I sued for my deare sonnes life.
+And make them know what 'tis to let a Queene.
+Kneele in the streetes, and beg for grace in vaine.
+Come, come, sweet Emperour, (come Andronicus)
+Take vp this good old man, and cheere the heart,
+That dies in tempest of thy angry frowne
+
+   King. Rise Titus, rise,
+My Empresse hath preuail'd
+
+   Titus. I thanke your Maiestie,
+And her my Lord.
+These words, these lookes,
+Infuse new life in me
+
+   Tamo. Titus, I am incorparate in Rome,
+A Roman now adopted happily.
+And must aduise the Emperour for his good,
+This day all quarrels die Andronicus.
+And let it be mine honour good my Lord,
+That I haue reconcil'd your friends and you.
+For you Prince Bassianus, I haue past
+My word and promise to the Emperour,
+That you will be more milde and tractable.
+And feare not Lords:
+And you Lauinia,
+By my aduise all humbled on your knees,
+You shall aske pardon of his Maiestie
+
+   Son. We doe,
+And vow to heauen, and to his Highnes,
+That what we did, was mildly, as we might,
+Tendring our sisters honour and our owne
+
+   Mar. That on mine honour heere I do protest
+
+   King. Away and talke not, trouble vs no more
+
+   Tamora. Nay, nay,
+Sweet Emperour, we must all be friends,
+The Tribune and his Nephews kneele for grace,
+I will not be denied, sweet hart looke back
+
+   King. Marcus,
+For thy sake and thy brothers heere,
+And at my louely Tamora's intreats,
+I doe remit these young mens haynous faults.
+Stand vp: Lauinia, though you left me like a churle,
+I found a friend, and sure as death I sware,
+I would not part a Batchellour from the Priest.
+Come, if the Emperours Court can feast two Brides,
+You are my guest Lauinia, and your friends:
+This day shall be a Loue-day Tamora
+
+   Tit. To morrow and it please your Maiestie,
+To hunt the Panther and the Hart with me,
+With horne and Hound,
+Weele giue your Grace Bon iour
+
+   Satur. Be it so Titus, and Gramercy to.
+
+Exeunt.
+
+
+Actus Secunda.
+
+Flourish. Enter Aaron alone.
+
+  Aron. Now climbeth Tamora Olympus toppe,
+Safe out of Fortunes shot, and sits aloft,
+Secure of Thunders cracke or lightning flash,
+Aduanc'd about pale enuies threatning reach:
+As when the golden Sunne salutes the morne,
+And hauing gilt the Ocean with his beames,
+Gallops the Zodiacke in his glistering Coach,
+And ouer-lookes the highest piering hills:
+So Tamora
+Vpon her wit doth earthly honour waite,
+And vertue stoopes and trembles at her frowne.
+Then Aaron arme thy hart, and fit thy thoughts,
+To mount aloft with thy Emperiall Mistris,
+And mount her pitch, whom thou in triumph long
+Hast prisoner held, fettred in amorous chaines,
+And faster bound to Aarons charming eyes,
+Then is Prometheus ti'de to Caucasus.
+Away with slauish weedes, and idle thoughts,
+I will be bright and shine in Pearle and Gold,
+To waite vpon this new made Empresse.
+To waite said I? To wanton with this Queene,
+This Goddesse, this Semirimis, this Queene.
+This Syren, that will charme Romes Saturnine,
+And see his shipwracke, and his Common weales.
+Hollo, what storme is this?
+Enter Chiron and Demetrius brauing.
+
+  Dem. Chiron thy yeres wants wit, thy wit wants edge
+And manners to intru'd where I am grac'd,
+And may for ought thou know'st affected be
+
+   Chi. Demetrius, thou doo'st ouer-weene in all,
+And so in this, to beare me downe with braues,
+'Tis not the difference of a yeere or two
+Makes me lesse gracious, or thee more fortunate:
+I am as able, and as fit, as thou,
+To serue, and to deserue my Mistris grace,
+And that my sword vpon thee shall approue,
+And plead my passions for Lauinia's loue
+
+   Aron. Clubs, clubs, these louers will not keep the peace
+
+   Dem. Why Boy, although our mother (vnaduised)
+Gaue you a daunsing Rapier by your side,
+Are you so desperate growne to threat your friends?
+Goe too: haue your Lath glued within your sheath,
+Till you know better how to handle it
+
+   Chi. Meane while sir, with the little skill I haue,
+Full well shalt thou perceiue how much I dare
+
+   Deme. I Boy, grow ye so braue?
+
+They drawe.
+
+  Aron. Why how now Lords?
+So nere the Emperours Pallace dare you draw,
+And maintaine such a quarrell openly?
+Full well I wote, the ground of all this grudge.
+I would not for a million of Gold,
+The cause were knowne to them it most concernes.
+Nor would your noble mother for much more
+Be so dishonored in the Court of Rome:
+For shame put vp
+
+   Deme. Not I, till I haue sheath'd
+My rapier in his bosome, and withall
+Thrust these reprochfull speeches downe his throat,
+That he hath breath'd in my dishonour heere
+
+   Chi. For that I am prepar'd, and full resolu'd,
+Foule spoken Coward,
+That thundrest with thy tongue,
+And with thy weapon nothing dar'st performe
+
+   Aron. A way I say.
+Now by the Gods that warlike Gothes adore,
+This pretty brabble will vndoo vs all:
+Why Lords, and thinke you not how dangerous
+It is to set vpon a Princes right?
+What is Lauinia then become so loose,
+Or Bassianus so degenerate,
+That for her loue such quarrels may be broacht,
+Without controulement, Iustice, or reuenge?
+Young Lords beware, and should the Empresse know,
+This discord ground, the musicke would not please
+
+   Chi. I care not I, knew she and all the world,
+I loue Lauinia more then all the world
+
+   Demet. Youngling,
+Learne thou to make some meaner choise,
+Lauinia is thine elder brothers hope
+
+   Aron. Why are ye mad? Or know ye not in Rome,
+How furious and impatient they be,
+And cannot brooke Competitors in loue?
+I tell you Lords, you doe but plot your deaths,
+By this deuise
+
+   Chi. Aaron, a thousand deaths would I propose,
+To atchieue her whom I do loue
+
+   Aron. To atcheiue her, how?
+  Deme. Why, mak'st thou it so strange?
+Shee is a woman, therefore may be woo'd,
+Shee is a woman, therfore may be wonne,
+Shee is Lauinia therefore must be lou'd.
+What man, more water glideth by the Mill
+Then wots the Miller of, and easie it is
+Of a cut loafe to steale a shiue we know:
+Though Bassianus be the Emperours brother,
+Better then he haue worne Vulcans badge
+
+   Aron. I, and as good as Saturninus may
+
+   Deme. Then why should he dispaire that knowes to court it
+With words, faire lookes, and liberality:
+What hast not thou full often strucke a Doe,
+And borne her cleanly by the Keepers nose?
+  Aron. Why then it seemes some certaine snatch or so
+Would serue your turnes
+
+   Chi. I so the turne were serued
+
+   Deme. Aaron thou hast hit it
+
+   Aron. Would you had hit it too,
+Then should not we be tir'd with this adoo:
+Why harke yee, harke yee, and are you such fooles,
+To square for this? Would it offend you then?
+  Chi. Faith not me
+
+   Deme. Nor me, so I were one
+
+   Aron. For shame be friends, & ioyne for that you iar:
+'Tis pollicie, and stratageme must doe
+That you affect, and so must you resolue,
+That what you cannot as you would atcheiue,
+You must perforce accomplish as you may:
+Take this of me, Lucrece was not more chast
+Then this Lauinia, Bassianus loue,
+A speedier course this lingring languishment
+Must we pursue, and I haue found the path:
+My Lords, a solemne hunting is in hand.
+There will the louely Roman Ladies troope:
+The Forrest walkes are wide and spacious,
+And many vnfrequented plots there are,
+Fitted by kinde for rape and villanie:
+Single you thither then this dainty Doe,
+And strike her home by force, if not by words:
+This way or not at all, stand you in hope.
+Come, come, our Empresse with her sacred wit
+To villainie and vengance consecrate,
+Will we acquaint with all that we intend,
+And she shall file our engines with aduise,
+That will not suffer you to square your selues,
+But to your wishes height aduance you both.
+The Emperours Court is like the house of Fame,
+The pallace full of tongues, of eyes, of eares:
+The Woods are ruthlesse, dreadfull, deafe, and dull:
+There speake, and strike braue Boyes, & take your turnes.
+There serue your lusts, shadow'd from heauens eye,
+And reuell in Lauinia's Treasurie
+
+   Chi. Thy counsell Lad smells of no cowardise
+
+   Deme. Sit fas aut nefas, till I finde the streames,
+To coole this heat, a Charme to calme their fits,
+Per Stigia per manes Vehor.
+
+Exeunt.
+
+Enter Titus Andronicus and his three sonnes, making a noyse with
+hounds
+and hornes, and Marcus.
+
+  Tit. The hunt is vp, the morne is bright and gray,
+The fields are fragrant, and the Woods are greene,
+Vncouple heere, and let vs make a bay,
+And wake the Emperour, and his louely Bride,
+And rouze the Prince, and ring a hunters peale,
+That all the Court may eccho with the noyse.
+Sonnes let it be your charge, as it is ours,
+To attend the Emperours person carefully:
+I haue bene troubled in my sleepe this night,
+But dawning day new comfort hath inspir'd.
+
+Winde Hornes.
+
+Heere a cry of houndes, and winde hornes in a peale, then Enter
+Saturninus, Tamora, Bassianus, Lauinia, Chiron, Demetrius, and
+their
+Attendants.
+
+  Ti. Many good morrowes to your Maiestie,
+Madam to you as many and as good.
+I promised your Grace, a Hunters peale
+
+   Satur. And you haue rung it lustily my Lords,
+Somewhat to earely for new married Ladies
+
+   Bass. Lauinia, how say you?
+  Laui. I say no:
+I haue bene awake two houres and more
+
+   Satur. Come on then, horse and Chariots let vs haue,
+And to our sport: Madam, now shall ye see,
+Our Romaine hunting
+
+   Mar. I haue dogges my Lord,
+Will rouze the proudest Panther in the Chase,
+And clime the highest Promontary top
+
+   Tit. And I haue horse will follow where the game
+Makes way, and runnes likes Swallowes ore the plaine
+  Deme. Chiron we hunt not we, with Horse nor Hound
+But hope to plucke a dainty Doe to ground.
+
+Exeunt.
+
+Enter Aaron alone.
+
+  Aron. He that had wit, would thinke that I had none,
+To bury so much Gold vnder a Tree,
+And neuer after to inherit it.
+Let him that thinks of me so abiectly,
+Know that this Gold must coine a Stratageme,
+Which cunningly effected, will beget
+A very excellent peece of villany;
+And so repose sweet Gold for their vnrest,
+That haue their Almes out of the Empresse Chest.
+Enter Tamora to the Moore.
+
+  Tamo. My louely Aaron,
+Wherefore look'st thou sad,
+When euery thing doth make a Gleefull boast?
+The Birds chaunt melody on euery bush,
+The Snake lies rolled in the chearefull Sunne,
+The greene leaues quiuer, with the cooling winde,
+And make a cheker'd shadow on the ground:
+Vnder their sweete shade, Aaron let vs sit,
+And whil'st the babling Eccho mock's the Hounds,
+Replying shrilly to the well tun'd-Hornes,
+As if a double hunt were heard at once,
+Let vs sit downe, and marke their yelping noyse:
+And after conflict, such as was suppos'd.
+The wandring Prince and Dido once enioy'd,
+When with a happy storme they were surpris'd,
+And Curtain'd with a Counsaile-keeping Caue,
+We may each wreathed in the others armes,
+(Our pastimes done) possesse a Golden slumber,
+Whiles Hounds and Hornes, and sweet Melodious Birds
+Be vnto vs, as is a Nurses Song
+Of Lullabie, to bring her Babe asleepe
+
+   Aron. Madame,
+Though Venus gouerne your desires,
+Saturne is Dominator ouer mine:
+What signifies my deadly standing eye,
+My silence, and my Cloudy Melancholie,
+My fleece of Woolly haire, that now vncurles,
+Euen as an Adder when she doth vnrowle
+To do some fatall execution?
+No Madam, these are no Veneriall signes,
+Vengeance is in my heart, death in my hand,
+Blood, and reuenge, are Hammering in my head.
+Harke Tamora, the Empresse of my Soule,
+Which neuer hopes more heauen, then rests in thee,
+This is the day of Doome for Bassianus;
+His Philomel must loose her tongue to day,
+Thy Sonnes make Pillage of her Chastity,
+And wash their hands in Bassianus blood.
+Seest thou this Letter, take it vp I pray thee,
+And giue the King this fatall plotted Scrowle,
+Now question me no more, we are espied,
+Heere comes a parcell of our hopefull Booty,
+Which dreads not yet their liues destruction.
+Enter Bassianus and Lauinia.
+
+  Tamo. Ah my sweet Moore:
+Sweeter to me then life
+
+   Aron. No more great Empresse, Bassianus comes,
+Be crosse with him, and Ile goe fetch thy Sonnes
+To backe thy quarrell what so ere they be
+
+   Bassi. Whom haue we heere?
+Romes Royall Empresse,
+Vnfurnisht of our well beseeming troope?
+Or is it Dian habited like her,
+Who hath abandoned her holy Groues,
+To see the generall Hunting in this Forrest?
+  Tamo. Sawcie controuler of our priuate steps:
+Had I the power, that some say Dian had,
+Thy Temples should be planted presently.
+With Hornes, as was Acteons, and the Hounds
+Should driue vpon his new transformed limbes,
+Vnmannerly Intruder as thou art
+
+   Laui. Vnder your patience gentle Empresse,
+'Tis thought you haue a goodly gift in Horning,
+And to be doubted, that your Moore and you
+Are singled forth to try experiments:
+Ioue sheild your husband from his Hounds to day,
+'Tis pitty they should take him for a Stag
+
+   Bassi. Beleeue me Queene, your swarth Cymerion,
+Doth make your Honour of his bodies Hue,
+Spotted, detested, and abhominable.
+Why are you sequestred from all your traine?
+Dismounted from your Snow-white goodly Steed,
+And wandred hither to an obscure plot,
+Accompanied with a barbarous Moore,
+If foule desire had not conducted you?
+  Laui. And being intercepted in your sport,
+Great reason that my Noble Lord, be rated
+For Saucinesse, I pray you let vs hence,
+And let her ioy her Rauen coloured loue,
+This valley fits the purpose passing well
+
+   Bassi. The King my Brother shall haue notice of this
+
+   Laui. I, for these slips haue made him noted long,
+Good King, to be so mightily abused
+
+   Tamora. Why I haue patience to endure all this?
+Enter Chiron and Demetrius.
+
+  Dem. How now deere Soueraigne
+And our gracious Mother,
+Why doth your Highnes looke so pale and wan?
+  Tamo. Haue I not reason thinke you to looke pale.
+These two haue tic'd me hither to this place,
+A barren, detested vale you see it is.
+The Trees though Sommer, yet forlorne and leane,
+Ore-come with Mosse, and balefull Misselto.
+Heere neuer shines the Sunne, heere nothing breeds,
+Vnlesse the nightly Owle, or fatall Rauen:
+And when they shew'd me this abhorred pit,
+They told me heere at dead time of the night,
+A thousand Fiends, a thousand hissing Snakes,
+Ten thousand swelling Toades, as many Vrchins,
+Would make such fearefull and confused cries,
+As any mortall body hearing it,
+Should straite fall mad, or else die suddenly.
+No sooner had they told this hellish tale,
+But strait they told me they would binde me heere,
+Vnto the body of a dismall yew,
+And leaue me to this miserable death.
+And then they call'd me foule Adulteresse,
+Lasciuious Goth, and all the bitterest tearmes
+That euer eare did heare to such effect.
+And had you not by wondrous fortune come,
+This vengeance on me had they executed:
+Reuenge it, as you loue your Mothers life,
+Or be ye not henceforth cal'd my Children
+
+   Dem. This is a witnesse that I am thy Sonne.
+
+stab him.
+
+  Chi. And this for me,
+Strook home to shew my strength
+
+   Laui. I come Semeramis, nay Barbarous Tamora.
+For no name fits thy nature but thy owne
+
+   Tam. Giue me thy poyniard, you shal know my boyes
+Your Mothers hand shall right your Mothers wrong
+
+   Deme. Stay Madam heere is more belongs to her,
+First thrash the Corne, then after burne the straw:
+This Minion stood vpon her chastity,
+Vpon her Nuptiall vow, her loyaltie.
+And with that painted hope, braues your Mightinesse,
+And shall she carry this vnto her graue?
+  Chi. And if she doe,
+I would I were an Eunuch,
+Drag hence her husband to some secret hole,
+And make his dead Trunke-Pillow to our lust
+
+   Tamo. But when ye haue the hony we desire,
+Let not this Waspe out-liue vs both to sting
+
+   Chir. I warrant you Madam we will make that sure:
+Come Mistris, now perforce we will enioy,
+That nice-preserued honesty of yours
+
+   Laui. Oh Tamora, thou bear'st a woman face
+
+   Tamo. I will not heare her speake, away with her
+
+   Laui. Sweet Lords intreat her heare me but a word
+
+   Demet. Listen faire Madam, let it be your glory
+To see her teares, but be your hart to them,
+As vnrelenting flint to drops of raine
+
+   Laui. When did the Tigers young-ones teach the dam?
+O doe not learne her wrath, she taught it thee,
+The milke thou suck'st from her did turne to Marble,
+Euen at thy Teat thou had'st thy Tyranny,
+Yet euery Mother breeds not Sonnes alike,
+Do thou intreat her shew a woman pitty
+
+   Chiro. What,
+Would'st thou haue me proue my selfe a bastard?
+  Laui. 'Tis true,
+The Rauen doth not hatch a Larke,
+Yet haue I heard, Oh could I finde it now,
+The Lion mou'd with pitty, did indure
+To haue his Princely pawes par'd all away.
+Some say, that Rauens foster forlorne children,
+The whil'st their owne birds famish in their nests:
+Oh be to me though thy hard hart say no,
+Nothing so kind but something pittifull
+
+   Tamo. I know not what it meanes, away with her
+
+   Lauin. Oh let me teach thee for my Fathers sake,
+That gaue thee life when well he might haue slaine thee:
+Be not obdurate, open thy deafe eares
+
+   Tamo. Had'st thou in person nere offended me.
+Euen for his sake am I pittilesse:
+Remember Boyes I powr'd forth teares in vaine,
+To saue your brother from the sacrifice,
+But fierce Andronicus would not relent,
+Therefore away with her, and vse her as you will,
+The worse to her, the better lou'd of me
+
+   Laui. Oh Tamora,
+Be call'd a gentle Queene,
+And with thine owne hands kill me in this place,
+For 'tis not life that I haue beg'd so long,
+Poore I was slaine, when Bassianus dy'd
+
+   Tam. What beg'st thou then? fond woman let me go?
+  Laui. 'Tis present death I beg, and one thing more,
+That womanhood denies my tongue to tell:
+Oh keepe me from their worse then killing lust,
+And tumble me into some loathsome pit,
+Where neuer mans eye may behold my body,
+Doe this, and be a charitable murderer
+
+   Tam. So should I rob my sweet Sonnes of their fee,
+No let them satisfie their lust on thee
+
+   Deme. Away,
+For thou hast staid vs heere too long
+
+   Lauinia. No Grace,
+No womanhood? Ah beastly creature,
+The blot and enemy to our generall name,
+Confusion fall-
+  Chi. Nay then Ile stop your mouth
+Bring thou her husband,
+This is the Hole where Aaron bid vs hide him
+
+   Tam. Farewell my Sonnes, see that you make her sure,
+Nere let my heart know merry cheere indeed,
+Till all the Andronici be made away:
+Now will I hence to seeke my louely Moore,
+And let my spleenefull Sonnes this Trull defloure.
+Enter.
+
+Enter Aaron with two of Titus Sonnes.
+
+  Aron. Come on my Lords, the better foote before,
+Straight will I bring you to the lothsome pit,
+Where I espied the Panther fast asleepe
+
+   Quin. My sight is very dull what ere it bodes
+
+   Marti. And mine I promise you, were it not for shame,
+Well could I leaue our sport to sleepe a while
+
+   Quin. What art thou fallen?
+What subtile Hole is this,
+Whose mouth is couered with Rude growing Briers,
+Vpon whose leaues are drops of new-shed-blood,
+As fresh as mornings dew distil'd on flowers,
+A very fatall place it seemes to me:
+Speake Brother hast thou hurt thee with the fall?
+  Martius. Oh Brother,
+With the dismal'st obiect
+That euer eye with sight made heart lament
+
+   Aron. Now will I fetch the King to finde them heere,
+That he thereby may haue a likely gesse,
+How these were they that made away his Brother.
+
+Exit Aaron.
+
+  Marti. Why dost not comfort me and helpe me out,
+From this vnhallow'd and blood-stained Hole?
+  Quintus. I am surprised with an vncouth feare,
+A chilling sweat ore-runs my trembling ioynts,
+My heart suspects more then mine eie can see
+
+   Marti. To proue thou hast a true diuining heart,
+  Aaron and thou looke downe into this den,
+And see a fearefull sight of blood and death
+
+   Quintus. Aaron is gone,
+And my compassionate heart
+Will not permit mine eyes once to behold
+The thing whereat it trembles by surmise:
+Oh tell me how it is, for nere till now
+Was I a child to feare I know not what
+
+   Marti. Lord Bassianus lies embrewed heere,
+All on a heape like to the slaughtred Lambe,
+In this detested, darke, blood-drinking pit
+
+   Quin. If it be darke, how doost thou know 'tis he?
+  Mart. Vpon his bloody finger he doth weare
+A precious Ring, that lightens all the Hole:
+Which like a Taper in some Monument,
+Doth shine vpon the dead mans earthly cheekes,
+And shewes the ragged intrailes of the pit:
+So pale did shine the Moone on Piramus,
+When he by night lay bath'd in Maiden blood:
+O Brother helpe me with thy fainting hand.
+If feare hath made thee faint, as mee it hath,
+Out of this fell deuouring receptacle,
+As hatefull as Ocitus mistie mouth
+
+   Quint. Reach me thy hand, that I may helpe thee out,
+Or wanting strength to doe thee so much good,
+I may be pluckt into the swallowing wombe,
+Of this deepe pit, poore Bassianus graue:
+I haue no strength to plucke thee to the brinke
+
+   Martius. Nor I no strength to clime without thy help
+
+   Quin. Thy hand once more, I will not loose againe,
+Till thou art heere aloft, or I below,
+Thou can'st not come to me, I come to thee.
+
+Both fall in.
+
+Enter the Emperour, Aaron the Moore.
+
+  Satur. Along with me, Ile see what hole is heere,
+And what he is that now is leapt into it.
+Say, who art thou that lately did'st descend,
+Into this gaping hollow of the earth?
+  Marti. The vnhappie sonne of old Andronicus,
+Brought hither in a most vnluckie houre,
+To finde thy brother Bassianus dead
+
+   Satur. My brother dead? I know thou dost but iest,
+He and his Lady both are at the Lodge,
+Vpon the North-side of this pleasant Chase,
+'Tis not an houre since I left him there
+
+   Marti. We know not where you left him all aliue,
+But out alas, heere haue we found him dead.
+Enter Tamora, Andronicus, and Lucius.
+
+  Tamo. Where is my Lord the King?
+  King. Heere Tamora, though grieu'd with killing griefe
+
+   Tam. Where is thy brother Bassianus?
+  King. Now to the bottome dost thou search my wound,
+Poore Bassianus heere lies murthered
+
+   Tam. Then all too late I bring this fatall writ,
+The complot of this timelesse Tragedie,
+And wonder greatly that mans face can fold,
+In pleasing smiles such murderous Tyrannie.
+
+She giueth Saturnine a Letter.
+
+
+  Saturninus reads the Letter. And if we misse to meete him
+hansomely,
+Sweet huntsman, Bassianus 'tis we meane,
+Doe thou so much as dig the graue for him,
+Thou know'st our meaning, looke for thy reward
+Among the Nettles at the Elder tree:
+Which ouer-shades the mouth of that same pit:
+Where we decreed to bury Bassianuss
+Doe this and purchase vs thy lasting friends
+
+   King. Oh Tamora, was euer heard the like?
+This is the pit, and this the Elder tree,
+Looke sirs, if you can finde the huntsman out,
+That should haue murthered Bassianus heere
+
+   Aron. My gracious Lord heere is the bag of Gold
+
+   King. Two of thy whelpes, fell Curs of bloody kind
+Haue heere bereft my brother of his life:
+Sirs drag them from the pit vnto the prison,
+There let them bide vntill we haue deuis'd
+Some neuer heard-of tortering paine for them
+
+   Tamo. What are they in this pit,
+Oh wondrous thing!
+How easily murder is discouered?
+  Tit. High Emperour, vpon my feeble knee,
+I beg this boone, with teares, not lightly shed,
+That this fell fault of my accursed Sonnes,
+Accursed, if the faults be prou'd in them
+
+   King. If it be prou'd? you see it is apparant,
+Who found this Letter, Tamora was it you?
+  Tamora. Andronicus himselfe did take it vp
+
+   Tit. I did my Lord,
+Yet let me be their baile,
+For by my Fathers reuerent Tombe I vow
+They shall be ready at your Highnes will,
+To answere their suspition with their liues
+
+   King. Thou shalt not baile them, see thou follow me:
+Some bring the murthered body, some the murtherers,
+Let them not speake a word, the guilt is plaine,
+For by my soule, were there worse end then death,
+That end vpon them should be executed
+
+   Tamo. Andronicus I will entreat the King,
+Feare not thy Sonnes, they shall do well enough
+
+   Tit. Come Lucius come,
+Stay not to talke with them.
+
+Exeunt.
+
+Enter the Empresse Sonnes, with Lauinia, her hands cut off and
+her tongue
+cut out, and rauisht.
+
+  Deme. So now goe tell and if thy tongue can speake,
+Who t'was that cut thy tongue and rauisht thee
+
+   Chi. Write downe thy mind, bewray thy meaning so,
+And if thy stumpes will let thee play the Scribe
+
+   Dem. See how with signes and tokens she can scowle
+
+   Chi. Goe home,
+Call for sweet water, wash thy hands
+
+   Dem. She hath no tongue to call, nor hands to wash.
+And so let's leaue her to her silent walkes
+
+   Chi. And t'were my cause, I should goe hang my selfe
+
+   Dem. If thou had'st hands to helpe thee knit the cord.
+
+Exeunt.
+
+Winde Hornes.
+
+Enter Marcus from hunting, to Lauinia.
+
+Who is this, my Neece that flies away so fast?
+Cosen a word, where is your husband?
+If I do dreame, would all my wealth would wake me;
+If I doe wake, some Planet strike me downe,
+That I may slumber in eternall sleepe.
+Speake gentle Neece, what sterne vngentle hands
+Hath lopt, and hew'd, and made thy body bare
+Of her two branches, those sweet Ornaments
+Whose circkling shadowes, Kings haue sought to sleep in
+And might not gaine so great a happines
+As halfe thy Loue: Why doost not speake to me?
+Alas, a Crimson riuer of warme blood,
+Like to a bubling fountaine stir'd with winde,
+Doth rise and fall betweene thy Rosed lips,
+Comming and going with thy hony breath.
+But sure some Tereus hath defloured thee,
+And least thou should'st detect them, cut thy tongue.
+Ah, now thou turn'st away thy face for shame:
+And notwithstanding all this losse of blood,
+As from a Conduit with their issuing Spouts,
+Yet doe thy cheekes looke red as Titans face,
+Blushing to be encountred with a Cloud,
+Shall I speake for thee? shall I say 'tis so?
+Oh that I knew thy hart, and knew the beast
+That I might raile at him to ease my mind.
+Sorrow concealed, like an Ouen stopt.
+Doth burne the hart to Cinders where it is.
+Faire Philomela she but lost her tongue,
+And in a tedious Sampler sowed her minde.
+But louely Neece, that meane is cut from thee,
+A craftier Tereus hast thou met withall,
+And he hath cut those pretty fingers off,
+That could haue better sowed then Philomel.
+Oh had the monster seene those Lilly hands,
+Tremble like Aspen leaues vpon a Lute,
+And make the silken strings delight to kisse them,
+He would not then haue toucht them for his life.
+Or had he heard the heauenly Harmony,
+Which that sweet tongue hath made:
+He would haue dropt his knife and fell asleepe,
+As Cerberus at the Thracian Poets feete.
+Come, let vs goe, and make thy father blinde,
+For such a sight will blinde a fathers eye.
+One houres storme will drowne the fragrant meades,
+What, will whole months of teares thy Fathers eyes?
+Doe not draw backe, for we will mourne with thee:
+Oh could our mourning ease thy misery.
+
+Exeunt.
+
+Actus Tertius.
+
+Enter the Iudges and Senatours with Titus two sonnes bound,
+passing on
+the Stage to the place of execution, and Titus going before
+pleading.
+
+  Ti. Heare me graue fathers, noble Tribunes stay,
+For pitty of mine age, whose youth was spent
+In dangerous warres, whilst you securely slept:
+For all my blood in Romes great quarrell shed,
+For all the frosty nights that I haue watcht,
+And for these bitter teares, which now you see,
+Filling the aged wrinkles in my cheekes,
+Be pittifull to my condemned Sonnes,
+Whose soules is not corrupted as 'tis thought:
+For two and twenty sonnes I neuer wept,
+Because they died in honours lofty bed.
+Andronicus lyeth downe, and the Iudges passe by him.
+For these, Tribunes, in the dust I write
+My harts deepe languor, and my soules sad teares:
+Let my teares stanch the earths drie appetite.
+My sonnes sweet blood, will make it shame and blush:
+O earth! I will be friend thee more with raine
+
+Exeunt.
+
+That shall distill from these two ancient ruines,
+Then youthfull Aprill shall with all his showres
+In summers drought: Ile drop vpon thee still,
+In Winter with warme teares Ile melt the snow,
+And keepe eternall spring time on thy face,
+So thou refuse to drinke my deare sonnes blood.
+Enter Lucius, with his weapon drawne.
+
+Oh reuerent Tribunes, oh gentle aged men,
+Vnbinde my sonnes, reuerse the doome of death,
+And let me say (that neuer wept before)
+My teares are now preualing Oratours
+
+   Lu. Oh noble father, you lament in vaine,
+The Tribunes heare not, no man is by,
+And you recount your sorrowes to a stone
+
+   Ti. Ah Lucius for thy brothers let me plead,
+Graue Tribunes, once more I intreat of you
+
+   Lu. My gracious Lord, no Tribune heares you speake
+
+   Ti. Why 'tis no matter man, if they did heare
+They would not marke me: oh if they did heare
+They would not pitty me.
+Therefore I tell my sorrowes bootles to the stones.
+Who though they cannot answere my distresse,
+Yet in some sort they are better then the Tribunes,
+For that they will not intercept my tale;
+When I doe weepe, they humbly at my feete
+Receiue my teares, and seeme to weepe with me,
+And were they but attired in graue weedes,
+Rome could afford no Tribune like to these.
+A stone is as soft waxe,
+Tribunes more hard then stones:
+A stone is silent, and offendeth not,
+And Tribunes with their tongues doome men to death.
+But wherefore stand'st thou with thy weapon drawne?
+  Lu. To rescue my two brothers from their death,
+For which attempt the Iudges haue pronounc'st
+My euerlasting doome of banishment
+
+   Ti. O happy man, they haue befriended thee:
+Why foolish Lucius, dost thou not perceiue
+That Rome is but a wildernes of Tigers?
+Tigers must pray, and Rome affords no prey
+But me and mine: how happy art thou then,
+From these deuourers to be banished?
+But who comes with our brother Marcus heere?
+Enter Marcus and Lauinia.
+
+  Mar. Titus, prepare thy noble eyes to weepe,
+Or if not so, thy noble heart to breake:
+I bring consuming sorrow to thine age
+
+   Ti. Will it consume me? Let me see it then
+
+   Mar. This was thy daughter
+
+   Ti. Why Marcus so she is
+
+   Luc. Aye me this obiect kils me
+
+   Ti. Faint-harted boy, arise and looke vpon her,
+Speake Lauinia, what accursed hand
+Hath made thee handlesse in thy Fathers sight?
+What foole hath added water to the Sea?
+Or brought a faggot to bright burning Troy?
+My griefe was at the height before thou cam'st,
+And now like Nylus it disdaineth bounds:
+Giue me a sword, Ile chop off my hands too,
+For they haue fought for Rome, and all in vaine:
+And they haue nur'st this woe,
+In feeding life:
+In bootelesse prayer haue they bene held vp,
+And they haue seru'd me to effectlesse vse.
+Now all the seruice I require of them,
+Is that the one will helpe to cut the other:
+'Tis well Lauinia, that thou hast no hands,
+For hands to do Rome seruice, is but vaine
+
+   Luci. Speake gentle sister, who hath martyr'd thee?
+  Mar. O that delightfull engine of her thoughts,
+That blab'd them with such pleasing eloquence,
+Is torne from forth that pretty hollow cage,
+Where like a sweet mellodius bird it sung,
+Sweet varied notes inchanting euery eare
+
+   Luci. Oh say thou for her,
+Who hath done this deed?
+  Marc. Oh thus I found her straying in the Parke,
+Seeking to hide herselfe as doth the Deare
+That hath receiude some vnrecuring wound
+
+   Tit. It was my Deare,
+And he that wounded her,
+Hath hurt me more, then had he kild me dead:
+For now I stand as one vpon a Rocke,
+Inuiron'd with a wildernesse of Sea.
+Who markes the waxing tide,
+Grow waue by waue,
+Expecting euer when some enuious surge,
+Will in his brinish bowels swallow him.
+This way to death my wretched sonnes are gone:
+Heere stands my other sonne, a banisht man,
+And heere my brother weeping at my woes.
+But that which giues my soule the greatest spurne,
+Is deere Lauinia, deerer then my soule.
+Had I but seene thy picture in this plight,
+It would haue madded me. What shall I doe?
+Now I behold thy liuely body so?
+Thou hast no hands to wipe away thy teares,
+Nor tongue to tell me who hath martyr'd thee:
+Thy husband he is dead, and for his death
+Thy brothers are condemn'd, and dead by this.
+Looke Marcus, ah sonne Lucius looke on her:
+When I did name her brothers, then fresh teares
+Stood on her cheekes, as doth the hony dew,
+Vpon a gathred Lillie almost withered
+
+   Mar. Perchance she weepes because they kil'd her
+husband,
+Perchance because she knowes him innocent
+
+   Ti. If they did kill thy husband then be ioyfull,
+Because the law hath tane reuenge on them.
+No, no, they would not doe so foule a deede,
+Witnes the sorrow that their sister makes.
+Gentle Lauinia let me kisse thy lips,
+Or make some signes how I may do thee ease:
+Shall thy good Vncle, and thy brother Lucius,
+And thou and I sit round about some Fountaine,
+Looking all downewards to behold our cheekes
+How they are stain'd in meadowes, yet not dry
+With miery slime left on them by a flood:
+And in the Fountaine shall we gaze so long,
+Till the fresh taste be taken from that cleerenes,
+And made a brine pit with our bitter teares?
+Or shall we cut away our hands like thine?
+Or shall we bite our tongues, and in dumbe shewes
+Passe the remainder of our hatefull dayes?
+What shall we doe? Let vs that haue our tongues
+Plot some deuise of further miseries
+To make vs wondred at in time to come
+
+   Lu. Sweet Father cease your teares, for at your griefe
+See how my wretched sister sobs and weeps
+
+   Mar. Patience deere Neece, good Titus drie thine
+eyes
+
+   Ti. Ah Marcus, Marcus, Brother well I wot,
+Thy napkin cannot drinke a teare of mine,
+For thou poore man hast drown'd it with thine owne
+
+   Lu. Ah my Lauinia I will wipe thy cheekes
+
+   Ti. Marke Marcus marke, I vnderstand her signes,
+Had she a tongue to speake, now would she say
+That to her brother which I said to thee.
+His Napkin with her true teares all bewet,
+Can do no seruice on her sorrowfull cheekes.
+Oh what a simpathy of woe is this!
+As farre from helpe as Limbo is from blisse,
+Enter Aron the Moore alone.
+
+  Moore. Titus Andronicus, my Lord the Emperour,
+Sends thee this word, that if thou loue thy sonnes,
+Let Marcus, Lucius, or thy selfe old Titus,
+Or any one of you, chop off your hand,
+And send it to the King: he for the same,
+Will send thee hither both thy sonnes aliue,
+And that shall be the ransome for their fault
+
+   Ti. Oh gracious Emperour, oh gentle Aaron.
+Did euer Rauen sing so like a Larke,
+That giues sweet tydings of the Sunnes vprise?
+With all my heart, Ile send the Emperour my hand,
+Good Aron wilt thou help to chop it off?
+  Lu. Stay Father, for that noble hand of thine,
+That hath throwne downe so many enemies,
+Shall not be sent: my hand will serue the turne,
+My youth can better spare my blood then you,
+And therfore mine shall saue my brothers liues
+
+   Mar. Which of your hands hath not defended Rome,
+And rear'd aloft the bloody Battleaxe,
+Writing destruction on the enemies Castle?
+Oh none of both but are of high desert:
+My hand hath bin but idle, let it serue
+To ransome my two nephewes from their death,
+Then haue I kept it to a worthy end
+
+   Moore. Nay come agree, whose hand shall goe along
+For feare they die before their pardon come
+
+   Mar. My hand shall goe
+
+   Lu. By heauen it shall not goe
+
+   Ti. Sirs striue no more, such withered hearbs as these
+Are meete for plucking vp, and therefore mine
+
+   Lu. Sweet Father, if I shall be thought thy sonne,
+Let me redeeme my brothers both from death
+
+   Mar. And for our fathers sake, and mothers care,
+Now let me shew a brothers loue to thee
+
+   Ti. Agree betweene you, I will spare my hand
+
+   Lu. Then Ile goe fetch an Axe
+
+   Mar. But I will vse the Axe.
+
+Exeunt.
+
+  Ti. Come hither Aaron, Ile deceiue them both,
+Lend me thy hand, and I will giue thee mine,
+  Moore. If that be cal'd deceit, I will be honest,
+And neuer whil'st I liue deceiue men so:
+But Ile deceiue you in another sort,
+And that you'l say ere halfe an houre passe.
+
+He cuts off Titus hand.
+
+Enter Lucius and Marcus againe.
+
+  Ti. Now stay your strife, what shall be, is dispatcht:
+Good Aron giue his Maiestie my hand,
+Tell him, it was a hand that warded him
+From thousand dangers: bid him bury it:
+More hath it merited: That let it haue.
+As for my sonnes, say I account of them,
+As iewels purchast at an easie price,
+And yet deere too, because I bought mine owne
+
+   Aron. I goe Andronicus, and for thy hand,
+Looke by and by to haue thy sonnes with thee:
+Their heads I meane: Oh how this villany
+Doth fat me with the very thoughts of it.
+Let fooles doe good, and faire men call for grace,
+Aron will haue his soule blacke like his face.
+Enter.
+
+  Ti. O heere I lift this one hand vp to heauen,
+And bow this feeble ruine to the earth,
+If any power pitties wretched teares,
+To that I call: what wilt thou kneele with me?
+Doe then deare heart, for heauen shall heare our prayers,
+Or with our sighs weele breath the welkin dimme,
+And staine the Sun with fogge as somtime cloudes,
+When they do hug him in their melting bosomes
+
+   Mar. Oh brother speake with possibilities,
+And do not breake into these deepe extreames
+
+   Ti. Is not my sorrow deepe, hauing no bottome?
+Then be my passions bottomlesse with them
+
+   Mar. But yet let reason gouerne thy lament
+
+   Titus. If there were reason for these miseries,
+Then into limits could I binde my woes:
+When heauen doth weepe, doth not the earth oreflow?
+If the windes rage, doth not the Sea wax mad,
+Threatning the welkin with his big-swolne face?
+And wilt thou haue a reason for this coile?
+I am the Sea. Harke how her sighes doe flow:
+Shee is the weeping welkin, I the earth:
+Then must my Sea be moued with her sighes,
+Then must my earth with her continuall teares,
+Become a deluge: ouerflow'd and drown'd:
+For why, my bowels cannot hide her woes,
+But like a drunkard must I vomit them:
+Then giue me leaue, for loosers will haue leaue,
+To ease their stomackes with their bitter tongues,
+Enter a messenger with two heads and a hand.
+
+  Mess. Worthy Andronicus, ill art thou repaid,
+For that good hand thou sentst the Emperour:
+Heere are the heads of thy two noble sonnes.
+And heeres thy hand in scorne to thee sent backe:
+Thy griefes, their sports: Thy resolution mockt,
+That woe is me to thinke vpon thy woes,
+More then remembrance of my fathers death.
+Enter.
+
+  Marc. Now let hot aetna coole in Cicilie,
+And be my heart an euer-burning hell:
+These miseries are more then may be borne.
+To weepe with them that weepe, doth ease some deale,
+But sorrow flouted at, is double death
+
+   Luci. Ah that this sight should make so deep a wound,
+And yet detested life not shrinke thereat:
+That euer death should let life beare his name,
+Where life hath no more interest but to breath
+
+   Mar. Alas poore hart that kisse is comfortlesse,
+As frozen water to a starued snake
+
+   Titus. When will this fearefull slumber haue an end?
+  Mar. Now farwell flatterie, die Andronicus,
+Thou dost not slumber, see thy two sons heads,
+Thy warlike hands, thy mangled daughter here:
+Thy other banisht sonnes with this deere sight
+Strucke pale and bloodlesse, and thy brother I,
+Euen like a stony Image, cold and numme.
+Ah now no more will I controule my griefes,
+Rent off thy siluer haire, thy other hand
+Gnawing with thy teeth, and be this dismall sight
+The closing vp of our most wretched eyes:
+Now is a time to storme, why art thou still?
+  Titus. Ha, ha, ha,
+  Mar. Why dost thou laugh? it fits not with this houre
+
+   Ti. Why I haue not another teare to shed:
+Besides, this sorrow is an enemy,
+And would vsurpe vpon my watry eyes,
+And make them blinde with tributarie teares.
+Then which way shall I finde Reuenges Caue?
+For these two heads doe seeme to speake to me,
+And threat me, I shall neuer come to blisse,
+Till all these mischiefes be returned againe,
+Euen in their throats that haue committed them.
+Come let me see what taske I haue to doe,
+You heauie people, circle me about,
+That I may turne me to each one of you,
+And sweare vnto my soule to right your wrongs.
+The vow is made, come Brother take a head,
+And in this hand the other will I beare.
+And Lauinia thou shalt be employd in these things:
+Beare thou my hand sweet wench betweene thy teeth:
+As for thee boy, goe get thee from my sight,
+Thou art an Exile, and thou must not stay,
+Hie to the Gothes, and raise an army there,
+And if you loue me, as I thinke you doe,
+Let's kisse and part, for we haue much to doe.
+
+Exeunt.
+
+Manet Lucius.
+
+  Luci. Farewell Andronicus my noble Father:
+The woful'st man that euer liu'd in Rome:
+Farewell proud Rome, til Lucius come againe,
+He loues his pledges dearer then his life:
+Farewell Lauinia my noble sister,
+O would thou wert as thou to fore hast beene,
+But now, nor Lucius nor Lauinia liues
+But in obliuion and hateful griefes:
+If Lucius liue, he will requit your wrongs,
+And make proud Saturnine and his Empresse
+Beg at the gates like Tarquin and his Queene.
+Now will I to the Gothes and raise a power,
+To be reueng'd on Rome and Saturnine.
+
+Exit Lucius
+
+A Banket.
+
+Enter Andronicus, Marcus, Lauinia, and the Boy.
+
+  An. So, so, now sit, and looke you eate no more
+Then will preserue iust so much strength in vs
+As will reuenge these bitter woes of ours.
+Marcus vnknit that sorrow-wreathen knot:
+Thy Neece and I (poore Creatures) want our hands
+And cannot passionate our tenfold griefe,
+With foulded Armes. This poore right hand of mine,
+Is left to tirranize vppon my breast.
+Who when my hart all mad with misery,
+Beats in this hollow prison of my flesh,
+Then thus I thumpe it downe.
+Thou Map of woe, that thus dost talk in signes,
+When thy poore hart beates without ragious beating,
+Thou canst not strike it thus to make it still?
+Wound it with sighing girle, kil it with grones:
+Or get some little knife betweene thy teeth,
+And iust against thy hart make thou a hole,
+That all the teares that thy poore eyes let fall
+May run into that sinke, and soaking in,
+Drowne the lamenting foole, in Sea salt teares
+
+   Mar. Fy brother fy, teach her not thus to lay
+Such violent hands vppon her tender life
+
+   An. How now! Has sorrow made thee doate already?
+Why Marcus, no man should be mad but I:
+What violent hands can she lay on her life:
+Ah, wherefore dost thou vrge the name of hands,
+To bid Aeneas tell the tale twice ore
+How Troy was burnt, and he made miserable?
+O handle not the theame, to talke of hands,
+Least we remember still that we haue none,
+Fie, fie, how Frantiquely I square my talke
+As if we should forget we had no hands:
+If Marcus did not name the word of hands.
+Come, lets fall too, and gentle girle eate this,
+Heere is no drinke? Harke Marcus what she saies,
+I can interpret all her martir'd signes,
+She saies, she drinkes no other drinke but teares
+Breu'd with her sorrow: mesh'd vppon her cheekes,
+Speechlesse complayner, I will learne thy thought:
+In thy dumb action, will I be as perfect
+As begging Hermits in their holy prayers.
+Thou shalt not sighe nor hold thy stumps to heauen,
+Nor winke, nor nod, nor kneele, nor make a signe;
+But I (of these) will wrest an Alphabet,
+
+And by still practice, learne to know thy meaning
+
+   Boy. Good grandsire leaue these bitter deepe laments,
+Make my Aunt merry, with some pleasing tale
+
+   Mar. Alas, the tender boy in passion mou'd,
+Doth weepe to see his grandsires heauinesse
+
+   An. Peace tender Sapling, thou art made of teares,
+And teares will quickly melt thy life away.
+
+Marcus strikes the dish with a knife.
+
+What doest thou strike at Marcus with knife
+
+   Mar. At that that I haue kil'd my Lord, a Fly
+  An. Out on the murderour: thou kil'st my hart,
+Mine eyes cloi'd with view of Tirranie:
+A deed of death done on the Innocent
+Becoms not Titus brother: get thee gone,
+I see thou art not for my company
+
+   Mar. Alas (my Lord) I haue but kild a flie
+
+   An. But? How: if that Flie had a father and mother?
+How would he hang his slender gilded wings
+And buz lamenting doings in the ayer,
+Poore harmelesse Fly,
+That with his pretty buzing melody,
+Came heere to make vs merry,
+And thou hast kil'd him
+
+   Mar. Pardon me sir,
+It was a blacke illfauour'd Fly,
+Like to the Empresse Moore, therefore I kild him
+
+   An. O, o, o,
+Then pardon me for reprehending thee,
+For thou hast done a Charitable deed:
+Giue me thy knife, I will insult on him,
+Flattering my selfe, as if it were the Moore,
+Come hither purposely to poyson me.
+There's for thy selfe, and thats for Tamora: Ah sirra,
+Yet I thinke we are not brought so low,
+But that betweene vs, we can kill a Fly,
+That comes in likenesse of a Cole-blacke Moore
+
+   Mar. Alas poore man, griefe ha's so wrought on him,
+He takes false shadowes, for true substances
+
+   An. Come, take away: Lauinia, goe with me,
+Ile to thy closset, and goe read with thee
+Sad stories, chanced in the times of old.
+Come boy, and goe with me, thy sight is young,
+And thou shalt read, when mine begin to dazell.
+
+Exeunt.
+
+Actus Quartus.
+
+Enter young Lucius and Lauinia running after him, and the Boy
+flies from
+her with his bookes vnder his arme. Enter Titus and Marcus.
+
+  Boy. Helpe Gransier helpe, my Aunt Lauinia,
+Followes me euery where I know not why.
+Good Vncle Marcus see how swift she comes,
+Alas sweet Aunt, I know not what you meane
+
+   Mar. Stand by me Lucius, doe not feare thy Aunt
+
+   Titus. She loues thee boy too well to doe thee harme
+  Boy. I when my father was in Rome she did
+
+   Mar. What meanes my Neece Lauinia by these signes?
+  Ti. Feare not Lucius, somewhat doth she meane:
+See Lucius see, how much she makes of thee:
+Some whether would she haue thee goe with her.
+Ah boy, Cornelia neuer with more care
+Read to her sonnes, then she hath read to thee,
+Sweet Poetry, and Tullies Oratour:
+Canst thou not gesse wherefore she plies thee thus?
+  Boy. My Lord I know not I, nor can I gesse,
+Vnlesse some fit or frenzie do possesse her:
+For I haue heard my Gransier say full oft,
+Extremitie of griefes would make men mad.
+And I haue read that Hecuba of Troy,
+Ran mad through sorrow, that made me to feare,
+Although my Lord, I know my noble Aunt,
+Loues me as deare as ere my mother did,
+And would not but in fury fright my youth,
+Which made me downe to throw my bookes, and flie
+Causles perhaps, but pardon me sweet Aunt,
+And Madam, if my Vncle Marcus goe,
+I will most willingly attend your Ladyship
+
+   Mar. Lucius I will
+
+   Ti. How now Lauinia, Marcus what meanes this?
+Some booke there is that she desires to see,
+Which is it girle of these? Open them boy,
+But thou art deeper read and better skild,
+Come and take choyse of all my Library,
+And so beguile thy sorrow, till the heauens
+Reueale the damn'd contriuer of this deed.
+What booke?
+Why lifts she vp her armes in sequence thus?
+  Mar. I thinke she meanes that ther was more then one
+Confederate in the fact, I more there was:
+Or else to heauen she heaues them to reuenge
+
+   Ti. Lucius what booke is that she tosseth so?
+  Boy. Grandsier 'tis Ouids Metamorphosis,
+My mother gaue it me
+
+   Mar. For loue of her that's gone,
+Perhaps she culd it from among the rest
+
+   Ti. Soft, so busily she turnes the leaues,
+Helpe her, what would she finde? Lauinia shall I read?
+This is the tragicke tale of Philomel?
+And treates of Tereus treason and his rape,
+And rape I feare was roote of thine annoy
+
+   Mar. See brother see, note how she quotes the leaues
+  Ti. Lauinia, wert thou thus surpriz'd sweet girle,
+Rauisht and wrong'd as Philomela was?
+Forc'd in the ruthlesse, vast, and gloomy woods?
+See, see, I such a place there is where we did hunt,
+(O had we neuer, neuer hunted there)
+Patern'd by that the Poet heere describes,
+By nature made for murthers and for rapes
+
+   Mar. O why should nature build so foule a den,
+Vnlesse the Gods delight in tragedies?
+  Ti. Giue signes sweet girle, for heere are none but friends
+What Romaine Lord it was durst do the deed?
+Or slunke not Saturnine, as Tarquin erst,
+That left the Campe to sinne in Lucrece bed
+
+   Mar. Sit downe sweet Neece, brother sit downe by me,
+Appollo, Pallas, Ioue, or Mercury,
+Inspire me that I may this treason finde.
+My Lord looke heere, looke heere Lauinia.
+
+He writes his Name with his staffe, and guides it with feete and
+mouth.
+
+This sandie plot is plaine, guide if thou canst
+This after me, I haue writ my name,
+Without the helpe of any hand at all.
+Curst be that hart that forc'st vs to that shift:
+Write thou good Neece, and heere display at last,
+What God will haue discouered for reuenge,
+Heauen guide thy pen to print thy sorrowes plaine,
+That we may know the Traytors and the truth.
+
+She takes the staffe in her mouth, and guides it with her stumps
+and
+writes.
+
+  Ti. Oh doe ye read my Lord what she hath writ?
+Stuprum, Chiron, Demetrius
+
+   Mar. What, what, the lustfull sonnes of Tamora,
+Performers of this hainous bloody deed?
+  Ti. Magni Dominator poli,
+Tam lentus audis scelera, tam lentus vides?
+  Mar. Oh calme thee gentle Lord: Although I know
+There is enough written vpon this earth,
+To stirre a mutinie in the mildest thoughts,
+And arme the mindes of infants to exclaimes.
+My Lord kneele downe with me: Lauinia kneele,
+And kneele sweet boy, the Romaine Hectors hope,
+And sweare with me, as with the wofull Feere
+And father of that chast dishonoured Dame,
+Lord Iunius Brutus sweare for Lucrece rape,
+That we will prosecute (by good aduise)
+Mortall reuenge vpon these traytorous Gothes,
+And see their blood, or die with this reproach
+
+   Ti. Tis sure enough, and you knew how.
+But if you hunt these Beare-whelpes, then beware
+The Dam will wake, and if she winde you once,
+Shee's with the Lyon deepely still in league.
+And lulls him whilst she playeth on her backe,
+And when he sleepes will she do what she list.
+You are a young huntsman Marcus, let it alone:
+And come, I will goe get a leafe of brasse,
+And with a Gad of steele will write these words,
+And lay it by: the angry Northerne winde
+Will blow these sands like Sibels leaues abroad,
+And wheres your lesson then. Boy what say you?
+  Boy. I say my Lord, that if I were a man,
+Their mothers bed-chamber should not be safe,
+For these bad bond-men to the yoake of Rome
+
+   Mar. I that's my boy, thy father hath full oft,
+For his vngratefull country done the like
+
+   Boy. And Vncle so will I, and if I liue
+
+   Ti. Come goe with me into mine Armorie,
+Lucius Ile fit thee, and withall, my boy
+Shall carry from me to the Empresse sonnes,
+Presents that I intend to send them both,
+Come, come, thou'lt do thy message, wilt thou not?
+  Boy. I with my dagger in their bosomes Grandsire:
+  Ti. No boy not so, Ile teach thee another course,
+Lauinia come, Marcus looke to my house,
+Lucius and Ile goe braue it at the Court,
+I marry will we sir, and weele be waited on.
+
+Exeunt.
+
+  Mar. O heauens! Can you heare a good man grone
+And not relent, or not compassion him?
+Marcus attend him in his extasie,
+That hath more scars of sorrow in his heart,
+Then foe-mens markes vpon his batter'd shield,
+But yet so iust, that he will not reuenge,
+Reuenge the heauens for old Andronicus.
+
+Exit
+
+Enter Aron, Chiron and Demetrius at one dore: and at another dore
+young
+Lucius and another, with a bundle of weapons, and verses writ
+vpon them.
+
+  Chi. Demetrius heeres the sonne of Lucius,
+He hath some message to deliuer vs
+
+   Aron. I some mad message from his mad Grandfather
+
+   Boy. My Lords, with all the humblenesse I may,
+I greete your honours from Andronicus,
+And pray the Romane Gods confound you both
+
+   Deme. Gramercie louely Lucius, what's the newes?
+For villanie's markt with rape. May it please you,
+My Grandsire well aduis'd hath sent by me,
+The goodliest weapons of his Armorie,
+To gratifie your honourable youth,
+The hope of Rome, for so he bad me say:
+And so I do and with his gifts present
+Your Lordships, when euer you haue need,
+You may be armed and appointed well,
+And so I leaue you both: like bloody villaines.
+
+Exit
+
+  Deme. What's heere? a scrole, & written round about?
+Let's see.
+Integer vitæ scelerisque purus, non egit maury iaculis nec arcus
+
+   Chi. O 'tis a verse in Horace, I know it well.
+I read it in the Grammer long agoe
+
+   Moore. I iust, a verse in Horace: right, you haue it,
+Now what a thing it is to be an Asse?
+Heer's no sound iest, the old man hath found their guilt,
+And sends the weapons wrapt about with lines,
+That wound (beyond their feeling) to the quick:
+But were our witty Empresse well a foot,
+She would applaud Andronicus conceit:
+But let her rest, in her vnrest a while.
+And now young Lords, was't not a happy starre
+Led vs to Rome strangers, and more then so;
+Captiues, to be aduanced to this height?
+It did me good before the Pallace gate,
+To braue the Tribune in his brothers hearing
+
+   Deme. But me more good, to see so great a Lord
+Basely insinuate, and send vs gifts
+
+   Moore. Had he not reason Lord Demetrius?
+Did you not vse his daughter very friendly?
+  Deme. I would we had a thousand Romane Dames
+At such a bay, by turne to serue our lust
+
+   Chi. A charitable wish, and full of loue
+
+   Moore. Heere lack's but your mother for to say, Amen
+
+   Chi. And that would she for twenty thousand more
+
+   Deme. Come, let vs go, and pray to all the Gods
+For our beloued mother in her paines
+
+   Moore. Pray to the deuils, the gods haue giuen vs ouer.
+
+Flourish.
+
+  Dem. Why do the Emperors trumpets flourish thus?
+  Chi. Belike for ioy the Emperour hath a sonne
+
+   Deme. Soft, who comes heere?
+Enter Nurse with a blacke a Moore childe.
+
+  Nur. Good morrow Lords:
+O tell me, did you see Aaron the Moore?
+  Aron. Well, more or lesse, or nere a whit at all,
+Heere Aaron is, and what with Aaron now?
+  Nurse. Oh gentle Aaron, we are all vndone.
+Now helpe, or woe betide thee euermore
+
+   Aron. Why, what a catterwalling dost thou keepe?
+What dost thou wrap and fumble in thine armes?
+  Nurse. O that which I would hide from heauens eye,
+Our Empresse shame, and stately Romes disgrace,
+She is deliuered Lords, she is deliuered
+
+   Aron. To whom?
+  Nurse. I meane she is brought a bed?
+  Aron. Wel God giue her good rest,
+What hath he sent her?
+  Nurse. A deuill
+
+   Aron. Why then she is the Deuils Dam: a ioyfull issue
+
+   Nurse. A ioylesse, dismall, blacke &, sorrowfull issue,
+Heere is the babe as loathsome as a toad,
+Among'st the fairest breeders of our clime,
+The Empresse sends it thee, thy stampe, thy seale,
+And bids thee christen it with thy daggers point
+
+   Aron. Out you whore, is black so base a hue?
+Sweet blowse, you are a beautious blossome sure
+
+   Deme. Villaine what hast thou done?
+  Aron. That which thou canst not vndoe
+
+   Chi. Thou hast vndone our mother
+
+   Deme. And therein hellish dog, thou hast vndone,
+Woe to her chance, and damn'd her loathed choyce,
+Accur'st the off-spring of so foule a fiend
+
+   Chi. It shall not liue
+
+   Aron. It shall not die
+
+   Nurse. Aaron it must, the mother wils it so
+
+   Aron. What, must it Nurse? Then let no man but I
+Doe execution on my flesh and blood
+
+   Deme. Ile broach the Tadpole on my Rapiers point:
+  Nurse giue it me, my sword shall soone dispatch it
+
+   Aron. Sooner this sword shall plough thy bowels vp.
+Stay murtherous villaines, will you kill your brother?
+Now by the burning Tapers of the skie,
+That shone so brightly when this Boy was got,
+He dies vpon my Semitars sharpe point,
+That touches this my first borne sonne and heire.
+I tell you younglings, not Enceladus
+With all his threatning band of Typhons broode,
+Nor great Alcides, nor the God of warre,
+Shall ceaze this prey out of his fathers hands:
+What, what, ye sanguine shallow harted Boyes,
+Ye white-limb'd walls, ye Ale-house painted signes,
+Cole-blacke is better then another hue,
+In that it scornes to beare another hue:
+For all the water in the Ocean,
+Can neuer turne the Swans blacke legs to white,
+Although she laue them hourely in the flood:
+Tell the Empresse from me, I am of age
+To keepe mine owne, excuse it how she can
+  Deme. Wilt thou betray thy noble mistris thus?
+  Aron. My mistris is my mistris: this my selfe,
+The vigour, and the picture of my youth:
+This, before all the world do I preferre,
+This mauger all the world will I keepe safe,
+Or some of you shall smoake for it in Rome
+
+   Deme. By this our mother is for euer sham'd
+
+   Chi. Rome will despise her for this foule escape
+
+   Nur. The Emperour in his rage will doome her death
+
+   Chi. I blush to thinke vpon this ignominie
+
+   Aron. Why ther's the priuiledge your beauty beares:
+Fie trecherous hue, that will betray with blushing
+The close enacts and counsels of the hart:
+Heer's a young Lad fram'd of another leere,
+Looke how the blacke slaue smiles vpon the father;
+As who should say, old Lad I am thine owne.
+He is your brother Lords, sensibly fed
+Of that selfe blood that first gaue life to you,
+And from that wombe where you imprisoned were
+He is infranchised and come to light:
+Nay he is your brother by the surer side,
+Although my seale be stamped in his face
+
+   Nurse. Aaron what shall I say vnto the Empresse?
+  Dem. Aduise thee Aaron, what is to be done,
+And we will all subscribe to thy aduise:
+Saue thou the child, so we may all be safe
+
+   Aron. Then sit we downe and let vs all consult.
+My sonne and I will haue the winde of you:
+Keepe there, now talke at pleasure of your safety
+
+   Deme. How many women saw this childe of his?
+  Aron. Why so braue Lords, when we ioyne in league
+I am a Lambe: but if you braue the Moore,
+The chafed Bore, the mountaine Lyonesse,
+The Ocean swells not so as Aaron stormes:
+But say againe, how many saw the childe?
+  Nurse. Cornelia, the midwife, and my selfe,
+And none else but the deliuered Empresse
+
+   Aron. The Empresse, the Midwife, and your selfe,
+Two may keepe counsell, when the third's away:
+Goe to the Empresse, tell her this I said,
+
+He kils her
+
+Weeke, weeke, so cries a Pigge prepared to th' spit
+
+   Deme. What mean'st thou Aron?
+Wherefore did'st thou this?
+  Aron. O Lord sir, 'tis a deed of pollicie?
+Shall she liue to betray this guilt of our's:
+A long tongu'd babling Gossip? No Lords no:
+And now be it knowne to you my full intent.
+Not farre, one Muliteus my Country-man
+His wife but yesternight was brought to bed,
+His childe is like to her, faire as you are:
+Goe packe with them, and giue the mother gold,
+And tell them both the circumstance of all,
+And how by this their Childe shall be aduaunc'd,
+And be receiued for the Emperours heyre,
+And substituted in the place of mine,
+To calme this tempest whirling in the Court,
+And let the Emperour dandle him for his owne,
+Harke ye Lords, ye see I haue giuen her physicke,
+And you must needs bestow her funerall,
+The fields are neere, and you are gallant Groomes:
+This done, see that you take no longer daies
+But send the Midwife presently to me.
+The Midwife and the Nurse well made away,
+Then let the Ladies tattle what they please
+
+   Chi. Aaron I see thou wilt not trust the ayre with secrets
+
+   Deme. For this care of Tamora,
+Her selfe, and hers are highly bound to thee.
+
+Exeunt
+
+   Aron. Now to the Gothes, as swift as Swallow flies,
+There to dispose this treasure in mine armes,
+And secretly to greete the Empresse friends:
+Come on you thick-lipt-slaue, Ile beare you hence,
+For it is you that puts vs to our shifts:
+Ile make you feed on berries, and on rootes,
+And feed on curds and whay, and sucke the Goate,
+And cabbin in a Caue, and bring you vp
+To be a warriour, and command a Campe.
+
+Exit
+
+Enter Titus, old Marcus, young Lucius, and other gentlemen with
+bowes, and
+Titus beares the arrowes with Letters on the end of them.
+
+  Tit. Come Marcus, come, kinsmen this is the way.
+Sir Boy let me see your Archerie,
+Looke yee draw home enough, and 'tis there straight:
+Terras Astrea reliquit, be you remembred Marcus.
+She's gone, she's fled, sirs take you to your tooles,
+You Cosens shall goe sound the Ocean:
+And cast your nets, haply you may find her in the Sea,
+Yet ther's as little iustice as at Land:
+No Publius and Sempronius, you must doe it,
+'Tis you must dig with Mattocke, and with Spade,
+And pierce the inmost Center of the earth:
+Then when you come to Plutoes Region,
+I pray you deliuer him this petition,
+Tell him it is for iustice, and for aide,
+And that it comes from old Andronicus,
+Shaken with sorrowes in vngratefull Rome.
+Ah Rome! Well, well, I made thee miserable,
+What time I threw the peoples suffrages
+On him that thus doth tyrannize ore me.
+Goe get you gone, and pray be carefull all,
+And leaue you not a man of warre vnsearcht,
+This wicked Emperour may haue shipt her hence,
+And kinsmen then we may goe pipe for iustice
+
+   Marc. O Publius is not this a heauie case
+To see thy Noble Vnckle thus distract?
+  Publ. Therefore my Lords it highly vs concernes,
+By day and night t' attend him carefully:
+And feede his humour kindely as we may,
+Till time beget some carefull remedie
+
+   Marc. Kinsmen, his sorrowes are past remedie.
+Ioyne with the Gothes, and with reuengefull warre,
+Take wreake on Rome for this ingratitude,
+And vengeance on the Traytor Saturnine
+
+   Tit. Publius how now? how now my Maisters?
+What haue you met with her?
+  Publ. No my good Lord, but Pluto sends you word,
+If you will haue reuenge from hell you shall,
+Marrie for iustice she is so imploy'd,
+He thinkes with Ioue in heauen, or some where else:
+So that perforce you must needs stay a time
+
+   Tit. He doth me wrong to feed me with delayes,
+Ile diue into the burning Lake below,
+And pull her out of Acaron by the heeles.
+Marcus we are but shrubs, no Cedars we,
+No big-bon'd-men, fram'd of the Cyclops size,
+But mettall Marcus steele to the very backe,
+Yet wrung with wrongs more then our backe can beare:
+And sith there's no iustice in earth nor hell,
+We will sollicite heauen, and moue the Gods
+To send downe Iustice for to wreake our wrongs:
+Come to this geare, you are a good Archer Marcus.
+
+He giues them the Arrowes.
+
+Ad Iouem, that's for you: here ad Appollonem,
+Ad Martem, that's for my selfe,
+Heere Boy to Pallas, heere to Mercury,
+To Saturnine, to Caius, not to Saturnine,
+You were as good to shoote against the winde.
+Too it Boy, Marcus loose when I bid:
+Of my word, I haue written to effect,
+Ther's not a God left vnsollicited
+
+   Marc. Kinsmen, shoot all your shafts into the Court,
+We will afflict the Emperour in his pride
+
+   Tit. Now Maisters draw, Oh well said Lucius:
+Good Boy in Virgoes lap, giue it Pallas
+
+   Marc. My Lord, I aime a Mile beyond the Moone,
+Your letter is with Iupiter by this
+
+   Tit. Ha, ha, Publius, Publius, what hast thou done?
+See, see, thou hast shot off one of Taurus hornes
+
+   Mar. This was the sport my Lord, when Publius shot,
+The Bull being gal'd, gaue Aries such a knocke,
+That downe fell both the Rams hornes in the Court,
+And who should finde them but the Empresse villaine:
+She laught, and told the Moore he should not choose
+But giue them to his Maister for a present
+
+   Tit. Why there it goes, God giue your Lordship ioy.
+Enter the Clowne with a basket and two Pigeons in it.
+
+  Titus. Newes, newes, from heauen,
+Marcus the poast is come.
+Sirrah, what tydings? haue you any letters?
+Shall I haue Iustice, what sayes Iupiter?
+  Clowne. Ho the Iibbetmaker, he sayes that he hath taken
+them downe againe, for the man must not be hang'd
+till the next weeke
+
+   Tit. But what sayes Iupiter I aske thee?
+  Clowne. Alas sir I know not Iupiter:
+I neuer dranke with him in all my life
+
+   Tit. Why villaine art not thou the Carrier?
+  Clowne. I of my Pigions sir, nothing else
+
+   Tit. Why, did'st thou not come from heauen?
+  Clowne. From heauen? Alas sir, I neuer came there,
+God forbid I should be so bold, to presse to heauen in my
+young dayes. Why I am going with my pigeons to the
+Tribunall Plebs, to take vp a matter of brawle, betwixt
+my Vncle, and one of the Emperialls men
+
+   Mar. Why sir, that is as fit as can be to serue for your
+Oration, and let him deliuer the Pigions to the Emperour
+from you
+
+   Tit. Tell mee, can you deliuer an Oration to the Emperour
+with a Grace?
+  Clowne. Nay truely sir, I could neuer say grace in all
+my life
+
+   Tit. Sirrah come hither, make no more adoe,
+But giue your Pigeons to the Emperour,
+By me thou shalt haue Iustice at his hands.
+Hold, hold, meane while her's money for thy charges.
+Giue me pen and inke.
+Sirrah, can you with a Grace deliuer a Supplication?
+  Clowne. I sir
+  Titus. Then here is a Supplication for you, and when
+you come to him, at the first approach you must kneele,
+then kisse his foote, then deliuer vp your Pigeons, and
+then looke for your reward. Ile be at hand sir, see you do
+it brauely
+
+   Clowne. I warrant you sir, let me alone
+
+   Tit. Sirrha hast thou a knife? Come let me see it.
+Heere Marcus, fold it in the Oration,
+For thou hast made it like an humble Suppliant:
+And when thou hast giuen it the Emperour,
+Knocke at my dore, and tell me what he sayes
+
+   Clowne. God be with you sir, I will.
+Enter.
+
+  Tit. Come Marcus let vs goe, Publius follow me.
+
+Exeunt.
+
+Enter Emperour and Empresse, and her two sonnes, the Emperour
+brings the
+Arrowes in his hand that Titus shot at him.
+
+  Satur. Why Lords,
+What wrongs are these? was euer seene
+An Emperour in Rome thus ouerborne,
+Troubled, Confronted thus, and for the extent
+Of egall iustice, vs'd in such contempt?
+My Lords, you know the mightfull Gods,
+(How euer these disturbers of our peace
+Buz in the peoples eares) there nought hath past,
+But euen with law against the willfull Sonnes
+Of old Andronicus. And what and if
+His sorrowes haue so ouerwhelm'd his wits,
+Shall we be thus afflicted in his wreakes,
+His fits, his frenzie, and his bitternesse?
+And now he writes to heauen for his redresse.
+See, heeres to Ioue, and this to Mercury,
+This to Apollo, this to the God of warre:
+Sweet scrowles to flie about the streets of Rome:
+What's this but Libelling against the Senate,
+And blazoning our Iniustice euery where?
+A goodly humour, is it not my Lords?
+As who would say, in Rome no Iustice were.
+But if I liue, his fained extasies
+Shall be no shelter to these outrages:
+But he and his shall know, that Iustice liues
+In Saturninus health; whom if he sleepe,
+Hee'l so awake, as he in fury shall
+Cut off the proud'st Conspirator that liues
+
+   Tamo. My gracious Lord, my louely Saturnine,
+Lord of my life, Commander of my thoughts,
+Calme thee, and beare the faults of Titus age,
+Th' effects of sorrow for his valiant Sonnes,
+Whose losse hath pier'st him deepe, and scar'd his heart;
+And rather comfort his distressed plight,
+Then prosecute the meanest or the best
+For these contempts. Why thus it shall become
+High witted Tamora to glose with all:
+
+Aside.
+
+But Titus, I haue touch'd thee to the quicke,
+Thy life blood out: If Aaron now be wise,
+Then is all safe, the Anchor's in the Port.
+Enter Clowne.
+
+How now good fellow, would'st thou speake with vs?
+  Clow. Yea forsooth, and your Mistership be Emperiall
+
+   Tam. Empresse I am, but yonder sits the Emperour
+
+   Clo. 'Tis he; God & Saint Stephen giue you good den;
+I haue brought you a Letter, & a couple of Pigions heere.
+
+He reads the Letter.
+
+  Satu. Goe take him away, and hang him presently
+
+   Clowne. How much money must I haue?
+  Tam. Come sirrah you must be hang'd
+
+   Clow. Hang'd? ber Lady, then I haue brought vp a neck
+to a faire end.
+Enter.
+
+  Satu. Despightfull and intollerable wrongs,
+Shall I endure this monstrous villany?
+I know from whence this same deuise proceedes:
+May this be borne? As if his traytrous Sonnes,
+That dy'd by law for murther of our Brother,
+Haue by my meanes beene butcher'd wrongfully?
+Goe dragge the villaine hither by the haire,
+Nor Age, nor Honour, shall shape priuiledge:
+For this proud mocke, Ile be thy slaughter man:
+Sly franticke wretch, that holp'st to make me great,
+In hope thy selfe should gouerne Rome and me.
+Enter Nuntius Emillius.
+
+  Satur. What newes with thee Emillius?
+  Emil. Arme my Lords, Rome neuer had more cause,
+The Gothes haue gather'd head, and with a power
+Of high resolued men, bent to the spoyle
+They hither march amaine, vnder conduct
+Of Lucius, Sonne to old Andronicus:
+Who threats in course of this reuenge to do
+As much as euer Coriolanus did
+
+   King. Is warlike Lucius Generall of the Gothes?
+These tydings nip me, and I hang the head
+As flowers with frost, or grasse beat downe with stormes:
+I, now begins our sorrowes to approach,
+'Tis he the common people loue so much,
+My selfe hath often heard them say,
+(When I haue walked like a priuate man)
+That Lucius banishment was wrongfully,
+And they haue wisht that Lucius were their Emperour
+
+   Tam. Why should you feare? Is not our City strong?
+  King. I, but the Cittizens fauour Lucius,
+And will reuolt from me, to succour him
+
+   Tam. King, be thy thoughts Imperious like thy name.
+Is the Sunne dim'd, that Gnats do flie in it?
+The Eagle suffers little Birds to sing,
+And is not carefull what they meane thereby,
+Knowing that with the shadow of his wings,
+He can at pleasure stint their melodie.
+Euen so mayest thou, the giddy men of Rome,
+Then cheare thy spirit, for know thou Emperour,
+I will enchaunt the old Andronicus,
+With words more sweet, and yet more dangerous
+Then baites to fish, or hony stalkes to sheepe,
+When as the one is wounded with the baite,
+The other rotted with delicious foode
+
+   King. But he will not entreat his Sonne for vs
+
+   Tam. If Tamora entreat him, then he will,
+For I can smooth and fill his aged eare,
+With golden promises, that were his heart
+Almost Impregnable, his old eares deafe,
+Yet should both eare and heart, obey my tongue.
+Goe thou before to our Embassadour,
+Say, that the Emperour requests a parly
+Of warlike Lucius, and appoint the meeting
+
+   King. Emillius do this message Honourably,
+And if he stand in Hostage for his safety,
+Bid him demaund what pledge will please him best
+
+   Emill. Your bidding shall I do effectually.
+Enter.
+
+  Tam. Now will I to that old Andronicus,
+And temper him with all the Art I haue,
+To plucke proud Lucius from the warlike Gothes.
+And now sweet Emperour be blithe againe,
+And bury all thy feare in my deuises
+
+   Satu. Then goe successantly and plead for him.
+Enter.
+
+
+Actus Quintus.
+
+Flourish. Enter Lucius with an Army of Gothes, with Drum and
+Souldiers.
+
+  Luci. Approued warriours, and my faithfull Friends,
+I haue receiued Letters from great Rome,
+Which signifies what hate they beare their Emperour,
+And how desirous of our sight they are.
+Therefore great Lords, be as your Titles witnesse,
+Imperious and impatient of your wrongs,
+And wherein Rome hath done you any scathe,
+Let him make treble satisfaction
+
+   Goth. Braue slip, sprung from the Great Andronicus,
+Whose name was once our terrour, now our comfort,
+Whose high exploits, and honourable Deeds,
+Ingratefull Rome requites with foule contempt:
+Behold in vs, weele follow where thou lead'st,
+Like stinging Bees in hottest Sommers day,
+Led by their Maister to the flowred fields,
+And be aueng'd on cursed Tamora:
+And as he saith, so say we all with him
+
+   Luci. I humbly thanke him, and I thanke you all.
+But who comes heere, led by a lusty Goth?
+Enter a Goth leading of Aaron with his child in his armes.
+
+  Goth. Renowned Lucius, from our troups I straid,
+To gaze vpon a ruinous Monasterie,
+And as I earnestly did fixe mine eye
+Vpon the wasted building, suddainely
+I heard a childe cry vnderneath a wall:
+I made vnto the noyse, when soone I heard,
+The crying babe control'd with this discourse:
+Peace Tawny slaue, halfe me, and halfe thy Dam,
+Did not thy Hue bewray whose brat thou art?
+Had nature lent thee, but thy Mothers looke,
+Villaine thou might'st haue bene an Emperour.
+But where the Bull and Cow are both milk-white,
+They neuer do beget a cole-blacke-Calfe:
+Peace, villaine peace, euen thus he rates the babe,
+For I must beare thee to a trusty Goth,
+Who when he knowes thou art the Empresse babe,
+Will hold thee dearely for thy Mothers sake.
+With this, my weapon drawne I rusht vpon him,
+Surpriz'd him suddainely, and brought him hither
+To vse, as you thinke needefull of the man
+
+   Luci. Oh worthy Goth, this is the incarnate deuill,
+That rob'd Andronicus of his good hand:
+This is the Pearle that pleas'd your Empresse eye,
+And heere's the Base Fruit of his burning lust.
+Say wall-ey'd slaue, whether would'st thou conuay
+This growing Image of thy fiend-like face?
+Why dost not speake? what deafe? Not a word?
+A halter Souldiers, hang him on this Tree,
+And by his side his Fruite of Bastardie
+
+   Aron. Touch not the Boy, he is of Royall blood
+
+   Luci. Too like the Syre for euer being good.
+First hang the Child that he may see it sprall,
+A sight to vexe the Fathers soule withall
+
+   Aron. Get me a Ladder Lucius, saue the Childe,
+And beare it from me to the Empresse:
+If thou do this, Ile shew thee wondrous things,
+That highly may aduantage thee to heare;
+If thou wilt not, befall what may befall,
+Ile speake no more: but vengeance rot you all
+
+   Luci. Say on, and if it please me which thou speak'st,
+Thy child shall liue, and I will see it Nourisht
+
+   Aron. And if it please thee? why assure thee Lucius,
+'Twill vexe thy soule to heare what I shall speake:
+For I must talke of Murthers, Rapes, and Massacres,
+Acts of Blacke-night, abhominable Deeds,
+Complots of Mischiefe, Treason, Villanies
+Ruthfull to heare, yet pittiously perform'd,
+And this shall all be buried by my death,
+Vnlesse thou sweare to me my Childe shall liue
+
+   Luci. Tell on thy minde,
+I say thy Childe shall liue
+
+   Aron. Sweare that he shall, and then I will begin
+
+   Luci. Who should I sweare by,
+Thou beleeuest no God,
+That graunted, how can'st thou beleeue an oath?
+  Aron. What if I do not, as indeed I do not,
+Yet for I know thou art Religious,
+And hast a thing within thee, called Conscience,
+With twenty Popish trickes and Ceremonies,
+Which I haue seene thee carefull to obserue:
+Therefore I vrge thy oath, for that I know
+An Ideot holds his Bauble for a God,
+And keepes the oath which by that God he sweares,
+To that Ile vrge him: therefore thou shalt vow
+By that same God, what God so ere it be
+That thou adorest, and hast in reuerence,
+To saue my Boy, to nourish and bring him vp,
+Ore else I will discouer nought to thee
+
+   Luci. Euen by my God I sweare to thee I will
+
+   Aron. First know thou,
+I begot him on the Empresse
+
+   Luci. Oh most Insatiate luxurious woman!
+  Aron. Tut Lucius, this was but a deed of Charitie,
+To that which thou shalt heare of me anon,
+'Twas her two Sonnes that murdered Bassianus,
+They cut thy Sisters tongue, and rauisht her,
+And cut her hands off, and trim'd her as thou saw'st
+
+   Lucius. Oh detestable villaine!
+Call'st thou that Trimming?
+  Aron. Why she was washt, and cut, and trim'd,
+And 'twas trim sport for them that had the doing of it
+
+   Luci. Oh barbarous beastly villaines like thy selfe!
+  Aron. Indeede, I was their Tutor to instruct them
+That Codding spirit had they from their Mother,
+As sure a Card as euer wonne the Set:
+That bloody minde I thinke they learn'd of me,
+As true a Dog as euer fought at head.
+Well, let my Deeds be witnesse of my worth:
+I trayn'd thy Bretheren to that guilefull Hole,
+Where the dead Corps of Bassianus lay:
+I wrote the Letter, that thy Father found,
+And hid the Gold within the Letter mention'd.
+Confederate with the Queene, and her two Sonnes,
+And what not done, that thou hast cause to rue,
+Wherein I had no stroke of Mischeife in it.
+I play'd the Cheater for thy Fathers hand,
+And when I had it, drew my selfe apart,
+And almost broke my heart with extreame laughter.
+I pried me through the Creuice of a Wall,
+When for his hand, he had his two Sonnes heads,
+Beheld his teares, and laught so hartily,
+That both mine eyes were rainie like to his:
+And when I told the Empresse of this sport,
+She sounded almost at my pleasing tale,
+And for my tydings, gaue me twenty kisses
+
+   Goth. What canst thou say all this, and neuer blush?
+  Aron. I, like a blacke Dogge, as the saying is
+
+   Luci. Art thou not sorry for these hainous deedes?
+  Aron. I, that I had not done a thousand more:
+Euen now I curse the day, and yet I thinke
+Few come within few compasse of my curse,
+Wherein I did not some Notorious ill,
+As kill a man, or else deuise his death,
+Rauish a Maid, or plot the way to do it,
+Accuse some Innocent, and forsweare my selfe,
+Set deadly Enmity betweene two Friends,
+Make poore mens Cattell breake their neckes,
+Set fire on Barnes and Haystackes in the night,
+And bid the Owners quench them with the teares:
+Oft haue I dig'd vp dead men from their graues,
+And set them vpright at their deere Friends doore,
+Euen when their sorrowes almost was forgot,
+And on their skinnes, as on the Barke of Trees,
+Haue with my knife carued in Romaine Letters,
+Let not your sorrow die, though I am dead.
+Tut, I haue done a thousand dreadfull things
+As willingly, as one would kill a Fly,
+And nothing greeues me hartily indeede,
+But that I cannot doe ten thousand more
+
+   Luci. Bring downe the diuell, for he must not die
+So sweet a death as hanging presently
+
+   Aron. If there be diuels, would I were a deuill,
+To liue and burne in euerlasting fire,
+So I might haue your company in hell,
+But to torment you with my bitter tongue
+
+   Luci. Sirs stop his mouth, & let him speake no more.
+Enter Emillius.
+
+  Goth. My Lord, there is a Messenger from Rome
+Desires to be admitted to your presence
+
+   Luc. Let him come neere.
+Welcome Emillius, what the newes from Rome?
+  Emi. Lord Lucius, and you Princes of the Gothes,
+The Romaine Emperour greetes you all by me,
+And for he vnderstands you are in Armes,
+He craues a parly at your Fathers house
+Willing you to demand your Hostages,
+And they shall be immediately deliuered
+
+   Goth. What saies our Generall?
+  Luc. Emillius, let the Emperour giue his pledges
+Vnto my Father, and my Vncle Marcus,
+
+Flourish.
+
+And we will come: march away.
+
+Exeunt.
+
+Enter Tamora, and her two Sonnes disguised.
+
+  Tam. Thus in this strange and sad Habilliament,
+I will encounter with Andronicus,
+And say, I am Reuenge sent from below,
+To ioyne with him and right his hainous wrongs:
+Knocke at his study where they say he keepes,
+To ruminate strange plots of dire Reuenge,
+Tell him Reuenge is come to ioyne with him,
+And worke confusion on his Enemies.
+
+They knocke and Titus opens his study dore.
+
+  Tit. Who doth mollest my Contemplation?
+Is it your tricke to make me ope the dore,
+That so my sad decrees may flie away,
+And all my studie be to no effect?
+You are deceiu'd, for what I meane to do,
+See heere in bloody lines I haue set downe:
+And what is written shall be executed
+
+   Tam. Titus, I am come to talke with thee,
+  Tit. No not a word: how can I grace my talke,
+Wanting a hand to giue it action,
+Thou hast the ods of me, therefore no more
+
+   Tam. If thou did'st know me,
+Thou would'st talke with me
+
+   Tit. I am not mad, I know thee well enough,
+Witnesse this wretched stump,
+Witnesse these crimson lines,
+Witnesse these Trenches made by griefe and care,
+Witnesse the tyring day, and heauie night,
+Witnesse all sorrow, that I know thee well
+For our proud Empresse, Mighty Tamora:
+Is not thy comming for my other hand?
+  Tamo. Know thou sad man, I am not Tamora,
+She is thy Enemie, and I thy Friend,
+I am Reuenge sent from th' infernall Kingdome,
+To ease the gnawing Vulture of the mind,
+By working wreakefull vengeance on my Foes:
+Come downe and welcome me to this worlds light,
+Conferre with me of Murder and of Death,
+Ther's not a hollow Caue or lurking place,
+No Vast obscurity, or Misty vale,
+Where bloody Murther or detested Rape,
+Can couch for feare, but I will finde them out,
+And in their eares tell them my dreadfull name,
+Reuenge, which makes the foule offenders quake
+
+   Tit. Art thou Reuenge? and art thou sent to me,
+To be a torment to mine Enemies?
+  Tam. I am, therefore come downe and welcome me
+
+   Tit. Doe me some seruice ere I come to thee:
+Loe by thy side where Rape and Murder stands,
+Now giue some surance that thou art Reuenge,
+Stab them, or teare them on thy Chariot wheeles,
+And then Ile come and be thy Waggoner,
+And whirle along with thee about the Globes.
+Prouide thee two proper Palfries, as blacke as Iet,
+To hale thy vengefull Waggon swift away,
+And finde out Murder in their guilty cares.
+And when thy Car is loaden with their heads,
+I will dismount, and by the Waggon wheele,
+Trot like a Seruile footeman all day long,
+Euen from Eptons rising in the East,
+Vntill his very downefall in the Sea.
+And day by day Ile do this heauy taske,
+So thou destroy Rapine and Murder there
+
+   Tam. These are my Ministers, and come with me
+
+   Tit. Are them thy Ministers, what are they call'd?
+  Tam. Rape and Murder, therefore called so,
+Cause they take vengeance of such kind of men
+
+   Tit. Good Lord how like the Empresse Sons they are,
+And you the Empresse: But we worldly men,
+Haue miserable mad mistaking eyes:
+Oh sweet Reuenge, now do I come to thee,
+And if one armes imbracement will content thee,
+I will imbrace thee in it by and by
+
+   Tam. This closing with him, fits his Lunacie,
+What ere I forge to feede his braine-sicke fits,
+Do you vphold, and maintaine in your speeches,
+For now he firmely takes me for Reuenge,
+And being Credulous in this mad thought,
+Ile make him send for Lucius his Sonne,
+And whil'st I at a Banquet hold him sure,
+Ile find some cunning practise out of hand
+To scatter and disperse the giddie Gothes,
+Or at the least make them his Enemies:
+See heere he comes, and I must play my theame
+
+   Tit. Long haue I bene forlorne, and all for thee,
+Welcome dread Fury to my woefull house,
+Rapine and Murther, you are welcome too,
+How like the Empresse and her Sonnes you are.
+Well are you fitted, had you but a Moore,
+Could not all hell afford you such a deuill?
+For well I wote the Empresse neuer wags;
+But in her company there is a Moore,
+And would you represent our Queene aright
+It were conuenient you had such a deuill:
+But welcome as you are, what shall we doe?
+  Tam. What would'st thou haue vs doe Andronicus?
+  Dem. Shew me a Murtherer, Ile deale with him
+
+   Chi. Shew me a Villaine that hath done a Rape,
+And I am sent to be reueng'd on him
+
+   Tam. Shew me a thousand that haue done thee wrong,
+And Ile be reuenged on them all
+
+   Tit. Looke round about the wicked streets of Rome,
+And when thou find'st a man that's like thy selfe,
+Good Murder stab him, hee's a Murtherer.
+Goe thou with him, and when it is thy hap
+To finde another that is like to thee,
+Good Rapine stab him, he is a Rauisher.
+Go thou with them, and in the Emperours Court,
+There is a Queene attended by a Moore,
+Well maist thou know her by thy owne proportion,
+For vp and downe she doth resemble thee.
+I pray thee doe on them some violent death,
+They haue bene violent to me and mine
+
+   Tam. Well hast thou lesson'd vs, this shall we do.
+But would it please thee good Andronicus,
+To send for Lucius thy thrice Valiant Sonne,
+Who leades towards Rome a Band of Warlike Gothes,
+And bid him come and Banquet at thy house.
+When he is heere, euen at thy Solemne Feast,
+I will bring in the Empresse and her Sonnes,
+The Emperour himselfe, and all thy Foes,
+And at thy mercy shall they stoop, and kneele,
+And on them shalt thou ease, thy angry heart:
+What saies Andronicus to this deuise?
+Enter Marcus.
+
+  Tit. Marcus my Brother, 'tis sad Titus calls,
+Go gentle Marcus to thy Nephew Lucius,
+Thou shalt enquire him out among the Gothes,
+Bid him repaire to me, and bring with him
+Some of the chiefest Princes of the Gothes,
+Bid him encampe his Souldiers where they are,
+Tell him the Emperour, and the Empresse too,
+Feasts at my house, and he shall Feast with them,
+This do thou for my loue, and so let him,
+As he regards his aged Fathers life
+
+   Mar. This will I do, and soone returne againe
+
+   Tam. Now will I hence about thy businesse,
+And take my Ministers along with me
+
+   Tit. Nay, nay, let Rape and Murder stay with me,
+Or els Ile call my Brother backe againe,
+And cleaue to no reuenge but Lucius
+
+   Tam. What say you Boyes, will you bide with him,
+Whiles I goe tell my Lord the Emperour,
+How I haue gouern'd our determined iest?
+Yeeld to his Humour, smooth and speake him faire,
+And tarry with him till I turne againe
+
+   Tit. I know them all, though they suppose me mad,
+And will ore-reach them in their owne deuises,
+A payre of cursed hell-hounds and their Dam
+
+   Dem. Madam depart at pleasure, leaue vs heere
+
+   Tam. Farewell Andronicus, reuenge now goes
+To lay a complot to betray thy Foes
+
+   Tit. I know thou doo'st, and sweet reuenge farewell
+
+   Chi. Tell vs old man, how shall we be imploy'd?
+  Tit. Tut, I haue worke enough for you to doe,
+Publius come hither, Caius, and Valentine
+
+   Pub. What is your will?
+  Tit. Know you these two?
+  Pub. The Empresse Sonnes
+I take them, Chiron, Demetrius
+
+   Titus. Fie Publius, fie, thou art too much deceau'd,
+The one is Murder, Rape is the others name,
+And therefore bind them gentle Publius,
+Caius, and Valentine, lay hands on them,
+Oft haue you heard me wish for such an houre,
+And now I find it, therefore binde them sure,
+  Chi. Villaines forbeare, we are the Empresse Sonnes
+
+   Pub. And therefore do we, what we are commanded.
+Stop close their mouthes, let them not speake a word,
+Is he sure bound, looke that you binde them fast.
+
+Exeunt.
+
+Enter Titus Andronicus with a knife, and Lauinia with a Bason.
+
+  Tit. Come, come Lauinia, looke, thy Foes are bound,
+Sirs stop their mouthes, let them not speake to me,
+But let them heare what fearefull words I vtter.
+Oh Villaines, Chiron, and Demetrius,
+Here stands the spring whom you haue stain'd with mud,
+This goodly Sommer with your Winter mixt,
+You kil'd her husband, and for that vil'd fault,
+Two of her Brothers were condemn'd to death,
+My hand cut off, and made a merry iest,
+Both her sweet Hands, her Tongue, and that more deere
+Then Hands or tongue, her spotlesse Chastity,
+Inhumaine Traytors, you constrain'd and for'st.
+What would you say, if I should let you speake?
+Villaines for shame you could not beg for grace.
+Harke Wretches, how I meane to martyr you,
+This one Hand yet is left, to cut your throats,
+Whil'st that Lauinia tweene her stumps doth hold:
+The Bason that receiues your guilty blood.
+You know your Mother meanes to feast with me,
+And calls herselfe Reuenge, and thinkes me mad.
+Harke Villaines, I will grin'd your bones to dust,
+And with your blood and it, Ile make a Paste,
+And of the Paste a Coffen I will reare,
+And make two Pasties of your shamefull Heads,
+And bid that strumpet your vnhallowed Dam,
+Like to the earth swallow her increase.
+This is the Feast, that I haue bid her to,
+And this the Banquet she shall surfet on,
+For worse then Philomel you vsd my Daughter,
+And worse then Progne, I will be reueng'd,
+And now prepare your throats: Lauinia come.
+Receiue the blood, and when that they are dead,
+Let me goe grin'd their Bones to powder small,
+And with this hatefull Liquor temper it,
+And in that Paste let their vil'd Heads be bakte,
+Come, come, be euery one officious,
+To make this Banket, which I wish might proue,
+More sterne and bloody then the Centaures Feast.
+He cuts their throats.
+
+So now bring them in, for Ile play the Cooke,
+And see them ready, gainst their Mother comes.
+
+Exeunt.
+
+Enter Lucius, Marcus, and the Gothes.
+
+  Luc. Vnckle Marcus, since 'tis my Fathers minde
+That I repair to Rome, I am content
+
+   Goth. And ours with thine befall, what Fortune will
+
+   Luc. Good Vnckle take you in this barbarous Moore,
+This Rauenous Tiger, this accursed deuill,
+Let him receiue no sustenance, fetter him,
+Till he be brought vnto the Emperours face,
+For testimony of her foule proceedings.
+And see the Ambush of our Friends be strong,
+If ere the Emperour meanes no good to vs
+
+   Aron. Some deuill whisper curses in my eare,
+And prompt me that my tongue may vtter forth,
+The Venemous Mallice of my swelling heart
+
+   Luc. Away Inhumaine Dogge, Vnhallowed Slaue,
+Sirs, helpe our Vnckle, to conuey him in,
+
+Flourish.
+
+The Trumpets shew the Emperour is at hand.
+
+Sound Trumpets. Enter Emperour and Empresse, with Tribunes
+and others.
+
+  Sat. What, hath the Firemament more Suns then one?
+  Luc. What bootes it thee to call thy selfe a Sunne?
+  Mar. Romes Emperour & Nephewe breake the parle
+These quarrels must be quietly debated,
+The Feast is ready which the carefull Titus,
+Hath ordained to an Honourable end,
+For Peace, for Loue, for League, and good to Rome:
+Please you therfore draw nie and take your places
+
+   Satur. Marcus we will.
+
+Hoboyes.
+
+A Table brought in. Enter Titus like a Cooke, placing the meat on
+the
+Table, and Lauinia with a vale ouer her face.
+
+  Titus. Welcome my gracious Lord,
+Welcome Dread Queene,
+Welcome ye Warlike Gothes, welcome Lucius,
+And welcome all: although the cheere be poore,
+'Twill fill your stomacks, please you eat of it
+
+   Sat. Why art thou thus attir'd Andronicus?
+  Tit. Because I would be sure to haue all well,
+To entertaine your Highnesse, and your Empresse
+
+   Tam. We are beholding to you good Andronicus?
+  Tit. And if your Highnesse knew my heart, you were:
+My Lord the Emperour resolue me this,
+Was it well done of rash Virginius,
+To slay his daughter with his owne right hand.
+Because she was enfor'st, stain'd, and deflowr'd?
+  Satur. It was Andronicus
+
+   Tit. Your reason, Mighty Lord?
+  Sat. Because the Girle, should not suruiue her shame,
+And by her presence still renew his sorrowes
+
+   Tit. A reason mighty, strong, and effectuall,
+A patterne, president, and liuely warrant,
+For me (most wretched) to performe the like:
+Die, die, Lauinia, and thy shame with thee,
+And with thy shame, thy Fathers sorrow die.
+
+He kils her.
+
+  Sat. What hast done, vnnaturall and vnkinde?
+  Tit. Kil'd her for whom my teares haue made me blind.
+I am as wofull as Virginius was,
+And haue a thousand times more cause then he
+
+   Sat. What was she rauisht? tell who did the deed,
+  Tit. Wilt please you eat,
+Wilt please your Highnesse feed?
+  Tam. Why hast thou slaine thine onely Daughter?
+  Titus. Not I, 'twas Chiron and Demetrius,
+They rauisht her, and cut away her tongue,
+And they, 'twas they, that did her all this wrong
+
+   Satu. Go fetch them hither to vs presently
+
+   Tit. Why there they are both, baked in that Pie,
+Whereof their Mother daintily hath fed,
+Eating the flesh that she herselfe hath bred.
+'Tis true, 'tis true, witnesse my kniues sharpe point.
+
+He stabs the Empresse.
+
+  Satu. Die franticke wretch, for this accursed deed
+
+   Luc. Can the Sonnes eye, behold his Father bleed?
+There's meede for meede, death for a deadly deed
+
+   Mar. You sad fac'd men, people and Sonnes of Rome,
+By vprores seuer'd like a flight of Fowle,
+Scattred by windes and high tempestuous gusts:
+Oh let me teach you how, to knit againe
+This scattred Corne, into one mutuall sheafe,
+These broken limbs againe into one body
+
+   Goth. Let Rome herselfe be bane vnto herselfe,
+And shee whom mightie kingdomes cursie too,
+Like a forlorne and desperate castaway,
+Doe shamefull execution on her selfe.
+But if my frostie signes and chaps of age,
+Graue witnesses of true experience,
+Cannot induce you to attend my words,
+Speake Romes deere friend, as er'st our Auncestor,
+When with his solemne tongue he did discourse
+To loue-sicke Didoes sad attending eare,
+The story of that balefull burning night,
+When subtil Greekes surpriz'd King Priams Troy:
+Tell vs what Sinon hath bewicht our eares,
+Or who hath brought the fatall engine in,
+That giues our Troy, our Rome the ciuill wound.
+My heart is not compact of flint nor steele,
+Nor can I vtter all our bitter griefe,
+But floods of teares will drowne my Oratorie,
+And breake my very vttrance, euen in the time
+When it should moue you to attend me most,
+Lending your kind hand Commiseration.
+Heere is a Captaine, let him tell the tale,
+Your hearts will throb and weepe to heare him speake
+
+   Luc. This Noble Auditory, be it knowne to you,
+That cursed Chiron and Demetrius
+Were they that murdred our Emperours Brother,
+And they it were that rauished our Sister,
+For their fell faults our Brothers were beheaded,
+Our Fathers teares despis'd, and basely cousen'd,
+Of that true hand that fought Romes quarrell out,
+And sent her enemies vnto the graue.
+Lastly, my selfe vnkindly banished,
+The gates shut on me, and turn'd weeping out,
+To beg reliefe among Romes Enemies,
+Who drown'd their enmity in my true teares,
+And op'd their armes to imbrace me as a Friend:
+And I am turned forth, be it knowne to you,
+That haue preseru'd her welfare in my blood,
+And from her bosome tooke the Enemies point,
+Sheathing the steele in my aduentrous body.
+Alas you know, I am no Vaunter I,
+My scars can witnesse, dumbe although they are,
+That my report is iust and full of truth:
+But soft, me thinkes I do digresse too much,
+Cyting my worthlesse praise: Oh pardon me,
+For when no Friends are by, men praise themselues,
+  Marc. Now is my turne to speake: Behold this Child,
+Of this was Tamora deliuered,
+The issue of an Irreligious Moore,
+Chiefe Architect and plotter of these woes,
+The Villaine is aliue in Titus house,
+And as he is, to witnesse this is true.
+Now iudge what course had Titus to reuenge
+These wrongs, vnspeakeable past patience,
+Or more then any liuing man could beare.
+Now you haue heard the truth, what say you Romaines?
+Haue we done ought amisse? shew vs wherein,
+And from the place where you behold vs now,
+The poore remainder of Andronici,
+Will hand in hand all headlong cast vs downe,
+And on the ragged stones beat forth our braines,
+And make a mutuall closure of our house:
+Speake Romaines speake, and if you say we shall,
+Loe hand in hand, Lucius and I will fall
+
+   Emilli. Come come, thou reuerent man of Rome,
+And bring our Emperour gently in thy hand,
+Lucius our Emperour: for well I know,
+The common voyce do cry it shall be so
+
+   Mar. Lucius, all haile Romes Royall Emperour,
+Goe, goe into old Titus sorrowfull house,
+And hither hale that misbelieuing Moore,
+To be adiudg'd some direfull slaughtering death,
+As punishment for his most wicked life.
+Lucius all haile to Romes gracious Gouernour
+
+   Luc. Thankes gentle Romanes, may I gouerne so,
+To heale Romes harmes, and wipe away her woe.
+But gentle people, giue me ayme a-while,
+For Nature puts me to a heauy taske:
+Stand all aloofe, but Vnckle draw you neere,
+To shed obsequious teares vpon this Trunke:
+Oh take this warme kisse on thy pale cold lips,
+These sorrowfull drops vpon thy bloud-slaine face,
+The last true Duties of thy Noble Sonne
+
+   Mar. Teare for teare, and louing kisse for kisse,
+Thy Brother Marcus tenders on thy Lips:
+O were the summe of these that I should pay
+Countlesse, and infinit, yet would I pay them
+
+   Luc. Come hither Boy, come, come, and learne of vs
+To melt in showres: thy Grandsire lou'd thee well:
+Many a time he danc'd thee on his knee:
+Sung thee asleepe, his Louing Brest, thy Pillow:
+Many a matter hath he told to thee,
+Meete, and agreeing with thine Infancie:
+In that respect then, like a louing Childe,
+Shed yet some small drops from thy tender Spring,
+Because kinde Nature doth require it so:
+Friends, should associate Friends, in Greefe and Wo.
+Bid him farwell, commit him to the Graue,
+Do him that kindnesse, and take leaue of him
+
+   Boy. O Grandsire, Grandsire: euen with all my heart
+Would I were Dead, so you did Liue againe.
+O Lord, I cannot speake to him for weeping,
+My teares will choake me, if I ope my mouth
+
+   Romans. You sad Andronici, haue done with woes,
+Giue sentence on this execrable Wretch,
+That hath beene breeder of these dire euents
+
+   Luc. Set him brest deepe in earth, and famish him:
+There let him stand, and raue, and cry for foode:
+If any one releeues, or pitties him,
+For the offence, he dyes. This is our doome:
+Some stay, to see him fast'ned in the earth
+
+   Aron. O why should wrath be mute, & Fury dumbe?
+I am no Baby I, that with base Prayers
+I should repent the Euils I haue done.
+Ten thousand worse, then euer yet I did,
+Would I performe if I might haue my will:
+If one good Deed in all my life I did,
+I do repent it from my very Soule
+
+   Lucius. Some louing Friends conuey the Emp[erour]. hence,
+And giue him buriall in his Fathers graue.
+My Father, and Lauinia, shall forthwith
+Be closed in our Housholds Monument:
+As for that heynous Tyger Tamora,
+No Funerall Rite, nor man in mournfull Weeds:
+No mournfull Bell shall ring her Buriall:
+But throw her foorth to Beasts and Birds of prey:
+Her life was Beast-like, and deuoid of pitty,
+And being so, shall haue like want of pitty.
+See Iustice done on Aaron that damn'd Moore,
+From whom, our heauy happes had their beginning:
+Then afterwards, to Order well the State,
+That like Euents, may ne're it Ruinate.
+
+Exeunt. omnes.
+
+
+FINIS. The Lamentable Tragedy of Titus Andronicus.

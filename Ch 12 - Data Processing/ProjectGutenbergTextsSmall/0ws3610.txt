@@ -1,0 +1,5358 @@
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+********************The Tragedie of Coriolanus******************
+
+This is our 3rd edition of most of these plays.  See the index.
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+The Tragedie of Coriolanus
+
+by William Shakespeare
+
+July, 2000  [Etext #2259]
+
+
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+********************The Tragedie of Coriolanus******************
+
+*****This file should be named 0ws3610.txt or 0ws3610.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 0ws3611.txt
+VERSIONS based on separate sources get new LETTER, 0ws3610a.txt
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Project Gutenberg's Etext of Shakespeare's The Tragedie of Coriolanus
+
+
+
+
+Executive Director's Notes:
+
+In addition to the notes below, and so you will *NOT* think all
+the spelling errors introduced by the printers of the time have
+been corrected, here are the first few lines of Hamlet, as they
+are presented herein:
+
+  Barnardo. Who's there?
+  Fran. Nay answer me: Stand & vnfold
+your selfe
+
+   Bar. Long liue the King
+
+***
+
+As I understand it, the printers often ran out of certain words
+or letters they had often packed into a "cliche". . .this is the
+original meaning of the term cliche. . .and thus, being unwilling
+to unpack the cliches, and thus you will see some substitutions
+that look very odd. . .such as the exchanges of u for v, v for u,
+above. . .and you may wonder why they did it this way, presuming
+Shakespeare did not actually write the play in this manner. . . .
+
+The answer is that they MAY have packed "liue" into a cliche at a
+time when they were out of "v"'s. . .possibly having used "vv" in
+place of some "w"'s, etc.  This was a common practice of the day,
+as print was still quite expensive, and they didn't want to spend
+more on a wider selection of characters than they had to.
+
+You will find a lot of these kinds of "errors" in this text, as I
+have mentioned in other times and places, many "scholars" have an
+extreme attachment to these errors, and many have accorded them a
+very high place in the "canon" of Shakespeare.  My father read an
+assortment of these made available to him by Cambridge University
+in England for several months in a glass room constructed for the
+purpose.  To the best of my knowledge he read ALL those available
+. . .in great detail. . .and determined from the various changes,
+that Shakespeare most likely did not write in nearly as many of a
+variety of errors we credit him for, even though he was in/famous
+for signing his name with several different spellings.
+
+So, please take this into account when reading the comments below
+made by our volunteer who prepared this file:  you may see errors
+that are "not" errors. . . .
+
+So. . .with this caveat. . .we have NOT changed the canon errors,
+here is the Project Gutenberg Etext of Shakespeare's The Tragedie of Coriolanus.
+
+Michael S. Hart
+Project Gutenberg
+Executive Director
+
+
+***
+
+
+Scanner's Notes: What this is and isn't.  This was taken from
+a copy of Shakespeare's first folio and it is as close as I can
+come in ASCII to the printed text.
+
+The elongated S's have been changed to small s's and the
+conjoined ae have been changed to ae.  I have left the spelling,
+punctuation, capitalization as close as possible to the
+printed text.  I have corrected some spelling mistakes (I have put
+together a spelling dictionary devised from the spellings of the
+Geneva Bible and Shakespeare's First Folio and have unified
+spellings according to this template), typo's and expanded
+abbreviations as I have come across them.  Everything within
+brackets [] is what I have added.  So if you don't like that
+you can delete everything within the brackets if you want a
+purer Shakespeare.
+
+Another thing that you should be aware of is that there are textual
+differences between various copies of the first folio.  So there may
+be differences (other than what I have mentioned above) between
+this and other first folio editions.  This is due to the printer's
+habit of setting the type and running off a number of copies and
+then proofing the printed copy and correcting the type and then
+continuing the printing run.  The proof run wasn't thrown away but
+incorporated into the printed copies.  This is just the way it is.
+The text I have used was a composite of more than 30 different
+First Folio editions' best pages.
+
+If you find any scanning errors, out and out typos, punctuation
+errors, or if you disagree with my spelling choices please feel
+free to email me those errors.  I wish to make this the best
+etext possible.  My email address for right now are haradda@aol.com
+and davidr@inconnect.com.  I hope that you enjoy this.
+
+David Reed
+
+The Tragedie of Coriolanus
+
+Actus Primus. Scoena Prima.
+
+
+Enter a Company of Mutinous Citizens, with Staues, Clubs, and
+other
+weapons.
+
+  1. Citizen. Before we proceed any further, heare me speake
+
+   All. Speake, speake
+
+   1.Cit. You are all resolu'd rather to dy then
+to famish?
+  All. Resolu'd, resolu'd
+
+   1.Cit. First you know, Caius Martius is chiefe enemy
+to the people
+
+   All. We know't, we know't
+
+   1.Cit. Let vs kill him, and wee'l haue Corne at our own
+price. Is't a Verdict?
+  All. No more talking on't; Let it be done, away, away
+  2.Cit. One word, good Citizens
+
+   1.Cit. We are accounted poore Citizens, the Patricians
+good: what Authority surfets one, would releeue
+vs. If they would yeelde vs but the superfluitie while it
+were wholsome, wee might guesse they releeued vs humanely:
+But they thinke we are too deere, the leannesse
+that afflicts vs, the obiect of our misery, is as an inuentory
+to particularize their abundance, our sufferance is a
+gaine to them. Let vs reuenge this with our Pikes, ere
+we become Rakes. For the Gods know, I speake this in
+hunger for Bread, not in thirst for Reuenge
+
+   2.Cit. Would you proceede especially against Caius
+Martius
+
+   All. Against him first: He's a very dog to the Commonalty
+
+   2.Cit. Consider you what Seruices he ha's done for his
+Country?
+  1.Cit. Very well, and could bee content to giue him
+good report for't, but that hee payes himselfe with beeing
+proud
+
+   All. Nay, but speak not maliciously
+
+   1.Cit. I say vnto you, what he hath done Famouslie,
+he did it to that end: though soft conscienc'd men can be
+content to say it was for his Countrey, he did it to please
+his Mother, and to be partly proud, which he is, euen to
+the altitude of his vertue
+
+   2.Cit. What he cannot helpe in his Nature, you account
+a Vice in him: You must in no way say he is couetous
+
+   1.Cit. If I must not, I neede not be barren of Accusations
+he hath faults (with surplus) to tyre in repetition.
+
+Showts within.
+
+What showts are these? The other side a'th City is risen:
+why stay we prating heere? To th' Capitoll
+
+   All. Come, come
+
+   1 Cit. Soft, who comes heere?
+Enter Menenius Agrippa.
+
+  2 Cit. Worthy Menenius Agrippa, one that hath alwayes
+lou'd the people
+
+   1 Cit. He's one honest enough, wold al the rest wer so
+
+   Men. What work's my Countrimen in hand?
+Where go you with Bats and Clubs? The matter
+Speake I pray you
+
+   2 Cit. Our busines is not vnknowne to th' Senat, they
+haue had inkling this fortnight what we intend to do, w
+now wee'l shew em in deeds: they say poore Suters haue
+strong breaths, they shal know we haue strong arms too
+
+   Menen. Why Masters, my good Friends, mine honest
+Neighbours, will you vndo your selues?
+  2 Cit. We cannot Sir, we are vndone already
+
+   Men. I tell you Friends, most charitable care
+Haue the Patricians of you for your wants.
+Your suffering in this dearth, you may as well
+Strike at the Heauen with your staues, as lift them
+Against the Roman State, whose course will on
+The way it takes: cracking ten thousand Curbes
+Of more strong linke assunder, then can euer
+Appeare in your impediment. For the Dearth,
+The Gods, not the Patricians make it, and
+Your knees to them (not armes) must helpe. Alacke,
+You are transported by Calamity
+Thether, where more attends you, and you slander
+The Helmes o'th State; who care for you like Fathers,
+When you curse them, as Enemies
+
+   2 Cit. Care for vs? True indeed, they nere car'd for vs
+yet. Suffer vs to famish, and their Store-houses cramm'd
+with Graine: Make Edicts for Vsurie, to support Vsurers;
+repeale daily any wholsome Act established against
+the rich, and prouide more piercing Statutes daily, to
+chaine vp and restraine the poore. If the Warres eate vs
+not vppe, they will; and there's all the loue they beare
+vs
+
+   Menen. Either you must
+Confesse your selues wondrous Malicious,
+Or be accus'd of Folly. I shall tell you
+A pretty Tale, it may be you haue heard it,
+But since it serues my purpose, I will venture
+To scale't a little more
+
+   2 Citizen. Well,
+Ile heare it Sir: yet you must not thinke
+To fobbe off our disgrace with a tale:
+But and't please you deliuer
+
+   Men. There was a time, when all the bodies members
+Rebell'd against the Belly; thus accus'd it:
+That onely like a Gulfe it did remaine
+I'th midd'st a th' body, idle and vnactiue,
+Still cubbording the Viand, neuer bearing
+Like labour with the rest, where th' other Instruments
+Did see, and heare, deuise, instruct, walke, feele,
+And mutually participate, did minister
+Vnto the appetite; and affection common
+Of the whole body, the Belly answer'd
+
+   2.Cit. Well sir, what answer made the Belly
+
+   Men. Sir, I shall tell you with a kinde of Smile,
+Which ne're came from the Lungs, but euen thus:
+For looke you I may make the belly Smile,
+As well as speake, it taintingly replyed
+To'th' discontented Members, the mutinous parts
+That enuied his receite: euen so most fitly,
+As you maligne our Senators, for that
+They are not such as you
+
+   2.Cit. Your Bellies answer: What
+The Kingly crown'd head, the vigilant eye,
+The Counsailor Heart, the Arme our Souldier,
+Our Steed the Legge, the Tongue our Trumpeter,
+With other Muniments and petty helpes
+In this our Fabricke, if that they-
+  Men. What then? Fore me, this Fellow speakes.
+What then? What then?
+  2.Cit. Should by the Cormorant belly be restrain'd,
+Who is the sinke a th' body
+
+   Men. Well, what then?
+  2.Cit. The former Agents, if they did complaine,
+What could the Belly answer?
+  Men. I will tell you,
+If you'l bestow a small (of what you haue little)
+Patience awhile; you'st heare the Bellies answer
+
+   2.Cit. Y'are long about it
+
+   Men. Note me this good Friend;
+Your most graue Belly was deliberate,
+Not rash like his Accusers, and thus answered.
+True is it my Incorporate Friends (quoth he)
+That I receiue the generall Food at first
+Which you do liue vpon: and fit it is,
+Because I am the Store-house, and the Shop
+Of the whole Body. But, if you do remember,
+I send it through the Riuers of your blood
+Euen to the Court, the Heart, to th' seate o'th' Braine,
+And through the Crankes and Offices of man,
+The strongest Nerues, and small inferiour Veines
+From me receiue that naturall competencie
+Whereby they liue. And though that all at once
+(You my good Friends, this sayes the Belly) marke me
+
+   2.Cit. I sir, well, well
+
+   Men. Though all at once, cannot
+See what I do deliuer out to each,
+Yet I can make my Awdit vp, that all
+From me do backe receiue the Flowre of all,
+And leaue me but the Bran. What say you too't?
+  2.Cit. It was an answer, how apply you this?
+  Men. The Senators of Rome, are this good Belly,
+And you the mutinous Members: For examine
+Their Counsailes, and their Cares; disgest things rightly,
+Touching the Weale a'th Common, you shall finde
+No publique benefit which you receiue
+But it proceeds, or comes from them to you,
+And no way from your selues. What do you thinke?
+You, the great Toe of this Assembly?
+  2.Cit. I the great Toe? Why the great Toe?
+  Men. For that being one o'th lowest, basest, poorest
+Of this most wise Rebellion, thou goest formost:
+Thou Rascall, that art worst in blood to run,
+Lead'st first to win some vantage.
+But make you ready your stiffe bats and clubs,
+Rome, and her Rats, are at the point of battell,
+The one side must haue baile.
+Enter Caius Martius.
+
+Hayle, Noble Martius
+
+   Mar. Thanks. What's the matter you dissentious rogues
+That rubbing the poore Itch of your Opinion,
+Make your selues Scabs
+
+   2.Cit. We haue euer your good word
+
+   Mar. He that will giue good words to thee, wil flatter
+Beneath abhorring. What would you haue, you Curres,
+That like nor Peace, nor Warre? The one affrights you,
+The other makes you proud. He that trusts to you,
+Where he should finde you Lyons, findes you Hares:
+Where Foxes, Geese you are: No surer, no,
+Then is the coale of fire vpon the Ice,
+Or Hailstone in the Sun. Your Vertue is,
+To make him worthy, whose offence subdues him,
+And curse that Iustice did it. Who deserues Greatnes,
+Deserues your Hate: and your Affections are
+A sickmans Appetite; who desires most that
+Which would encrease his euill. He that depends
+Vpon your fauours, swimmes with finnes of Leade,
+And hewes downe Oakes, with rushes. Hang ye: trust ye?
+With euery Minute you do change a Minde,
+And call him Noble, that was now your Hate:
+Him vilde, that was your Garland. What's the matter,
+That in these seuerall places of the Citie,
+You cry against the Noble Senate, who
+(Vnder the Gods) keepe you in awe, which else
+Would feede on one another? What's their seeking?
+  Men. For Corne at their owne rates, wherof they say
+The Citie is well stor'd
+
+   Mar. Hang 'em: They say?
+They'l sit by th' fire, and presume to know
+What's done i'th Capitoll: Who's like to rise,
+Who thriues, & who declines: Side factions, & giue out
+Coniecturall Marriages, making parties strong,
+And feebling such as stand not in their liking,
+Below their cobled Shooes. They say ther's grain enough?
+Would the Nobility lay aside their ruth,
+And let me vse my Sword, I'de make a Quarrie
+With thousands of these quarter'd slaues, as high
+As I could picke my Lance
+
+   Menen. Nay these are almost thoroughly perswaded:
+For though abundantly they lacke discretion
+Yet are they passing Cowardly. But I beseech you,
+What sayes the other Troope?
+  Mar. They are dissolu'd: Hang em;
+They said they were an hungry, sigh'd forth Prouerbes
+That Hunger-broke stone wals: that dogges must eate
+That meate was made for mouths. That the gods sent not
+Corne for the Richmen onely: With these shreds
+They vented their Complainings, which being answer'd
+And a petition granted them, a strange one,
+To breake the heart of generosity,
+And make bold power looke pale, they threw their caps
+As they would hang them on the hornes a'th Moone,
+Shooting their Emulation
+
+   Menen. What is graunted them?
+  Mar. Fiue Tribunes to defend their vulgar wisdoms
+Of their owne choice. One's Iunius Brutus,
+Sicinius Velutus, and I know not. Sdeath,
+The rabble should haue first vnroo'st the City
+Ere so preuayl'd with me; it will in time
+Win vpon power, and throw forth greater Theames
+For Insurrections arguing
+
+   Menen. This is strange
+
+   Mar. Go get you home you Fragments.
+Enter a Messenger hastily.
+
+  Mess. Where's Caius Martius?
+  Mar. Heere: what's the matter!
+  Mes. The newes is sir, the Volcies are in Armes
+
+   Mar. I am glad on't, then we shall ha meanes to vent
+Our mustie superfluity. See our best Elders.
+Enter Sicinius Velutus, Annius Brutus Cominius, Titus Lartius,
+with other
+Senatours.
+
+  1.Sen. Martius 'tis true, that you haue lately told vs,
+The Volces are in Armes
+
+   Mar. They haue a Leader,
+Tullus Auffidius that will put you too't:
+I sinne in enuying his Nobility:
+And were I any thing but what I am,
+I would wish me onely he
+
+   Com. You haue fought together?
+  Mar. Were halfe to halfe the world by th' eares, & he
+vpon my partie, I'de reuolt to make
+Onely my warres with him. He is a Lion
+That I am proud to hunt
+
+   1.Sen. Then worthy Martius,
+Attend vpon Cominius to these Warres
+
+   Com. It is your former promise
+
+   Mar. Sir it is,
+And I am constant: Titus Lucius, thou
+Shalt see me once more strike at Tullus face.
+What art thou stiffe? Stand'st out?
+  Tit. No Caius Martius,
+Ile leane vpon one Crutch, and fight with tother,
+Ere stay behinde this Businesse
+
+   Men. Oh true-bred
+
+   Sen. Your Company to'th' Capitoll, where I know
+Our greatest Friends attend vs
+
+   Tit. Lead you on: Follow Cominius, we must followe
+you, right worthy your Priority
+
+   Com. Noble Martius
+
+   Sen. Hence to your homes, be gone
+
+   Mar. Nay let them follow,
+The Volces haue much Corne: take these Rats thither,
+To gnaw their Garners. Worshipfull Mutiners,
+Your valour puts well forth: Pray follow.
+
+Exeunt.
+
+Citizens steale away. Manet Sicin. & Brutus.
+
+  Sicin. Was euer man so proud as is this Martius?
+  Bru. He has no equall
+
+   Sicin. When we were chosen Tribunes for the people
+
+   Bru. Mark'd you his lip and eyes
+
+   Sicin. Nay, but his taunts
+
+   Bru. Being mou'd, he will not spare to gird the Gods
+
+   Sicin. Bemocke the modest Moone
+
+   Bru. The present Warres deuoure him, he is growne
+Too proud to be so valiant
+
+   Sicin. Such a Nature, tickled with good successe, disdaines
+the shadow which he treads on at noone, but I do
+wonder, his insolence can brooke to be commanded vnder
+Cominius?
+  Bru. Fame, at the which he aymes,
+In whom already he's well grac'd, cannot
+Better be held, nor more attain'd then by
+A place below the first: for what miscarries
+Shall be the Generals fault, though he performe
+To th' vtmost of a man, and giddy censure
+Will then cry out of Martius: Oh, if he
+Had borne the businesse
+
+   Sicin. Besides, if things go well,
+Opinion that so stickes on Martius, shall
+Of his demerits rob Cominius
+
+   Bru. Come: halfe all Cominius Honors are to Martius
+Though Martius earn'd them not: and all his faults
+To Martius shall be Honors, though indeed
+In ought he merit not
+
+   Sicin. Let's hence, and heare
+How the dispatch is made, and in what fashion
+More then his singularity, he goes
+Vpon this present Action
+
+   Bru. Let's along.
+
+Exeunt.
+
+Enter Tullus Auffidius with Senators of Coriolus.
+
+  1.Sen. So, your opinion is Auffidius,
+That they of Rome are entred in our Counsailes,
+And know how we proceede,
+  Auf. Is it not yours?
+What euer haue bin thought one in this State
+That could be brought to bodily act, ere Rome
+Had circumuention: 'tis not foure dayes gone
+Since I heard thence, these are the words, I thinke
+I haue the Letter heere: yes, heere it is;
+They haue prest a Power, but it is not knowne
+Whether for East or West: the Dearth is great,
+The people Mutinous: And it is rumour'd,
+Cominius, Martius your old Enemy
+(Who is of Rome worse hated then of you)
+And Titus Lartius, a most valiant Roman,
+These three leade on this Preparation
+Whether 'tis bent: most likely, 'tis for you:
+Consider of it
+
+   1.Sen. Our Armie's in the Field:
+We neuer yet made doubt but Rome was ready
+To answer vs
+
+   Auf. Nor did you thinke it folly,
+To keepe your great pretences vayl'd, till when
+They needs must shew themselues, which in the hatching
+It seem'd appear'd to Rome. By the discouery,
+We shalbe shortned in our ayme, which was
+To take in many Townes, ere (almost) Rome
+Should know we were a-foot
+
+   2.Sen. Noble Auffidius,
+Take your Commission, hye you to your Bands,
+Let vs alone to guard Corioles
+If they set downe before's: for the remoue
+Bring vp your Army: but (I thinke) you'l finde
+Th'haue not prepar'd for vs
+
+   Auf. O doubt not that,
+I speake from Certainties. Nay more,
+Some parcels of their Power are forth already,
+And onely hitherward. I leaue your Honors.
+If we, and Caius Martius chance to meete,
+'Tis sworne betweene vs, we shall euer strike
+Till one can do no more
+
+   All. The Gods assist you
+
+   Auf. And keepe your Honors safe
+
+   1.Sen. Farewell
+
+   2.Sen. Farewell
+
+   All. Farewell.
+
+Exeunt. omnes.
+
+Enter Volumnia and Virgilia, mother and wife to Martius: They set
+them
+downe on two lowe stooles and sowe.
+
+  Volum. I pray you daughter sing, or expresse your selfe
+in a more comfortable sort: If my Sonne were my Husband,
+I should freelier reioyce in that absence wherein
+he wonne Honor, then in the embracements of his Bed,
+where he would shew most loue. When yet hee was but
+tender-bodied, and the onely Sonne of my womb; when
+youth with comelinesse pluck'd all gaze his way; when
+for a day of Kings entreaties, a Mother should not sel him
+an houre from her beholding; I considering how Honour
+would become such a person, that it was no better then
+Picture-like to hang by th' wall, if renowne made it not
+stirre, was pleas'd to let him seeke danger, where he was
+like to finde fame: To a cruell Warre I sent him, from
+whence he return'd, his browes bound with Oake. I tell
+thee Daughter, I sprang not more in ioy at first hearing
+he was a Man-child, then now in first seeing he had proued
+himselfe a man
+
+   Virg. But had he died in the Businesse Madame, how
+then?
+  Volum. Then his good report should haue beene my
+Sonne, I therein would haue found issue. Heare me professe
+sincerely, had I a dozen sons each in my loue alike,
+and none lesse deere then thine, and my good Martius, I
+had rather had eleuen dye Nobly for their Countrey, then
+one voluptuously surfet out of Action.
+Enter a Gentlewoman.
+
+  Gent. Madam, the lady Valeria is come to visit you
+
+   Virg. Beseech you giue me leaue to retire my selfe
+
+   Volum. Indeed you shall not:
+Me thinkes, I heare hither your Husbands Drumme:
+See him plucke Auffidius downe by th' haire:
+(As children from a Beare) the Volces shunning him:
+Me thinkes I see him stampe thus, and call thus,
+Come on you Cowards, you were got in feare
+Though you were borne in Rome; his bloody brow
+With his mail'd hand, then wiping, forth he goes
+Like to a Haruest man, that task'd to mowe
+Or all, or loose his hyre
+
+   Virg. His bloody Brow? Oh Iupiter, no blood
+
+   Volum. Away you Foole; it more becomes a man
+Then gilt his Trophe. The brests of Hecuba
+When she did suckle Hector, look'd not louelier
+Then Hectors forhead, when it spit forth blood
+At Grecian sword. Contenning, tell Valeria
+We are fit to bid her welcome.
+
+Exit Gent.
+
+  Vir. Heauens blesse my Lord from fell Auffidius
+
+   Vol. Hee'l beat Auffidius head below his knee,
+And treade vpon his necke.
+Enter Valeria with an Vsher, and a Gentlewoman.
+
+  Val. My Ladies both good day to you
+
+   Vol. Sweet Madam
+
+   Vir. I am glad to see your Ladyship
+
+   Val. How do you both? You are manifest house-keepers.
+What are you sowing heere? A fine spotte in good
+faith. How does your little Sonne?
+  Vir. I thanke your Lady-ship: Well good Madam
+
+   Vol. He had rather see the swords, and heare a Drum,
+then looke vpon his Schoolmaster
+
+   Val. A my word the Fathers Sonne: Ile sweare 'tis a
+very pretty boy. A my troth, I look'd vpon him a Wensday
+halfe an houre together: ha's such a confirm'd countenance.
+I saw him run after a gilded Butterfly, & when
+he caught it, he let it go againe, and after it againe, and ouer
+and ouer he comes, and vp againe: catcht it again: or
+whether his fall enrag'd him, or how 'twas, hee did so set
+his teeth, and teare it. Oh, I warrant how he mammockt
+it
+
+   Vol. One on's Fathers moods
+
+   Val. Indeed la, tis a Noble childe
+
+   Virg. A Cracke Madam
+
+   Val. Come, lay aside your stitchery, I must haue you
+play the idle Huswife with me this afternoone
+
+   Virg. No (good Madam)
+I will not out of doores
+
+   Val. Not out of doores?
+  Volum. She shall, she shall
+
+   Virg. Indeed no, by your patience; Ile not ouer the
+threshold, till my Lord returne from the Warres
+
+   Val. Fye, you confine your selfe most vnreasonably:
+Come, you must go visit the good Lady that lies in
+
+   Virg. I will wish her speedy strength, and visite her
+with my prayers: but I cannot go thither
+
+   Volum. Why I pray you
+
+   Vlug. 'Tis not to saue labour, nor that I want loue
+
+   Val. You would be another Penelope: yet they say, all
+the yearne she spun in Vlisses absence, did but fill Athica
+full of Mothes. Come, I would your Cambrick were sensible
+as your finger, that you might leaue pricking it for
+pitie. Come you shall go with vs
+
+   Vir. No good Madam, pardon me, indeed I will not
+foorth
+
+   Val. In truth la go with me, and Ile tell you excellent
+newes of your Husband
+
+   Virg. Oh good Madam, there can be none yet
+
+   Val. Verily I do not iest with you: there came newes
+from him last night
+
+   Vir. Indeed Madam
+
+   Val. In earnest it's true; I heard a Senatour speake it.
+Thus it is: the Volcies haue an Army forth, against who[m]
+Cominius the Generall is gone, with one part of our Romane
+power. Your Lord, and Titus Lartius, are set down
+before their Citie Carioles, they nothing doubt preuailing,
+and to make it breefe Warres. This is true on mine
+Honor, and so I pray go with vs
+
+   Virg. Giue me excuse good Madame, I will obey you
+in euery thing heereafter
+
+   Vol. Let her alone Ladie, as she is now:
+She will but disease our better mirth
+
+   Valeria. In troth I thinke she would:
+Fare you well then. Come good sweet Ladie.
+Prythee Virgilia turne thy solemnesse out a doore,
+And go along with vs
+
+   Virgil. No
+At a word Madam; Indeed I must not,
+I wish you much mirth
+
+   Val. Well, then farewell.
+
+Exeunt. Ladies.
+
+Enter Martius, Titus Lartius, with Drumme and Colours, with
+Captaines and
+Souldiers, as before the City Corialus: to them a Messenger.
+
+  Martius. Yonder comes Newes:
+A Wager they haue met
+
+   Lar. My horse to yours, no
+
+   Mar. Tis done
+
+   Lart. Agreed
+
+   Mar. Say, ha's our Generall met the Enemy?
+  Mess. They lye in view, but haue not spoke as yet
+
+   Lart. So, the good Horse is mine
+
+   Mart. Ile buy him of you
+
+   Lart. No, Ile nor sel, nor giue him: Lend you him I will
+For halfe a hundred yeares: Summon the Towne
+
+   Mar. How farre off lie these Armies?
+  Mess. Within this mile and halfe
+
+   Mar. Then shall we heare their Larum, & they Ours.
+Now Mars, I prythee make vs quicke in worke,
+That we with smoaking swords may march from hence
+To helpe our fielded Friends. Come, blow thy blast.
+
+They Sound a Parley: Enter two Senators with others on the Walles
+of
+Corialus.
+
+Tullus Auffidious, is he within your Walles?
+  1.Senat. No, nor a man that feares you lesse then he,
+That's lesser then a little:
+
+Drum a farre off.
+
+Hearke, our Drummes
+Are bringing forth our youth: Wee'l breake our Walles
+Rather then they shall pound vs vp our Gates,
+Which yet seeme shut, we haue but pin'd with Rushes,
+They'le open of themselues. Harke you, farre off
+
+Alarum farre off.
+
+There is Auffidious. List what worke he makes
+Among'st your clouen Army
+
+   Mart. Oh they are at it
+
+   Lart. Their noise be our instruction. Ladders hoa.
+Enter the Army of the Volces.
+
+  Mar. They feare vs not, but issue forth their Citie.
+Now put your Shields before your hearts, and fight
+With hearts more proofe then Shields.
+Aduance braue Titus,
+They do disdaine vs much beyond our Thoughts,
+which makes me sweat with wrath. Come on my fellows
+He that retires, Ile take him for a Volce,
+And he shall feele mine edge.
+
+Alarum, the Romans are beat back to their Trenches Enter Martius
+Cursing.
+
+  Mar. All the contagion of the South, light on you,
+You Shames of Rome: you Heard of Byles and Plagues
+Plaister you o're, that you may be abhorr'd
+Farther then seene, and one infect another
+Against the Winde a mile: you soules of Geese,
+That beare the shapes of men, how haue you run
+From Slaues, that Apes would beate; Pluto and Hell,
+All hurt behinde, backes red, and faces pale
+With flight and agued feare, mend and charge home,
+Or by the fires of heauen, Ile leaue the Foe,
+And make my Warres on you: Looke too't: Come on,
+If you'l stand fast, wee'l beate them to their Wiues,
+As they vs to our Trenches followes.
+
+Another Alarum, and Martius followes them to gates, and is shut
+in.
+
+So, now the gates are ope: now proue good Seconds,
+'Tis for the followers Fortune, widens them,
+Not for the flyers: Marke me, and do the like.
+Enter the Gati.
+
+  1.Sol. Foole-hardinesse, not I
+
+   2.Sol. Nor I
+
+   1.Sol. See they haue shut him in.
+
+Alarum continues
+
+  All. To th' pot I warrant him.
+
+Enter Titus Lartius
+
+  Tit. What is become of Martius?
+  All. Slaine (Sir) doubtlesse
+
+   1.Sol. Following the Flyers at the very heeles,
+With them he enters: who vpon the sodaine
+Clapt to their Gates, he is himselfe alone,
+To answer all the City
+
+   Lar. Oh Noble Fellow!
+Who sensibly out-dares his sencelesse Sword,
+And when it bowes, stand'st vp: Thou art left Martius,
+A Carbuncle intire: as big as thou art
+Weare not so rich a Iewell. Thou was't a Souldier
+Euen to Calues wish, not fierce and terrible
+Onely in strokes, but with thy grim lookes, and
+The Thunder-like percussion of thy sounds
+Thou mad'st thine enemies shake, as if the World
+Were Feauorous, and did tremble.
+Enter Martius bleeding, assaulted by the Enemy.
+
+  1.Sol. Looke Sir
+
+   Lar. O 'tis Martius.
+Let's fetch him off, or make remaine alike.
+
+They fight, and all enter the City.
+
+Enter certaine Romanes with spoiles.
+
+  1.Rom. This will I carry to Rome
+
+   2.Rom. And I this
+
+   3.Rom. A Murrain on't, I tooke this for Siluer.
+
+Exeunt.
+
+Alarum continues still a-farre off.
+
+Enter Martius, and Titus with a Trumpet.
+
+  Mar. See heere these mouers, that do prize their hours
+At a crack'd Drachme: Cushions, Leaden Spoones,
+Irons of a Doit, Dublets that Hangmen would
+Bury with those that wore them. These base slaues,
+Ere yet the fight be done, packe vp, downe with them.
+And harke, what noyse the Generall makes: To him
+There is the man of my soules hate, Auffidious,
+Piercing our Romanes: Then Valiant Titus take
+Conuenient Numbers to make good the City,
+Whil'st I with those that haue the spirit, wil haste
+To helpe Cominius
+
+   Lar. Worthy Sir, thou bleed'st,
+Thy exercise hath bin too violent,
+For a second course of Fight
+
+   Mar. Sir, praise me not:
+My worke hath yet not warm'd me. Fare you well:
+The blood I drop, is rather Physicall
+Then dangerous to me: To Auffidious thus, I will appear and fight
+
+   Lar. Now the faire Goddesse Fortune,
+Fall deepe in loue with thee, and her great charmes
+Misguide thy Opposers swords, Bold Gentleman:
+Prosperity be thy Page
+
+   Mar. Thy Friend no lesse,
+Then those she placeth highest: So farewell
+
+   Lar. Thou worthiest Martius,
+Go sound thy Trumpet in the Market place,
+Call thither all the Officers a'th' Towne,
+Where they shall know our minde. Away.
+
+Exeunt.
+
+Enter Cominius as it were in retire, with soldiers.
+
+  Com. Breath you my friends, wel fought, we are come off,
+Like Romans, neither foolish in our stands,
+Nor Cowardly in retyre: Beleeue me Sirs,
+We shall be charg'd againe. Whiles we haue strooke
+By Interims and conueying gusts, we haue heard
+The Charges of our Friends. The Roman Gods,
+Leade their successes, as we wish our owne,
+That both our powers, with smiling Fronts encountring,
+May giue you thankfull Sacrifice. Thy Newes?
+Enter a Messenger.
+
+  Mess. The Cittizens of Corioles haue yssued,
+And giuen to Lartius and to Martius Battaile:
+I saw our party to their Trenches driuen,
+And then I came away
+
+   Com. Though thou speakest truth,
+Me thinkes thou speak'st not well. How long is't since?
+  Mes. Aboue an houre, my Lord
+
+   Com. 'Tis not a mile: briefely we heard their drummes.
+How could'st thou in a mile confound an houre,
+And bring thy Newes so late?
+  Mes. Spies of the Volces
+Held me in chace, that I was forc'd to wheele
+Three or foure miles about, else had I sir
+Halfe an houre since brought my report.
+Enter Martius.
+
+  Com. Whose yonder,
+That doe's appeare as he were Flead? O Gods,
+He has the stampe of Martius, and I haue
+Before time seene him thus
+
+   Mar. Come I too late?
+  Com. The Shepherd knowes not Thunder fro[m] a Taber,
+More then I know the sound of Martius Tongue
+From euery meaner man
+
+   Martius. Come I too late?
+  Com. I, if you come not in the blood of others,
+But mantled in your owne
+
+   Mart. Oh! let me clip ye
+In Armes as sound, as when I woo'd in heart;
+As merry, as when our Nuptiall day was done,
+And Tapers burnt to Bedward
+
+   Com. Flower of Warriors, how is't with Titus Lartius?
+  Mar. As with a man busied about Decrees:
+Condemning some to death, and some to exile,
+Ransoming him, or pittying, threatning th' other;
+Holding Corioles in the name of Rome,
+Euen like a fawning Grey-hound in the Leash,
+To let him slip at will
+
+   Com. Where is that Slaue
+Which told me they had beate you to your Trenches?
+Where is he? Call him hither
+
+   Mar. Let him alone,
+He did informe the truth: but for our Gentlemen,
+The common file, (a plague-Tribunes for them)
+The Mouse ne're shunn'd the Cat, as they did budge
+From Rascals worse then they
+
+   Com. But how preuail'd you?
+  Mar. Will the time serue to tell, I do not thinke:
+Where is the enemy? Are you Lords a'th Field?
+If not, why cease you till you are so?
+  Com. Martius, we haue at disaduantage fought,
+And did retyre to win our purpose
+
+   Mar. How lies their Battell? Know you on w side
+They haue plac'd their men of trust?
+  Com. As I guesse Martius,
+Their Bands i'th Vaward are the Antients
+Of their best trust: O're them Auffidious,
+Their very heart of Hope
+
+   Mar. I do beseech you,
+By all the Battailes wherein we haue fought,
+By th' Blood we haue shed together,
+By th' Vowes we haue made
+To endure Friends, that you directly set me
+Against Affidious, and his Antiats,
+And that you not delay the present (but
+Filling the aire with Swords aduanc'd) and Darts,
+We proue this very houre
+
+   Com. Though I could wish,
+You were conducted to a gentle Bath,
+And Balmes applyed to you, yet dare I neuer
+Deny your asking, take your choice of those
+That best can ayde your action
+
+   Mar. Those are they
+That most are willing; if any such be heere,
+(As it were sinne to doubt) that loue this painting
+Wherein you see me smear'd, if any feare
+Lessen his person, then an ill report:
+If any thinke, braue death out-weighes bad life,
+And that his Countries deerer then himselfe,
+Let him alone: Or so many so minded,
+Waue thus to expresse his disposition,
+And follow Martius.
+
+They all shout and waue their swords, take him vp in their Armes,
+and cast
+vp their Caps.
+
+Oh me alone, make you a sword of me:
+If these shewes be not outward, which of you
+But is foure Volces? None of you, but is
+Able to beare against the great Auffidious
+A Shield, as hard as his. A certaine number
+(Though thankes to all) must I select from all:
+The rest shall beare the businesse in some other fight
+(As cause will be obey'd:) please you to March,
+And foure shall quickly draw out my Command,
+Which men are best inclin'd
+
+   Com. March on my Fellowes:
+Make good this ostentation, and you shall
+Diuide in all, with vs.
+
+Exeunt.
+
+Titus Lartius, hauing set a guard vpon Carioles, going with Drum
+and
+Trumpet toward Cominius, and Caius Martius, Enters with a
+Lieutenant,
+other Souldiours, and a Scout.
+
+  Lar. So, let the Ports be guarded; keepe your Duties
+As I haue set them downe. If I do send, dispatch
+Those Centuries to our ayd, the rest will serue
+For a short holding, if we loose the Field,
+We cannot keepe the Towne
+
+   Lieu. Feare not our care Sir
+
+   Lart. Hence; and shut your gates vpon's:
+Our Guider come, to th' Roman Campe conduct vs.
+
+Exit
+
+Alarum, as in Battaile.
+
+Enter Martius and Auffidius at seueral doores.
+
+  Mar. Ile fight with none but thee, for I do hate thee
+Worse then a Promise-breaker
+
+   Auffid. We hate alike:
+Not Affricke ownes a Serpent I abhorre
+More then thy Fame and Enuy: Fix thy foot
+
+   Mar. Let the first Budger dye the others Slaue,
+And the Gods doome him after
+
+   Auf. If I flye Martius, hollow me like a Hare
+
+   Mar. Within these three houres Tullus
+Alone I fought in your Corioles walles,
+And made what worke I pleas'd: 'Tis not my blood,
+Wherein thou seest me maskt, for thy Reuenge
+Wrench vp thy power to th' highest
+
+   Auf. Wer't thou the Hector,
+That was the whip of your bragg'd Progeny,
+Thou should'st not scape me heere.
+
+Heere they fight, and certaine Volces come in the ayde of Auffi.
+Martius
+fights til they be driuen in breathles.
+
+Officious and not valiant, you haue sham'd me
+In your condemned Seconds.
+
+Flourish. Alarum. A Retreat is sounded. Enter at one Doore
+Cominius, with
+the Romanes: At another Doore Martius, with his Arme in a
+Scarfe.
+
+  Com. If I should tell thee o're this thy dayes Worke,
+Thou't not beleeue thy deeds: but Ile report it,
+Where Senators shall mingle teares with smiles,
+Where great Patricians shall attend, and shrug,
+I'th' end admire: where Ladies shall be frighted,
+And gladly quak'd, heare more: where the dull Tribunes,
+That with the fustie Plebeans, hate thine Honors,
+Shall say against their hearts, We thanke the Gods
+Our Rome hath such a Souldier.
+Yet cam'st thou to a Morsell of this Feast,
+Hauing fully din'd before.
+Enter Titus with his Power, from the Pursuit.
+
+  Titus Lartius. Oh Generall:
+Here is the Steed, wee the Caparison:
+Hadst thou beheld-
+  Martius. Pray now, no more:
+My Mother, who ha's a Charter to extoll her Bloud,
+When she do's prayse me, grieues me:
+I haue done as you haue done, that's what I can,
+Induc'd as you haue beene, that's for my Countrey:
+He that ha's but effected his good will,
+Hath ouerta'ne mine Act
+
+   Com. You shall not be the Graue of your deseruing,
+Rome must know the value of her owne:
+'Twere a Concealement worse then a Theft,
+No lesse then a Traducement,
+To hide your doings, and to silence that,
+Which to the spire, and top of prayses vouch'd,
+Would seeme but modest: therefore I beseech you,
+In signe of what you are, not to reward
+What you haue done, before our Armie heare me
+
+   Martius. I haue some Wounds vpon me, and they smart
+To heare themselues remembred
+
+   Com. Should they not:
+Well might they fester 'gainst Ingratitude,
+And tent themselues with death: of all the Horses,
+Whereof we haue ta'ne good, and good store of all,
+The Treasure in this field atchieued, and Citie,
+We render you the Tenth, to be ta'ne forth,
+Before the common distribution,
+At your onely choyse
+
+   Martius. I thanke you Generall:
+But cannot make my heart consent to take
+A Bribe, to pay my Sword: I doe refuse it,
+And stand vpon my common part with those,
+That haue beheld the doing.
+
+A long flourish. They all cry, Martius, Martius, cast vp their Caps
+and
+Launces: Cominius and Lartius stand bare.
+
+  Mar. May these same Instruments, which you prophane,
+Neuer sound more: when Drums and Trumpets shall
+I'th' field proue flatterers, let Courts and Cities be
+Made all of false-fac'd soothing:
+When Steele growes soft, as the Parasites Silke,
+Let him be made an Ouerture for th' Warres:
+No more I say, for that I haue not wash'd
+My Nose that bled, or foyl'd some debile Wretch,
+Which without note, here's many else haue done,
+You shoot me forth in acclamations hyperbolicall,
+As if I lou'd my little should be dieted
+In prayses, sawc'st with Lyes
+
+   Com. Too modest are you:
+More cruell to your good report, then gratefull
+To vs, that giue you truly: by your patience,
+If 'gainst your selfe you be incens'd, wee'le put you
+(Like one that meanes his proper harme) in Manacles,
+Then reason safely with you: Therefore be it knowne,
+As to vs, to all the World, That Caius Martius
+Weares this Warres Garland: in token of the which,
+My Noble Steed, knowne to the Campe, I giue him,
+With all his trim belonging; and from this time,
+For what he did before Corioles, call him,
+With all th' applause and Clamor of the Hoast,
+Marcus Caius Coriolanus. Beare th' addition Nobly euer?
+Flourish. Trumpets sound, and Drums.
+
+  Omnes. Marcus Caius Coriolanus
+
+   Martius. I will goe wash:
+And when my Face is faire, you shall perceiue
+Whether I blush or no: howbeit, I thanke you,
+I meane to stride your Steed, and at all times
+To vnder-crest your good Addition,
+To th' fairenesse of my power
+
+   Com. So, to our Tent:
+Where ere we doe repose vs, we will write
+To Rome of our successe: you Titus Lartius
+Must to Corioles backe, send vs to Rome
+The best, with whom we may articulate,
+For their owne good, and ours
+
+   Lartius. I shall, my Lord
+
+   Martius. The Gods begin to mocke me:
+I that now refus'd most Princely gifts,
+Am bound to begge of my Lord Generall
+
+   Com. Tak't, 'tis yours: what is't?
+  Martius. I sometime lay here in Corioles,
+At a poore mans house: he vs'd me kindly,
+He cry'd to me: I saw him Prisoner:
+But then Auffidius was within my view,
+And Wrath o're-whelm'd my pittie: I request you
+To giue my poore Host freedome
+
+   Com. Oh well begg'd:
+Were he the Butcher of my Sonne, he should
+Be free, as is the Winde: deliuer him, Titus
+
+   Lartius. Martius, his Name
+
+   Martius. By Iupiter forgot:
+I am wearie, yea, my memorie is tyr'd:
+Haue we no Wine here?
+  Com. Goe we to our Tent:
+The bloud vpon your Visage dryes, 'tis time
+It should be lookt too: come.
+
+Exeunt.
+
+A flourish. Cornets. Enter Tullus Auffidius bloudie, with two or
+three
+Souldiors.
+
+  Auffi. The Towne is ta'ne
+
+   Sould. 'Twill be deliuer'd backe on good Condition
+
+   Auffid. Condition?
+I would I were a Roman, for I cannot,
+Being a Volce, be that I am. Condition?
+What good Condition can a Treatie finde
+I'th' part that is at mercy? fiue times, Martius,
+I haue fought with thee; so often hast thou beat me:
+And would'st doe so, I thinke, should we encounter
+As often as we eate. By th' Elements,
+If ere againe I meet him beard to beard,
+He's mine, or I am his: Mine Emulation
+Hath not that Honor in't it had: For where
+I thought to crush him in an equall Force,
+True Sword to Sword: Ile potche at him some way,
+Or Wrath, or Craft may get him
+
+   Sol. He's the diuell
+
+   Auf. Bolder, though not so subtle: my valors poison'd,
+With onely suff'ring staine by him: for him
+Shall flye out of it selfe, nor sleepe, nor sanctuary,
+Being naked, sicke; nor Phane, nor Capitoll,
+The Prayers of Priests, nor times of Sacrifice:
+Embarquements all of Fury, shall lift vp
+Their rotten Priuiledge, and Custome 'gainst
+My hate to Martius. Where I finde him, were it
+At home, vpon my Brothers Guard, euen there
+Against the hospitable Canon, would I
+Wash my fierce hand in's heart. Go you to th' Citie,
+Learne how 'tis held, and what they are that must
+Be Hostages for Rome
+
+   Soul. Will not you go?
+  Auf. I am attended at the Cyprus groue. I pray you
+('Tis South the City Mils) bring me word thither
+How the world goes: that to the pace of it
+I may spurre on my iourney
+
+   Soul. I shall sir.
+
+Actus Secundus.
+
+
+Enter Menenius with the two Tribunes of the people, Sicinius &
+Brutus.
+
+  Men. The Agurer tels me, wee shall haue Newes to
+night
+
+   Bru. Good or bad?
+  Men. Not according to the prayer of the people, for
+they loue not Martius
+
+   Sicin. Nature teaches Beasts to know their Friends
+
+   Men. Pray you, who does the Wolfe loue?
+  Sicin. The Lambe
+
+   Men. I, to deuour him, as the hungry Plebeians would
+the Noble Martius
+
+   Bru. He's a Lambe indeed, that baes like a Beare
+
+   Men. Hee's a Beare indeede, that liues like a Lambe.
+You two are old men, tell me one thing that I shall aske
+you
+
+   Both. Well sir
+
+   Men. In what enormity is Martius poore in, that you
+two haue not in abundance?
+  Bru. He's poore in no one fault, but stor'd withall
+
+   Sicin. Especially in Pride
+
+   Bru. And topping all others in boasting
+
+   Men. This is strange now: Do you two know, how
+you are censured heere in the City, I mean of vs a'th' right
+hand File, do you?
+  Both. Why? how are we censur'd?
+  Men. Because you talke of Pride now, will you not
+be angry
+
+   Both. Well, well sir, well
+
+   Men. Why 'tis no great matter: for a very little theefe
+of Occasion, will rob you of a great deale of Patience:
+Giue your dispositions the reines, and bee angry at your
+pleasures (at the least) if you take it as a pleasure to you, in
+being so: you blame Martius for being proud
+
+   Brut. We do it not alone, sir
+
+   Men. I know you can doe very little alone, for your
+helpes are many, or else your actions would growe wondrous
+single: your abilities are to Infant-like, for dooing
+much alone. You talke of Pride: Oh, that you could turn
+your eyes toward the Napes of your neckes, and make
+but an Interiour suruey of your good selues. Oh that you
+could
+
+   Both. What then sir?
+  Men. Why then you should discouer a brace of vnmeriting,
+proud, violent, testie Magistrates (alias Fooles)
+as any in Rome
+
+   Sicin. Menenius, you are knowne well enough too
+
+   Men. I am knowne to be a humorous Patritian, and
+one that loues a cup of hot Wine, with not a drop of alaying
+Tiber in't: Said, to be something imperfect in fauouring
+the first complaint, hasty and Tinder-like vppon, to
+triuiall motion: One, that conuerses more with the Buttocke
+of the night, then with the forhead of the morning.
+What I think, I vtter, and spend my malice in my breath.
+Meeting two such Weales men as you are (I cannot call
+you Licurgusses,) if the drinke you giue me, touch my Palat
+aduersly, I make a crooked face at it, I can say, your
+Worshippes haue deliuer'd the matter well, when I finde
+the Asse in compound, with the Maior part of your syllables.
+And though I must be content to beare with those,
+that say you are reuerend graue men, yet they lye deadly,
+that tell you haue good faces, if you see this in the Map
+of my Microcosme, followes it that I am knowne well enough
+too? What harme can your beesome Conspectuities
+gleane out of this Charracter, if I be knowne well enough
+too
+
+   Bru. Come sir come, we know you well enough
+
+   Menen. You know neither mee, your selues, nor any
+thing: you are ambitious, for poore knaues cappes and
+legges: you weare out a good wholesome Forenoone, in
+hearing a cause betweene an Orendge wife, and a Forfetseller,
+and then reiourne the Controuersie of three-pence
+to a second day of Audience. When you are hearing a
+matter betweene party and party, if you chaunce to bee
+pinch'd with the Collike, you make faces like Mummers,
+set vp the bloodie Flagge against all Patience, and
+in roaring for a Chamber-pot, dismisse the Controuersie
+bleeding, the more intangled by your hearing: All the
+peace you make in their Cause, is calling both the parties
+Knaues. You are a payre of strange ones
+
+   Bru. Come, come, you are well vnderstood to bee a
+perfecter gyber for the Table, then a necessary Bencher in
+the Capitoll
+
+   Men. Our very Priests must become Mockers, if they
+shall encounter such ridiculous Subiects as you are, when
+you speake best vnto the purpose. It is not woorth the
+wagging of your Beards, and your Beards deserue not so
+honourable a graue, as to stuffe a Botchers Cushion, or to
+be intomb'd in an Asses Packe-saddle; yet you must bee
+saying, Martius is proud: who in a cheape estimation, is
+worth all your predecessors, since Deucalion, though peraduenture
+some of the best of 'em were hereditarie hangmen.
+Godden to your Worships, more of your conuersation
+would infect my Braine, being the Heardsmen of
+the Beastly Plebeans. I will be bold to take my leaue of
+you.
+
+Bru. and Scic. Aside.
+
+Enter Volumnia, Virgilia, and Valeria.
+
+How now (my as faire as Noble) Ladyes, and the Moone
+were shee Earthly, no Nobler; whither doe you follow
+your Eyes so fast?
+  Volum. Honorable Menenius, my Boy Martius approches:
+for the loue of Iuno let's goe
+
+   Menen. Ha? Martius comming home?
+  Volum. I, worthy Menenius, and with most prosperous
+approbation
+
+   Menen. Take my Cappe Iupiter, and I thanke thee:
+hoo, Martius comming home?
+  2.Ladies. Nay, 'tis true
+
+   Volum. Looke, here's a Letter from him, the State hath
+another, his Wife another, and (I thinke) there's one at
+home for you
+
+   Menen. I will make my very house reele to night:
+A Letter for me?
+  Virgil. Yes certaine, there's a Letter for you, I saw't
+
+   Menen. A Letter for me? it giues me an Estate of seuen
+yeeres health; in which time, I will make a Lippe at
+the Physician: The most soueraigne Prescription in Galen,
+is but Emperickqutique; and to this Preseruatiue, of no
+better report then a Horse-drench. Is he not wounded?
+he was wont to come home wounded?
+  Virgil. Oh no, no, no
+
+   Volum. Oh, he is wounded, I thanke the Gods for't
+
+   Menen. So doe I too, if it be not too much: brings a
+Victorie in his Pocket? the wounds become him
+
+   Volum. On's Browes: Menenius, hee comes the third
+time home with the Oaken Garland
+
+   Menen. Ha's he disciplin'd Auffidius soundly?
+  Volum. Titus Lartius writes, they fought together, but
+Auffidius got off
+
+   Menen. And 'twas time for him too, Ile warrant him
+that: and he had stay'd by him, I would not haue been so
+fiddious'd, for all the Chests in Carioles, and the Gold
+that's in them. Is the Senate possest of this?
+  Volum. Good Ladies let's goe. Yes, yes, yes: The
+Senate ha's Letters from the Generall, wherein hee giues
+my Sonne the whole Name of the Warre: he hath in this
+action out-done his former deeds doubly
+
+   Valer. In troth, there's wondrous things spoke of him
+
+   Menen. Wondrous: I, I warrant you, and not without
+his true purchasing
+
+   Virgil. The Gods graunt them true
+
+   Volum. True? pow waw
+
+   Mene. True? Ile be sworne they are true: where is
+hee wounded, God saue your good Worships? Martius
+is comming home: hee ha's more cause to be prowd:
+where is he wounded?
+  Volum. Ith' Shoulder, and ith' left Arme: there will be
+large Cicatrices to shew the People, when hee shall stand
+for his place: he receiued in the repulse of Tarquin seuen
+hurts ith' Body
+
+   Mene. One ith' Neck, and two ith' Thigh, there's nine
+that I know
+
+   Volum. Hee had, before this last Expedition, twentie
+fiue Wounds vpon him
+
+   Mene. Now it's twentie seuen; euery gash was an
+Enemies Graue. Hearke, the Trumpets.
+
+A showt, and flourish.
+
+  Volum. These are the Vshers of Martius:
+Before him, hee carryes Noyse;
+And behinde him, hee leaues Teares:
+Death, that darke Spirit, in's neruie Arme doth lye,
+Which being aduanc'd, declines, and then men dye.
+
+A Sennet. Trumpets sound. Enter Cominius the Generall, and Titus
+Latius:
+betweene them Coriolanus, crown'd with an Oaken Garland, with
+Captaines and
+Souldiers, and a Herauld.
+
+  Herauld. Know Rome, that all alone Martius did fight
+Within Corioles Gates: where he hath wonne,
+With Fame, a Name to Martius Caius:
+These in honor followes Martius Caius Coriolanus.
+Welcome to Rome, renowned Coriolanus.
+
+Sound. Flourish.
+
+  All. Welcome to Rome, renowned Coriolanus
+
+   Coriol. No more of this, it does offend my heart: pray
+now no more
+
+   Com. Looke, Sir, your Mother
+
+   Coriol. Oh! you haue, I know, petition'd all the Gods
+for my prosperitie.
+
+Kneeles.
+
+  Volum. Nay, my good Souldier, vp:
+My gentle Martius, worthy Caius,
+And by deed-atchieuing Honor newly nam'd,
+What is it (Coriolanus) must I call thee?
+But oh, thy Wife
+
+   Corio. My gracious silence, hayle:
+Would'st thou haue laugh'd, had I come Coffin'd home,
+That weep'st to see me triumph? Ah my deare,
+Such eyes the Widowes in Carioles were,
+And Mothers that lacke Sonnes
+
+   Mene. Now the Gods Crowne thee
+
+   Com. And liue you yet? Oh my sweet Lady, pardon
+
+   Volum. I know not where to turne.
+Oh welcome home: and welcome Generall,
+And y'are welcome all
+
+   Mene. A hundred thousand Welcomes:
+I could weepe, and I could laugh,
+I am light, and heauie; welcome:
+A Curse begin at very root on's heart,
+That is not glad to see thee.
+You are three, that Rome should dote on:
+Yet by the faith of men, we haue
+Some old Crab-trees here at home,
+That will not be grafted to your Rallish.
+Yet welcome Warriors:
+Wee call a Nettle, but a Nettle;
+And the faults of fooles, but folly
+
+   Com. Euer right
+
+   Cor. Menenius, euer, euer
+
+   Herauld. Giue way there, and goe on
+
+   Cor. Your Hand, and yours?
+Ere in our owne house I doe shade my Head,
+The good Patricians must be visited,
+From whom I haue receiu'd not onely greetings,
+But with them, change of Honors
+
+   Volum. I haue liued,
+To see inherited my very Wishes,
+And the Buildings of my Fancie:
+Onely there's one thing wanting,
+Which (I doubt not) but our Rome
+Will cast vpon thee
+
+   Cor. Know, good Mother,
+I had rather be their seruant in my way,
+Then sway with them in theirs
+
+   Com. On, to the Capitall.
+Flourish. Cornets.
+
+Exeunt. in State, as before.
+
+Enter Brutus and Scicinius
+
+  Bru. All tongues speake of him, and the bleared sights
+Are spectacled to see him. Your pratling Nurse
+Into a rapture lets her Baby crie,
+While she chats him: the Kitchin Malkin pinnes
+Her richest Lockram 'bout her reechie necke,
+Clambring the Walls to eye him:
+Stalls, Bulkes, Windowes, are smother'd vp,
+Leades fill'd, and Ridges hors'd
+With variable Complexions; all agreeing
+In earnestnesse to see him: seld-showne Flamins
+Doe presse among the popular Throngs, and puffe
+To winne a vulgar station: our veyl'd Dames
+Commit the Warre of White and Damaske
+In their nicely gawded Cheekes, toth' wanton spoyle
+Of Phoebus burning Kisses: such a poother,
+As if that whatsoeuer God, who leades him,
+Were slyly crept into his humane powers,
+And gaue him gracefull posture
+
+   Scicin. On the suddaine, I warrant him Consull
+
+   Brutus. Then our Office may, during his power, goe
+sleepe
+
+   Scicin. He cannot temp'rately transport his Honors,
+From where he should begin, and end, but will
+Lose those he hath wonne
+
+   Brutus. In that there's comfort
+
+   Scici. Doubt not,
+The Commoners, for whom we stand, but they
+Vpon their ancient mallice, will forget
+With the least cause, these his new Honors,
+Which that he will giue them, make I as little question,
+As he is prowd to doo't
+
+   Brutus. I heard him sweare,
+Were he to stand for Consull, neuer would he
+Appeare i'th' Market place, nor on him put
+The Naples Vesture of Humilitie,
+Nor shewing (as the manner is) his Wounds
+Toth' People, begge their stinking Breaths
+
+   Scicin. 'Tis right
+
+   Brutus. It was his word:
+Oh he would misse it, rather then carry it,
+But by the suite of the Gentry to him,
+And the desire of the Nobles
+
+   Scicin. I wish no better, then haue him hold that purpose,
+and to put it in execution
+
+   Brutus. 'Tis most like he will
+
+   Scicin. It shall be to him then, as our good wills; a
+sure destruction
+
+   Brutus. So it must fall out
+To him, or our Authorities, for an end.
+We must suggest the People, in what hatred
+He still hath held them: that to's power he would
+Haue made them Mules, silenc'd their Pleaders,
+And dispropertied their Freedomes; holding them,
+In humane Action, and Capacitie,
+Of no more Soule, nor fitnesse for the World,
+Then Cammels in their Warre, who haue their Prouand
+Onely for bearing Burthens, and sore blowes
+For sinking vnder them
+
+   Scicin. This (as you say) suggested,
+At some time, when his soaring Insolence
+Shall teach the People, which time shall not want,
+If he be put vpon't, and that's as easie,
+As to set Dogges on Sheepe, will be his fire
+To kindle their dry Stubble: and their Blaze
+Shall darken him for euer.
+Enter a Messenger.
+
+  Brutus. What's the matter?
+  Mess. You are sent for to the Capitoll:
+'Tis thought, that Martius shall be Consull:
+I haue seene the dumbe men throng to see him,
+And the blind to heare him speak: Matrons flong Gloues,
+Ladies and Maids their Scarffes, and Handkerchers,
+Vpon him as he pass'd: the Nobles bended
+As to Ioues Statue, and the Commons made
+A Shower, and Thunder, with their Caps, and Showts:
+I neuer saw the like
+
+   Brutus. Let's to the Capitoll,
+And carry with vs Eares and Eyes for th' time,
+But Hearts for the euent
+
+   Scicin. Haue with you.
+
+Exeunt.
+
+Enter two Officers, to lay Cushions, as it were, in the Capitoll.
+
+  1.Off. Come, come, they are almost here: how many
+stand for Consulships?
+  2.Off. Three, they say: but 'tis thought of euery one,
+Coriolanus will carry it
+
+   1.Off. That's a braue fellow: but hee's vengeance
+prowd, and loues not the common people
+
+   2.Off. 'Faith, there hath beene many great men that
+haue flatter'd the people, who ne're loued them; and there
+be many that they haue loued, they know not wherefore:
+so that if they loue they know not why, they hate vpon
+no better a ground. Therefore, for Coriolanus neyther to
+care whether they loue, or hate him, manifests the true
+knowledge he ha's in their disposition, and out of his Noble
+carelesnesse lets them plainely see't
+
+   1.Off. If he did not care whether he had their loue, or
+no, hee waued indifferently, 'twixt doing them neyther
+good, nor harme: but hee seekes their hate with greater
+deuotion, then they can render it him; and leaues nothing
+vndone, that may fully discouer him their opposite. Now
+to seeme to affect the mallice and displeasure of the People,
+is as bad, as that which he dislikes, to flatter them for
+their loue
+
+   2.Off. Hee hath deserued worthily of his Countrey,
+and his assent is not by such easie degrees as those, who
+hauing beene supple and courteous to the People, Bonnetted,
+without any further deed, to haue them at all into
+their estimation, and report: but hee hath so planted his
+Honors in their Eyes, and his actions in their Hearts, that
+for their Tongues to be silent, and not confesse so much,
+were a kinde of ingratefull Iniurie: to report otherwise,
+were a Mallice, that giuing it selfe the Lye, would plucke
+reproofe and rebuke from euery Eare that heard it
+
+   1.Off. No more of him, hee's a worthy man: make
+way, they are comming.
+
+A Sennet. Enter the Patricians, and the Tribunes of the People,
+Lictors
+before them: Coriolanus, Menenius, Cominius the Consul:
+Scicinius and
+Brutus take their places by themselues: Coriolanus stands.
+
+  Menen. Hauing determin'd of the Volces,
+And to send for Titus Lartius: it remaines,
+As the maine Point of this our after-meeting,
+To gratifie his Noble seruice, that hath
+Thus stood for his Countrey. Therefore please you,
+Most reuerend and graue Elders, to desire
+The present Consull, and last Generall,
+In our well-found Successes, to report
+A little of that worthy Worke, perform'd
+By Martius Caius Coriolanus: whom
+We met here, both to thanke, and to remember,
+With Honors like himselfe
+
+   1.Sen. Speake, good Cominius:
+Leaue nothing out for length, and make vs thinke
+Rather our states defectiue for requitall,
+Then we to stretch it out. Masters a'th' People,
+We doe request your kindest eares: and after
+Your louing motion toward the common Body,
+To yeeld what passes here
+
+   Scicin. We are conuented vpon a pleasing Treatie, and
+haue hearts inclinable to honor and aduance the Theame
+of our Assembly
+
+   Brutus. Which the rather wee shall be blest to doe, if
+he remember a kinder value of the People, then he hath
+hereto priz'd them at
+
+   Menen. That's off, that's off: I would you rather had
+been silent: Please you to heare Cominius speake?
+  Brutus. Most willingly: but yet my Caution was
+more pertinent then the rebuke you giue it
+
+   Menen. He loues your People, but tye him not to be
+their Bed-fellow: Worthie Cominius speake.
+
+Coriolanus rises, and offers to goe away.
+
+Nay, keepe your place
+
+   Senat. Sit Coriolanus: neuer shame to heare
+What you haue Nobly done
+
+   Coriol. Your Honors pardon:
+I had rather haue my Wounds to heale againe,
+Then heare say how I got them
+
+   Brutus. Sir, I hope my words dis-bench'd you not?
+  Coriol. No Sir: yet oft,
+When blowes haue made me stay, I fled from words.
+You sooth'd not, therefore hurt not: but your People,
+I loue them as they weigh-
+  Menen. Pray now sit downe
+
+   Corio. I had rather haue one scratch my Head i'th' Sun,
+When the Alarum were strucke, then idly sit
+To heare my Nothings monster'd.
+Exit Coriolanus
+
+  Menen. Masters of the People,
+Your multiplying Spawne, how can he flatter?
+That's thousand to one good one, when you now see
+He had rather venture all his Limbes for Honor,
+Then on ones Eares to heare it. Proceed Cominius
+
+   Com. I shall lacke voyce: the deeds of Coriolanus
+Should not be vtter'd feebly: it is held,
+That Valour is the chiefest Vertue,
+And most dignifies the hauer: if it be,
+The man I speake of, cannot in the World
+Be singly counter-poys'd. At sixteene yeeres,
+When Tarquin made a Head for Rome, he fought
+Beyond the marke of others: our then Dictator,
+Whom with all prayse I point at, saw him fight,
+When with his Amazonian Shinne he droue
+The brizled Lippes before him: he bestrid
+An o're-prest Roman, and i'th' Consuls view
+Slew three Opposers: Tarquins selfe he met,
+And strucke him on his Knee: in that dayes feates,
+When he might act the Woman in the Scene,
+He prou'd best man i'th' field, and for his meed
+Was Brow-bound with the Oake. His Pupill age
+Man-entred thus, he waxed like a Sea,
+And in the brunt of seuenteene Battailes since,
+He lurcht all Swords of the Garland: for this last,
+Before, and in Corioles, let me say
+I cannot speake him home: he stopt the flyers,
+And by his rare example made the Coward
+Turne terror into sport: as Weeds before
+A Vessell vnder sayle, so men obey'd,
+And fell below his Stem: his Sword, Deaths stampe,
+Where it did marke, it tooke from face to foot:
+He was a thing of Blood, whose euery motion
+Was tim'd with dying Cryes: alone he entred
+The mortall Gate of th' Citie, which he painted
+With shunlesse destinie: aydelesse came off,
+And with a sudden re-inforcement strucke
+Carioles like a Planet: now all's his,
+When by and by the dinne of Warre gan pierce
+His readie sence: then straight his doubled spirit
+Requickned what in flesh was fatigate,
+And to the Battaile came he, where he did
+Runne reeking o're the liues of men, as if 'twere
+A perpetuall spoyle: and till we call'd
+Both Field and Citie ours, he neuer stood
+To ease his Brest with panting
+
+   Menen. Worthy man
+
+   Senat. He cannot but with measure fit the Honors
+which we deuise him
+
+   Com. Our spoyles he kickt at,
+And look'd vpon things precious, as they were
+The common Muck of the World: he couets lesse
+Then Miserie it selfe would giue, rewards his deeds
+With doing them, and is content
+To spend the time, to end it
+
+   Menen. Hee's right Noble, let him be call'd for
+
+   Senat. Call Coriolanus
+
+   Off. He doth appeare.
+Enter Coriolanus.
+
+  Menen. The Senate, Coriolanus, are well pleas'd to make
+thee Consull
+
+   Corio. I doe owe them still my Life, and Seruices
+
+   Menen. It then remaines, that you doe speake to the
+People
+
+   Corio. I doe beseech you,
+Let me o're-leape that custome: for I cannot
+Put on the Gowne, stand naked, and entreat them
+For my Wounds sake, to giue their sufferage:
+Please you that I may passe this doing
+
+   Scicin. Sir, the People must haue their Voyces,
+Neyther will they bate one iot of Ceremonie
+
+   Menen. Put them not too't:
+Pray you goe fit you to the Custome,
+And take to you, as your Predecessors haue,
+Your Honor with your forme
+
+   Corio. It is a part that I shall blush in acting,
+And might well be taken from the People
+
+   Brutus. Marke you that
+
+   Corio. To brag vnto them, thus I did, and thus
+Shew them th' vnaking Skarres, which I should hide,
+As if I had receiu'd them for the hyre
+Of their breath onely
+
+   Menen. Doe not stand vpon't:
+We recommend to you Tribunes of the People
+Our purpose to them, and to our Noble Consull
+Wish we all Ioy, and Honor
+
+   Senat. To Coriolanus come all ioy and Honor.
+Flourish Cornets. Then Exeunt. Manet Sicinius and Brutus.
+
+  Bru. You see how he intends to vse the people
+
+   Scicin. May they perceiue's intent: he wil require them
+As if he did contemne what he requested,
+Should be in them to giue
+
+   Bru. Come, wee'l informe them
+Of our proceedings heere on th' Market place,
+I know they do attend vs.
+Enter seuen or eight Citizens.
+
+  1.Cit. Once if he do require our voyces, wee ought
+not to deny him
+
+   2.Cit. We may Sir if we will
+
+   3.Cit. We haue power in our selues to do it, but it is
+a power that we haue no power to do: For, if hee shew vs
+his wounds, and tell vs his deeds, we are to put our tongues
+into those wounds, and speake for them: So if he tel
+vs his Noble deeds, we must also tell him our Noble acceptance
+of them. Ingratitude is monstrous, and for the
+multitude to be ingratefull, were to make a Monster of
+the multitude; of the which, we being members, should
+bring our selues to be monstrous members
+
+   1.Cit. And to make vs no better thought of a little
+helpe will serue: for once we stood vp about the Corne,
+he himselfe stucke not to call vs the many-headed Multitude
+
+   3.Cit. We haue beene call'd so of many, not that our
+heads are some browne, some blacke, some Abram, some
+bald; but that our wits are so diuersly Coulord; and truely
+I thinke, if all our wittes were to issue out of one Scull,
+they would flye East, West, North, South, and their consent
+of one direct way, should be at once to all the points
+a'th Compasse
+
+   2.Cit. Thinke you so? Which way do you iudge my
+wit would flye
+
+   3.Cit. Nay your wit will not so soone out as another
+mans will, 'tis strongly wadg'd vp in a blocke-head: but
+if it were at liberty, 'twould sure Southward
+
+   2 Cit. Why that way?
+  3 Cit. To loose it selfe in a Fogge, where being three
+parts melted away with rotten Dewes, the fourth would
+returne for Conscience sake, to helpe to get thee a Wife
+
+   2 Cit. You are neuer without your trickes, you may,
+you may
+
+   3 Cit. Are you all resolu'd to giue your voyces? But
+that's no matter, the greater part carries it, I say. If hee
+would incline to the people, there was neuer a worthier
+man.
+Enter Coriolanus in a gowne of Humility, with Menenius.
+
+Heere he comes, and in the Gowne of humility, marke
+his behauiour: we are not to stay altogether, but to come
+by him where he stands, by ones, by twoes, & by threes.
+He's to make his requests by particulars, wherein euerie
+one of vs ha's a single Honor, in giuing him our own voices
+with our owne tongues, therefore follow me, and Ile
+direct you how you shall go by him
+
+   All. Content, content
+
+   Men. Oh Sir, you are not right: haue you not knowne
+The worthiest men haue done't?
+  Corio. What must I say, I pray Sir?
+Plague vpon't, I cannot bring
+My tongue to such a pace. Looke Sir, my wounds,
+I got them in my Countries Seruice, when
+Some certaine of your Brethren roar'd, and ranne
+From th' noise of our owne Drummes
+
+   Menen. Oh me the Gods, you must not speak of that,
+You must desire them to thinke vpon you
+
+   Coriol. Thinke vpon me? Hang 'em,
+I would they would forget me, like the Vertues
+Which our Diuines lose by em
+
+   Men. You'l marre all,
+Ile leaue you: Pray you speake to em, I pray you
+In wholsome manner.
+
+Exit
+
+Enter three of the Citizens.
+
+  Corio. Bid them wash their Faces,
+And keepe their teeth cleane: So, heere comes a brace,
+You know the cause (Sir) of my standing heere
+
+   3 Cit. We do Sir, tell vs what hath brought you too't
+
+   Corio. Mine owne desert
+
+   2 Cit. Your owne desert
+
+   Corio. I, but mine owne desire
+
+   3 Cit. How not your owne desire?
+  Corio. No Sir, 'twas neuer my desire yet to trouble the
+poore with begging
+
+   3 Cit. You must thinke if we giue you any thing, we
+hope to gaine by you
+
+   Corio. Well then I pray, your price a'th' Consulship
+
+   1 Cit. The price is, to aske it kindly
+
+   Corio. Kindly sir, I pray let me ha't: I haue wounds to
+shew you, which shall bee yours in priuate: your good
+voice sir, what say you?
+  2 Cit. You shall ha't worthy Sir
+
+   Corio. A match Sir, there's in all two worthie voyces
+begg'd: I haue your Almes, Adieu
+
+   3 Cit. But this is something odde
+
+   2 Cit. And 'twere to giue againe: but 'tis no matter.
+
+Exeunt. Enter two other Citizens.
+
+  Coriol. Pray you now, if it may stand with the tune
+of your voices, that I may bee Consull, I haue heere the
+Customarie Gowne
+
+   1. You haue deserued Nobly of your Countrey, and
+you haue not deserued Nobly
+
+   Coriol. Your aenigma
+
+   1. You haue bin a scourge to her enemies, you haue
+bin a Rod to her Friends, you haue not indeede loued the
+Common people
+
+   Coriol. You should account mee the more Vertuous,
+that I haue not bin common in my Loue, I will sir flatter
+my sworne Brother the people to earne a deerer estimation
+of them, 'tis a condition they account gentle: & since
+the wisedome of their choice, is rather to haue my Hat,
+then my Heart, I will practice the insinuating nod, and be
+off to them most counterfetly, that is sir, I will counterfet
+the bewitchment of some popular man, and giue it
+bountifull to the desirers: Therefore beseech you, I may
+be Consull
+
+   2. Wee hope to finde you our friend: and therefore
+giue you our voices heartily
+
+   1. You haue receyued many wounds for your Countrey
+
+   Coriol. I wil not Seale your knowledge with shewing
+them. I will make much of your voyces, and so trouble
+you no farther
+
+   Both. The Gods giue you ioy Sir heartily
+
+   Coriol. Most sweet Voyces:
+Better it is to dye, better to sterue,
+Then craue the higher, which first we do deserue.
+Why in this Wooluish tongue should I stand heere,
+To begge of Hob and Dicke, that does appeere
+Their needlesse Vouches: Custome calls me too't.
+What Custome wills in all things, should we doo't?
+The Dust on antique Time would lye vnswept,
+And mountainous Error be too highly heapt,
+For Truth to o're-peere. Rather then foole it so,
+Let the high Office and the Honor go
+To one that would doe thus. I am halfe through,
+The one part suffered, the other will I doe.
+Enter three Citizens more.
+
+Here come moe Voyces.
+Your Voyces? for your Voyces I haue sought,
+Watcht for your Voyces: for your Voyces, beare
+Of Wounds, two dozen odde: Battailes thrice six
+I haue seene, and heard of: for your Voyces,
+Haue done many things, some lesse, some more:
+Your Voyces? Indeed I would be Consull
+
+   1.Cit. Hee ha's done Nobly, and cannot goe without
+any honest mans Voyce
+
+   2.Cit. Therefore let him be Consull: the Gods giue him
+ioy, and make him good friend to the People
+
+   All. Amen, Amen. God saue thee, Noble Consull
+
+   Corio. Worthy Voyces.
+Enter Menenius, with Brutus and Scicinius.
+
+  Mene. You haue stood your Limitation:
+And the Tribunes endue you with the Peoples Voyce,
+Remaines, that in th' Officiall Markes inuested,
+You anon doe meet the Senate
+
+   Corio. Is this done?
+  Scicin. The Custome of Request you haue discharg'd:
+The People doe admit you, and are summon'd
+To meet anon, vpon your approbation
+
+   Corio. Where? at the Senate-house?
+  Scicin. There, Coriolanus
+
+   Corio. May I change these Garments?
+  Scicin. You may, Sir
+
+   Cori. That Ile straight do: and knowing my selfe again,
+Repayre toth' Senatehouse
+
+   Mene. Ile keepe you company. Will you along?
+  Brut. We stay here for the People
+
+   Scicin. Fare you well.
+
+Exeunt. Coriol. and Mene.
+
+He ha's it now: and by his Lookes, me thinkes,
+'Tis warme at's heart
+
+   Brut. With a prowd heart he wore his humble Weeds:
+Will you dismisse the People?
+Enter the Plebeians.
+
+  Scici. How now, my Masters, haue you chose this man?
+  1.Cit. He ha's our Voyces, Sir
+
+   Brut. We pray the Gods, he may deserue your loues
+
+   2.Cit. Amen, Sir: to my poore vnworthy notice,
+He mock'd vs, when he begg'd our Voyces
+
+   3.Cit. Certainely, he flowted vs downe-right
+
+   1.Cit. No, 'tis his kind of speech, he did not mock vs
+
+   2.Cit. Not one amongst vs, saue your selfe, but sayes
+He vs'd vs scornefully: he should haue shew'd vs
+His Marks of Merit, Wounds receiu'd for's Countrey
+
+   Scicin. Why so he did, I am sure
+
+   All. No, no: no man saw 'em
+
+   3.Cit. Hee said hee had Wounds,
+Which he could shew in priuate:
+And with his Hat, thus wauing it in scorne,
+I would be Consull, sayes he: aged Custome,
+But by your Voyces, will not so permit me.
+Your Voyces therefore: when we graunted that,
+Here was, I thanke you for your Voyces, thanke you
+Your most sweet Voyces: now you haue left your Voyces,
+I haue no further with you. Was not this mockerie?
+  Scicin. Why eyther were you ignorant to see't?
+Or seeing it, of such Childish friendlinesse,
+To yeeld your Voyces?
+  Brut. Could you not haue told him,
+As you were lesson'd: When he had no Power,
+But was a pettie seruant to the State,
+He was your Enemie, euer spake against
+Your Liberties, and the Charters that you beare
+I'th' Body of the Weale: and now arriuing
+A place of Potencie, and sway o'th' State,
+If he should still malignantly remaine
+Fast Foe toth' Plebeij, your Voyces might
+Be Curses to your selues. You should haue said,
+That as his worthy deeds did clayme no lesse
+Then what he stood for: so his gracious nature
+Would thinke vpon you, for your Voyces,
+And translate his Mallice towards you, into Loue,
+Standing your friendly Lord
+
+   Scicin. Thus to haue said,
+As you were fore-aduis'd, had toucht his Spirit,
+And try'd his Inclination: from him pluckt
+Eyther his gracious Promise, which you might
+As cause had call'd you vp, haue held him to;
+Or else it would haue gall'd his surly nature,
+Which easily endures not Article,
+Tying him to ought, so putting him to Rage,
+You should haue ta'ne th' aduantage of his Choller,
+And pass'd him vnelected
+
+   Brut. Did you perceiue,
+He did sollicite you in free Contempt,
+When he did need your Loues: and doe you thinke,
+That his Contempt shall not be brusing to you,
+When he hath power to crush? Why, had your Bodyes
+No Heart among you? Or had you Tongues, to cry
+Against the Rectorship of Iudgement?
+  Scicin. Haue you, ere now, deny'd the asker:
+And now againe, of him that did not aske, but mock,
+Bestow your su'd-for Tongues?
+  3.Cit. Hee's not confirm'd, we may deny him yet
+
+   2.Cit. And will deny him:
+Ile haue fiue hundred Voyces of that sound
+
+   1.Cit. I twice fiue hundred, & their friends, to piece 'em
+
+   Brut. Get you hence instantly, and tell those friends,
+They haue chose a Consull, that will from them take
+Their Liberties, make them of no more Voyce
+Then Dogges, that are as often beat for barking,
+As therefore kept to doe so
+
+   Scici. Let them assemble: and on a safer Iudgement,
+All reuoke your ignorant election: Enforce his Pride,
+And his old Hate vnto you: besides, forget not
+With what Contempt he wore the humble Weed,
+How in his Suit he scorn'd you: but your Loues,
+Thinking vpon his Seruices, tooke from you
+Th' apprehension of his present portance,
+Which most gibingly, vngrauely, he did fashion
+After the inueterate Hate he beares you
+
+   Brut. Lay a fault on vs, your Tribunes,
+That we labour'd (no impediment betweene)
+But that you must cast your Election on him
+
+   Scici. Say you chose him, more after our commandment,
+Then as guided by your owne true affections, and that
+Your Minds pre-occupy'd with what you rather must do,
+Then what you should, made you against the graine
+To Voyce him Consull. Lay the fault on vs
+
+   Brut. I, spare vs not: Say, we read Lectures to you,
+How youngly he began to serue his Countrey,
+How long continued, and what stock he springs of,
+The Noble House o'th'Martians: from whence came
+That Ancus Martius, Numaes Daughters Sonne:
+Who after great Hostilius here was King,
+Of the same House Publius and Quintus were,
+That our best Water, brought by Conduits hither,
+And Nobly nam'd, so twice being Censor,
+Was his great Ancestor
+
+   Scicin. One thus descended,
+That hath beside well in his person wrought,
+To be set high in place, we did commend
+To your remembrances: but you haue found,
+Skaling his present bearing with his past,
+That hee's your fixed enemie; and reuoke
+Your suddaine approbation
+
+   Brut. Say you ne're had don't,
+(Harpe on that still) but by our putting on:
+And presently, when you haue drawne your number,
+Repaire toth' Capitoll
+
+   All. We will so: almost all repent in their election.
+
+Exeunt. Plebeians.
+
+  Brut. Let them goe on:
+This Mutinie were better put in hazard,
+Then stay past doubt, for greater:
+If, as his nature is, he fall in rage
+With their refusall, both obserue and answer
+The vantage of his anger
+
+   Scicin. Toth' Capitoll, come:
+We will be there before the streame o'th' People:
+And this shall seeme, as partly 'tis, their owne,
+Which we haue goaded on-ward.
+
+Exeunt.
+
+
+Actus Tertius.
+
+Cornets. Enter Coriolanus, Menenius, all the Gentry, Cominius,
+Titus
+Latius, and other Senators.
+
+  Corio. Tullus Auffidius then had made new head
+
+   Latius. He had, my Lord, and that it was which caus'd
+Our swifter Composition
+
+   Corio. So then the Volces stand but as at first,
+Readie when time shall prompt them, to make roade
+Vpon's againe
+
+   Com. They are worne (Lord Consull) so,
+That we shall hardly in our ages see
+Their Banners waue againe
+
+   Corio. Saw you Auffidius?
+  Latius. On safegard he came to me, and did curse
+Against the Volces, for they had so vildly
+Yeelded the Towne: he is retyred to Antium
+
+   Corio. Spoke he of me?
+  Latius. He did, my Lord
+
+   Corio. How? what?
+  Latius. How often he had met you Sword to Sword:
+That of all things vpon the Earth, he hated
+Your person most: That he would pawne his fortunes
+To hopelesse restitution, so he might
+Be call'd your Vanquisher
+
+   Corio. At Antium liues he?
+  Latius. At Antium
+
+   Corio. I wish I had a cause to seeke him there,
+To oppose his hatred fully. Welcome home.
+Enter Scicinius and Brutus.
+
+Behold, these are the Tribunes of the People,
+The Tongues o'th' Common Mouth. I do despise them:
+For they doe pranke them in Authoritie,
+Against all Noble sufferance
+
+   Scicin. Passe no further
+
+   Cor. Hah? what is that?
+  Brut. It will be dangerous to goe on- No further
+
+   Corio. What makes this change?
+  Menen. The matter?
+  Com. Hath he not pass'd the Noble, and the Common?
+  Brut. Cominius, no
+
+   Corio. Haue I had Childrens Voyces?
+  Senat. Tribunes giue way, he shall toth' Market place
+
+   Brut. The People are incens'd against him
+
+   Scicin. Stop, or all will fall in broyle
+
+   Corio. Are these your Heard?
+Must these haue Voyces, that can yeeld them now,
+And straight disclaim their toungs? what are your Offices?
+You being their Mouthes, why rule you not their Teeth?
+Haue you not set them on?
+  Mene. Be calme, be calme
+
+   Corio. It is a purpos'd thing, and growes by Plot,
+To curbe the will of the Nobilitie:
+Suffer't, and liue with such as cannot rule,
+Nor euer will be ruled
+
+   Brut. Call't not a Plot:
+The People cry you mockt them: and of late,
+When Corne was giuen them gratis, you repin'd,
+Scandal'd the Suppliants: for the People, call'd them
+Time-pleasers, flatterers, foes to Noblenesse
+
+   Corio. Why this was knowne before
+
+   Brut. Not to them all
+
+   Corio. Haue you inform'd them sithence?
+  Brut. How? I informe them?
+  Com. You are like to doe such businesse
+
+   Brut. Not vnlike each way to better yours
+
+   Corio. Why then should I be Consull? by yond Clouds
+Let me deserue so ill as you, and make me
+Your fellow Tribune
+
+   Scicin. You shew too much of that,
+For which the People stirre: if you will passe
+To where you are bound, you must enquire your way,
+Which you are out of, with a gentler spirit,
+Or neuer be so Noble as a Consull,
+Nor yoake with him for Tribune
+
+   Mene. Let's be calme
+
+   Com. The People are abus'd: set on, this paltring
+Becomes not Rome: nor ha's Coriolanus
+Deseru'd this so dishonor'd Rub, layd falsely
+I'th' plaine Way of his Merit
+
+   Corio. Tell me of Corne: this was my speech,
+And I will speak't againe
+
+   Mene. Not now, not now
+
+   Senat. Not in this heat, Sir, now
+
+   Corio. Now as I liue, I will.
+My Nobler friends, I craue their pardons:
+For the mutable ranke-sented Meynie,
+Let them regard me, as I doe not flatter,
+And therein behold themselues: I say againe,
+In soothing them, we nourish 'gainst our Senate
+The Cockle of Rebellion, Insolence, Sedition,
+Which we our selues haue plowed for, sow'd, & scatter'd,
+By mingling them with vs, the honor'd Number,
+Who lack not Vertue, no, nor Power, but that
+Which they haue giuen to Beggers
+
+   Mene. Well, no more
+
+   Senat. No more words, we beseech you
+
+   Corio. How? no more?
+As for my Country, I haue shed my blood,
+Not fearing outward force: So shall my Lungs
+Coine words till their decay, against those Meazels
+Which we disdaine should Tetter vs, yet sought
+The very way to catch them
+
+   Bru. You speake a'th' people, as if you were a God,
+To punish; Not a man, of their Infirmity
+
+   Sicin. 'Twere well we let the people know't
+
+   Mene. What, what? His Choller?
+  Cor. Choller? Were I as patient as the midnight sleep,
+By Ioue, 'twould be my minde
+
+   Sicin. It is a minde that shall remain a poison
+Where it is: not poyson any further
+
+   Corio. Shall remaine?
+Heare you this Triton of the Minnoues? Marke you
+His absolute Shall?
+  Com. 'Twas from the Cannon
+
+   Cor. Shall? O God! but most vnwise Patricians: why
+You graue, but wreaklesse Senators, haue you thus
+Giuen Hidra heere to choose an Officer,
+That with his peremptory Shall, being but
+The horne, and noise o'th' Monsters, wants not spirit
+To say, hee'l turne your Current in a ditch,
+And make your Channell his? If he haue power,
+Then vale your Ignorance: If none, awake
+Your dangerous Lenity: If you are Learn'd,
+Be not as common Fooles; if you are not,
+Let them haue Cushions by you. You are Plebeians,
+If they be Senators: and they are no lesse,
+When both your voices blended, the great'st taste
+Most pallates theirs. They choose their Magistrate,
+And such a one as he, who puts his Shall,
+His popular Shall, against a grauer Bench
+Then euer frown'd in Greece. By Ioue himselfe,
+It makes the Consuls base; and my Soule akes
+To know, when two Authorities are vp,
+Neither Supreame; How soone Confusion
+May enter 'twixt the gap of Both, and take
+The one by th' other
+
+   Com. Well, on to'th' Market place
+
+   Corio. Who euer gaue that Counsell, to giue forth
+The Corne a'th' Store-house gratis, as 'twas vs'd
+Sometime in Greece
+
+   Mene. Well, well, no more of that
+
+   Cor. Thogh there the people had more absolute powre
+I say they norisht disobedience: fed, the ruin of the State
+
+   Bru. Why shall the people giue
+One that speakes thus, their voyce?
+  Corio. Ile giue my Reasons,
+More worthier then their Voyces. They know the Corne
+Was not our recompence, resting well assur'd
+They ne're did seruice for't; being prest to'th' Warre,
+Euen when the Nauell of the State was touch'd,
+They would not thred the Gates: This kinde of Seruice
+Did not deserue Corne gratis. Being i'th' Warre,
+There Mutinies and Reuolts, wherein they shew'd
+Most Valour spoke not for them. Th' Accusation
+Which they haue often made against the Senate,
+All cause vnborne, could neuer be the Natiue
+Of our so franke Donation. Well, what then?
+How shall this Bosome-multiplied, digest
+The Senates Courtesie? Let deeds expresse
+What's like to be their words, We did request it,
+We are the greater pole, and in true feare
+They gaue vs our demands. Thus we debase
+The Nature of our Seats, and make the Rabble
+Call our Cares, Feares; which will in time
+Breake ope the Lockes a'th' Senate, and bring in
+The Crowes to pecke the Eagles
+
+   Mene. Come enough
+
+   Bru. Enough, with ouer measure
+
+   Corio. No, take more.
+What may be sworne by, both Diuine and Humane,
+Seale what I end withall. This double worship,
+Whereon part do's disdaine with cause, the other
+Insult without all reason: where Gentry, Title, wisedom
+Cannot conclude, but by the yea and no
+Of generall Ignorance, it must omit
+Reall Necessities, and giue way the while
+To vnstable Slightnesse. Purpose so barr'd, it followes,
+Nothing is done to purpose. Therefore beseech you,
+You that will be lesse fearefull, then discreet,
+That loue the Fundamentall part of State
+More then you doubt the change on't: That preferre
+A Noble life, before a Long, and Wish,
+To iumpe a Body with a dangerous Physicke,
+That's sure of death without it: at once plucke out
+The Multitudinous Tongue, let them not licke
+The sweet which is their poyson. Your dishonor
+Mangles true iudgement, and bereaues the State
+Of that Integrity which should becom't:
+Not hauing the power to do the good it would
+For th' ill which doth controul't
+
+   Bru. Has said enough
+
+   Sicin. Ha's spoken like a Traitor, and shall answer
+As Traitors do
+
+   Corio. Thou wretch, despight ore-whelme thee:
+What should the people do with these bald Tribunes?
+On whom depending, their obedience failes
+To'th' greater Bench, in a Rebellion:
+When what's not meet, but what must be, was Law,
+Then were they chosen: in a better houre,
+Let what is meet, be saide it must be meet,
+And throw their power i'th' dust
+
+   Bru. Manifest Treason
+
+   Sicin. This a Consull? No.
+Enter an aedile.
+
+  Bru. The Ediles hoe: Let him be apprehended:
+  Sicin. Go call the people, in whose name my Selfe
+Attach thee as a Traitorous Innouator:
+A Foe to'th' publike Weale. Obey I charge thee,
+And follow to thine answer
+
+   Corio. Hence old Goat
+
+   All. Wee'l Surety him
+
+   Com. Ag'd sir, hands off
+
+   Corio. Hence rotten thing, or I shall shake thy bones
+Out of thy Garments
+
+   Sicin. Helpe ye Citizens.
+Enter a rabble of Plebeians with the Aediles.
+
+  Mene. On both sides more respect
+
+   Sicin. Heere's hee, that would take from you all your
+power
+
+   Bru. Seize him Aediles
+
+   All. Downe with him, downe with him
+
+   2 Sen. Weapons, weapons, weapons:
+
+They all bustle about Coriolanus.
+
+Tribunes, Patricians, Citizens: what ho:
+Sicinius, Brutus, Coriolanus, Citizens
+
+   All. Peace, peace, peace, stay, hold, peace
+
+   Mene. What is about to be? I am out of Breath,
+Confusions neere, I cannot speake. You, Tribunes
+To'th' people: Coriolanus, patience: Speak good Sicinius
+
+   Scici. Heare me, People peace
+
+   All. Let's here our Tribune: peace, speake, speake,
+speake
+
+   Scici. You are at point to lose your Liberties:
+Martius would haue all from you; Martius,
+Whom late you haue nam'd for Consull
+
+   Mene. Fie, fie, fie, this is the way to kindle, not to
+quench
+
+   Sena. To vnbuild the Citie, and to lay all flat
+
+   Scici. What is the Citie, but the People?
+  All. True, the People are the Citie
+
+   Brut. By the consent of all, we were establish'd the
+Peoples Magistrates
+
+   All. You so remaine
+
+   Mene. And so are like to doe
+
+   Com. That is the way to lay the Citie flat,
+To bring the Roofe to the Foundation,
+And burie all, which yet distinctly raunges
+In heapes, and piles of Ruine
+
+   Scici. This deserues Death
+
+   Brut. Or let vs stand to our Authoritie,
+Or let vs lose it: we doe here pronounce,
+Vpon the part o'th' People, in whose power
+We were elected theirs, Martius is worthy
+Of present Death
+
+   Scici. Therefore lay hold of him:
+Beare him toth' Rock Tarpeian, and from thence
+Into destruction cast him
+
+   Brut. aediles seize him
+
+   All Ple. Yeeld Martius, yeeld
+
+   Mene. Heare me one word, 'beseech you Tribunes,
+heare me but a word
+
+   Aediles. Peace, peace
+
+   Mene. Be that you seeme, truly your Countries friend,
+And temp'rately proceed to what you would
+Thus violently redresse
+
+   Brut. Sir, those cold wayes,
+That seeme like prudent helpes, are very poysonous,
+Where the Disease is violent. Lay hands vpon him,
+And beare him to the Rock.
+
+Corio. drawes his Sword.
+
+  Corio. No, Ile die here:
+There's some among you haue beheld me fighting,
+Come trie vpon your selues, what you haue seene me
+
+   Mene. Downe with that Sword, Tribunes withdraw
+a while
+
+   Brut. Lay hands vpon him
+
+   Mene. Helpe Martius, helpe: you that be noble, helpe
+him young and old
+
+   All. Downe with him, downe with him.
+
+Exeunt.
+
+In this Mutinie, the Tribunes, the aediles, and the People are beat
+in.
+
+  Mene. Goe, get you to our House: be gone, away.
+All will be naught else
+
+   2.Sena. Get you gone
+
+   Com. Stand fast, we haue as many friends as enemies
+
+   Mene. Shall it be put to that?
+  Sena. The Gods forbid:
+I prythee noble friend, home to thy House,
+Leaue vs to cure this Cause
+
+   Mene. For 'tis a Sore vpon vs,
+You cannot Tent your selfe: be gone, 'beseech you
+
+   Corio. Come Sir, along with vs
+
+   Mene. I would they were Barbarians, as they are,
+Though in Rome litter'd: not Romans, as they are not,
+Though calued i'th' Porch o'th' Capitoll:
+Be gone, put not your worthy Rage into your Tongue,
+One time will owe another
+
+   Corio. On faire ground, I could beat fortie of them
+
+   Mene. I could my selfe take vp a Brace o'th' best of
+them, yea, the two Tribunes
+
+   Com. But now 'tis oddes beyond Arithmetick,
+And Manhood is call'd Foolerie, when it stands
+Against a falling Fabrick. Will you hence,
+Before the Tagge returne? whose Rage doth rend
+Like interrupted Waters, and o're-beare
+What they are vs'd to beare
+
+   Mene. Pray you be gone:
+Ile trie whether my old Wit be in request
+With those that haue but little: this must be patcht
+With Cloth of any Colour
+
+   Com. Nay, come away.
+
+Exeunt. Coriolanus and Cominius.
+
+  Patri. This man ha's marr'd his fortune
+
+   Mene. His nature is too noble for the World:
+He would not flatter Neptune for his Trident,
+Or Ioue, for's power to Thunder: his Heart's his Mouth:
+What his Brest forges, that his Tongue must vent,
+And being angry, does forget that euer
+He heard the Name of Death.
+
+A Noise within.
+
+Here's goodly worke
+
+   Patri. I would they were a bed
+
+   Mene. I would they were in Tyber.
+What the vengeance, could he not speake 'em faire?
+Enter Brutus and Sicinius with the rabble againe.
+
+  Sicin. Where is this Viper,
+That would depopulate the city, & be euery man himself
+  Mene. You worthy Tribunes
+
+   Sicin. He shall be throwne downe the Tarpeian rock
+With rigorous hands: he hath resisted Law,
+And therefore Law shall scorne him further Triall
+Then the seuerity of the publike Power,
+Which he so sets at naught
+
+   1 Cit. He shall well know the Noble Tribunes are
+The peoples mouths, and we their hands
+
+   All. He shall sure ont
+
+   Mene. Sir, sir
+
+   Sicin. Peace
+
+   Me. Do not cry hauocke, where you shold but hunt
+With modest warrant
+
+   Sicin. Sir, how com'st that you haue holpe
+To make this rescue?
+  Mene. Heere me speake? As I do know
+The Consuls worthinesse, so can I name his Faults
+
+   Sicin. Consull? what Consull?
+  Mene. The Consull Coriolanus
+
+   Bru. He Consull
+
+   All. No, no, no, no, no
+
+   Mene. If by the Tribunes leaue,
+And yours good people,
+I may be heard, I would craue a word or two,
+The which shall turne you to no further harme,
+Then so much losse of time
+
+   Sic. Speake breefely then,
+For we are peremptory to dispatch
+This Viporous Traitor: to eiect him hence
+Were but one danger, and to keepe him heere
+Our certaine death: therefore it is decreed,
+He dyes to night
+
+   Menen. Now the good Gods forbid,
+That our renowned Rome, whose gratitude
+Towards her deserued Children, is enroll'd
+In Ioues owne Booke, like an vnnaturall Dam
+Should now eate vp her owne
+
+   Sicin. He's a Disease that must be cut away
+
+   Mene. Oh he's a Limbe, that ha's but a Disease
+Mortall, to cut it off: to cure it, easie.
+What ha's he done to Rome, that's worthy death?
+Killing our Enemies, the blood he hath lost
+(Which I dare vouch, is more then that he hath
+By many an Ounce) he dropp'd it for his Country:
+And what is left, to loose it by his Countrey,
+Were to vs all that doo't, and suffer it
+A brand to th' end a'th World
+
+   Sicin. This is cleane kamme
+
+   Brut. Meerely awry:
+When he did loue his Country, it honour'd him
+
+   Menen. The seruice of the foote
+Being once gangren'd, is not then respected
+For what before it was
+
+   Bru. Wee'l heare no more:
+Pursue him to his house, and plucke him thence,
+Least his infection being of catching nature,
+Spred further
+
+   Menen. One word more, one word:
+This Tiger-footed-rage, when it shall find
+The harme of vnskan'd swiftnesse, will (too late)
+Tye Leaden pounds too's heeles. Proceed by Processe,
+Least parties (as he is belou'd) breake out,
+And sacke great Rome with Romanes
+
+   Brut. If it were so?
+  Sicin. What do ye talke?
+Haue we not had a taste of his Obedience?
+Our Ediles smot: our selues resisted: come
+
+   Mene. Consider this: He ha's bin bred i'th' Warres
+Since a could draw a Sword, and is ill-school'd
+In boulted Language: Meale and Bran together
+He throwes without distinction. Giue me leaue,
+Ile go to him, and vndertake to bring him in peace,
+Where he shall answer by a lawfull Forme
+(In peace) to his vtmost perill
+
+   1.Sen. Noble Tribunes,
+It is the humane way: the other course
+Will proue to bloody: and the end of it,
+Vnknowne to the Beginning
+
+   Sic. Noble Menenius, be you then as the peoples officer:
+Masters, lay downe your Weapons
+
+   Bru. Go not home
+
+   Sic. Meet on the Market place: wee'l attend you there:
+Where if you bring not Martius, wee'l proceede
+In our first way
+
+   Menen. Ile bring him to you.
+Let me desire your company: he must come,
+Or what is worst will follow
+
+   Sena. Pray you let's to him.
+
+Exeunt. Omnes.
+
+Enter Coriolanus with Nobles.
+
+  Corio. Let them pull all about mine eares, present me
+Death on the Wheele, or at wilde Horses heeles,
+Or pile ten hilles on the Tarpeian Rocke,
+That the precipitation might downe stretch
+Below the beame of sight; yet will I still
+Be thus to them.
+Enter Volumnia.
+
+  Noble. You do the Nobler
+
+   Corio. I muse my Mother
+Do's not approue me further, who was wont
+To call them Wollen Vassailes, things created
+To buy and sell with Groats, to shew bare heads
+In Congregations, to yawne, be still, and wonder,
+When one but of my ordinance stood vp
+To speake of Peace, or Warre. I talke of you,
+Why did you wish me milder? Would you haue me
+False to my Nature? Rather say, I play
+The man I am
+
+   Volum. Oh sir, sir, sir,
+I would haue had you put your power well on
+Before you had worne it out
+
+   Corio. Let go
+
+   Vol. You might haue beene enough the man you are,
+With striuing lesse to be so: Lesser had bin
+The things of your dispositions, if
+You had not shew'd them how ye were dispos'd
+Ere they lack'd power to crosse you
+
+   Corio. Let them hang
+
+   Volum. I, and burne too.
+Enter Menenius with the Senators.
+
+  Men. Come, come, you haue bin too rough, somthing
+too rough: you must returne, and mend it
+
+   Sen. There's no remedy,
+Vnlesse by not so doing, our good Citie
+Cleaue in the midd'st, and perish
+
+   Volum. Pray be counsail'd;
+I haue a heart as little apt as yours,
+But yet a braine, that leades my vse of Anger
+To better vantage
+
+   Mene. Well said, Noble woman:
+Before he should thus stoope to'th' heart, but that
+The violent fit a'th' time craues it as Physicke
+For the whole State; I would put mine Armour on,
+Which I can scarsely beare
+
+   Corio. What must I do?
+  Mene. Returne to th' Tribunes
+
+   Corio. Well, what then? what then?
+  Mene. Repent, what you haue spoke
+
+   Corio. For them, I cannot do it to the Gods,
+Must I then doo't to them?
+  Volum. You are too absolute,
+Though therein you can neuer be too Noble,
+But when extremities speake. I haue heard you say,
+Honor and Policy, like vnseuer'd Friends,
+I'th' Warre do grow together: Grant that, and tell me
+In Peace, what each of them by th' other loose,
+That they combine not there?
+  Corio. Tush, tush
+
+   Mene. A good demand
+
+   Volum. If it be Honor in your Warres, to seeme
+The same you are not, which for your best ends
+You adopt your policy: How is it lesse or worse
+That it shall hold Companionship in Peace
+With Honour, as in Warre; since that to both
+It stands in like request
+
+   Corio. Why force you this?
+  Volum. Because, that
+Now it lyes you on to speake to th' people:
+Not by your owne instruction, nor by'th' matter
+Which your heart prompts you, but with such words
+That are but roated in your Tongue;
+Though but Bastards, and Syllables
+Of no allowance, to your bosomes truth.
+Now, this no more dishonors you at all,
+Then to take in a Towne with gentle words,
+Which else would put you to your fortune, and
+The hazard of much blood.
+I would dissemble with my Nature, where
+My Fortunes and my Friends at stake, requir'd
+I should do so in Honor. I am in this
+Your Wife, your Sonne: These Senators, the Nobles,
+And you, will rather shew our generall Lowts,
+How you can frowne, then spend a fawne vpon 'em,
+For the inheritance of their loues, and safegard
+Of what that want might ruine
+
+   Menen. Noble Lady,
+Come goe with vs, speake faire: you may salue so,
+Not what is dangerous present, but the losse
+Of what is past
+
+   Volum. I prythee now, my Sonne,
+Goe to them, with this Bonnet in thy hand,
+And thus farre hauing stretcht it (here be with them)
+Thy Knee bussing the stones: for in such businesse
+Action is eloquence, and the eyes of th' ignorant
+More learned then the eares, wauing thy head,
+Which often thus correcting thy stout heart,
+Now humble as the ripest Mulberry,
+That will not hold the handling: or say to them,
+Thou art their Souldier, and being bred in broyles,
+Hast not the soft way, which thou do'st confesse
+Were fit for thee to vse, as they to clayme,
+In asking their good loues, but thou wilt frame
+Thy selfe (forsooth) hereafter theirs so farre,
+As thou hast power and person
+
+   Menen. This but done,
+Euen as she speakes, why their hearts were yours:
+For they haue Pardons, being ask'd, as free,
+As words to little purpose
+
+   Volum. Prythee now,
+Goe, and be rul'd: although I know thou hadst rather
+Follow thine Enemie in a fierie Gulfe,
+Then flatter him in a Bower.
+Enter Cominius.
+
+Here is Cominius
+
+   Com. I haue beene i'th' Market place: and Sir 'tis fit
+You make strong partie, or defend your selfe
+By calmenesse, or by absence: all's in anger
+
+   Menen. Onely faire speech
+
+   Com. I thinke 'twill serue, if he can thereto frame his
+spirit
+
+   Volum. He must, and will:
+Prythee now say you will, and goe about it
+
+   Corio. Must I goe shew them my vnbarb'd Sconce?
+Must I with my base Tongue giue to my Noble Heart
+A Lye, that it must beare well? I will doo't:
+Yet were there but this single Plot, to loose
+This Mould of Martius, they to dust should grinde it,
+And throw't against the Winde. Toth' Market place:
+You haue put me now to such a part, which neuer
+I shall discharge toth' Life
+
+   Com. Come, come, wee'le prompt you
+
+   Volum. I prythee now sweet Son, as thou hast said
+My praises made thee first a Souldier; so
+To haue my praise for this, performe a part
+Thou hast not done before
+
+   Corio. Well, I must doo't:
+Away my disposition, and possesse me
+Some Harlots spirit: My throat of Warre be turn'd,
+Which quier'd with my Drumme into a Pipe,
+Small as an Eunuch, or the Virgin voyce
+That Babies lull a-sleepe: The smiles of Knaues
+Tent in my cheekes, and Schoole-boyes Teares take vp
+The Glasses of my sight: A Beggars Tongue
+Make motion through my Lips, and my Arm'd knees
+Who bow'd but in my Stirrop, bend like his
+That hath receiu'd an Almes. I will not doo't,
+Least I surcease to honor mine owne truth,
+And by my Bodies action, teach my Minde
+A most inherent Basenesse
+
+   Volum. At thy choice then:
+To begge of thee, it is my more dis-honor,
+Then thou of them. Come all to ruine, let
+Thy Mother rather feele thy Pride, then feare
+Thy dangerous Stoutnesse: for I mocke at death
+With as bigge heart as thou. Do as thou list,
+Thy Valiantnesse was mine, thou suck'st it from me:
+But owe thy Pride thy selfe
+
+   Corio. Pray be content:
+Mother, I am going to the Market place:
+Chide me no more. Ile Mountebanke their Loues,
+Cogge their Hearts from them, and come home belou'd
+Of all the Trades in Rome. Looke, I am going:
+Commend me to my Wife, Ile returne Consull,
+Or neuer trust to what my Tongue can do
+I'th way of Flattery further
+
+   Volum. Do your will.
+
+Exit Volumnia
+
+  Com. Away, the Tribunes do attend you: arm your self
+To answer mildely: for they are prepar'd
+With Accusations, as I heare more strong
+Then are vpon you yet
+
+   Corio. The word is, Mildely. Pray you let vs go,
+Let them accuse me by inuention: I
+Will answer in mine Honor
+
+   Menen. I, but mildely
+
+   Corio. Well mildely be it then, Mildely.
+
+Exeunt.
+
+Enter Sicinius and Brutus.
+
+  Bru. In this point charge him home, that he affects
+Tyrannicall power: If he euade vs there,
+Inforce him with his enuy to the people,
+And that the Spoile got on the Antiats
+Was ne're distributed. What, will he come?
+Enter an Edile.
+
+  Edile. Hee's comming
+
+   Bru. How accompanied?
+  Edile. With old Menenius, and those Senators
+That alwayes fauour'd him
+
+   Sicin. Haue you a Catalogue
+Of all the Voices that we haue procur'd, set downe by'th Pole?
+  Edile. I haue: 'tis ready
+
+   Sicin. Haue you collected them by Tribes?
+  Edile. I haue
+
+   Sicin. Assemble presently the people hither:
+And when they heare me say, it shall be so,
+I'th' right and strength a'th' Commons: be it either
+For death, for fine, or Banishment, then let them
+If I say Fine, cry Fine; if Death, cry Death,
+Insisting on the olde prerogatiue
+And power i'th Truth a'th Cause
+
+   Edile. I shall informe them
+
+   Bru. And when such time they haue begun to cry,
+Let them not cease, but with a dinne confus'd
+Inforce the present Execution
+Of what we chance to Sentence
+
+   Edi. Very well
+
+   Sicin. Make them be strong, and ready for this hint
+When we shall hap to giu't them
+
+   Bru. Go about it,
+Put him to Choller straite, he hath bene vs'd
+Euer to conquer, and to haue his worth
+Of contradiction. Being once chaft, he cannot
+Be rein'd againe to Temperance, then he speakes
+What's in his heart, and that is there which lookes
+With vs to breake his necke.
+Enter Coriolanus, Menenius, and Cominius, with others.
+
+  Sicin. Well, heere he comes
+
+   Mene. Calmely, I do beseech you
+
+   Corio. I, as an Hostler, that fourth poorest peece
+Will beare the Knaue by'th Volume:
+Th' honor'd Goddes
+Keepe Rome in safety, and the Chaires of Iustice
+Supplied with worthy men, plant loue amongs
+Through our large Temples with y shewes of peace
+And not our streets with Warre
+
+   1 Sen. Amen, Amen
+
+   Mene. A Noble wish.
+Enter the Edile with the Plebeians.
+
+  Sicin. Draw neere ye people
+
+   Edile. List to your Tribunes. Audience:
+Peace I say
+
+   Corio. First heare me speake
+
+   Both Tri. Well, say: Peace hoe
+
+   Corio. Shall I be charg'd no further then this present?
+Must all determine heere?
+  Sicin. I do demand,
+If you submit you to the peoples voices,
+Allow their Officers, and are content
+To suffer lawfull Censure for such faults
+As shall be prou'd vpon you
+
+   Corio. I am Content
+
+   Mene. Lo Citizens, he sayes he is Content.
+The warlike Seruice he ha's done, consider: Thinke
+Vpon the wounds his body beares, which shew
+Like Graues i'th holy Church-yard
+
+   Corio. Scratches with Briars, scarres to moue
+Laughter onely
+
+   Mene. Consider further:
+That when he speakes not like a Citizen,
+You finde him like a Soldier: do not take
+His rougher Actions for malicious sounds:
+But as I say, such as become a Soldier,
+Rather then enuy you
+
+   Com. Well, well, no more
+
+   Corio. What is the matter,
+That being past for Consull with full voyce:
+I am so dishonour'd, that the very houre
+You take it off againe
+
+   Sicin. Answer to vs
+
+   Corio. Say then: 'tis true, I ought so
+  Sicin. We charge you, that you haue contriu'd to take
+From Rome all season'd Office, and to winde
+Your selfe into a power tyrannicall,
+For which you are a Traitor to the people
+
+   Corio. How? Traytor?
+  Mene. Nay temperately: your promise
+
+   Corio. The fires i'th' lowest hell. Fould in the people:
+Call me their Traitor, thou iniurious Tribune.
+Within thine eyes sate twenty thousand deaths
+In thy hands clutcht: as many Millions in
+Thy lying tongue, both numbers. I would say
+Thou lyest vnto thee, with a voice as free,
+As I do pray the Gods
+
+   Sicin. Marke you this people?
+  All. To'th' Rocke, to'th' Rocke with him
+
+   Sicin. Peace:
+We neede not put new matter to his charge:
+What you haue seene him do, and heard him speake:
+Beating your Officers, cursing your selues,
+Opposing Lawes with stroakes, and heere defying
+Those whose great power must try him.
+Euen this so criminall, and in such capitall kinde
+Deserues th' extreamest death
+
+   Bru. But since he hath seru'd well for Rome
+
+   Corio. What do you prate of Seruice
+
+   Brut. I talke of that, that know it
+
+   Corio. You?
+  Mene. Is this the promise that you made your mother
+
+   Com. Know, I pray you
+
+   Corio. Ile know no further:
+Let them pronounce the steepe Tarpeian death,
+Vagabond exile, Fleaing, pent to linger
+But with a graine a day, I would not buy
+Their mercie, at the price of one faire word,
+Nor checke my Courage for what they can giue,
+To haue't with saying, Good morrow
+
+   Sicin. For that he ha's
+(As much as in him lies) from time to time
+Enui'd against the people; seeking meanes
+To plucke away their power: as now at last,
+Giuen Hostile strokes, and that not in the presence
+Of dreaded Iustice, but on the Ministers
+That doth distribute it. In the name a'th' people,
+And in the power of vs the Tribunes, wee
+(Eu'n from this instant) banish him our Citie
+In perill of precipitation
+From off the Rocke Tarpeian, neuer more
+To enter our Rome gates. I'th' Peoples name,
+I say it shall bee so
+
+   All. It shall be so, it shall be so: let him away:
+Hee's banish'd, and it shall be so
+
+   Com. Heare me my Masters, and my common friends
+
+   Sicin. He's sentenc'd: No more hearing
+
+   Com. Let me speake:
+I haue bene Consull, and can shew from Rome
+Her Enemies markes vpon me. I do loue
+My Countries good, with a respect more tender,
+More holy, and profound, then mine owne life,
+My deere Wiues estimate, her wombes encrease,
+And treasure of my Loynes: then if I would
+Speake that
+
+   Sicin. We know your drift. Speake what?
+  Bru. There's no more to be said, but he is banish'd
+As Enemy to the people, and his Countrey.
+It shall bee so
+
+   All. It shall be so, it shall be so
+
+   Corio. You common cry of Curs, whose breath I hate,
+As reeke a'th' rotten Fennes: whose Loues I prize,
+As the dead Carkasses of vnburied men,
+That do corrupt my Ayre: I banish you,
+And heere remaine with your vncertaintie.
+Let euery feeble Rumor shake your hearts:
+Your Enemies, with nodding of their Plumes
+Fan you into dispaire: Haue the power still
+To banish your Defenders, till at length
+Your ignorance (which findes not till it feeles,
+Making but reseruation of your selues,
+Still your owne Foes) deliuer you
+As most abated Captiues, to some Nation
+That wonne you without blowes, despising
+For you the City. Thus I turne my backe;
+There is a world elsewhere.
+
+Exeunt. Coriolanus, Cominius, with Cumalijs. They all shout, and
+throw vp
+their Caps.
+
+  Edile. The peoples Enemy is gone, is gone
+
+   All. Our enemy is banish'd, he is gone: Hoo, oo
+
+   Sicin. Go see him out at Gates, and follow him
+As he hath follow'd you, with all despight
+Giue him deseru'd vexation. Let a guard
+Attend vs through the City
+
+   All. Come, come, lets see him out at gates, come:
+The Gods preserue our Noble Tribunes, come.
+
+Exeunt.
+
+
+Actus Quartus.
+
+Enter Coriolanus, Volumnia, Virgilia, Menenius, Cominius, with
+the yong
+Nobility of Rome.
+
+  Corio. Come leaue your teares: a brief farwel: the beast
+With many heads butts me away. Nay Mother,
+Where is your ancient Courage? You were vs'd
+To say, Extreamities was the trier of spirits,
+That common chances. Common men could beare,
+That when the Sea was calme, all Boats alike
+Shew'd Mastership in floating. Fortunes blowes,
+When most strooke home, being gentle wounded, craues
+A Noble cunning. You were vs'd to load me
+With Precepts that would make inuincible
+The heart that conn'd them
+
+   Virg. Oh heauens! O heauens!
+  Corio. Nay, I prythee woman
+
+   Vol. Now the Red Pestilence strike al Trades in Rome,
+And Occupations perish
+
+   Corio. What, what, what:
+I shall be lou'd when I am lack'd. Nay Mother,
+Resume that Spirit, when you were wont to say,
+If you had beene the Wife of Hercules,
+Six of his Labours youl'd haue done, and sau'd
+Your Husband so much swet. Cominius,
+Droope not, Adieu: Farewell my Wife, my Mother,
+Ile do well yet. Thou old and true Menenius,
+Thy teares are salter then a yonger mans,
+And venomous to thine eyes. My (sometime) Generall,
+I haue seene the Sterne, and thou hast oft beheld
+Heart-hardning spectacles. Tell these sad women,
+Tis fond to waile ineuitable strokes,
+As 'tis to laugh at 'em. My Mother, you wot well
+My hazards still haue beene your solace, and
+Beleeu't not lightly, though I go alone
+Like to a lonely Dragon, that his Fenne
+Makes fear'd, and talk'd of more then seene: your Sonne
+Will or exceed the Common, or be caught
+With cautelous baits and practice
+
+   Volum. My first sonne,
+Whether will thou go? Take good Cominius
+With thee awhile: Determine on some course
+More then a wilde exposture, to each chance
+That starts i'th' way before thee
+
+   Corio. O the Gods!
+  Com. Ile follow thee a Moneth, deuise with thee
+Where thou shalt rest, that thou may'st heare of vs,
+And we of thee. So if the time thrust forth
+A cause for thy Repeale, we shall not send
+O're the vast world, to seeke a single man,
+And loose aduantage, which doth euer coole
+Ith' absence of the needer
+
+   Corio. Fare ye well:
+Thou hast yeares vpon thee, and thou art too full
+Of the warres surfets, to go roue with one
+That's yet vnbruis'd: bring me but out at gate.
+Come my sweet wife, my deerest Mother, and
+My Friends of Noble touch: when I am forth,
+Bid me farewell, and smile. I pray you come:
+While I remaine aboue the ground, you shall
+Heare from me still, and neuer of me ought
+But what is like me formerly
+
+   Menen. That's worthily
+As any eare can heare. Come, let's not weepe,
+If I could shake off but one seuen yeeres
+From these old armes and legges, by the good Gods
+I'ld with thee, euery foot
+
+   Corio. Giue me thy hand, come.
+
+Exeunt.
+
+Enter the two Tribunes, Sicinius, and Brutus, with the Edile.
+
+  Sicin. Bid them all home, he's gone: & wee'l no further,
+The Nobility are vexed, whom we see haue sided
+In his behalfe
+
+   Brut. Now we haue shewne our power,
+Let vs seeme humbler after it is done,
+Then when it was a dooing
+
+   Sicin. Bid them home: say their great enemy is gone,
+And they, stand in their ancient strength
+
+   Brut. Dismisse them home. Here comes his Mother.
+Enter Volumnia, Virgilia, and Menenius.
+
+  Sicin. Let's not meet her
+
+   Brut. Why?
+  Sicin. They say she's mad
+
+   Brut. They haue tane note of vs: keepe on your way
+
+   Volum. Oh y'are well met:
+Th' hoorded plague a'th' Gods requit your loue
+
+   Menen. Peace, peace, be not so loud
+
+   Volum. If that I could for weeping, you should heare,
+Nay, and you shall heare some. Will you be gone?
+  Virg. You shall stay too: I would I had the power
+To say so to my Husband
+
+   Sicin. Are you mankinde?
+  Volum. I foole, is that a shame. Note but this Foole,
+Was not a man my Father? Had'st thou Foxship
+To banish him that strooke more blowes for Rome
+Then thou hast spoken words
+
+   Sicin. Oh blessed Heauens!
+  Volum. Moe Noble blowes, then euer y wise words.
+And for Romes good, Ile tell thee what: yet goe:
+Nay but thou shalt stay too: I would my Sonne
+Were in Arabia, and thy Tribe before him,
+His good Sword in his hand
+
+   Sicin. What then?
+  Virg. When then? Hee'ld make an end of thy posterity
+  Volum. Bastards, and all.
+Good man, the Wounds that he does beare for Rome!
+  Menen. Come, come, peace
+
+   Sicin. I would he had continued to his Country
+As he began, and not vnknit himselfe
+The Noble knot he made
+
+   Bru. I would he had
+
+   Volum. I would he had? Twas thou incenst the rable.
+Cats, that can iudge as fitly of his worth,
+As I can of those Mysteries which heauen
+Will not haue earth to know
+
+   Brut. Pray let's go
+
+   Volum. Now pray sir get you gone.
+You haue done a braue deede: Ere you go, heare this:
+As farre as doth the Capitoll exceede
+The meanest house in Rome; so farre my Sonne
+This Ladies Husband heere; this (do you see)
+Whom you haue banish'd, does exceed you all
+
+   Bru. Well, well, wee'l leaue you
+
+   Sicin. Why stay we to be baited
+With one that wants her Wits.
+
+Exit Tribunes.
+
+  Volum. Take my Prayers with you.
+I would the Gods had nothing else to do,
+But to confirme my Cursses. Could I meete 'em
+But once a day, it would vnclogge my heart
+Of what lyes heauy too't
+
+   Mene. You haue told them home,
+And by my troth you haue cause: you'l Sup with me
+
+   Volum. Angers my Meate: I suppe vpon my selfe,
+And so shall sterue with Feeding: come, let's go,
+Leaue this faint-puling, and lament as I do,
+In Anger, Iuno-like: Come, come, come.
+
+Exeunt.
+
+  Mene. Fie, fie, fie.
+Enter.
+
+Enter a Roman, and a Volce.
+
+  Rom. I know you well sir, and you know mee: your
+name I thinke is Adrian
+
+   Volce. It is so sir, truly I haue forgot you
+
+   Rom. I am a Roman, and my Seruices are as you are,
+against 'em. Know you me yet
+
+   Volce. Nicanor: no
+
+   Rom. The same sir
+
+   Volce. You had more Beard when I last saw you, but
+your Fauour is well appear'd by your Tongue. What's
+the Newes in Rome: I haue a Note from the Volcean
+state to finde you out there. You haue well saued mee a
+dayes iourney
+
+   Rom. There hath beene in Rome straunge Insurrections:
+The people, against the Senatours, Patricians, and
+Nobles
+
+   Vol. Hath bin; is it ended then? Our State thinks not
+so, they are in a most warlike preparation, & hope to com
+vpon them, in the heate of their diuision
+  Rom. The maine blaze of it is past, but a small thing
+would make it flame againe. For the Nobles receyue so
+to heart, the Banishment of that worthy Coriolanus, that
+they are in a ripe aptnesse, to take al power from the people,
+and to plucke from them their Tribunes for euer.
+This lyes glowing I can tell you, and is almost mature for
+the violent breaking out
+
+   Vol. Coriolanus Banisht?
+  Rom. Banish'd sir
+
+   Vol. You will be welcome with this intelligence Nicanor
+
+   Rom. The day serues well for them now. I haue heard
+it saide, the fittest time to corrupt a mans Wife, is when
+shee's falne out with her Husband. Your Noble Tullus
+Auffidius will appeare well in these Warres, his great
+Opposer Coriolanus being now in no request of his countrey
+
+   Volce. He cannot choose: I am most fortunate, thus
+accidentally to encounter you. You haue ended my Businesse,
+and I will merrily accompany you home
+
+   Rom. I shall betweene this and Supper, tell you most
+strange things from Rome: all tending to the good of
+their Aduersaries. Haue you an Army ready say you?
+  Vol. A most Royall one: The Centurions, and their
+charges distinctly billetted already in th' entertainment,
+and to be on foot at an houres warning
+
+   Rom. I am ioyfull to heare of their readinesse, and am
+the man I thinke, that shall set them in present Action. So
+sir, heartily well met, and most glad of your Company
+
+   Volce. You take my part from me sir, I haue the most
+cause to be glad of yours
+
+   Rom. Well, let vs go together.
+
+Exeunt.
+
+Enter Coriolanus in meane Apparrell, disguisd, and muffled.
+
+  Corio. A goodly City is this Antium. Citty,
+'Tis I that made thy Widdowes: Many an heyre
+Of these faire Edifices fore my Warres
+Haue I heard groane, and drop: Then know me not,
+Least that thy Wiues with Spits, and Boyes with stones
+In puny Battell slay me. Saue you sir.
+Enter a Citizen.
+
+  Cit. And you
+
+   Corio. Direct me, if it be your will, where great Auffidius
+lies: Is he in Antium?
+  Cit. He is, and Feasts the Nobles of the State, at his
+house this night
+
+   Corio. Which is his house, beseech you?
+  Cit. This heere before you
+
+   Corio. Thanke you sir, farewell.
+
+Exit Citizen
+
+Oh World, thy slippery turnes! Friends now fast sworn,
+Whose double bosomes seemes to weare one heart,
+Whose Houres, whose Bed, whose Meale and Exercise
+Are still together: who Twin (as 'twere) in Loue,
+Vnseparable, shall within this houre,
+On a dissention of a Doit, breake out
+To bitterest Enmity: So fellest Foes,
+Whose Passions, and whose Plots haue broke their sleep
+To take the one the other, by some chance,
+Some tricke not worth an Egge, shall grow deere friends
+And inter-ioyne their yssues. So with me,
+My Birth-place haue I, and my loues vpon
+This Enemie Towne: Ile enter, if he slay me
+He does faire Iustice: if he giue me way,
+Ile do his Country Seruice.
+
+Enter.
+
+Musicke playes. Enter a Seruingman.
+
+  1 Ser. Wine, Wine, Wine: What seruice is heere? I
+thinke our Fellowes are asleepe.
+
+Enter another Seruingman.
+
+  2 Ser. Where's Cotus: my M[aster]. cals for him: Cotus.
+
+Exit
+
+Enter Coriolanus.
+
+  Corio. A goodly House:
+The Feast smels well: but I appeare not like a Guest.
+Enter the first Seruingman.
+
+  1 Ser. What would you haue Friend? whence are you?
+Here's no place for you: pray go to the doore?
+
+Exit
+
+  Corio. I haue deseru'd no better entertainment, in being
+Coriolanus.
+Enter second Seruant.
+
+  2 Ser. Whence are you sir? Ha's the Porter his eyes in
+his head, that he giues entrance to such Companions?
+Pray get you out
+
+   Corio. Away
+
+   2 Ser. Away? Get you away
+
+   Corio. Now th'art troublesome
+
+   2 Ser. Are you so braue: Ile haue you talkt with anon
+Enter 3 Seruingman, the 1 meets him.
+
+  3 What Fellowes this?
+  1 A strange one as euer I look'd on: I cannot get him
+out o'thhouse: Prythee call my Master to him
+
+   3 What haue you to do here fellow? Pray you auoid
+the house
+
+   Corio. Let me but stand, I will not hurt your Harth
+
+   3 What are you?
+  Corio. A Gentleman
+
+   3 A maru'llous poore one
+
+   Corio. True, so I am
+
+   3 Pray you poore Gentleman, take vp some other station:
+Heere's no place for you, pray you auoid: Come
+
+   Corio. Follow your Function, go, and batten on colde
+bits.
+
+Pushes him away from him.
+
+  3 What you will not? Prythee tell my Maister what
+a strange Guest he ha's heere
+
+   2 And I shall.
+
+Exit second Seruingman.
+
+  3 Where dwel'st thou?
+  Corio. Vnder the Canopy
+
+   3 Vnder the Canopy?
+  Corio. I
+
+   3 Where's that?
+  Corio. I'th City of Kites and crowes
+
+   3 I'th City of Kites and Crowes? What an Asse it is,
+then thou dwel'st with Dawes too?
+  Corio. No, I serue not thy Master
+
+   3 How sir? Do you meddle with my Master?
+  Corio. I, tis an honester seruice, then to meddle with
+thy Mistris: Thou prat'st, and prat'st, serue with thy trencher:
+Hence.
+
+Beats him away
+
+Enter Auffidius with the Seruingman.
+
+  Auf. Where is this Fellow?
+  2 Here sir, I'de haue beaten him like a dogge, but for
+disturbing the Lords within
+
+   Auf. Whence com'st thou? What wouldst y? Thy name?
+Why speak'st not? Speake man: What's thy name?
+  Corio. If Tullus not yet thou know'st me, and seeing
+me, dost not thinke me for the man I am, necessitie commands
+me name my selfe
+
+   Auf. What is thy name?
+  Corio. A name vnmusicall to the Volcians eares,
+And harsh in sound to thine
+
+   Auf. Say, what's thy name?
+Thou hast a Grim apparance, and thy Face
+Beares a Command in't: Though thy Tackles torne,
+Thou shew'st a Noble Vessell: What's thy name?
+  Corio. Prepare thy brow to frowne: knowst y me yet?
+  Auf. I know thee not? Thy Name:
+  Corio. My name is Caius Martius, who hath done
+To thee particularly, and to all the Volces
+Great hurt and Mischiefe: thereto witnesse may
+My Surname Coriolanus. The painfull Seruice,
+The extreme Dangers, and the droppes of Blood
+Shed for my thanklesse Country, are requitted:
+But with that Surname, a good memorie
+And witnesse of the Malice and Displeasure
+Which thou should'st beare me, only that name remains.
+The Cruelty and Enuy of the people,
+Permitted by our dastard Nobles, who
+Haue all forsooke me, hath deuour'd the rest:
+And suffer'd me by th' voyce of Slaues to be
+Hoop'd out of Rome. Now this extremity,
+Hath brought me to thy Harth, not out of Hope
+(Mistake me not) to saue my life: for if
+I had fear'd death, of all the Men i'th' World
+I would haue voided thee. But in meere spight
+To be full quit of those my Banishers,
+Stand I before thee heere: Then if thou hast
+A heart of wreake in thee, that wilt reuenge
+Thine owne particular wrongs, and stop those maimes
+Of shame seene through thy Country, speed thee straight
+And make my misery serue thy turne: So vse it,
+That my reuengefull Seruices may proue
+As Benefits to thee. For I will fight
+Against my Cankred Countrey, with the Spleene
+Of all the vnder Fiends. But if so be,
+Thou dar'st not this, and that to proue more Fortunes
+Th'art tyr'd, then in a word, I also am
+Longer to liue most wearie: and present
+My throat to thee, and to thy Ancient Malice:
+Which not to cut, would shew thee but a Foole,
+Since I haue euer followed thee with hate,
+Drawne Tunnes of Blood out of thy Countries brest,
+And cannot liue but to thy shame, vnlesse
+It be to do thee seruice
+
+   Auf. Oh Martius, Martius;
+Each word thou hast spoke, hath weeded from my heart
+A roote of Ancient Enuy. If Iupiter
+Should from yond clowd speake diuine things,
+And say 'tis true; I'de not beleeue them more
+Then thee all-Noble Martius. Let me twine
+Mine armes about that body, where against
+My grained Ash an hundred times hath broke,
+And scarr'd the Moone with splinters: heere I cleep
+The Anuile of my Sword, and do contest
+As hotly, and as Nobly with thy Loue,
+As euer in Ambitious strength, I did
+Contend against thy Valour. Know thou first,
+I lou'd the Maid I married: neuer man
+Sigh'd truer breath. But that I see thee heere
+Thou Noble thing, more dances my rapt heart,
+Then when I first my wedded Mistris saw
+Bestride my Threshold. Why, thou Mars I tell thee,
+We haue a Power on foote: and I had purpose
+Once more to hew thy Target from thy Brawne,
+Or loose mine Arme for't: Thou hast beate mee out
+Twelue seuerall times, and I haue nightly since
+Dreamt of encounters 'twixt thy selfe and me:
+We haue beene downe together in my sleepe,
+Vnbuckling Helmes, fisting each others Throat,
+And wak'd halfe dead with nothing. Worthy Martius,
+Had we no other quarrell else to Rome, but that
+Thou art thence Banish'd, we would muster all
+From twelue, to seuentie: and powring Warre
+Into the bowels of vngratefull Rome,
+Like a bold Flood o're-beate. Oh come, go in,
+And take our friendly Senators by'th' hands
+Who now are heere, taking their leaues of mee,
+Who am prepar'd against your Territories,
+Though not for Rome it selfe
+
+   Corio. You blesse me Gods
+
+   Auf. Therefore most absolute Sir, if thou wilt haue
+The leading of thine owne Reuenges, take
+Th' one halfe of my Commission, and set downe
+As best thou art experienc'd, since thou know'st
+Thy Countries strength and weaknesse, thine own waies
+Whether to knocke against the Gates of Rome,
+Or rudely visit them in parts remote,
+To fright them, ere destroy. But come in,
+Let me commend thee first, to those that shall
+Say yea to thy desires. A thousand welcomes,
+And more a Friend, then ere an Enemie,
+Yet Martius that was much. Your hand: most welcome.
+
+Exeunt.
+
+Enter two of the Seruingmen.
+
+  1 Heere's a strange alteration?
+  2 By my hand, I had thoght to haue stroken him with
+a Cudgell, and yet my minde gaue me, his cloathes made
+a false report of him
+
+   1 What an Arme he has, he turn'd me about with his
+finger and his thumbe, as one would set vp a Top
+
+   2 Nay, I knew by his face that there was some-thing
+in him. He had sir, a kinde of face me thought, I cannot
+tell how to tearme it
+
+   1 He had so, looking as it were, would I were hang'd
+but I thought there was more in him, then I could think
+
+   2 So did I, Ile be sworne: He is simply the rarest man
+i'th' world
+
+   1 I thinke he is: but a greater soldier then he,
+You wot one
+
+   2 Who my Master?
+  1 Nay, it's no matter for that
+
+   2 Worth six on him
+
+   1 Nay not so neither: but I take him to be the greater
+Souldiour
+
+   2 Faith looke you, one cannot tell how to say that: for
+the Defence of a Towne, our Generall is excellent
+
+   1 I, and for an assault too.
+Enter the third Seruingman.
+
+  3 Oh Slaues, I can tell you Newes, News you Rascals
+  Both. What, what, what? Let's partake
+
+   3 I would not be a Roman of all Nations; I had as
+liue be a condemn'd man
+
+   Both. Wherefore? Wherefore?
+  3 Why here's he that was wont to thwacke our Generall,
+Caius Martius
+
+   1 Why do you say, thwacke our Generall?
+  3 I do not say thwacke our Generall, but he was alwayes
+good enough for him
+  2 Come we are fellowes and friends: he was euer too
+hard for him, I haue heard him say so himselfe
+
+   1 He was too hard for him directly, to say the Troth
+on't before Corioles, he scotcht him, and notcht him like a
+Carbinado
+
+   2 And hee had bin Cannibally giuen, hee might haue
+boyld and eaten him too
+
+   1 But more of thy Newes
+
+   3 Why he is so made on heere within, as if hee were
+Son and Heire to Mars, set at vpper end o'th' Table: No
+question askt him by any of the Senators, but they stand
+bald before him. Our Generall himselfe makes a Mistris
+of him, Sanctifies himselfe with's hand, and turnes vp the
+white o'th' eye to his Discourse. But the bottome of the
+Newes is, our Generall is cut i'th' middle, & but one halfe
+of what he was yesterday. For the other ha's halfe, by
+the intreaty and graunt of the whole Table. Hee'l go he
+sayes, and sole the Porter of Rome Gates by th' eares. He
+will mowe all downe before him, and leaue his passage
+poul'd
+
+   2 And he's as like to do't, as any man I can imagine
+
+   3 Doo't? he will doo't: for look you sir, he has as many
+Friends as Enemies: which Friends sir as it were, durst
+not (looke you sir) shew themselues (as we terme it) his
+Friends, whilest he's in Directitude
+
+   1 Directitude? What's that?
+  3 But when they shall see sir, his Crest vp againe, and
+the man in blood, they will out of their Burroughes (like
+Conies after Raine) and reuell all with him
+
+   1 But when goes this forward:
+  3 To morrow, to day, presently, you shall haue the
+Drum strooke vp this afternoone: 'Tis as it were a parcel
+of their Feast, and to be executed ere they wipe their lips
+
+   2 Why then wee shall haue a stirring World againe:
+This peace is nothing, but to rust Iron, encrease Taylors,
+and breed Ballad-makers
+
+   1 Let me haue Warre say I, it exceeds peace as farre
+as day do's night: It's sprightly walking, audible, and full
+of Vent. Peace, is a very Apoplexy, Lethargie, mull'd,
+deafe, sleepe, insensible, a getter of more bastard Children,
+then warres a destroyer of men
+
+   2 'Tis so, and as warres in some sort may be saide to
+be a Rauisher, so it cannot be denied, but peace is a great
+maker of Cuckolds
+
+   1 I, and it makes men hate one another
+
+   3 Reason, because they then lesse neede one another:
+The Warres for my money. I hope to see Romanes as
+cheape as Volcians. They are rising, they are rising
+
+   Both. In, in, in, in.
+
+Exeunt.
+
+Enter the two Tribunes, Sicinius, and Brutus.
+
+  Sicin. We heare not of him, neither need we fear him,
+His remedies are tame, the present peace,
+And quietnesse of the people, which before
+Were in wilde hurry. Heere do we make his Friends
+Blush, that the world goes well: who rather had,
+Though they themselues did suffer by't, behold
+Dissentious numbers pestring streets, then see
+Our Tradesmen singing in their shops, and going
+About their Functions friendly.
+Enter Menenius.
+
+  Bru. We stood too't in good time. Is this Menenius?
+  Sicin. 'Tis he, 'tis he: O he is grown most kind of late:
+Haile Sir
+
+   Mene. Haile to you both
+
+   Sicin. Your Coriolanus is not much mist, but with his
+Friends: the Commonwealth doth stand, and so would
+do, were he more angry at it
+
+   Mene. All's well, and might haue bene much better,
+if he could haue temporiz'd
+
+   Sicin. Where is he, heare you?
+  Mene. Nay I heare nothing:
+His Mother and his wife, heare nothing from him.
+Enter three or foure Citizens.
+
+  All. The Gods preserue you both
+
+   Sicin. Gooden our Neighbours
+
+   Bru. Gooden to you all, gooden to you all
+
+   1 Our selues, our wiues, and children, on our knees,
+Are bound to pray for you both
+
+   Sicin. Liue, and thriue
+
+   Bru. Farewell kinde Neighbours:
+We wisht Coriolanus had lou'd you as we did
+
+   All. Now the Gods keepe you
+
+   Both Tri. Farewell, farewell.
+
+Exeunt. Citizens
+
+  Sicin. This is a happier and more comely time,
+Then when these Fellowes ran about the streets,
+Crying Confusion
+
+   Bru. Caius Martius was
+A worthy Officer i'th' Warre, but Insolent,
+O'recome with Pride, Ambitious, past all thinking
+Selfe-louing
+
+   Sicin. And affecting one sole Throne, without assista[n]ce
+  Mene. I thinke not so
+
+   Sicin. We should by this, to all our Lamention,
+If he had gone forth Consull, found it so
+
+   Bru. The Gods haue well preuented it, and Rome
+Sits safe and still, without him.
+Enter an aedile.
+
+  Aedile. Worthy Tribunes,
+There is a Slaue whom we haue put in prison,
+Reports the Volces with two seuerall Powers
+Are entred in the Roman Territories,
+And with the deepest malice of the Warre,
+Destroy, what lies before' em
+
+   Mene. 'Tis Auffidius,
+Who hearing of our Martius Banishment,
+Thrusts forth his hornes againe into the world
+Which were In-shell'd, when Martius stood for Rome,
+And durst not once peepe out
+
+   Sicin. Come, what talke you of Martius
+
+   Bru. Go see this Rumorer whipt, it cannot be,
+The Volces dare breake with vs
+
+   Mene. Cannot be?
+We haue Record, that very well it can,
+And three examples of the like, hath beene
+Within my Age. But reason with the fellow
+Before you punish him, where he heard this,
+Least you shall chance to whip your Information,
+And beate the Messenger, who bids beware
+Of what is to be dreaded
+
+   Sicin. Tell not me: I know this cannot be
+
+   Bru. Not possible.
+Enter a Messenger.
+
+  Mes. The Nobles in great earnestnesse are going
+All to the Senate-house: some newes is comming
+That turnes their Countenances
+
+   Sicin. 'Tis this Slaue:
+Go whip him fore the peoples eyes: His raising,
+Nothing but his report
+
+   Mes. Yes worthy Sir,
+The Slaues report is seconded, and more
+More fearfull is deliuer'd
+
+   Sicin. What more fearefull?
+  Mes. It is spoke freely out of many mouths,
+How probable I do not know, that Martius
+Ioyn'd with Auffidius, leads a power 'gainst Rome,
+And vowes Reuenge as spacious, as betweene
+The yong'st and oldest thing
+
+   Sicin. This is most likely
+
+   Bru. Rais'd onely, that the weaker sort may wish
+Good Martius home againe
+
+   Sicin. The very tricke on't
+
+   Mene. This is vnlikely,
+He, and Auffidius can no more attone
+Then violent'st Contrariety.
+Enter Messenger.
+
+  Mes. You are sent for to the Senate:
+A fearefull Army, led by Caius Martius,
+Associated with Auffidius, Rages
+Vpon our Territories, and haue already
+O're-borne their way, consum'd with fire, and tooke
+What lay before them.
+Enter Cominius.
+
+  Com. Oh you haue made good worke
+
+   Mene. What newes? What newes?
+  Com. You haue holp to rauish your owne daughters, &
+To melt the Citty Leades vpon your pates,
+To see your Wiues dishonour'd to your Noses
+
+   Mene. What's the newes? What's the newes?
+  Com. Your Temples burned in their Ciment, and
+Your Franchises, whereon you stood, confin'd
+Into an Augors boare
+
+   Mene. Pray now, your Newes:
+You haue made faire worke I feare me: pray your newes,
+If Martius should be ioyn'd with Volceans
+
+   Com. If? He is their God, he leads them like a thing
+Made by some other Deity then Nature,
+That shapes man Better: and they follow him
+Against vs Brats, with no lesse Confidence,
+Then Boyes pursuing Summer Butter-flies,
+Or Butchers killing Flyes
+
+   Mene. You haue made good worke,
+You and your Apron men: you, that stood so much
+Vpon the voyce of occupation, and
+The breath of Garlicke-eaters
+
+   Com. Hee'l shake your Rome about your eares
+
+   Mene. As Hercules did shake downe Mellow Fruite:
+You haue made faire worke
+
+   Brut. But is this true sir?
+  Com. I, and you'l looke pale
+Before you finde it other. All the Regions
+Do smilingly Reuolt, and who resists
+Are mock'd for valiant Ignorance,
+And perish constant Fooles: who is't can blame him?
+Your Enemies and his, finde something in him
+
+   Mene. We are all vndone, vnlesse
+The Noble man haue mercy
+
+   Com. Who shall aske it?
+The Tribunes cannot doo't for shame; the people
+Deserue such pitty of him, as the Wolfe
+Doe's of the Shepheards: For his best Friends, if they
+Should say be good to Rome, they charg'd him, euen
+As those should do that had deseru'd his hate,
+And therein shew'd like Enemies
+
+   Me. 'Tis true, if he were putting to my house, the brand
+That should consume it, I haue not the face
+To say, beseech you cease. You haue made faire hands,
+You and your Crafts, you haue crafted faire
+
+   Com. You haue brought
+A Trembling vpon Rome, such as was neuer
+S' incapeable of helpe
+
+   Tri. Say not, we brought it
+
+   Mene. How? Was't we? We lou'd him,
+But like Beasts, and Cowardly Nobles,
+Gaue way vnto your Clusters, who did hoote
+Him out o'th' Citty
+
+   Com. But I feare
+They'l roare him in againe. Tullus Affidius,
+The second name of men, obeyes his points
+As if he were his Officer: Desperation,
+Is all the Policy, Strength, and Defence
+That Rome can make against them.
+Enter a Troope of Citizens.
+
+  Mene. Heere come the Clusters.
+And is Auffidius with him? You are they
+That made the Ayre vnwholsome, when you cast
+Your stinking, greasie Caps, in hooting
+At Coriolanus Exile. Now he's comming,
+And not a haire vpon a Souldiers head
+Which will not proue a whip: As many Coxcombes
+As you threw Caps vp, will he tumble downe,
+And pay you for your voyces. 'Tis no matter,
+If he could burne vs all into one coale,
+We haue deseru'd it
+
+   Omnes. Faith, we heare fearfull Newes
+
+   1 Cit. For mine owne part,
+When I said banish him, I said 'twas pitty
+
+   2 And so did I
+
+   3 And so did I: and to say the truth, so did very many
+of vs, that we did we did for the best, and though wee
+willingly consented to his Banishment, yet it was against
+our will
+
+   Com. Y'are goodly things, you Voyces
+
+   Mene. You haue made good worke
+You and your cry. Shal's to the Capitoll?
+  Com. Oh I, what else?
+
+Exeunt. both.
+
+  Sicin. Go Masters get you home, be not dismaid,
+These are a Side, that would be glad to haue
+This true, which they so seeme to feare. Go home,
+And shew no signe of Feare
+
+   1 Cit. The Gods bee good to vs: Come Masters let's
+home, I euer said we were i'th wrong, when we banish'd
+him
+
+   2 Cit. So did we all. But come, let's home.
+
+Exit Cit.
+
+  Bru. I do not like this Newes
+
+   Sicin. Nor I
+
+   Bru. Let's to the Capitoll: would halfe my wealth
+Would buy this for a lye
+
+   Sicin. Pray let's go.
+
+Exeunt. Tribunes.
+
+Enter Auffidius with his Lieutenant.
+
+  Auf. Do they still flye to'th' Roman?
+  Lieu. I do not know what Witchcraft's in him: but
+Your Soldiers vse him as the Grace 'fore meate,
+Their talke at Table, and their Thankes at end,
+And you are darkned in this action Sir,
+Euen by your owne
+
+   Auf. I cannot helpe it now,
+Vnlesse by vsing meanes I lame the foote
+Of our designe. He beares himselfe more proudlier,
+Euen to my person, then I thought he would
+When first I did embrace him. Yet his Nature
+In that's no Changeling, and I must excuse
+What cannot be amended
+
+   Lieu. Yet I wish Sir,
+(I meane for your particular) you had not
+Ioyn'd in Commission with him: but either haue borne
+The action of your selfe, or else to him, had left it soly
+
+   Auf. I vnderstand thee well, and be thou sure
+When he shall come to his account, he knowes not
+What I can vrge against him, although it seemes
+And so he thinkes, and is no lesse apparant
+To th' vulgar eye, that he beares all things fairely:
+And shewes good Husbandry for the Volcian State,
+Fights Dragon-like, and does atcheeue as soone
+As draw his Sword: yet he hath left vndone
+That which shall breake his necke, or hazard mine,
+When ere we come to our account
+
+   Lieu. Sir, I beseech you, think you he'l carry Rome?
+  Auf. All places yeelds to him ere he sits downe,
+And the Nobility of Rome are his:
+The Senators and Patricians loue him too:
+The Tribunes are no Soldiers: and their people
+Will be as rash in the repeale, as hasty
+To expell him thence. I thinke hee'l be to Rome
+As is the Aspray to the Fish, who takes it
+By Soueraignty of Nature. First, he was
+A Noble seruant to them, but he could not
+Carry his Honors eeuen: whether 'twas Pride
+Which out of dayly Fortune euer taints
+The happy man; whether detect of iudgement,
+To faile in the disposing of those chances
+Which he was Lord of: or whether Nature,
+Not to be other then one thing, not moouing
+From th' Caske to th' Cushion: but commanding peace
+Euen with the same austerity and garbe,
+As he controll'd the warre. But one of these
+(As he hath spices of them all) not all,
+For I dare so farre free him, made him fear'd,
+So hated, and so banish'd: but he ha's a Merit
+To choake it in the vtt'rance: So our Vertue,
+Lie in th' interpretation of the time,
+And power vnto it selfe most commendable,
+Hath not a Tombe so euident as a Chaire
+T' extoll what it hath done.
+One fire driues out one fire; one Naile, one Naile;
+Rights by rights fouler, strengths by strengths do faile.
+Come let's away: when Caius Rome is thine,
+Thou art poor'st of all; then shortly art thou mine.
+
+Exeunt.
+
+Actus Quintus.
+
+Enter Menenius, Cominius, Sicinius, Brutus, the two Tribunes,
+with
+others.
+
+  Menen. No, ile not go: you heare what he hath said
+Which was sometime his Generall: who loued him
+In a most deere particular. He call'd me Father:
+But what o'that? Go you that banish'd him
+A Mile before his Tent, fall downe, and knee
+The way into his mercy: Nay, if he coy'd
+To heare Cominius speake, Ile keepe at home
+
+   Com. He would not seeme to know me
+
+   Menen. Do you heare?
+  Com. Yet one time he did call me by my name:
+I vrg'd our old acquaintance, and the drops
+That we haue bled together. Coriolanus
+He would not answer too: Forbad all Names,
+He was a kinde of Nothing, Titlelesse,
+Till he had forg'd himselfe a name a'th' fire
+Of burning Rome
+
+   Menen. Why so: you haue made good worke:
+A paire of Tribunes, that haue wrack'd for Rome,
+To make Coales cheape: A Noble memory
+
+   Com. I minded him, how Royall 'twas to pardon
+When it was lesse expected. He replyed
+It was a bare petition of a State
+To one whom they had punish'd
+
+   Menen. Very well, could he say lesse
+
+   Com. I offered to awaken his regard
+For's priuate Friends. His answer to me was
+He could not stay to picke them, in a pile
+Of noysome musty Chaffe. He said, 'twas folly
+For one poore graine or two, to leaue vnburnt
+And still to nose th' offence
+
+   Menen. For one poore graine or two?
+I am one of those: his Mother, Wife, his Childe,
+And this braue Fellow too: we are the Graines,
+You are the musty Chaffe, and you are smelt
+Aboue the Moone. We must be burnt for you
+
+   Sicin. Nay, pray be patient: If you refuse your ayde
+In this so neuer-needed helpe, yet do not
+Vpbraid's with our distresse. But sure if you
+Would be your Countries Pleader, your good tongue
+More then the instant Armie we can make
+Might stop our Countryman
+
+   Mene. No: Ile not meddle
+
+   Sicin. Pray you go to him
+
+   Mene. What should I do?
+  Bru. Onely make triall what your Loue can do,
+For Rome, towards Martius
+
+   Mene. Well, and say that Martius returne mee,
+As Cominius is return'd, vnheard: what then?
+But as a discontented Friend, greefe-shot
+With his vnkindnesse. Say't be so?
+  Sicin. Yet your good will
+Must haue that thankes from Rome, after the measure
+As you intended well
+
+   Mene. Ile vndertak't:
+I thinke hee'l heare me. Yet to bite his lip,
+And humme at good Cominius, much vnhearts mee.
+He was not taken well, he had not din'd,
+The Veines vnfill'd, our blood is cold, and then
+We powt vpon the Morning, are vnapt
+To giue or to forgiue; but when we haue stufft
+These Pipes, and these Conueyances of our blood
+With Wine and Feeding, we haue suppler Soules
+Then in our Priest-like Fasts: therefore Ile watch him
+Till he be dieted to my request,
+And then Ile set vpon him
+
+   Bru. You know the very rode into his kindnesse,
+And cannot lose your way
+
+   Mene. Good faith Ile proue him,
+Speed how it will. I shall ere long, haue knowledge
+Of my successe.
+Enter.
+
+  Com. Hee'l neuer heare him
+
+   Sicin. Not
+
+   Com. I tell you, he doe's sit in Gold, his eye
+Red as 'twould burne Rome: and his Iniury
+The Gaoler to his pitty. I kneel'd before him,
+'Twas very faintly he said Rise: dismist me
+Thus with his speechlesse hand. What he would do
+He sent in writing after me: what he would not,
+Bound with an Oath to yeeld to his conditions:
+So that all hope is vaine, vnlesse his Noble Mother,
+And his Wife, who (as I heare) meane to solicite him
+For mercy to his Countrey: therefore let's hence,
+And with our faire intreaties hast them on.
+
+Exeunt.
+
+Enter Menenius to the Watch or Guard.
+
+  1.Wat. Stay: whence are you
+
+   2.Wat. Stand, and go backe
+
+   Me. You guard like men, 'tis well. But by your leaue,
+I am an Officer of State, & come to speak with Coriolanus
+  1 From whence?
+  Mene. From Rome
+
+   I You may not passe, you must returne: our Generall
+will no more heare from thence
+
+   2 You'l see your Rome embrac'd with fire, before
+You'l speake with Coriolanus
+
+   Mene. Good my Friends,
+If you haue heard your Generall talke of Rome,
+And of his Friends there, it is Lots to Blankes,
+My name hath touch't your eares: it is Menenius
+
+   1 Be it so, go back: the vertue of your name,
+Is not heere passable
+
+   Mene. I tell thee Fellow,
+Thy Generall is my Louer: I haue beene
+The booke of his good Acts, whence men haue read
+His Fame vnparalell'd, happely amplified:
+For I haue euer verified my Friends,
+(Of whom hee's cheefe) with all the size that verity
+Would without lapsing suffer: Nay, sometimes,
+Like to a Bowle vpon a subtle ground
+I haue tumbled past the throw: and in his praise
+Haue (almost) stampt the Leasing. Therefore Fellow,
+I must haue leaue to passe
+
+   1 Faith Sir, if you had told as many lies in his behalfe,
+as you haue vttered words in your owne, you should not
+passe heere: no, though it were as vertuous to lye, as to
+liue chastly. Therefore go backe
+
+   Men. Prythee fellow, remember my name is Menenius,
+alwayes factionary on the party of your Generall
+
+   2 Howsoeuer you haue bin his Lier, as you say you
+haue, I am one that telling true vnder him, must say you
+cannot passe. Therefore go backe
+
+   Mene. Ha's he din'd can'st thou tell? For I would not
+speake with him, till after dinner
+
+   1 You are a Roman, are you?
+  Mene. I am as thy Generall is
+
+   1 Then you should hate Rome, as he do's. Can you,
+when you haue pusht out your gates, the very Defender
+of them, and in a violent popular ignorance, giuen your
+enemy your shield, thinke to front his reuenges with the
+easie groanes of old women, the Virginall Palms of your
+daughters, or with the palsied intercession of such a decay'd
+Dotant as you seeme to be? Can you think to blow
+out the intended fire, your City is ready to flame in, with
+such weake breath as this? No, you are deceiu'd, therfore
+backe to Rome, and prepare for your execution: you are
+condemn'd, our Generall has sworne you out of repreeue
+and pardon
+
+   Mene. Sirra, if thy Captaine knew I were heere,
+He would vse me with estimation
+
+   1 Come, my Captaine knowes you not
+
+   Mene. I meane thy Generall
+
+   1 My Generall cares not for you. Back I say, go: least
+I let forth your halfe pinte of blood. Backe, that's the vtmost
+of your hauing, backe
+
+   Mene. Nay but Fellow, Fellow.
+Enter Coriolanus with Auffidius.
+
+  Corio. What's the matter?
+  Mene. Now you Companion: Ile say an arrant for you:
+you shall know now that I am in estimation: you shall
+perceiue, that a Iacke gardant cannot office me from my
+Son Coriolanus, guesse but my entertainment with him: if
+thou stand'st not i'th state of hanging, or of some death
+more long in Spectatorship, and crueller in suffering, behold
+now presently, and swoond for what's to come vpon
+thee. The glorious Gods sit in hourely Synod about thy
+particular prosperity, and loue thee no worse then thy old
+Father Menenius do's. O my Son, my Son! thou art preparing
+fire for vs: looke thee, heere's water to quench it.
+I was hardly moued to come to thee: but beeing assured
+none but my selfe could moue thee, I haue bene blowne
+out of your Gates with sighes: and coniure thee to pardon
+Rome, and thy petitionary Countrimen. The good
+Gods asswage thy wrath, and turne the dregs of it, vpon
+this Varlet heere: This, who like a blocke hath denyed
+my accesse to thee
+
+   Corio. Away
+
+   Mene. How? Away?
+  Corio. Wife, Mother, Child, I know not. My affaires
+Are Seruanted to others: Though I owe
+My Reuenge properly, my remission lies
+In Volcean brests. That we haue beene familiar,
+Ingrate forgetfulnesse shall poison rather
+Then pitty: Note how much, therefore be gone.
+Mine eares against your suites, are stronger then
+Your gates against my force. Yet for I loued thee,
+Take this along, I writ it for thy sake,
+And would haue sent it. Another word Menenius,
+I will not heare thee speake. This man Auffidius
+Was my belou'd in Rome: yet thou behold'st
+
+   Auffid. You keepe a constant temper.
+
+Exeunt.
+
+Manet the Guard and Menenius.
+
+  1 Now sir, is your name Menenius?
+  2 'Tis a spell you see of much power:
+You know the way home againe
+
+   1 Do you heare how wee are shent for keeping your
+greatnesse backe?
+  2 What cause do you thinke I haue to swoond?
+  Menen. I neither care for th' world, nor your General:
+for such things as you. I can scarse thinke ther's any, y'are
+so slight. He that hath a will to die by himselfe, feares it
+not from another: Let your Generall do his worst. For
+you, bee that you are, long; and your misery encrease
+with your age. I say to you, as I was said to, Away.
+
+Exit
+
+  1 A Noble Fellow I warrant him
+
+   2 The worthy Fellow is our General. He's the Rock,
+The Oake not to be winde-shaken.
+
+Exit Watch.
+
+Enter Coriolanus and Auffidius.
+
+  Corio. We will before the walls of Rome to morrow
+Set downe our Hoast. My partner in this Action,
+You must report to th' Volcian Lords, how plainly
+I haue borne this Businesse
+
+   Auf. Onely their ends you haue respected,
+Stopt your eares against the generall suite of Rome:
+Neuer admitted a priuat whisper, no not with such frends
+That thought them sure of you
+
+   Corio. This last old man,
+Whom with a crack'd heart I haue sent to Rome,
+Lou'd me, aboue the measure of a Father,
+Nay godded me indeed. Their latest refuge
+Was to send him: for whose old Loue I haue
+(Though I shew'd sowrely to him) once more offer'd
+The first Conditions which they did refuse,
+And cannot now accept, to grace him onely,
+That thought he could do more: A very little
+I haue yeelded too. Fresh Embasses, and Suites,
+Nor from the State, nor priuate friends heereafter
+Will I lend eare to. Ha? what shout is this?
+
+Shout within
+
+Shall I be tempted to infringe my vow
+In the same time 'tis made? I will not.
+Enter Virgilia, Volumnia, Valeria, yong Martius, with Attendants.
+
+My wife comes formost, then the honour'd mould
+Wherein this Trunke was fram'd, and in her hand
+The Grandchilde to her blood. But out affection,
+All bond and priuiledge of Nature breake;
+Let it be Vertuous to be Obstinate.
+What is that Curt'sie worth? Or those Doues eyes,
+Which can make Gods forsworne? I melt, and am not
+Of stronger earth then others: my Mother bowes,
+As if Olympus to a Mole-hill should
+In supplication Nod: and my yong Boy
+Hath an Aspect of intercession, which
+Great Nature cries, Deny not. Let the Volces
+Plough Rome, and harrow Italy, Ile neuer
+Be such a Gosling to obey instinct; but stand
+As if a man were Author of himself, & knew no other kin
+  Virgil. My Lord and Husband
+
+   Corio. These eyes are not the same I wore in Rome
+
+   Virg. The sorrow that deliuers vs thus chang'd,
+Makes you thinke so
+
+   Corio. Like a dull Actor now, I haue forgot my part,
+And I am out, euen to a full Disgrace. Best of my Flesh,
+Forgiue my Tyranny: but do not say,
+For that forgiue our Romanes. O a kisse
+Long as my Exile, sweet as my Reuenge!
+Now by the iealous Queene of Heauen, that kisse
+I carried from thee deare; and my true Lippe
+Hath Virgin'd it ere since. You Gods, I pray,
+And the most noble Mother of the world
+Leaue vnsaluted: Sinke my knee i'th' earth,
+
+Kneeles
+
+Of thy deepe duty, more impression shew
+Then that of common Sonnes
+
+   Volum. Oh stand vp blest!
+Whil'st with no softer Cushion then the Flint
+I kneele before thee, and vnproperly
+Shew duty as mistaken, all this while,
+Betweene the Childe, and Parent
+
+   Corio. What's this? your knees to me?
+To your Corrected Sonne?
+Then let the Pibbles on the hungry beach
+Fillop the Starres: Then, let the mutinous windes
+Strike the proud Cedars 'gainst the fiery Sun:
+Murd'ring Impossibility, to make
+What cannot be, slight worke
+
+   Volum. Thou art my Warriour, I hope to frame thee
+Do you know this Lady?
+  Corio. The Noble Sister of Publicola;
+The Moone of Rome: Chaste as the Isicle
+That's curdied by the Frost, from purest Snow,
+And hangs on Dians Temple: Deere Valeria
+
+   Volum. This is a poore Epitome of yours,
+Which by th' interpretation of full time,
+May shew like all your selfe
+
+   Corio. The God of Souldiers:
+With the consent of supreame Ioue, informe
+Thy thoughts with Noblenesse, that thou mayst proue
+To shame vnvulnerable, and sticke i'th Warres
+Like a great Sea-marke standing euery flaw,
+And sauing those that eye thee
+
+   Volum. Your knee, Sirrah
+
+   Corio. That's my braue Boy
+
+   Volum. Euen he, your wife, this Ladie, and my selfe,
+Are Sutors to you
+
+   Corio. I beseech you peace:
+Or if you'ld aske, remember this before;
+The thing I haue forsworne to graunt, may neuer
+Be held by you denials. Do not bid me
+Dismisse my Soldiers, or capitulate
+Againe, with Romes Mechanickes. Tell me not
+Wherein I seeme vnnaturall: Desire not t' allay
+My Rages and Reuenges, with your colder reasons
+
+   Volum. Oh no more, no more:
+You haue said you will not grant vs any thing:
+For we haue nothing else to aske, but that
+Which you deny already: yet we will aske,
+That if you faile in our request, the blame
+May hang vpon your hardnesse, therefore heare vs
+
+   Corio. Auffidius, and you Volces marke, for wee'l
+Heare nought from Rome in priuate. Your request?
+  Volum. Should we be silent & not speak, our Raiment
+And state of Bodies would bewray what life
+We haue led since thy Exile. Thinke with thy selfe,
+How more vnfortunate then all liuing women
+Are we come hither; since that thy sight, which should
+Make our eies flow with ioy, harts dance with comforts,
+Constraines them weepe, and shake with feare & sorow,
+Making the Mother, wife, and Childe to see,
+The Sonne, the Husband, and the Father tearing
+His Countries Bowels out; and to poore we
+Thine enmities most capitall: Thou barr'st vs
+Our prayers to the Gods, which is a comfort
+That all but we enioy. For how can we?
+Alas! how can we, for our Country pray?
+Whereto we are bound, together with thy victory:
+Whereto we are bound: Alacke, or we must loose
+The Countrie our deere Nurse, or else thy person
+Our comfort in the Country. We must finde
+An euident Calamity, though we had
+Our wish, which side should win. For either thou
+Must as a Forraine Recreant be led
+With Manacles through our streets, or else
+Triumphantly treade on thy Countries ruine,
+And beare the Palme, for hauing brauely shed
+Thy Wife and Childrens blood: For my selfe, Sonne,
+I purpose not to waite on Fortune, till
+These warres determine: If I cannot perswade thee,
+Rather to shew a Noble grace to both parts,
+Then seeke the end of one; thou shalt no sooner
+March to assault thy Country, then to treade
+(Trust too't, thou shalt not) on thy Mothers wombe
+That brought thee to this world
+
+   Virg. I, and mine, that brought you forth this boy,
+To keepe your name liuing to time
+
+   Boy. A shall not tread on me: Ile run away
+Till I am bigger, but then Ile fight
+
+   Corio. Not of a womans tendernesse to be,
+Requires nor Childe, nor womans face to see:
+I haue sate too long
+
+   Volum. Nay, go not from vs thus:
+If it were so, that our request did tend
+To saue the Romanes, thereby to destroy
+The Volces whom you serue, you might condemne vs
+As poysonous of your Honour. No, our suite
+Is that you reconcile them: While the Volces
+May say, this mercy we haue shew'd: the Romanes,
+This we receiu'd, and each in either side
+Giue the All-haile to thee, and cry be Blest
+For making vp this peace. Thou know'st (great Sonne)
+The end of Warres vncertaine: but this certaine,
+That if thou conquer Rome, the benefit
+Which thou shalt thereby reape, is such a name
+Whose repetition will be dogg'd with Curses:
+Whose Chronicle thus writ, The man was Noble,
+But with his last Attempt, he wip'd it out:
+Destroy'd his Country, and his name remaines
+To th' insuing Age, abhorr'd. Speake to me Son:
+Thou hast affected the fiue straines of Honor,
+To imitate the graces of the Gods.
+To teare with Thunder the wide Cheekes a'th' Ayre,
+And yet to change thy Sulphure with a Boult
+That should but riue an Oake. Why do'st not speake?
+Think'st thou it Honourable for a Nobleman
+Still to remember wrongs? Daughter, speake you:
+He cares not for your weeping. Speake thou Boy,
+Perhaps thy childishnesse will moue him more
+Then can our Reasons. There's no man in the world
+More bound to's Mother, yet heere he let's me prate
+Like one i'th' Stockes. Thou hast neuer in thy life,
+Shew'd thy deere Mother any curtesie,
+When she (poor Hen) fond of no second brood,
+Ha's clock'd thee to the Warres: and safelie home
+Loden with Honor. Say my Request's vniust,
+And spurne me backe: But, if it be not so
+Thou art not honest, and the Gods will plague thee
+That thou restrain'st from me the Duty, which
+To a Mothers part belongs. He turnes away:
+Down Ladies: let vs shame him with him with our knees
+To his sur-name Coriolanus longs more pride
+Then pitty to our Prayers. Downe: an end,
+This is the last. So, we will home to Rome,
+And dye among our Neighbours: Nay, behold's,
+This Boy that cannot tell what he would haue,
+But kneeles, and holds vp hands for fellowship,
+Doe's reason our Petition with more strength
+Then thou hast to deny't. Come, let vs go:
+This Fellow had a Volcean to his Mother:
+His Wife is in Corioles, and his Childe
+Like him by chance: yet giue vs our dispatch:
+I am husht vntill our City be afire, & then Ile speak a litle
+
+Holds her by the hand silent.
+
+  Corio. O Mother, Mother!
+What haue you done? Behold, the Heauens do ope,
+The Gods looke downe, and this vnnaturall Scene
+They laugh at. Oh my Mother, Mother: Oh!
+You haue wonne a happy Victory to Rome.
+But for your Sonne, beleeue it: Oh beleeue it,
+Most dangerously you haue with him preuail'd,
+If not most mortall to him. But let it come:
+Auffidius, though I cannot make true Warres,
+Ile frame conuenient peace. Now good Auffidius,
+Were you in my steed, would you haue heard
+A Mother lesse? or granted lesse Auffidius?
+  Auf. I was mou'd withall
+
+   Corio. I dare be sworne you were:
+And sir, it is no little thing to make
+Mine eyes to sweat compassion. But (good sir)
+What peace you'l make, aduise me: For my part,
+Ile not to Rome, Ile backe with you, and pray you
+Stand to me in this cause. Oh Mother! Wife!
+  Auf. I am glad thou hast set thy mercy, & thy Honor
+At difference in thee: Out of that Ile worke
+My selfe a former Fortune
+
+   Corio. I by and by; But we will drinke together:
+And you shall beare
+A better witnesse backe then words, which we
+On like conditions, will haue Counter-seal'd.
+Come enter with vs: Ladies you deserue
+To haue a Temple built you: All the Swords
+In Italy, and her Confederate Armes
+Could not haue made this peace.
+
+Exeunt.
+
+Enter Menenius and Sicinius.
+
+  Mene. See you yon'd Coin a'th Capitol, yon'd corner stone?
+  Sicin. Why what of that?
+  Mene. If it be possible for you to displace it with your
+little finger, there is some hope the Ladies of Rome, especially
+his Mother, may preuaile with him. But I say, there
+is no hope in't, our throats are sentenc'd, and stay vppon
+execution
+
+   Sicin. Is't possible, that so short a time can alter the
+condition of a man
+
+   Mene. There is differency between a Grub & a Butterfly,
+yet your Butterfly was a Grub: this Martius, is
+growne from Man to Dragon: He has wings, hee's more
+then a creeping thing
+
+   Sicin. He lou'd his Mother deerely
+
+   Mene. So did he mee: and he no more remembers his
+Mother now, then an eight yeare old horse. The tartnesse
+of his face, sowres ripe Grapes. When he walks, he moues
+like an Engine, and the ground shrinkes before his Treading.
+He is able to pierce a Corslet with his eye: Talkes
+like a knell, and his hum is a Battery. He sits in his State,
+as a thing made for Alexander. What he bids bee done, is
+finisht with his bidding. He wants nothing of a God but
+Eternity, and a Heauen to Throne in
+
+   Sicin. Yes, mercy, if you report him truly
+
+   Mene. I paint him in the Character. Mark what mercy
+his Mother shall bring from him: There is no more
+mercy in him, then there is milke in a male-Tyger, that
+shall our poore City finde: and all this is long of you
+
+   Sicin. The Gods be good vnto vs
+
+   Mene. No, in such a case the Gods will not bee good
+vnto vs. When we banish'd him, we respected not them:
+and he returning to breake our necks, they respect not vs.
+Enter a Messenger.
+
+  Mes. Sir, if you'ld saue your life, flye to your House,
+The Plebeians haue got your Fellow Tribune,
+And hale him vp and downe; all swearing, if
+The Romane Ladies bring not comfort home
+They'l giue him death by Inches.
+Enter another Messenger.
+
+  Sicin. What's the Newes?
+  Mess. Good Newes, good newes, the Ladies haue preuayl'd.
+The Volcians are dislodg'd, and Martius gone:
+A merrier day did neuer yet greet Rome,
+No, not th' expulsion of the Tarquins
+
+   Sicin. Friend, art thou certaine this is true?
+Is't most certaine
+
+   Mes. As certaine as I know the Sun is fire:
+Where haue you lurk'd that you make doubt of it:
+Ne're through an Arch so hurried the blowne Tide,
+As the recomforted through th' gates. Why harke you:
+
+Trumpets, Hoboyes, Drums beate, altogether.
+
+The Trumpets, Sack-buts, Psalteries, and Fifes,
+Tabors, and Symboles, and the showting Romans,
+Make the Sunne dance. Hearke you.
+
+A shout within
+
+  Mene. This is good Newes:
+I will go meete the Ladies. This Volumnia,
+Is worth of Consuls, Senators, Patricians,
+A City full: Of Tribunes such as you,
+A Sea and Land full: you haue pray'd well to day:
+This Morning, for ten thousand of your throates,
+I'de not haue giuen a doit. Harke, how they ioy.
+
+Sound still with the Shouts.
+
+  Sicin. First, the Gods blesse you for your tydings:
+Next, accept my thankefulnesse
+
+   Mess. Sir, we haue all great cause to giue great thanks
+
+   Sicin. They are neere the City
+
+   Mes. Almost at point to enter
+
+   Sicin. Wee'l meet them, and helpe the ioy.
+
+Exeunt.
+
+Enter two Senators, with Ladies, passing ouer the Stage, with other
+Lords.
+
+  Sena. Behold our Patronnesse, the life of Rome:
+Call all your Tribes together, praise the Gods,
+And make triumphant fires, strew Flowers before them:
+Vnshoot the noise that Banish'd Martius;
+Repeale him, with the welcome of his Mother:
+Cry welcome Ladies, welcome
+
+   All. Welcome Ladies, welcome.
+
+A Flourish with Drummes & Trumpets.
+
+Enter Tullus Auffidius, with Attendants.
+
+  Auf. Go tell the Lords a'th' City, I am heere:
+Deliuer them this Paper: hauing read it,
+Bid them repayre to th' Market place, where I
+Euen in theirs, and in the Commons eares
+Will vouch the truth of it. Him I accuse:
+The City Ports by this hath enter'd, and
+Intends t' appeare before the People, hoping
+To purge himselfe with words. Dispatch.
+Enter 3 or 4 Conspirators of Auffidius Faction.
+
+Most Welcome
+
+   1.Con. How is it with our Generall?
+  Auf. Euen so, as with a man by his owne Almes impoyson'd,
+and with his Charity slaine
+
+   2.Con. Most Noble Sir, If you do hold the same intent
+Wherein you wisht vs parties: Wee'l deliuer you
+Of your great danger
+
+   Auf. Sir, I cannot tell,
+We must proceed as we do finde the People
+
+   3.Con. The People will remaine vncertaine, whil'st
+'Twixt you there's difference: but the fall of either
+Makes the Suruiuor heyre of all
+
+   Auf. I know it:
+And my pretext to strike at him, admits
+A good construction. I rais'd him, and I pawn'd
+Mine Honor for his truth: who being so heighten'd,
+He watered his new Plants with dewes of Flattery,
+Seducing so my Friends: and to this end,
+He bow'd his Nature, neuer knowne before,
+But to be rough, vnswayable, and free
+
+   3.Consp. Sir, his stoutnesse
+When he did stand for Consull, which he lost
+By lacke of stooping
+
+   Auf. That I would haue spoke of:
+Being banish'd for't, he came vnto my Harth,
+Presented to my knife his Throat: I tooke him,
+Made him ioynt-seruant with me: Gaue him way
+In all his owne desires: Nay, let him choose
+Out of my Files, his proiects, to accomplish
+My best and freshest men, seru'd his designements
+In mine owne person: holpe to reape the Fame
+Which he did end all his; and tooke some pride
+To do my selfe this wrong: Till at the last
+I seem'd his Follower, not Partner; and
+He wadg'd me with his Countenance, as if
+I had bin Mercenary
+
+   1.Con. So he did my Lord:
+The Army marueyl'd at it, and in the last,
+When he had carried Rome, and that we look'd
+For no lesse Spoile, then Glory
+
+   Auf. There was it:
+For which my sinewes shall be stretcht vpon him,
+At a few drops of Womens rhewme, which are
+As cheape as Lies; he sold the Blood and Labour
+Of our great Action; therefore shall he dye,
+And Ile renew me in his fall. But hearke.
+
+Drummes and Trumpets sounds, with great showts of the people.
+
+  1.Con. Your Natiue Towne you enter'd like a Poste,
+And had no welcomes home, but he returnes
+Splitting the Ayre with noyse
+
+   2.Con. And patient Fooles,
+Whose children he hath slaine, their base throats teare
+With giuing him glory
+
+   3.Con. Therefore at your vantage,
+Ere he expresse himselfe, or moue the people
+With what he would say, let him feele your Sword:
+Which we will second, when he lies along
+After your way. His Tale pronounc'd, shall bury
+His Reasons, with his Body
+
+   Auf. Say no more. Heere come the Lords,
+Enter the Lords of the City.
+
+  All Lords. You are most welcome home
+
+   Auff. I haue not deseru'd it.
+But worthy Lords, haue you with heede perused
+What I haue written to you?
+  All. We haue
+
+   1.Lord. And greeue to heare't:
+What faults he made before the last, I thinke
+Might haue found easie Fines: But there to end
+Where he was to begin, and giue away
+The benefit of our Leuies, answering vs
+With our owne charge: making a Treatie, where
+There was a yeelding; this admits no excuse
+
+   Auf. He approaches, you shall heare him.
+Enter Coriolanus marching with Drumme, and Colours. The
+Commoners being
+with him.
+
+  Corio. Haile Lords, I am return'd your Souldier:
+No more infected with my Countries loue
+Then when I parted hence: but still subsisting
+Vnder your great Command. You are to know,
+That prosperously I haue attempted, and
+With bloody passage led your Warres, euen to
+The gates of Rome: Our spoiles we haue brought home
+Doth more then counterpoize a full third part
+The charges of the Action. We haue made peace
+With no lesse Honor to the Antiates
+Then shame to th' Romaines. And we heere deliuer
+Subscrib'd by'th' Consuls, and Patricians,
+Together with the Seale a'th Senat, what
+We haue compounded on
+
+   Auf. Read it not Noble Lords,
+But tell the Traitor in the highest degree
+He hath abus'd your Powers
+
+   Corio. Traitor? How now?
+  Auf. I Traitor, Martius
+
+   Corio. Martius?
+  Auf. I Martius, Caius Martius: Do'st thou thinke
+Ile grace thee with that Robbery, thy stolne name
+Coriolanus in Corioles?
+You Lords and Heads a'th' State, perfidiously
+He ha's betray'd your businesse, and giuen vp
+For certaine drops of Salt, your City Rome:
+I say your City to his Wife and Mother,
+Breaking his Oath and Resolution, like
+A twist of rotten Silke, neuer admitting
+Counsaile a'th' warre: But at his Nurses teares
+He whin'd and roar'd away your Victory,
+That Pages blush'd at him, and men of heart
+Look'd wond'ring each at others
+
+   Corio. Hear'st thou Mars?
+  Auf. Name not the God, thou boy of Teares
+
+   Corio. Ha?
+  Aufid. No more
+
+   Corio. Measurelesse Lyar, thou hast made my heart
+Too great for what containes it. Boy? Oh Slaue,
+Pardon me Lords, 'tis the first time that euer
+I was forc'd to scoul'd. Your iudgments my graue Lords
+Must giue this Curre the Lye: and his owne Notion,
+Who weares my stripes imprest vpon him, that
+Must beare my beating to his Graue, shall ioyne
+To thrust the Lye vnto him
+
+   1 Lord. Peace both, and heare me speake
+
+   Corio. Cut me to peeces Volces men and Lads,
+Staine all your edges on me. Boy, false Hound:
+If you haue writ your Annales true, 'tis there,
+That like an Eagle in a Doue-coat, I
+Flatter'd your Volcians in Corioles.
+Alone I did it, Boy
+
+   Auf. Why Noble Lords,
+Will you be put in minde of his blinde Fortune,
+Which was your shame, by this vnholy Braggart?
+'Fore your owne eyes, and eares?
+  All Consp. Let him dye for't
+
+   All People. Teare him to peeces, do it presently:
+He kill'd my Sonne, my daughter, he kill'd my Cosine
+Marcus, he kill'd my Father
+
+   2 Lord. Peace hoe: no outrage, peace:
+The man is Noble, and his Fame folds in
+This Orbe o'th' earth: His last offences to vs
+Shall haue Iudicious hearing. Stand Auffidius,
+And trouble not the peace
+
+   Corio. O that I had him, with six Auffidiusses, or more:
+His Tribe, to vse my lawfull Sword
+
+   Auf. Insolent Villaine
+
+   All Consp. Kill, kill, kill, kill, kill him.
+
+Draw both the Conspirators, and kils Martius, who falles,
+Auffidius stands
+on him
+
+   Lords. Hold, hold, hold, hold
+
+   Auf. My Noble Masters, heare me speake
+
+   1.Lord. O Tullus
+
+   2.Lord. Thou hast done a deed, whereat
+Valour will weepe
+
+   3.Lord. Tread not vpon him Masters, all be quiet,
+Put vp your Swords
+
+   Auf. My Lords,
+When you shall know (as in this Rage
+Prouok'd by him, you cannot) the great danger
+Which this mans life did owe you, you'l reioyce
+That he is thus cut off. Please it your Honours
+To call me to your Senate, Ile deliuer
+My selfe your loyall Seruant, or endure
+Your heauiest Censure
+
+   1.Lord. Beare from hence his body,
+And mourne you for him. Let him be regarded
+As the most Noble Coarse, that euer Herald
+Did follow to his Vrne
+
+   2.Lord. His owne impatience,
+Takes from Auffidius a great part of blame:
+Let's make the Best of it
+
+   Auf. My Rage is gone,
+And I am strucke with sorrow. Take him vp:
+Helpe three a'th' cheefest Souldiers, Ile be one.
+Beate thou the Drumme that it speake mournfully:
+Traile your steele Pikes. Though in this City hee
+Hath widdowed and vnchilded many a one,
+Which to this houre bewaile the Iniury,
+Yet he shall haue a Noble Memory. Assist.
+
+Exeunt. bearing the Body of Martius. A dead March Sounded.
+
+
+FINIS. The Tragedy of Coriolanus.

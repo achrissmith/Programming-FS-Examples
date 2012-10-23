@@ -1,0 +1,18 @@
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer.Local\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer.Local\bin\Debug\Indexer.Local.XML
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer.Local\bin\Debug\Indexer.Local.exe
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer.Local\bin\Debug\Indexer.Local.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer.Local\bin\Debug\Indexer.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer.Local\bin\Debug\Indexer.Core.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer.Local\bin\Debug\Indexer.Core.xml
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer.Local\obj\x86\Debug\Indexer.Local.exe
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer.Local\obj\x86\Debug\Indexer.Local.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\Code\ForGithub\Ch 12 - Data Processing\Search Engine\Indexer.Local\bin\Debug\Indexer.Local.XML
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\Code\ForGithub\Ch 12 - Data Processing\Search Engine\Indexer.Local\bin\Debug\Indexer.Local.exe
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\Code\ForGithub\Ch 12 - Data Processing\Search Engine\Indexer.Local\bin\Debug\Indexer.Local.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\Code\ForGithub\Ch 12 - Data Processing\Search Engine\Indexer.Local\bin\Debug\Indexer.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\Code\ForGithub\Ch 12 - Data Processing\Search Engine\Indexer.Local\bin\Debug\Indexer.Core.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\Code\ForGithub\Ch 12 - Data Processing\Search Engine\Indexer.Local\bin\Debug\Indexer.Core.xml
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\Code\ForGithub\Ch 12 - Data Processing\Search Engine\Indexer.Local\obj\x86\Debug\Indexer.Local.fsprojResolveAssemblyReference.cache
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\Code\ForGithub\Ch 12 - Data Processing\Search Engine\Indexer.Local\obj\x86\Debug\Indexer.Local.exe
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\Code\ForGithub\Ch 12 - Data Processing\Search Engine\Indexer.Local\obj\x86\Debug\Indexer.Local.pdb

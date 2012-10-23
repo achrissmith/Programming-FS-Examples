@@ -1,0 +1,3977 @@
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+*********************The Taming of the Shrew********************
+
+This is our 3rd edition of most of these plays.  See the index.
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+The Taming of the Shrew
+
+by William Shakespeare
+
+July, 2000  [Etext #2245]
+
+
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+*********************The Taming of the Shrew********************
+
+*****This file should be named 0ws1010.txt or 0ws1010.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 0ws1011.txt
+VERSIONS based on separate sources get new LETTER, 0ws1010a.txt
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Project Gutenberg's Etext of Shakespeare's The first Part of 
+Henry the Sixt
+
+
+
+
+Executive Director's Notes:
+
+In addition to the notes below, and so you will *NOT* think all
+the spelling errors introduced by the printers of the time have
+been corrected, here are the first few lines of Hamlet, as they
+are presented herein:
+
+  Barnardo. Who's there?
+  Fran. Nay answer me: Stand & vnfold
+your selfe
+
+   Bar. Long liue the King
+
+***
+
+As I understand it, the printers often ran out of certain words
+or letters they had often packed into a "cliche". . .this is the
+original meaning of the term cliche. . .and thus, being unwilling
+to unpack the cliches, and thus you will see some substitutions
+that look very odd. . .such as the exchanges of u for v, v for u,
+above. . .and you may wonder why they did it this way, presuming
+Shakespeare did not actually write the play in this manner. . . .
+
+The answer is that they MAY have packed "liue" into a cliche at a
+time when they were out of "v"'s. . .possibly having used "vv" in
+place of some "w"'s, etc.  This was a common practice of the day,
+as print was still quite expensive, and they didn't want to spend
+more on a wider selection of characters than they had to.
+
+You will find a lot of these kinds of "errors" in this text, as I
+have mentioned in other times and places, many "scholars" have an
+extreme attachment to these errors, and many have accorded them a
+very high place in the "canon" of Shakespeare.  My father read an
+assortment of these made available to him by Cambridge University
+in England for several months in a glass room constructed for the
+purpose.  To the best of my knowledge he read ALL those available
+. . .in great detail. . .and determined from the various changes,
+that Shakespeare most likely did not write in nearly as many of a
+variety of errors we credit him for, even though he was in/famous
+for signing his name with several different spellings.
+
+So, please take this into account when reading the comments below
+made by our volunteer who prepared this file:  you may see errors
+that are "not" errors. . . .
+
+So. . .with this caveat. . .we have NOT changed the canon errors,
+here is the Project Gutenberg Etext of Shakespeare's The first 
+Part of Henry the Sixt.
+
+Michael S. Hart
+Project Gutenberg
+Executive Director
+
+
+***
+
+
+Scanner's Notes: What this is and isn't.  This was taken from
+a copy of Shakespeare's first folio and it is as close as I can
+come in ASCII to the printed text.
+
+The elongated S's have been changed to small s's and the
+conjoined ae have been changed to ae.  I have left the spelling,
+punctuation, capitalization as close as possible to the
+printed text.  I have corrected some spelling mistakes (I have put
+together a spelling dictionary devised from the spellings of the
+Geneva Bible and Shakespeare's First Folio and have unified
+spellings according to this template), typo's and expanded
+abbreviations as I have come across them.  Everything within
+brackets [] is what I have added.  So if you don't like that
+you can delete everything within the brackets if you want a
+purer Shakespeare.
+
+Another thing that you should be aware of is that there are textual
+differences between various copies of the first folio.  So there may
+be differences (other than what I have mentioned above) between
+this and other first folio editions.  This is due to the printer's
+habit of setting the type and running off a number of copies and
+then proofing the printed copy and correcting the type and then
+continuing the printing run.  The proof run wasn't thrown away but
+incorporated into the printed copies.  This is just the way it is.
+The text I have used was a composite of more than 30 different
+First Folio editions' best pages.
+
+If you find any scanning errors, out and out typos, punctuation
+errors, or if you disagree with my spelling choices please feel
+free to email me those errors.  I wish to make this the best
+etext possible.  My email address for right now are haradda@aol.com
+and davidr@inconnect.com.  I hope that you enjoy this.
+
+David Reed
+
+The Taming of the Shrew
+
+Actus primus. Scaena Prima.
+
+Enter Begger and Hostes, Christophero Sly.
+
+  Begger. Ile pheeze you infaith
+
+   Host. A paire of stockes you rogue
+
+   Beg. Y'are a baggage, the Slies are no
+Rogues. Looke in the Chronicles, we came
+in with Richard Conqueror: therefore Paucas
+pallabris, let the world slide: Sessa
+
+   Host. You will not pay for the glasses you haue burst?
+  Beg. No, not a deniere: go by S[aint]. Ieronimie, goe to thy
+cold bed, and warme thee
+
+   Host. I know my remedie, I must go fetch the Head-borough
+
+   Beg. Third, or fourth, or fift Borough, Ile answere
+him by Law. Ile not budge an inch boy: Let him come,
+and kindly.
+
+Falles asleepe.
+
+Winde hornes. Enter a Lord from hunting, with his traine.
+
+  Lo. Huntsman I charge thee, tender wel my hounds,
+Brach Meriman, the poore Curre is imbost,
+And couple Clowder with the deepe-mouth'd brach,
+Saw'st thou not boy how Siluer made it good
+At the hedge corner, in the couldest fault,
+I would not loose the dogge for twentie pound
+
+   Hunts. Why Belman is as good as he my Lord,
+He cried vpon it at the meerest losse,
+And twice to day pick'd out the dullest sent,
+Trust me, I take him for the better dogge
+
+   Lord. Thou art a Foole, if Eccho were as fleete,
+I would esteeme him worth a dozen such:
+But sup them well, and looke vnto them all,
+To morrow I intend to hunt againe
+
+   Hunts. I will my Lord
+
+   Lord. What's heere? One dead, or drunke? See doth
+he breath?
+  2.Hun. He breath's my Lord. Were he not warm'd
+with Ale, this were a bed but cold to sleep so soundly
+
+   Lord. Oh monstrous beast, how like a swine he lyes.
+Grim death, how foule and loathsome is thine image:
+Sirs, I will practise on this drunken man.
+What thinke you, if he were conuey'd to bed,
+Wrap'd in sweet cloathes: Rings put vpon his fingers:
+A most delicious banquet by his bed,
+And braue attendants neere him when he wakes,
+Would not the begger then forget himselfe?
+  1.Hun. Beleeue me Lord, I thinke he cannot choose
+
+   2.H. It would seem strange vnto him when he wak'd
+  Lord. Euen as a flatt'ring dreame, or worthles fancie.
+Then take him vp, and manage well the iest:
+Carrie him gently to my fairest Chamber,
+And hang it round with all my wanton pictures:
+Balme his foule head in warme distilled waters,
+And burne sweet Wood to make the Lodging sweete:
+Procure me Musicke readie when he wakes,
+To make a dulcet and a heauenly sound:
+And if he chance to speake, be readie straight
+(And with a lowe submissiue reuerence)
+Say, what is it your Honor wil command:
+Let one attend him with a siluer Bason
+Full of Rose-water, and bestrew'd with Flowers,
+Another beare the Ewer: the third a Diaper,
+And say wilt please your Lordship coole your hands.
+Some one be readie with a costly suite,
+And aske him what apparrel he will weare:
+Another tell him of his Hounds and Horse,
+And that his Ladie mournes at his disease,
+Perswade him that he hath bin Lunaticke,
+And when he sayes he is, say that he dreames,
+For he is nothing but a mightie Lord:
+This do, and do it kindly, gentle sirs,
+It wil be pastime passing excellent,
+If it be husbanded with modestie
+
+   1.Hunts. My Lord I warrant you we wil play our part
+As he shall thinke by our true diligence
+He is no lesse then what we say he is
+
+   Lord. Take him vp gently, and to bed with him,
+And each one to his office when he wakes.
+
+Sound trumpets.
+
+Sirrah, go see what Trumpet 'tis that sounds,
+Belike some Noble Gentleman that meanes
+(Trauelling some iourney) to repose him heere.
+Enter Seruingman.
+
+How now? who is it?
+  Ser. An't please your Honor, Players
+That offer seruice to your Lordship.
+Enter Players.
+
+  Lord. Bid them come neere:
+Now fellowes, you are welcome
+
+   Players. We thanke your Honor
+
+   Lord. Do you intend to stay with me to night?
+  2.Player. So please your Lordshippe to accept our
+dutie
+
+   Lord. With all my heart. This fellow I remember,
+Since once he plaide a Farmers eldest sonne,
+'Twas where you woo'd the Gentlewoman so well:
+
+I haue forgot your name: but sure that part
+Was aptly fitted, and naturally perform'd
+
+   Sincklo. I thinke 'twas Soto that your honor meanes
+
+   Lord. 'Tis verie true, thou didst it excellent:
+Well you are come to me in happie time,
+The rather for I haue some sport in hand,
+Wherein your cunning can assist me much.
+There is a Lord will heare you play to night;
+But I am doubtfull of your modesties,
+Least (ouer-eying of his odde behauiour,
+For yet his honor neuer heard a play)
+You breake into some merrie passion,
+And so offend him: for I tell you sirs,
+If you should smile, he growes impatient
+
+   Plai. Feare not my Lord, we can contain our selues,
+Were he the veriest anticke in the world
+
+   Lord. Go sirra, take them to the Butterie,
+And giue them friendly welcome euerie one,
+Let them want nothing that my house affoords.
+
+Exit one with the Players.
+
+Sirra go you to Bartholmew my Page,
+And see him drest in all suites like a Ladie:
+That done, conduct him to the drunkards chamber,
+And call him Madam, do him obeisance:
+Tell him from me (as he will win my loue)
+He beare himselfe with honourable action,
+Such as he hath obseru'd in noble Ladies
+Vnto their Lords, by them accomplished,
+Such dutie to the drunkard let him do:
+With soft lowe tongue, and lowly curtesie,
+And say: What is't your Honor will command,
+Wherein your Ladie, and your humble wife,
+May shew her dutie, and make knowne her loue.
+And then with kinde embracements, tempting kisses,
+And with declining head into his bosome
+Bid him shed teares, as being ouer-ioyed
+To see her noble Lord restor'd to health,
+Who for this seuen yeares hath esteemed him
+No better then a poore and loathsome begger:
+And if the boy haue not a womans guift
+To raine a shower of commanded teares,
+An Onion wil do well for such a shift,
+Which in a Napkin (being close conuei'd)
+Shall in despight enforce a waterie eie:
+See this dispatch'd with all the hast thou canst,
+Anon Ile giue thee more instructions.
+
+Exit a seruingman.
+
+I know the boy will wel vsurpe the grace,
+Voice, gate, and action of a Gentlewoman:
+I long to heare him call the drunkard husband,
+And how my men will stay themselues from laughter,
+When they do homage to this simple peasant,
+Ile in to counsell them: haply my presence
+May well abate the ouer-merrie spleene,
+Which otherwise would grow into extreames.
+Enter aloft the drunkard with attendants, some with apparel, Bason
+and
+Ewer, & other appurtenances, & Lord.
+
+  Beg. For Gods sake a pot of small Ale
+
+   1.Ser. Wilt please your Lord drink a cup of sacke?
+  2.Ser. Wilt please your Honor taste of these Conserues?
+  3.Ser. What raiment wil your honor weare to day
+
+   Beg. I am Christophero Sly, call not mee Honour nor
+Lordship: I ne're drank sacke in my life: and if you giue
+me any Conserues, giue me conserues of Beefe: nere ask
+me what raiment Ile weare, for I haue no more doublets
+then backes: no more stockings then legges: nor
+no more shooes then feet, nay sometime more feete then
+shooes, or such shooes as my toes looke through the ouer-leather
+
+   Lord. Heauen cease this idle humor in your Honor.
+Oh that a mightie man of such discent,
+Of such possessions, and so high esteeme
+Should be infused with so foule a spirit
+
+   Beg. What would you make me mad? Am not I Christopher
+Slie, old Slies sonne of Burton-heath, by byrth a
+Pedler, by education a Cardmaker, by transmutation a
+Beare-heard, and now by present profession a Tinker.
+Aske Marrian Hacket the fat Alewife of Wincot, if shee
+know me not: if she say I am not xiiii.d. on the score for
+sheere Ale, score me vp for the lyingst knaue in Christen
+dome. What I am not bestraught: here's-
+  3.Man. Oh this it is that makes your Ladie mourne
+
+   2.Man. Oh this is it that makes your seruants droop
+
+   Lord. Hence comes it, that your kindred shuns your house
+As beaten hence by your strange Lunacie.
+Oh Noble Lord, bethinke thee of thy birth,
+Call home thy ancient thoughts from banishment,
+And banish hence these abiect lowlie dreames:
+Looke how thy seruants do attend on thee,
+Each in his office readie at thy becke.
+Wilt thou haue Musicke? Harke Apollo plaies,
+
+Musick
+
+And twentie caged Nightingales do sing.
+Or wilt thou sleepe? Wee'l haue thee to a Couch,
+Softer and sweeter then the lustfull bed
+On purpose trim'd vp for Semiramis.
+Say thou wilt walke: we wil bestrow the ground.
+Or wilt thou ride? Thy horses shal be trap'd,
+Their harnesse studded all with Gold and Pearle.
+Dost thou loue hawking? Thou hast hawkes will soare
+Aboue the morning Larke. Or wilt thou hunt,
+Thy hounds shall make the Welkin answer them
+And fetch shrill ecchoes from the hollow earth
+
+   1.Man. Say thou wilt course, thy gray-hounds are as swift
+As breathed Stags: I fleeter then the Roe
+
+   2.M. Dost thou loue pictures? we wil fetch thee strait
+Adonis painted by a running brooke,
+And Citherea all in sedges hid,
+Which seeme to moue and wanton with her breath,
+Euen as the wauing sedges play with winde
+
+   Lord. Wee'l shew thee Io, as she was a Maid,
+And how she was beguiled and surpriz'd,
+As liuelie painted, as the deede was done
+
+   3.Man. Or Daphne roming through a thornie wood,
+Scratching her legs, that one shal sweare she bleeds,
+And at that sight shal sad Apollo weepe,
+So workmanlie the blood and teares are drawne
+
+   Lord. Thou art a Lord, and nothing but a Lord:
+Thou hast a Ladie farre more Beautifull,
+Then any woman in this waining age
+
+   1.Man. And til the teares that she hath shed for thee,
+Like enuious flouds ore-run her louely face,
+She was the fairest creature in the world,
+And yet shee is inferiour to none
+
+   Beg. Am I a Lord, and haue I such a Ladie?
+Or do I dreame? Or haue I dream'd till now?
+I do not sleepe: I see, I heare, I speake:
+I smel sweet sauours, and I feele soft things:
+Vpon my life I am a Lord indeede,
+And not a Tinker, nor Christopher Slie.
+Well, bring our Ladie hither to our sight,
+And once againe a pot o'th smallest Ale
+
+   2.Man. Wilt please your mightinesse to wash your
+hands:
+Oh how we ioy to see your wit restor'd,
+Oh that once more you knew but what you are:
+These fifteene yeeres you haue bin in a dreame,
+Or when you wak'd, so wak'd as if you slept
+
+   Beg. These fifteene yeeres, by my fay, a goodly nap,
+But did I neuer speake of all that time
+
+   1.Man. Oh yes my Lord, but verie idle words,
+For though you lay heere in this goodlie chamber,
+Yet would you say, ye were beaten out of doore,
+And raile vpon the Hostesse of the house,
+And say you would present her at the Leete,
+Because she brought stone-Iugs, and no seal'd quarts:
+Sometimes you would call out for Cicely Hacket
+
+   Beg. I, the womans maide of the house
+
+   3.Man. Why sir you know no house, nor no such maid
+Nor no such men as you haue reckon'd vp,
+As Stephen Slie, and old Iohn Naps of Greece,
+And Peter Turph, and Henry Pimpernell,
+And twentie more such names and men as these,
+Which neuer were, nor no man euer saw
+
+   Beg. Now Lord be thanked for my good amends
+
+   All. Amen.
+Enter Lady with Attendants.
+
+  Beg. I thanke thee, thou shalt not loose by it
+
+   Lady. How fares my noble Lord?
+  Beg. Marrie I fare well, for heere is cheere enough.
+Where is my wife?
+  La. Heere noble Lord, what is thy will with her?
+  Beg. Are you my wife, and will not cal me husband?
+My men should call me Lord, I am your good-man
+
+   La. My husband and my Lord, my Lord and husband
+I am your wife in all obedience
+
+   Beg. I know it well, what must I call her?
+  Lord. Madam
+
+   Beg. Alce Madam, or Ione Madam?
+  Lord. Madam, and nothing else, so Lords cal Ladies
+  Beg. Madame wife, they say that I haue dream'd,
+And slept aboue some fifteene yeare or more
+
+   Lady. I, and the time seeme's thirty vnto me,
+Being all this time abandon'd from your bed
+
+   Beg. 'Tis much, seruants leaue me and her alone:
+Madam vndresse you, and come now to bed
+
+   La. Thrice noble Lord, let me intreat of you
+To pardon me yet for a night or two:
+Or if not so, vntill the Sun be set.
+For your Physitians haue expressely charg'd,
+In perill to incurre your former malady,
+That I should yet absent me from your bed:
+I hope this reason stands for my excuse
+
+   Beg. I, it stands so that I may hardly tarry so long:
+But I would be loth to fall into my dreames againe: I
+wil therefore tarrie in despight of the flesh & the blood
+Enter a Messenger.
+
+  Mes. Your Honors Players hearing your amendment,
+Are come to play a pleasant Comedie,
+For so your doctors hold it very meete,
+Seeing too much sadnesse hath congeal'd your blood,
+And melancholly is the Nurse of frenzie,
+Therefore they thought it good you heare a play,
+And frame your minde to mirth and merriment,
+Which barres a thousand harmes, and lengthens life
+
+   Beg. Marrie I will let them play, it is not a Comontie,
+a Christmas gambold, or a tumbling tricke?
+  Lady. No my good Lord, it is more pleasing stuffe
+
+   Beg. What, houshold stuffe
+
+   Lady. It is a kinde of history
+
+   Beg. Well, we'l see't:
+Come Madam wife sit by my side,
+And let the world slip, we shall nere be yonger.
+
+Flourish. Enter Lucentio, and his man Triano.
+
+  Luc. Tranio, since for the great desire I had
+To see faire Padua, nurserie of Arts,
+I am arriu'd for fruitfull Lumbardie,
+The pleasant garden of great Italy,
+And by my fathers loue and leaue am arm'd
+With his good will, and thy good companie.
+My trustie seruant well approu'd in all,
+Heere let vs breath, and haply institute
+A course of Learning, and ingenious studies.
+Pisa renowned for graue Citizens
+Gaue me my being, and my father first
+A Merchant of great Trafficke through the world:
+Vincentio's come of the Bentiuolij,
+Vincentio's sonne, brought vp in Florence,
+It shall become to serue all hopes conceiu'd
+To decke his fortune with his vertuous deedes:
+And therefore Tranio, for the time I studie,
+Vertue and that part of Philosophie
+Will I applie, that treats of happinesse,
+By vertue specially to be atchieu'd.
+Tell me thy minde, for I haue Pisa left,
+And am to Padua come, as he that leaues
+A shallow plash, to plunge him in the deepe,
+And with sacietie seekes to quench his thirst
+
+   Tra. Me Pardonato, gentle master mine:
+I am in all affected as your selfe,
+Glad that you thus continue your resolue,
+To sucke the sweets of sweete Philosophie.
+Onely (good master) while we do admire
+This vertue, and this morall discipline,
+Let's be no Stoickes, nor no stockes I pray,
+Or so deuote to Aristotles checkes
+As Ouid; be an out-cast quite abiur'd:
+Balke Lodgicke with acquaintance that you haue,
+And practise Rhetoricke in your common talke,
+Musicke and Poesie vse, to quicken you,
+The Mathematickes, and the Metaphysickes
+Fall to them as you finde your stomacke serues you:
+No profit growes, where is no pleasure tane:
+In briefe sir, studie what you most affect
+
+   Luc. Gramercies Tranio, well dost thou aduise,
+If Biondello thou wert come ashore,
+We could at once put vs in readinesse,
+And take a Lodging fit to entertaine
+Such friends (as time) in Padua shall beget.
+But stay a while, what companie is this?
+  Tra. Master some shew to welcome vs to Towne.
+Enter Baptista with his two daughters, Katerina & Bianca, Gremio
+a
+Pantelowne, Hortentio sister to Bianca. Lucen. Tranio, stand by.
+
+  Bap. Gentlemen, importune me no farther,
+For how I firmly am resolu'd you know:
+That is, not to bestow my yongest daughter,
+Before I haue a husband for the elder:
+If either of you both loue Katherina,
+Because I know you well, and loue you well,
+Leaue shall you haue to court her at your pleasure
+
+   Gre. To cart her rather. She's to rough for mee,
+There, there Hortensio, will you any Wife?
+  Kate. I pray you sir, is it your will
+To make a stale of me amongst these mates?
+  Hor. Mates maid, how meane you that?
+No mates for you,
+Vnlesse you were of gentler milder mould
+
+   Kate. I'faith sir, you shall neuer neede to feare,
+Iwis it is not halfe way to her heart:
+But if it were, doubt not, her care should be,
+To combe your noddle with a three-legg'd stoole,
+And paint your face, and vse you like a foole
+
+   Hor. From all such diuels, good Lord deliuer vs
+
+   Gre. And me too, good Lord
+
+   Tra. Husht master, heres some good pastime toward;
+That wench is starke mad, or wonderfull froward
+
+   Lucen. But in the others silence do I see,
+Maids milde behauiour and sobrietie.
+Peace Tranio
+
+   Tra. Well said Mr, mum, and gaze your fill
+
+   Bap. Gentlemen, that I may soone make good
+What I haue said, Bianca get you in,
+And let it not displease thee good Bianca,
+For I will loue thee nere the lesse my girle
+
+   Kate. A pretty peate, it is best put finger in the eye,
+and she knew why
+
+   Bian. Sister content you, in my discontent.
+Sir, to your pleasure humbly I subscribe:
+My bookes and instruments shall be my companie,
+On them to looke, and practise by my selfe
+
+   Luc. Harke Tranio, thou maist heare Minerua speak
+
+   Hor. Signior Baptista, will you be so strange,
+Sorrie am I that our good will effects
+Bianca's greefe
+
+   Gre. Why will you mew her vp
+(Signior Baptista) for this fiend of hell,
+And make her beare the pennance of her tongue
+
+   Bap. Gentlemen content ye: I am resolud:
+Go in Bianca.
+And for I know she taketh most delight
+In Musicke, Instruments, and Poetry,
+Schoolemasters will I keepe within my house,
+Fit to instruct her youth. If you Hortensio,
+Or signior Gremio you know any such,
+Preferre them hither: for to cunning men,
+I will be very kinde and liberall,
+To mine owne children, in good bringing vp,
+And so farewell: Katherina you may stay,
+For I haue more to commune with Bianca.
+Enter.
+
+  Kate. Why, and I trust I may go too, may I not?
+What shall I be appointed houres, as though
+(Belike) I knew not what to take,
+And what to leaue? Ha.
+
+Exit
+
+  Gre. You may go to the diuels dam: your guifts are
+so good heere's none will holde you: Their loue is not
+so great Hortensio, but we may blow our nails together,
+and fast it fairely out. Our cakes dough on both sides.
+Farewell: yet for the loue I beare my sweet Bianca, if
+I can by any meanes light on a fit man to teach her that
+wherein she delights, I will wish him to her father
+
+   Hor. So will I signiour Gremio: but a word I pray:
+Though the nature of our quarrell yet neuer brook'd
+parle, know now vpon aduice, it toucheth vs both: that
+we may yet againe haue accesse to our faire Mistris, and
+be happie riuals in Bianca's loue, to labour and effect
+one thing specially
+
+   Gre. What's that I pray?
+  Hor. Marrie sir to get a husband for her Sister
+
+   Gre. A husband: a diuell
+
+   Hor. I say a husband
+
+   Gre. I say, a diuell: Think'st thou Hortensio, though
+her father be verie rich, any man is so verie a foole to be
+married to hell?
+  Hor. Tush Gremio: though it passe your patience &
+mine to endure her lowd alarums, why man there bee
+good fellowes in the world, and a man could light on
+them, would take her with all faults, and mony enough
+
+   Gre. I cannot tell: but I had as lief take her dowrie
+with this condition; To be whipt at the hie crosse euerie
+morning
+
+   Hor. Faith (as you say) there's small choise in rotten
+apples: but come, since this bar in law makes vs friends,
+it shall be so farre forth friendly maintain'd, till by helping
+Baptistas eldest daughter to a husband, wee set his
+yongest free for a husband, and then haue too't afresh:
+Sweet Bianca, happy man be his dole: hee that runnes
+fastest, gets the Ring: How say you signior Gremio?
+  Grem. I am agreed, and would I had giuen him the
+best horse in Padua to begin his woing that would thoroughly
+woe her, wed her, and bed her, and ridde the
+house of her. Come on.
+
+
+Exeunt. ambo. Manet Tranio and Lucentio
+
+  Tra. I pray sir tel me, is it possible
+That loue should of a sodaine take such hold
+
+   Luc. Oh Tranio, till I found it to be true,
+I neuer thought it possible or likely.
+But see, while idely I stood looking on,
+I found the effect of Loue in idlenesse,
+And now in plainnesse do confesse to thee
+That art to me as secret and as deere
+As Anna to the Queene of Carthage was:
+Tranio I burne, I pine, I perish Tranio,
+If I atchieue not this yong modest gyrle:
+Counsaile me Tranio, for I know thou canst:
+Assist me Tranio, for I know thou wilt
+
+   Tra. Master, it is no time to chide you now,
+Affection is not rated from the heart:
+If loue haue touch'd you, naught remaines but so,
+Redime te captam quam queas minimo
+
+   Luc. Gramercies Lad: Go forward, this contents,
+The rest wil comfort, for thy counsels sound
+
+   Tra. Master, you look'd so longly on the maide,
+Perhaps you mark'd not what's the pith of all
+
+   Luc. Oh yes, I saw sweet beautie in her face,
+Such as the daughter of Agenor had,
+That made great Ioue to humble him to her hand,
+When with his knees he kist the Cretan strond
+
+   Tra. Saw you no more? Mark'd you not how hir sister
+Began to scold, and raise vp such a storme,
+That mortal eares might hardly indure the din
+
+   Luc. Tranio, I saw her corrall lips to moue,
+And with her breath she did perfume the ayre,
+Sacred and sweet was all I saw in her
+
+   Tra. Nay, then 'tis time to stirre him fro[m] his trance:
+I pray awake sir: if you loue the Maide,
+Bend thoughts and wits to atcheeue her. Thus it stands:
+Her elder sister is so curst and shrew'd,
+That til the Father rid his hands of her,
+Master, your Loue must liue a maide at home,
+And therefore has he closely meu'd her vp,
+Because she will not be annoy'd with suters
+
+   Luc. Ah Tranio, what a cruell Fathers he:
+But art thou not aduis'd, he tooke some care
+To get her cunning Schoolemasters to instruct her
+
+   Tra. I marry am I sir, and now 'tis plotted
+
+   Luc. I haue it Tranio
+
+   Tra. Master, for my hand,
+Both our inuentions meet and iumpe in one
+
+   Luc. Tell me thine first
+
+   Tra. You will be schoole-master,
+And vndertake the teaching of the maid:
+That's your deuice
+
+   Luc. It is: May it be done?
+  Tra. Not possible: for who shall beare your part,
+And be in Padua heere Vincentio's sonne,
+Keepe house, and ply his booke, welcome his friends,
+Visit his Countrimen, and banquet them?
+  Luc. Basta, content thee: for I haue it full.
+We haue not yet bin seene in any house,
+Nor can we be distinguish'd by our faces,
+For man or master: then it followes thus;
+Thou shalt be master, Tranio in my sted:
+Keepe house, and port, and seruants, as I should,
+I will some other be, some Florentine,
+Some Neapolitan, or meaner man of Pisa.
+'Tis hatch'd, and shall be so: Tranio at once
+Vncase thee: take my Coulord hat and cloake,
+When Biondello comes, he waites on thee,
+But I will charme him first to keepe his tongue
+
+   Tra. So had you neede:
+In breefe Sir, sith it your pleasure is,
+And I am tyed to be obedient,
+For so your father charg'd me at our parting:
+Be seruiceable to my sonne (quoth he)
+Although I thinke 'twas in another sense,
+I am content to bee Lucentio,
+Because so well I loue Lucentio
+
+   Luc. Tranio be so, because Lucentio loues,
+And let me be a slaue, t' atchieue that maide,
+Whose sodaine sight hath thral'd my wounded eye.
+Enter Biondello.
+
+Heere comes the rogue. Sirra, where haue you bin?
+  Bion. Where haue I beene? Nay how now, where
+are you? Maister, ha's my fellow Tranio stolne your
+cloathes, or you stolne his, or both? Pray what's the
+newes?
+  Luc. Sirra come hither, 'tis no time to iest,
+And therefore frame your manners to the time
+Your fellow Tranio heere to saue my life,
+Puts my apparrell, and my count'nance on,
+And I for my escape haue put on his:
+For in a quarrell since I came a-shore,
+I kil'd a man, and feare I was descried:
+Waite you on him, I charge you, as becomes:
+While I make way from hence to saue my life:
+You vnderstand me?
+  Bion. I sir, ne're a whit
+
+   Luc. And not a iot of Tranio in your mouth,
+Tranio is chang'd into Lucentio
+
+   Bion. The better for him, would I were so too
+
+   Tra. So could I 'faith boy, to haue the next wish after,
+that Lucentio indeede had Baptistas yongest daughter.
+But sirra, not for my sake, but your masters, I aduise
+you vse your manners discreetly in all kind of companies:
+When I am alone, why then I am Tranio: but in
+all places else, your master Lucentio
+
+   Luc. Tranio let's go:
+One thing more rests, that thy selfe execute,
+To make one among these wooers: if thou ask me why,
+Sufficeth my reasons are both good and waighty.
+
+Exeunt. The Presenters aboue speakes.
+
+  1.Man. My Lord you nod, you do not minde the
+play
+
+   Beg. Yes by Saint Anne do I, a good matter surely:
+Comes there any more of it?
+  Lady. My Lord, 'tis but begun
+
+   Beg. 'Tis a verie excellent peece of worke, Madame
+Ladie: would 'twere done.
+
+They sit and marke.
+
+Enter Petruchio, and his man Grumio.
+
+  Petr. Verona, for a while I take my leaue,
+To see my friends in Padua; but of all
+My best beloued and approued friend
+Hortensio: & I trow this is his house:
+Heere sirra Grumio, knocke I say
+
+   Gru. Knocke sir? whom should I knocke? Is there
+any man ha's rebus'd your worship?
+  Petr. Villaine I say, knocke me heere soundly
+
+   Gru. Knocke you heere sir? Why sir, what am I sir,
+that I should knocke you heere sir
+
+   Petr. Villaine I say, knocke me at this gate,
+And rap me well, or Ile knocke your knaues pate
+
+   Gru. My Mr is growne quarrelsome:
+I should knocke you first,
+And then I know after who comes by the worst
+
+   Petr. Will it not be?
+'Faith sirrah, and you'l not knocke, Ile ring it,
+Ile trie how you can Sol, Fa, and sing it.
+
+He rings him by the eares
+
+  Gru. Helpe mistris helpe, my master is mad
+
+   Petr. Now knocke when I bid you: sirrah villaine.
+Enter Hortensio.
+
+  Hor. How now, what's the matter? My olde friend
+Grumio, and my good friend Petruchio? How do you all
+at Verona?
+  Petr. Signior Hortensio, come you to part the fray?
+Contutti le core bene trobatto, may I say
+
+   Hor. Alla nostra casa bene venuto multo honorata signior
+mio Petruchio.
+Rise Grumio rise, we will compound this quarrell
+
+   Gru. Nay 'tis no matter sir, what he leges in Latine.
+If this be not a lawfull cause for me to leaue his seruice,
+looke you sir: He bid me knocke him, & rap him soundly
+sir. Well, was it fit for a seruant to vse his master so,
+being perhaps (for ought I see) two and thirty, a peepe
+out? Whom would to God I had well knockt at first,
+then had not Grumio come by the worst
+
+   Petr. A sencelesse villaine: good Hortensio,
+I bad the rascall knocke vpon your gate,
+And could not get him for my heart to do it
+
+   Gru. Knocke at the gate? O heauens: spake you not
+these words plaine? Sirra, Knocke me heere: rappe me
+heere: knocke me well, and knocke me soundly? And
+come you now with knocking at the gate?
+  Petr. Sirra be gone, or talke not I aduise you
+
+   Hor. Petruchio patience, I am Grumio's pledge:
+Why this a heauie chance twixt him and you,
+Your ancient trustie pleasant seruant Grumio:
+And tell me now (sweet friend) what happie gale
+Blowes you to Padua heere, from old Verona?
+  Petr. Such wind as scatters yongmen throgh y world,
+To seeke their fortunes farther then at home,
+Where small experience growes but in a few.
+Signior Hortensio, thus it stands with me,
+Antonio my father is deceast,
+And I haue thrust my selfe into this maze,
+Happily to wiue and thriue, as best I may:
+Crownes in my purse I haue, and goods at home,
+And so am come abroad to see the world
+
+   Hor. Petruchio, shall I then come roundly to thee,
+And wish thee to a shrew'd ill-fauour'd wife?
+Thou'dst thanke me but a little for my counsell:
+And yet Ile promise thee she shall be rich,
+And verie rich: but th'art too much my friend,
+And Ile not wish thee to her
+
+   Petr. Signior Hortensio, 'twixt such friends as wee,
+Few words suffice: and therefore, if thou know
+One rich enough to be Petruchio's wife:
+(As wealth is burthen of my woing dance)
+Be she as foule as was Florentius Loue,
+As old as Sibell, and as curst and shrow'd
+As Socrates Zentippe, or a worse:
+She moues me not, or not remoues at least
+Affections edge in me. Were she is as rough
+As are the swelling Adriaticke seas.
+I come to wiue it wealthily in Padua:
+If wealthily, then happily in Padua
+
+   Gru. Nay looke you sir, hee tels you flatly what his
+minde is: why giue him Gold enough, and marrie him
+to a Puppet or an Aglet babie, or an old trot with ne're a
+tooth in her head, though she haue as manie diseases as
+two and fiftie horses. Why nothing comes amisse, so
+monie comes withall
+
+   Hor. Petruchio, since we are stept thus farre in,
+I will continue that I broach'd in iest,
+I can Petruchio helpe thee to a wife
+With wealth enough, and yong and beautious,
+Brought vp as best becomes a Gentlewoman.
+Her onely fault, and that is faults enough,
+Is, that she is intollerable curst,
+And shrow'd, and froward, so beyond all measure,
+That were my state farre worser then it is,
+I would not wed her for a mine of Gold
+
+   Petr. Hortensio peace: thou knowst not golds effect,
+Tell me her fathers name, and 'tis enough:
+For I will boord her, though she chide as loud
+As thunder, when the clouds in Autumne cracke
+
+   Hor. Her father is Baptista Minola,
+An affable and courteous Gentleman,
+Her name is Katherina Minola,
+Renown'd in Padua for her scolding tongue
+
+   Petr. I know her father, though I know not her,
+And he knew my deceased father well:
+I wil not sleepe Hortensio til I see her,
+And therefore let me be thus bold with you,
+To giue you ouer at this first encounter,
+Vnlesse you wil accompanie me thither
+
+   Gru . I pray you Sir let him go while the humor lasts.
+A my word, and she knew him as wel as I do, she would
+thinke scolding would doe little good vpon him. Shee
+may perhaps call him halfe a score Knaues, or so: Why
+that's nothing; and he begin once, hee'l raile in his rope
+trickes. Ile tell you what sir, and she stand him but a litle,
+he wil throw a figure in her face, and so disfigure hir
+with it, that shee shal haue no more eies to see withall
+then a Cat: you know him not sir
+
+   Hor. Tarrie Petruchio, I must go with thee,
+For in Baptistas keepe my treasure is:
+He hath the Iewel of my life in hold,
+His yongest daughter, beautiful Bianca,
+And her with-holds from me. Other more
+Suters to her, and riuals in my Loue:
+Supposing it a thing impossible,
+For those defects I haue before rehearst,
+That euer Katherina wil be woo'd:
+Therefore this order hath Baptista tane,
+That none shal haue accesse vnto Bianca,
+Til Katherine the Curst, haue got a husband
+
+   Gru. Katherine the curst,
+A title for a maide, of all titles the worst
+
+   Hor. Now shal my friend Petruchio do me grace,
+And offer me disguis'd in sober robes,
+To old Baptista as a schoole-master
+Well seene in Musicke, to instruct Bianca,
+That so I may by this deuice at least
+Haue leaue and leisure to make loue to her,
+And vnsuspected court her by her selfe.
+Enter Gremio and Lucentio disguised.
+
+  Gru. Heere's no knauerie. See, to beguile the olde-folkes,
+how the young folkes lay their heads together.
+Master, master, looke about you: Who goes there? ha
+
+   Hor. Peace Grumio, it is the riuall of my Loue.
+Petruchio stand by a while
+
+   Grumio. A proper stripling, and an amorous
+
+   Gremio. O very well, I haue perus'd the note:
+Hearke you sir, Ile haue them verie fairely bound,
+All bookes of Loue, see that at any hand,
+And see you reade no other Lectures to her:
+You vnderstand me. Ouer and beside
+Signior Baptistas liberalitie,
+Ile mend it with a Largesse. Take your paper too,
+And let me haue them verie wel perfum'd;
+For she is sweeter then perfume it selfe
+To whom they go to: what wil you reade to her
+
+   Luc. What ere I reade to her, Ile pleade for you,
+As for my patron, stand you so assur'd,
+As firmely as your selfe were still in place,
+Yea and perhaps with more successefull words
+Then you; vnlesse you were a scholler sir
+
+   Gre. Oh this learning, what a thing it is
+
+   Gru. Oh this Woodcocke, what an Asse it is
+
+   Petru. Peace sirra
+
+   Hor. Grumio mum: God saue you signior Gremio
+
+   Gre. And you are wel met, Signior Hortensio.
+Trow you whither I am going? To Baptista Minola,
+I promist to enquire carefully
+About a schoolemaster for the faire Bianca,
+And by good fortune I haue lighted well
+On this yong man: For learning and behauiour
+Fit for her turne, well read in Poetrie
+And other bookes, good ones, I warrant ye
+
+   Hor. 'Tis well: and I haue met a Gentleman
+Hath promist me to helpe one to another,
+A fine Musitian to instruct our Mistris,
+So shal I no whit be behinde in dutie
+To faire Bianca, so beloued of me
+
+   Gre. Beloued of me, and that my deeds shal proue
+
+   Gru. And that his bags shal proue
+
+   Hor. Gremio, 'tis now no time to vent our loue,
+Listen to me, and if you speake me faire,
+Ile tel you newes indifferent good for either.
+Heere is a Gentleman whom by chance I met
+Vpon agreement from vs to his liking,
+Will vndertake to woo curst Katherine,
+Yea, and to marrie her, if her dowrie please
+
+   Gre. So said, so done, is well:
+Hortensio, haue you told him all her faults?
+  Petr. I know she is an irkesome brawling scold:
+If that be all Masters, I heare no harme
+
+   Gre. No, sayst me so, friend? What Countreyman?
+  Petr. Borne in Verona, old Butonios sonne:
+My father dead, my fortune liues for me,
+And I do hope, good dayes and long, to see
+
+   Gre. Oh sir, such a life with such a wife, were strange:
+But if you haue a stomacke, too't a Gods name,
+You shal haue me assisting you in all.
+But will you woo this Wilde-cat?
+  Petr. Will I liue?
+  Gru. Wil he woo her? I: or Ile hang her
+
+   Petr. Why came I hither, but to that intent?
+Thinke you, a little dinne can daunt mine eares?
+Haue I not in my time heard Lions rore?
+Haue I not heard the sea, puft vp with windes,
+Rage like an angry Boare, chafed with sweat?
+Haue I not heard great Ordnance in the field?
+And heauens Artillerie thunder in the skies?
+Haue I not in a pitched battell heard
+Loud larums, neighing steeds, & trumpets clangue?
+And do you tell me of a womans tongue?
+That giues not halfe so great a blow to heare,
+As wil a Chesse-nut in a Farmers fire.
+Tush, tush, feare boyes with bugs
+
+   Gru. For he feares none
+
+   Grem. Hortensio hearke:
+This Gentleman is happily arriu'd,
+My minde presumes for his owne good, and yours
+
+   Hor. I promist we would be Contributors,
+And beare his charge of wooing whatsoere
+
+   Gremio. And so we wil, prouided that he win her
+
+   Gru. I would I were as sure of a good dinner.
+Enter Tranio braue, and Biondello.
+
+  Tra. Gentlemen God saue you. If I may be bold
+Tell me I beseech you, which is the readiest way
+To the house of Signior Baptista Minola?
+  Bion. He that ha's the two faire daughters: ist he you
+meane?
+  Tra. Euen he Biondello
+
+   Gre. Hearke you sir, you meane not her to-
+  Tra. Perhaps him and her sir, what haue you to do?
+  Petr. Not her that chides sir, at any hand I pray
+
+   Tranio. I loue no chiders sir: Biondello, let's away
+
+   Luc. Well begun Tranio
+
+   Hor. Sir, a word ere you go:
+Are you a sutor to the Maid you talke of, yea or no?
+  Tra. And if I be sir, is it any offence?
+  Gremio. No: if without more words you will get you
+hence
+
+   Tra. Why sir, I pray are not the streets as free
+For me, as for you?
+  Gre. But so is not she
+
+   Tra. For what reason I beseech you
+
+   Gre. For this reason if you'l kno,
+That she's the choise loue of Signior Gremio
+
+   Hor. That she's the chosen of signior Hortensio
+
+   Tra. Softly my Masters: If you be Gentlemen
+Do me this right: heare me with patience.
+Baptista is a noble Gentleman,
+To whom my Father is not all vnknowne,
+And were his daughter fairer then she is,
+She may more sutors haue, and me for one.
+Faire Laedaes daughter had a thousand wooers,
+Then well one more may faire Bianca haue;
+And so she shall: Lucentio shal make one,
+Though Paris came, in hope to speed alone
+
+   Gre. What, this Gentleman will out-talke vs all
+
+   Luc. Sir giue him head, I know hee'l proue a Iade
+
+   Petr. Hortensio, to what end are all these words?
+  Hor. Sir, let me be so bold as aske you,
+Did you yet euer see Baptistas daughter?
+  Tra. No sir, but heare I do that he hath two:
+The one, as famous for a scolding tongue,
+As is the other, for beauteous modestie
+
+   Petr. Sir, sir, the first's for me, let her go by
+
+   Gre. Yea, leaue that labour to great Hercules,
+And let it be more then Alcides twelue
+
+   Petr. Sir vnderstand you this of me (insooth)
+The yongest daughter whom you hearken for,
+Her father keepes from all accesse of sutors,
+And will not promise her to any man,
+Vntill the elder sister first be wed.
+The yonger then is free, and not before
+
+   Tranio. If it be so sir, that you are the man
+Must steed vs all, and me amongst the rest:
+And if you breake the ice, and do this seeke,
+Atchieue the elder: set the yonger free,
+For our accesse, whose hap shall be to haue her,
+Wil not so gracelesse be, to be ingrate
+
+   Hor. Sir you say wel, and wel you do conceiue,
+And since you do professe to be a sutor,
+You must as we do, gratifie this Gentleman,
+To whom we all rest generally beholding
+
+   Tranio. Sir, I shal not be slacke, in signe whereof,
+Please ye we may contriue this afternoone,
+And quaffe carowses to our Mistresse health,
+And do as aduersaries do in law,
+Striue mightily, but eate and drinke as friends
+
+   Gru. Bion. Oh excellent motion: fellowes let's be gon
+
+   Hor. The motions good indeed, and be it so,
+Petruchio, I shal be your Been venuto.
+
+Exeunt.
+
+Enter Katherina and Bianca.
+
+  Bian. Good sister wrong me not, nor wrong your self,
+To make a bondmaide and a slaue of mee,
+That I disdaine: but for these other goods,
+Vnbinde my hands, Ile pull them off my selfe,
+Yea all my raiment, to my petticoate,
+Or what you will command me, wil I do,
+So well I know my dutie to my elders
+
+   Kate. Of all thy sutors heere I charge tel
+Whom thou lou'st best: see thou dissemble not
+
+   Bianca. Beleeue me sister, of all the men aliue,
+I neuer yet beheld that speciall face,
+Which I could fancie, more then any other
+
+   Kate. Minion thou lyest: Is't not Hortensio?
+  Bian. If you affect him sister, heere I sweare
+Ile pleade for you my selfe, but you shal haue him
+
+   Kate. Oh then belike you fancie riches more,
+You wil haue Gremio to keepe you faire
+
+   Bian. Is it for him you do enuie me so?
+Nay then you iest, and now I wel perceiue
+You haue but iested with me all this while:
+I prethee sister Kate, vntie my hands
+
+   Ka. If that be iest, then all the rest was so.
+
+Strikes her
+
+Enter Baptista.
+
+  Bap. Why how now Dame, whence growes this insolence?
+Bianca stand aside, poore gyrle she weepes:
+Go ply thy Needle, meddle not with her.
+For shame thou Hilding of a diuellish spirit,
+Why dost thou wrong her, that did nere wrong thee?
+When did she crosse thee with a bitter word?
+  Kate. Her silence flouts me, and Ile be reueng'd.
+
+Flies after Bianca
+
+  Bap. What in my sight? Bianca get thee in.
+Enter.
+
+  Kate. What will you not suffer me: Nay now I see
+She is your treasure, she must haue a husband,
+I must dance bare-foot on her wedding day,
+And for your loue to her, leade Apes in hell.
+Talke not to me, I will go sit and weepe,
+Till I can finde occasion of reuenge
+
+   Bap. Was euer Gentleman thus greeu'd as I?
+But who comes heere.
+Enter Gremio, Lucentio, in the habit of a meane man, Petruchio
+with
+Tranio, with his boy bearing a Lute and Bookes.
+
+  Gre. Good morrow neighbour Baptista
+
+   Bap. Good morrow neighbour Gremio: God saue
+you Gentlemen
+
+   Pet. And you good sir: pray haue you not a daughter,
+cal'd Katerina, faire and vertuous
+
+   Bap. I haue a daughter sir, cal'd Katerina
+
+   Gre. You are too blunt, go to it orderly
+
+   Pet. You wrong me signior Gremio, giue me leaue.
+I am a Gentleman of Verona sir,
+That hearing of her beautie, and her wit,
+Her affability and bashfull modestie:
+Her wondrous qualities, and milde behauiour,
+Am bold to shew my selfe a forward guest
+Within your house, to make mine eye the witnesse
+Of that report, which I so oft haue heard,
+And for an entrance to my entertainment,
+I do present you with a man of mine
+Cunning in Musicke, and the Mathematickes,
+To instruct her fully in those sciences,
+Whereof I know she is not ignorant,
+Accept of him, or else you do me wrong.
+His name is Litio, borne in Mantua
+
+   Bap. Y'are welcome sir, and he for your good sake.
+But for my daughter Katerine, this I know,
+She is not for your turne, the more my greefe
+
+   Pet. I see you do not meane to part with her,
+Or else you like not of my companie
+
+   Bap. Mistake me not, I speake but as I finde,
+Whence are you sir? What may I call your name
+
+   Pet. Petruchio is my name, Antonio's sonne,
+A man well knowne throughout all Italy
+
+   Bap. I know him well: you are welcome for his sake
+
+   Gre. Sauing your tale Petruchio, I pray let vs that are
+poore petitioners speake too? Bacare, you are meruaylous
+forward
+
+   Pet. Oh, Pardon me signior Gremio, I would faine be
+doing
+
+   Gre. I doubt it not sir. But you will curse
+Your wooing neighbors: this is a guift
+Very gratefull, I am sure of it, to expresse
+The like kindnesse my selfe, that haue beene
+More kindely beholding to you then any:
+Freely giue vnto this yong Scholler, that hath
+Beene long studying at Rhemes, as cunning
+In Greeke, Latine, and other Languages,
+As the other in Musicke and Mathematickes:
+His name is Cambio: pray accept his seruice
+
+   Bap. A thousand thankes signior Gremio:
+Welcome good Cambio. But gentle sir,
+Me thinkes you walke like a stranger,
+May I be so bold, to know the cause of your comming?
+  Tra. Pardon me sir, the boldnesse is mine owne,
+That being a stranger in this Cittie heere,
+Do make my selfe a sutor to your daughter,
+Vnto Bianca, faire and vertuous:
+Nor is your firme resolue vnknowne to me,
+In the preferment of the eldest sister.
+This liberty is all that I request,
+That vpon knowledge of my Parentage,
+I may haue welcome 'mongst the rest that woo,
+And free accesse and fauour as the rest.
+And toward the education of your daughters:
+I heere bestow a simple instrument,
+And this small packet of Greeke and Latine bookes:
+If you accept them, then their worth is great:
+  Bap. Lucentio is your name, of whence I pray
+
+   Tra. Of Pisa sir, sonne to Vincentio
+
+   Bap. A mightie man of Pisa by report,
+I know him well: you are verie welcome sir:
+Take you the Lute, and you the set of bookes,
+You shall go see your Pupils presently.
+Holla, within.
+
+Enter a Seruant
+
+Sirrah, leade these Gentlemen
+To my daughters, and tell them both
+These are their Tutors, bid them vse them well,
+We will go walke a little in the Orchard,
+And then to dinner: you are passing welcome,
+And so I pray you all to thinke your selues
+
+   Pet. Signior Baptista, my businesse asketh haste,
+And euerie day I cannot come to woo,
+You knew my father well, and in him me,
+Left solie heire to all his Lands and goods,
+Which I haue bettered rather then decreast,
+Then tell me, if I get your daughters loue,
+What dowrie shall I haue with her to wife
+
+   Bap. After my death, the one halfe of my Lands,
+And in possession twentie thousand Crownes
+
+   Pet. And for that dowrie, Ile assure her of
+Her widdow-hood, be it that she suruiue me
+In all my Lands and Leases whatsoeuer,
+Let specialties be therefore drawne betweene vs,
+That couenants may be kept on either hand
+
+   Bap. I, when the speciall thing is well obtain'd,
+That is her loue: for that is all in all
+
+   Pet. Why that is nothing: for I tell you father,
+I am as peremptorie as she proud minded:
+And where two raging fires meete together,
+They do consume the thing that feedes their furie.
+Though little fire growes great with little winde,
+Yet extreme gusts will blow out fire and all:
+So I to her, and so she yeelds to me,
+For I am rough, and woo not like a babe
+
+   Bap. Well maist thou woo, and happy be thy speed:
+But be thou arm'd for some vnhappie words
+
+   Pet. I to the proofe, as Mountaines are for windes,
+That shakes not, though they blow perpetually.
+Enter Hortensio with his head broke.
+
+  Bap. How now my friend, why dost thou looke so
+pale?
+  Hor. For feare I promise you, if I looke pale
+
+   Bap. What, will my daughter proue a good Musitian?
+  Hor. I thinke she'l sooner proue a souldier,
+Iron may hold with her, but neuer Lutes
+
+   Bap. Why then thou canst not break her to the Lute?
+  Hor. Why no, for she hath broke the Lute to me:
+I did but tell her she mistooke her frets,
+And bow'd her hand to teach her fingering,
+When (with a most impatient diuellish spirit)
+Frets call you these? (quoth she) Ile fume with them:
+And with that word she stroke me on the head,
+And through the instrument my pate made way,
+And there I stood amazed for a while,
+As on a Pillorie, looking through the Lute,
+While she did call me Rascall, Fidler,
+And twangling Iacke, with twentie such vilde tearmes,
+As had she studied to misvse me so
+
+   Pet. Now by the world, it is a lustie Wench,
+I loue her ten times more then ere I did,
+Oh how I long to haue some chat with her
+
+   Bap. Wel go with me, and be not so discomfited.
+Proceed in practise with my yonger daughter,
+She's apt to learne, and thankefull for good turnes:
+Signior Petruchio, will you go with vs,
+Or shall I send my daughter Kate to you.
+
+Exit. Manet Petruchio.
+
+  Pet. I pray you do. Ile attend her heere,
+And woo her with some spirit when she comes,
+Say that she raile, why then Ile tell her plaine,
+She sings as sweetly as a Nightinghale:
+Say that she frowne, Ile say she lookes as cleere
+As morning Roses newly washt with dew:
+Say she be mute, and will not speake a word,
+Then Ile commend her volubility,
+And say she vttereth piercing eloquence:
+If she do bid me packe, Ile giue her thankes,
+As though she bid me stay by her a weeke:
+If she denie to wed, Ile craue the day
+When I shall aske the banes, and when be married.
+But heere she comes, and now Petruchio speake.
+
+Enter Katerina
+
+Good morrow Kate, for thats your name I heare
+
+   Kate. Well haue you heard, but something hard of
+hearing:
+They call me Katerine, that do talke of me
+
+   Pet. You lye infaith, for you are call'd plaine Kate,
+And bony Kate, and sometimes Kate the curst:
+But Kate, the prettiest Kate in Christendome,
+Kate of Kate-hall, my super-daintie Kate,
+For dainties are all Kates, and therefore Kate
+Take this of me, Kate of my consolation,
+Hearing thy mildnesse prais'd in euery Towne,
+Thy vertues spoke of, and thy beautie sounded,
+Yet not so deepely as to thee belongs,
+My selfe am moou'd to woo thee for my wife
+
+   Kate. Mou'd, in good time, let him that mou'd you
+hether
+Remoue you hence: I knew you at the first
+You were a mouable
+
+   Pet. Why, what's a mouable?
+  Kat. A ioyn'd stoole
+
+   Pet. Thou hast hit it: come sit on me
+
+   Kate. Asses are made to beare, and so are you
+
+   Pet. Women are made to beare, and so are you
+
+   Kate. No such Iade as you, if me you meane
+
+   Pet. Alas good Kate, I will not burthen thee,
+For knowing thee to be but yong and light
+
+   Kate. Too light for such a swaine as you to catch,
+And yet as heauie as my waight should be
+
+   Pet. Shold be, should: buzze
+
+   Kate. Well tane, and like a buzzard
+
+   Pet. Oh slow-wing'd Turtle, shal a buzard take thee?
+  Kat. I for a Turtle, as he takes a buzard
+
+   Pet. Come, come you Waspe, y'faith you are too
+angrie
+
+   Kate. If I be waspish, best beware my sting
+
+   Pet. My remedy is then to plucke it out
+
+   Kate. I, if the foole could finde it where it lies
+
+   Pet. Who knowes not where a Waspe does weare
+his sting? In his taile
+
+   Kate. In his tongue?
+  Pet. Whose tongue
+
+   Kate. Yours if you talke of tales, and so farewell
+
+   Pet. What with my tongue in your taile.
+Nay, come againe, good Kate, I am a Gentleman,
+  Kate. That Ile trie.
+
+She strikes him
+
+  Pet. I sweare Ile cuffe you, if you strike againe
+
+   Kate. So may you loose your armes,
+If you strike me, you are no Gentleman,
+And if no Gentleman, why then no armes
+
+   Pet. A Herald Kate? Oh put me in thy bookes
+
+   Kate. What is your Crest, a Coxcombe?
+  Pet. A comblesse Cocke, so Kate will be my Hen
+
+   Kate. No Cocke of mine, you crow too like a crauen
+  Pet. Nay come Kate, come: you must not looke so
+sowre
+
+   Kate. It is my fashion when I see a Crab
+
+   Pet. Why heere's no crab, and therefore looke not
+sowre
+
+   Kate. There is, there is
+
+   Pet. Then shew it me
+
+   Kate. Had I a glasse, I would
+
+   Pet. What, you meane my face
+
+   Kate. Well aym'd of such a yong one
+
+   Pet. Now by S[aint]. George I am too yong for you
+
+   Kate. Yet you are wither'd
+
+   Pet. 'Tis with cares
+
+   Kate. I care not
+
+   Pet. Nay heare you Kate. Insooth you scape not so
+
+   Kate. I chafe you if I tarrie. Let me go
+
+   Pet. No, not a whit, I finde you passing gentle:
+'Twas told me you were rough, and coy, and sullen,
+And now I finde report a very liar:
+For thou art pleasant, gamesome, passing courteous,
+But slow in speech: yet sweet as spring-time flowers.
+Thou canst not frowne, thou canst not looke a sconce,
+Nor bite the lip, as angry wenches will,
+Nor hast thou pleasure to be crosse in talke:
+But thou with mildnesse entertain'st thy wooers,
+With gentle conference, soft, and affable.
+Why does the world report that Kate doth limpe?
+Oh sland'rous world: Kate like the hazle twig
+Is straight, and slender, and as browne in hue
+As hazle nuts, and sweeter then the kernels:
+Oh let me see thee walke: thou dost not halt
+
+   Kate. Go foole, and whom thou keep'st command
+
+   Pet. Did euer Dian so become a Groue
+As Kate this chamber with her princely gate:
+O be thou Dian, and let her be Kate,
+And then let Kate be chaste, and Dian sportfull
+
+   Kate. Where did you study all this goodly speech?
+  Petr. It is extempore, from my mother wit
+
+   Kate. A witty mother, witlesse else her sonne
+
+   Pet. Am I not wise?
+  Kat. Yes, keepe you warme
+
+   Pet. Marry so I meane sweet Katherine in thy bed:
+And therefore setting all this chat aside,
+Thus in plaine termes: your father hath consented
+That you shall be my wife; your dowry greed on,
+And will you, nill you, I will marry you.
+Now Kate, I am a husband for your turne,
+For by this light, whereby I see thy beauty,
+Thy beauty that doth make me like thee well,
+Thou must be married to no man but me,
+Enter Baptista, Gremio, Trayno.
+
+For I am he am borne to tame you Kate,
+And bring you from a wilde Kate to a Kate
+Conformable as other houshold Kates:
+Heere comes your father, neuer make deniall,
+I must, and will haue Katherine to my wife
+
+   Bap. Now Signior Petruchio, how speed you with my daughter?
+  Pet. How but well sir? how but well?
+It were impossible I should speed amisse
+
+   Bap. Why how now daughter Katherine, in your dumps?
+  Kat. Call you me daughter? now I promise you
+You haue shewd a tender fatherly regard,
+To wish me wed to one halfe Lunaticke,
+A mad-cap ruffian, and a swearing Iacke,
+That thinkes with oathes to face the matter out
+
+   Pet. Father, 'tis thus, your selfe and all the world
+That talk'd of her, haue talk'd amisse of her:
+If she be curst, it is for pollicie,
+For shee's not froward, but modest as the Doue,
+Shee is not hot, but temperate as the morne,
+For patience shee will proue a second Grissell,
+And Romane Lucrece for her chastitie:
+And to conclude, we haue greed so well together,
+That vpon sonday is the wedding day
+
+   Kate. Ile see thee hang'd on sonday first
+
+   Gre. Hark Petruchio, she saies shee'll see thee hang'd first
+
+   Tra. Is this your speeding? nay the[n] godnight our part
+
+   Pet. Be patient gentlemen, I choose her for my selfe,
+If she and I be pleas'd, what's that to you?
+'Tis bargain'd twixt vs twaine being alone,
+That she shall still be curst in company.
+I tell you 'tis incredible to beleeue
+How much she loues me: oh the kindest Kate,
+Shee hung about my necke, and kisse on kisse
+Shee vi'd so fast, protesting oath on oath,
+That in a twinke she won me to her loue.
+Oh you are nouices, 'tis a world to see
+How tame when men and women are alone,
+A meacocke wretch can make the curstest shrew:
+Giue me thy hand Kate, I will vnto Venice
+To buy apparell 'gainst the wedding day;
+Prouide the feast father, and bid the guests,
+I will be sure my Katherine shall be fine
+
+   Bap. I know not what to say, but giue me your ha[n]ds,
+God send you ioy, Petruchio, 'tis a match
+
+   Gre. Tra. Amen say we, we will be witnesses
+
+   Pet. Father, and wife, and gentlemen adieu,
+I will to Venice, sonday comes apace,
+We will haue rings, and things, and fine array,
+And kisse me Kate, we will be married a sonday.
+
+Exit Petruchio and Katherine.
+
+  Gre. Was euer match clapt vp so sodainly?
+  Bap. Faith Gentlemen now I play a marchants part,
+And venture madly on a desperate Mart
+
+   Tra. Twas a commodity lay fretting by you,
+'Twill bring you gaine, or perish on the seas
+
+   Bap. The gaine I seeke, is quiet me the match
+
+   Gre. No doubt but he hath got a quiet catch:
+But now Baptista, to your yonger daughter,
+Now is the day we long haue looked for,
+I am your neighbour, and was suter first
+
+   Tra. And I am one that loue Bianca more
+Then words can witnesse, or your thoughts can guesse
+
+   Gre. Yongling thou canst not loue so deare as I
+
+   Tra. Gray-beard thy loue doth freeze
+
+   Gre. But thine doth frie,
+Skipper stand backe, 'tis age that nourisheth
+
+   Tra. But youth in Ladies eyes that florisheth
+
+   Bap. Content you gentlemen, I wil co[m]pound this strife
+'Tis deeds must win the prize, and he of both
+That can assure my daughter greatest dower,
+Shall haue my Biancas loue.
+Say signior Gremio, what can you assure her?
+  Gre. First, as you know, my house within the City
+Is richly furnished with plate and gold,
+Basons and ewers to laue her dainty hands:
+My hangings all of tirian tapestry:
+In Iuory cofers I haue stuft my crownes:
+In Cypres chests my arras counterpoints,
+Costly apparell, tents, and Canopies,
+Fine Linnen, Turky cushions bost with pearle,
+Vallens of Venice gold, in needle worke:
+Pewter and brasse, and all things that belongs
+To house or house-keeping: then at my farme
+I haue a hundred milch-kine to the pale,
+Sixe-score fat Oxen standing in my stalls,
+And all things answerable to this portion.
+My selfe am strooke in yeeres I must confesse,
+And if I die to morrow this is hers,
+If whil'st I liue she will be onely mine
+
+   Tra. That only came well in: sir, list to me,
+I am my fathers heyre and onely sonne,
+If I may haue your daughter to my wife,
+Ile leaue her houses three or foure as good
+Within rich Pisa walls, as any one
+Old Signior Gremio has in Padua,
+Besides, two thousand Duckets by the yeere
+Of fruitfull land, all which shall be her ioynter.
+What, haue I pincht you Signior Gremio?
+  Gre. Two thousand Duckets by the yeere of land,
+My Land amounts not to so much in all:
+That she shall haue, besides an Argosie
+That now is lying in Marcellus roade:
+What, haue I choakt you with an Argosie?
+  Tra. Gremio, 'tis knowne my father hath no lesse
+Then three great Argosies, besides two Galliasses
+And twelue tite Gallies, these I will assure her,
+And twice as much what ere thou offrest next
+
+   Gre. Nay, I haue offred all, I haue no more,
+And she can haue no more then all I haue,
+If you like me, she shall haue me and mine
+
+   Tra. Why then the maid is mine from all the world
+By your firme promise, Gremio is out-vied
+
+   Bap. I must confesse your offer is the best,
+And let your father make her the assurance,
+Shee is your owne, else you must pardon me:
+If you should die before him, where's her dower?
+  Tra. That's but a cauill: he is olde, I young
+
+   Gre. And may not yong men die as well as old?
+  Bap. Well gentlemen, I am thus resolu'd,
+On sonday next, you know
+My daughter Katherine is to be married:
+Now on the sonday following, shall Bianca
+Be Bride to you, if you make this assurance:
+If not, to Signior Gremio:
+And so I take my leaue, and thanke you both.
+Enter.
+
+  Gre. Adieu good neighbour: now I feare thee not:
+Sirra, yong gamester, your father were a foole
+To giue thee all, and in his wayning age
+Set foot vnder thy table: tut, a toy,
+An olde Italian foxe is not so kinde my boy.
+Enter.
+
+  Tra. A vengeance on your crafty withered hide,
+Yet I haue fac'd it with a card of ten:
+'Tis in my head to doe my master good:
+I see no reason but suppos'd Lucentio
+Must get a father, call'd suppos'd Vincentio,
+And that's a wonder: fathers commonly
+Doe get their children: but in this case of woing,
+A childe shall get a sire, if I faile not of my cunning.
+Enter.
+
+
+Actus Tertia.
+
+Enter Lucentio, Hortentio, and Bianca.
+
+  Luc. Fidler forbeare, you grow too forward Sir,
+Haue you so soone forgot the entertainment
+Her sister Katherine welcom'd you withall
+
+   Hort. But wrangling pedant, this is
+The patronesse of heauenly harmony:
+Then giue me leaue to haue prerogatiue,
+And when in Musicke we haue spent an houre,
+Your Lecture shall haue leisure for as much
+
+   Luc. Preposterous Asse that neuer read so farre,
+To know the cause why musicke was ordain'd:
+Was it not to refresh the minde of man
+After his studies, or his vsuall paine?
+Then giue me leaue to read Philosophy,
+And while I pause, serue in your harmony
+
+   Hort. Sirra, I will not beare these braues of thine
+
+   Bianc. Why gentlemen, you doe me double wrong,
+To striue for that which resteth in my choice:
+I am no breeching scholler in the schooles,
+Ile not be tied to howres, nor pointed times,
+But learne my Lessons as I please my selfe,
+And to cut off all strife: heere sit we downe,
+Take you your instrument, play you the whiles,
+His Lecture will be done ere you haue tun'd
+
+   Hort. You'll leaue his Lecture when I am in tune?
+  Luc. That will be neuer, tune your instrument
+
+   Bian. Where left we last?
+  Luc. Heere Madam: Hic Ibat Simois, hic est sigeria
+tellus, hic steterat Priami regia Celsa senis
+
+   Bian. Conster them
+
+   Luc. Hic Ibat, as I told you before, Simois, I am Lucentio,
+hic est, sonne vnto Vincentio of Pisa, Sigeria tellus,
+disguised thus to get your loue, hic steterat, and that
+Lucentio that comes a wooing, priami, is my man Tranio,
+regia, bearing my port, celsa senis that we might beguile
+the old Pantalowne
+
+   Hort. Madam, my Instrument's in tune
+
+   Bian. Let's heare, oh fie, the treble iarres
+
+   Luc. Spit in the hole man, and tune againe
+
+   Bian. Now let mee see if I can conster it. Hic ibat simois,
+I know you not, hic est sigeria tellus, I trust you not,
+hic staterat priami, take heede he heare vs not, regia presume
+not, Celsa senis, despaire not
+
+   Hort. Madam, tis now in tune
+
+   Luc. All but the base
+
+   Hort. The base is right, 'tis the base knaue that iars
+
+   Luc. How fiery and forward our Pedant is,
+Now for my life the knaue doth court my loue,
+Pedascule, Ile watch you better yet:
+In time I may beleeue, yet I mistrust
+
+   Bian. Mistrust it not, for sure Aeacides
+Was Aiax cald so from his grandfather
+
+   Hort. I must beleeue my master, else I promise you,
+I should be arguing still vpon that doubt,
+But let it rest, now Litio to you:
+Good master take it not vnkindly pray
+That I haue beene thus pleasant with you both
+
+   Hort. You may go walk, and giue me leaue a while,
+My Lessons make no musicke in three parts
+
+   Luc. Are you so formall sir, well I must waite
+And watch withall, for but I be deceiu'd,
+Our fine Musitian groweth amorous
+
+   Hor. Madam, before you touch the instrument,
+To learne the order of my fingering,
+I must begin with rudiments of Art,
+To teach you gamoth in a briefer sort,
+More pleasant, pithy, and effectuall,
+Then hath beene taught by any of my trade,
+And there it is in writing fairely drawne
+
+   Bian. Why, I am past my gamouth long agoe
+
+   Hor. Yet read the gamouth of Hortentio
+
+   Bian. Gamouth I am, the ground of all accord:
+Are, to plead Hortensio's passion:
+Beeme, Bianca take him for thy Lord
+Cfavt, that loues with all affection:
+D sol re, one Cliffe, two notes haue I,
+Ela mi, show pitty or I die,
+Call you this gamouth? tut I like it not,
+Old fashions please me best, I am not so nice
+To charge true rules for old inuentions.
+Enter a Messenger.
+
+  Nicke. Mistresse, your father prayes you leaue your books,
+And helpe to dresse your sisters chamber vp,
+You know to morrow is the wedding day
+
+   Bian. Farewell sweet masters both, I must be gone
+
+   Luc. Faith Mistresse then I haue no cause to stay
+
+   Hor. But I haue cause to pry into this pedant,
+Methinkes he lookes as though he were in loue:
+Yet if thy thoughts Bianca be so humble
+To cast thy wandring eyes on euery stale:
+Seize thee that List, if once I finde thee ranging,
+Hortensio will be quit with thee by changing.
+Enter.
+
+Enter Baptista, Gremio, Tranio, Katherine, Bianca, and others,
+attendants.
+
+  Bap. Signior Lucentio, this is the pointed day
+That Katherine and Petruchio should be married,
+And yet we heare not of our sonne in Law:
+What will be said, what mockery will it be?
+To want the Bride-groome when the Priest attends
+To speake the ceremoniall rites of marriage?
+What saies Lucentio to this shame of ours?
+  Kate. No shame but mine, I must forsooth be forst
+To giue my hand oppos'd against my heart
+Vnto a mad-braine rudesby, full of spleene,
+Who woo'd in haste, and meanes to wed at leysure:
+I told you I, he was a franticke foole,
+Hiding his bitter iests in blunt behauiour,
+And to be noted for a merry man;
+Hee'll wooe a thousand, point the day of marriage,
+Make friends, inuite, and proclaime the banes,
+Yet neuer meanes to wed where he hath woo'd:
+Now must the world point at poore Katherine,
+And say, loe, there is mad Petruchio's wife
+If it would please him come and marry her
+
+   Tra. Patience good Katherine and Baptista too,
+Vpon my life Petruchio meanes but well,
+What euer fortune stayes him from his word,
+Though he be blunt, I know him passing wise,
+Though he be merry, yet withall he's honest
+
+   Kate. Would Katherine had neuer seen him though.
+
+Exit weeping.
+
+  Bap. Goe girle, I cannot blame thee now to weepe,
+For such an iniurie would vexe a very saint,
+Much more a shrew of impatient humour.
+Enter Biondello.
+
+  Bion. Master, master, newes, and such newes as you
+neuer heard of,
+  Bap. Is it new and olde too? how may that be?
+  Bion. Why, is it not newes to heard of Petruchio's comming?
+  Bap. Is he come?
+  Bion. Why no sir
+
+   Bap. What then?
+  Bion. He is comming
+
+   Bap. When will he be heere?
+  Bion. When he stands where I am, and sees you there
+
+   Tra. But say, what to thine olde newes?
+  Bion. Why Petruchio is comming, in a new hat and
+an old ierkin, a paire of old breeches thrice turn'd; a
+paire of bootes that haue beene candle-cases, one buckled,
+another lac'd: an olde rusty sword tane out of the
+Towne Armory, with a broken hilt, and chapelesse: with
+two broken points: his horse hip'd with an olde mothy
+saddle, and stirrops of no kindred: besides possest
+with the glanders, and like to mose in the chine, troubled
+with the Lampasse, infected with the fashions, full
+of Windegalls, sped with Spauins, raied with the Yellowes,
+past cure of the Fiues, starke spoyl'd with the
+Staggers, begnawne with the Bots, Waid in the backe,
+and shoulder-shotten, neere leg'd before, and with a
+halfe-chekt Bitte, & a headstall of sheepes leather, which
+being restrain'd to keepe him from stumbling, hath been
+often burst, and now repaired with knots: one girth sixe
+times peec'd, and a womans Crupper of velure, which
+hath two letters for her name, fairely set down in studs,
+and heere and there peec'd with packthred
+
+   Bap. Who comes with him?
+  Bion. Oh sir, his Lackey, for all the world Caparison'd
+like the horse: with a linnen stock on one leg, and
+a kersey boot-hose on the other, gartred with a red and
+blew list; an old hat, & the humor of forty fancies prickt
+in't for a feather: a monster, a very monster in apparell,
+& not like a Christian foot-boy, or a gentlemans Lacky
+
+   Tra. 'Tis some od humor pricks him to this fashion,
+Yet oftentimes he goes but meane apparel'd
+
+   Bap. I am glad he's come, howsoere he comes
+
+   Bion. Why sir, he comes not
+
+   Bap. Didst thou not say hee comes?
+  Bion. Who, that Petruchio came?
+  Bap. I, that Petruchio came
+
+   Bion. No sir, I say his horse comes with him on his backe
+
+   Bap. Why that's all one
+
+   Bion. Nay by S[aint]. Iamy, I hold you a penny, a horse and
+a man is more then one, and yet not many.
+Enter Petruchio and Grumio.
+
+  Pet. Come, where be these gallants? who's at home?
+  Bap. You are welcome sir
+
+   Petr. And yet I come not well
+
+   Bap. And yet you halt not
+
+   Tra. Not so well apparell'd as I wish you were
+
+   Petr. Were it better I should rush in thus:
+But where is Kate? where is my louely Bride?
+How does my father? gentles methinkes you frowne,
+And wherefore gaze this goodly company,
+As if they saw some wondrous monument,
+Some Commet, or vnusuall prodigie?
+  Bap. Why sir, you know this is your wedding day:
+First were we sad, fearing you would not come,
+Now sadder that you come so vnprouided:
+Fie, doff this habit, shame to your estate,
+An eye-sore to our solemne festiuall
+
+   Tra. And tell vs what occasion of import
+Hath all so long detain'd you from your wife,
+And sent you hither so vnlike your selfe?
+  Petr. Tedious it were to tell, and harsh to heare,
+Sufficeth I am come to keepe my word,
+Though in some part inforced to digresse,
+Which at more leysure I will so excuse,
+As you shall well be satisfied with all.
+But where is Kate? I stay too long from her,
+The morning weares, 'tis time we were at Church
+
+   Tra. See not your Bride in these vnreuerent robes,
+Goe to my chamber, put on clothes of mine
+
+   Pet. Not I, beleeue me, thus Ile visit her
+
+   Bap. But thus I trust you will not marry her
+
+   Pet. Good sooth euen thus: therefore ha done with words,
+To me she's married, not vnto my cloathes:
+Could I repaire what she will weare in me,
+As I can change these poore accoutrements,
+'Twere well for Kate, and better for my selfe.
+But what a foole am I to chat with you,
+When I should bid good morrow to my Bride?
+And seale the title with a louely kisse.
+Enter.
+
+  Tra. He hath some meaning in his mad attire,
+We will perswade him be it possible,
+To put on better ere he goe to Church
+
+   Bap. Ile after him, and see the euent of this.
+Enter.
+
+  Tra. But sir, Loue concerneth vs to adde
+Her fathers liking, which to bring to passe
+As before imparted to your worship,
+I am to get a man what ere he be,
+It skills not much, weele fit him to our turne,
+And he shall be Vincentio of Pisa,
+And make assurance heere in Padua
+Of greater summes then I haue promised,
+So shall you quietly enioy your hope,
+And marry sweet Bianca with consent
+
+   Luc. Were it not that my fellow schoolemaster
+Doth watch Bianca's steps so narrowly:
+'Twere good me-thinkes to steale our marriage,
+Which once perform'd, let all the world say no,
+Ile keepe mine owne despite of all the world
+
+   Tra. That by degrees we meane to looke into,
+And watch our vantage in this businesse,
+Wee'll ouer-reach the grey-beard Gremio,
+The narrow prying father Minola,
+The quaint Musician, amorous Litio,
+All for my Masters sake Lucentio.
+Enter Gremio.
+
+Signior Gremio, came you from the Church?
+  Gre. As willingly as ere I came from schoole
+
+   Tra. And is the Bride & Bridegroom coming home?
+  Gre. A bridegroome say you? 'tis a groome indeed,
+A grumlling groome, and that the girle shall finde
+
+   Tra. Curster then she, why 'tis impossible
+
+   Gre. Why hee's a deuill, a deuill, a very fiend
+
+   Tra. Why she's a deuill, a deuill, the deuils damme
+
+   Gre. Tut, she's a Lambe, a Doue, a foole to him:
+Ile tell you sir Lucentio; when the Priest
+Should aske if Katherine should be his wife,
+I, by goggs woones quoth he, and swore so loud,
+That all amaz'd the Priest let fall the booke,
+And as he stoop'd againe to take it vp,
+This mad-brain'd bridegroome tooke him such a cuffe,
+That downe fell Priest and booke, and booke and Priest,
+Now take them vp quoth he, if any list
+
+   Tra. What said the wench when he rose againe?
+  Gre. Trembled and shooke: for why, he stamp'd and
+swore, as if the Vicar meant to cozen him: but after many
+ceremonies done, hee calls for wine, a health quoth
+he, as if he had beene aboord carowsing to his Mates after
+a storme, quaft off the Muscadell, and threw the sops
+all in the Sextons face: hauing no other reason, but that
+his beard grew thinne and hungerly, and seem'd to aske
+him sops as hee was drinking: This done, hee tooke the
+Bride about the necke, and kist her lips with such a clamorous
+smacke, that at the parting all the Church did
+eccho: and I seeing this, came thence for very shame, and
+after mee I know the rout is comming, such a mad marryage
+neuer was before: harke, harke, I heare the minstrels
+play.
+
+Musicke playes.
+
+Enter Petruchio, Kate, Bianca, Hortensio, Baptista.
+
+  Petr. Gentlemen & friends, I thank you for your pains,
+I know you thinke to dine with me to day,
+And haue prepar'd great store of wedding cheere,
+But so it is, my haste doth call me hence,
+And therefore heere I meane to take my leaue
+
+   Bap. Is't possible you will away to night?
+  Pet. I must away to day before night come,
+Make it no wonder: if you knew my businesse,
+You would intreat me rather goe then stay:
+And honest company, I thanke you all,
+That haue beheld me giue away my selfe
+To this most patient, sweet, and vertuous wife,
+Dine with my father, drinke a health to me,
+For I must hence, and farewell to you all
+
+   Tra. Let vs intreat you stay till after dinner
+
+   Pet. It may not be
+
+   Gra. Let me intreat you
+
+   Pet. It cannot be
+
+   Kat. Let me intreat you
+
+   Pet. I am content
+
+   Kat. Are you content to stay?
+  Pet. I am content you shall entreat me stay,
+But yet not stay, entreat me how you can
+
+   Kat. Now if you loue me stay
+
+   Pet. Grumio, my horse
+
+   Gru. I sir, they be ready, the Oates haue eaten the
+horses
+
+   Kate. Nay then,
+Doe what thou canst, I will not goe to day,
+No, nor to morrow, not till I please my selfe,
+The dore is open sir, there lies your way,
+You may be iogging whiles your bootes are greene:
+For me, Ile not be gone till I please my selfe,
+'Tis like you'll proue a iolly surly groome,
+That take it on you at the first so roundly
+
+   Pet. O Kate content thee, prethee be not angry
+
+   Kat. I will be angry, what hast thou to doe?
+Father, be quiet, he shall stay my leisure
+
+   Gre. I marry sir, now it begins to worke
+
+   Kat. Gentlemen, forward to the bridall dinner,
+I see a woman may be made a foole
+If she had not a spirit to resist
+
+   Pet. They shall goe forward Kate at thy command,
+Obey the Bride you that attend on her.
+Goe to the feast, reuell and domineere,
+Carowse full measure to her maiden-head,
+Be madde and merry, or goe hang your selues:
+But for my bonny Kate, she must with me:
+Nay, looke not big, nor stampe, not stare, nor fret,
+I will be master of what is mine owne,
+Shee is my goods, my chattels, she is my house,
+My houshold-stuffe, my field, my barne,
+My horse, my oxe, my asse, my any thing,
+And heere she stands, touch her who euer dare,
+Ile bring mine action on the proudest he
+That stops my way in Padua: Grumio
+Draw forth thy weapon, we are beset with theeues,
+Rescue thy Mistresse if thou be a man:
+Feare not sweet wench, they shall not touch thee Kate,
+Ile buckler thee against a Million.
+
+Exeunt. P. Ka.
+
+  Bap. Nay, let them goe, a couple of quiet ones
+
+   Gre. Went they not quickly, I should die with laughing
+
+   Tra. Of all mad matches neuer was the like
+
+   Luc. Mistresse, what's your opinion of your sister?
+  Bian. That being mad her selfe, she's madly mated
+
+   Gre. I warrant him Petruchio is Kated
+
+   Bap. Neighbours and friends, though Bride & Bridegroom wants
+For to supply the places at the table,
+You know there wants no iunkets at the feast:
+Lucentio, you shall supply the Bridegroomes place,
+And let Bianca take her sisters roome
+
+   Tra. Shall sweet Bianca practise how to bride it?
+  Bap. She shall Lucentio: come gentlemen lets goe.
+Enter Grumio.
+
+
+Exeunt.
+
+  Gru. Fie, fie on all tired Iades, on all mad Masters, &
+all foule waies: was euer man so beaten? was euer man
+so raide? was euer man so weary? I am sent before to
+make a fire, and they are comming after to warme them:
+now were not I a little pot, & soone hot; my very lippes
+might freeze to my teeth, my tongue to the roofe of my
+mouth, my heart in my belly, ere I should come by a fire
+to thaw me, but I with blowing the fire shall warme my
+selfe: for considering the weather, a taller man then I
+will take cold: Holla, hoa Curtis.
+Enter Curtis.
+
+  Curt. Who is that calls so coldly?
+  Gru. A piece of Ice: if thou doubt it, thou maist
+slide from my shoulder to my heele, with no
+greater a run but my head and my necke. A fire good
+Curtis
+
+   Cur. Is my master and his wife comming Grumio?
+  Gru. Oh I Curtis I, and therefore fire, fire, cast on no
+water
+
+   Cur. Is she so hot a shrew as she's reported
+
+   Gru. She was good Curtis before this frost: but thou
+know'st winter tames man, woman, and beast: for it
+hath tam'd my old master, and my new mistris, and my
+selfe fellow Curtis
+
+   Gru. Away you three inch foole, I am no beast
+
+   Gru. Am I but three inches? Why thy horne is a foot
+and so long am I at the least. But wilt thou make a fire,
+or shall I complaine on thee to our mistris, whose hand
+(she being now at hand) thou shalt soone feele, to thy
+cold comfort, for being slow in thy hot office
+
+   Cur. I prethee good Grumio, tell me, how goes the
+world?
+  Gru. A cold world Curtis in euery office but thine, &
+therefore fire: do thy duty, and haue thy dutie, for my
+Master and mistris are almost frozen to death
+
+   Cur. There's fire readie, and therefore good Grumio
+the newes
+
+   Gru. Why Iacke boy, ho boy, and as much newes as
+wilt thou
+
+   Cur. Come, you are so full of conicatching
+
+   Gru. Why therefore fire, for I haue caught extreme
+cold. Where's the Cooke, is supper ready, the house
+trim'd, rushes strew'd, cobwebs swept, the seruingmen
+in their new fustian, the white stockings, and euery officer
+his wedding garment on? Be the Iackes faire within,
+the Gils faire without, the Carpets laide, and euerie
+thing in order?
+  Cur. All readie: and therefore I pray thee newes
+
+   Gru. First know my horse is tired, my master & mistris
+falne out
+
+   Cur. How?
+  Gru. Out of their saddles into the durt, and thereby
+hangs a tale
+
+   Cur. Let's ha't good Grumio
+
+   Gru. Lend thine eare
+
+   Cur. Heere
+
+   Gru. There
+
+   Cur. This 'tis to feele a tale, not to heare a tale
+
+   Gru. And therefore 'tis cal'd a sensible tale: and this
+Cuffe was but to knocke at your eare, and beseech listning:
+now I begin, Inprimis wee came downe a fowle
+hill, my Master riding behinde my Mistris
+
+   Cur. Both of one horse?
+  Gru. What's that to thee?
+  Cur. Why a horse
+
+   Gru. Tell thou the tale: but hadst thou not crost me,
+thou shouldst haue heard how her horse fel, and she vnder
+her horse: thou shouldst haue heard in how miery a
+place, how she was bemoil'd, how hee left her with the
+horse vpon her, how he beat me because her horse stumbled,
+how she waded through the durt to plucke him off
+me: how he swore, how she prai'd, that neuer prai'd before:
+how I cried, how the horses ranne away, how her
+bridle was burst: how I lost my crupper, with manie
+things of worthy memorie, which now shall die in obliuion,
+and thou returne vnexperienc'd to thy graue
+
+   Cur. By this reckning he is more shrew than she
+
+   Gru. I, and that thou and the proudest of you all shall
+finde when he comes home. But what talke I of this?
+Call forth Nathaniel, Ioseph, Nicholas, Phillip, Walter, Sugersop
+and the rest: let their heads bee slickely comb'd,
+their blew coats brush'd, and their garters of an indifferent
+knit, let them curtsie with their left legges, and not
+presume to touch a haire of my Masters horse-taile, till
+they kisse their hands. Are they all readie?
+  Cur. They are
+
+   Gru. Call them forth
+
+   Cur. Do you heare ho? you must meete my maister
+to countenance my mistris
+
+   Gru. Why she hath a face of her owne
+
+   Cur. Who knowes not that?
+  Gru. Thou it seemes, that cals for company to countenance
+her
+
+   Cur. I call them forth to credit her.
+Enter foure or fiue seruingmen.
+
+  Gru. Why she comes to borrow nothing of them
+
+   Nat. Welcome home Grumio
+
+   Phil. How now Grumio
+
+   Ios. What Grumio
+
+   Nick. Fellow Grumio
+
+   Nat. How now old lad
+
+   Gru. Welcome you: how now you: what you: fellow
+you: and thus much for greeting. Now my spruce
+companions, is all readie, and all things neate?
+  Nat. All things is readie, how neere is our master?
+  Gre. E'ne at hand, alighted by this: and therefore be
+not- Cockes passion, silence, I heare my master.
+Enter Petruchio and Kate.
+
+  Pet. Where be these knaues? What no man at doore
+To hold my stirrop, nor to take my horse?
+Where is Nathaniel, Gregory, Phillip
+
+   All ser. Heere, heere sir, heere sir
+
+   Pet. Heere sir, heere sir, heere sir, heere sir.
+You logger-headed and vnpollisht groomes:
+What? no attendance? no regard? no dutie?
+Where is the foolish knaue I sent before?
+  Gru. Heere sir, as foolish as I was before
+
+   Pet. You pezant, swain, you horson malt-horse drudg
+Did I not bid thee meete me in the Parke,
+And bring along these rascal knaues with thee?
+  Grumio. Nathaniels coate sir was not fully made,
+And Gabrels pumpes were all vnpinkt i'th heele:
+There was no Linke to colour Peters hat,
+And Walters dagger was not come from sheathing:
+There were none fine, but Adam, Rafe, and Gregory,
+The rest were ragged, old, and beggerly,
+Yet as they are, heere are they come to meete you
+
+   Pet. Go rascals, go, and fetch my supper in.
+
+Ex. Ser.
+
+Where is the life that late I led?
+Where are those? Sit downe Kate,
+And welcome. Soud, soud, soud, soud.
+Enter seruants with supper.
+
+Why when I say? Nay good sweete Kate be merrie.
+Off with my boots, you rogues: you villaines, when?
+It was the Friar of Orders gray,
+As he forth walked on his way.
+Out you rogue, you plucke my foote awrie,
+Take that, and mend the plucking of the other.
+Be merrie Kate: Some water heere: what hoa.
+Enter one with water.
+
+Where's my Spaniel Troilus? Sirra, get you hence,
+And bid my cozen Ferdinand come hither:
+One Kate that you must kisse, and be acquainted with.
+Where are my Slippers? Shall I haue some water?
+Come Kate and wash, & welcome heartily:
+You horson villaine, will you let it fall?
+  Kate. Patience I pray you, 'twas a fault vnwilling
+
+   Pet. A horson beetle-headed flap-ear'd knaue:
+Come Kate sit downe, I know you haue a stomacke,
+Will you giue thankes, sweete Kate, or else shall I?
+What's this, Mutton?
+  1.Ser. I
+
+   Pet. Who brought it?
+  Peter. I
+
+   Pet. 'Tis burnt, and so is all the meate:
+What dogges are these? Where is the rascall Cooke?
+How durst you villaines bring it from the dresser
+And serue it thus to me that loue it not?
+There, take it to you, trenchers, cups, and all:
+You heedlesse iolt-heads, and vnmanner'd slaues.
+What, do you grumble? Ile be with you straight
+
+   Kate. I pray you husband be not so disquiet,
+The meate was well, if you were so contented
+
+   Pet. I tell thee Kate, 'twas burnt and dried away,
+And I expressely am forbid to touch it:
+For it engenders choller, planteth anger,
+And better 'twere that both of vs did fast,
+Since of our selues, our selues are chollericke,
+Then feede it with such ouer-rosted flesh:
+Be patient, to morrow't shalbe mended,
+And for this night we'l fast for companie.
+Come I wil bring thee to thy Bridall chamber.
+
+Exeunt.
+
+Enter Seruants seuerally.
+
+  Nath. Peter didst euer see the like
+
+   Peter. He kils her in her owne humor
+
+   Grumio. Where is he?
+Enter Curtis a Seruant.
+
+  Cur. In her chamber, making a sermon of continencie
+to her, and railes, and sweares, and rates, that shee
+(poore soule) knowes not which way to stand, to looke,
+to speake, and sits as one new risen from a dreame. Away,
+away, for he is comming hither.
+Enter Petruchio.
+
+  Pet. Thus haue I politickely begun my reigne,
+And 'tis my hope to end successefully:
+My Faulcon now is sharpe, and passing emptie,
+And til she stoope, she must not be full gorg'd,
+For then she neuer lookes vpon her lure.
+Another way I haue to man my Haggard,
+To make her come, and know her Keepers call:
+That is, to watch her, as we watch these Kites,
+That baite, and beate, and will not be obedient:
+She eate no meate to day, nor none shall eate.
+Last night she slept not, nor to night she shall not:
+As with the meate, some vndeserued fault
+Ile finde about the making of the bed,
+And heere Ile fling the pillow, there the boulster,
+This way the Couerlet, another way the sheets:
+I, and amid this hurlie I intend,
+That all is done in reuerend care of her,
+And in conclusion, she shal watch all night,
+And if she chance to nod, Ile raile and brawle,
+And with the clamor keepe her stil awake:
+This is a way to kil a Wife with kindnesse,
+And thus Ile curbe her mad and headstrong humor:
+He that knowes better how to tame a shrew,
+Now let him speake, 'tis charity to shew.
+
+Exit
+
+Enter Tranio and Hortensio.
+
+  Tra. Is't possible friend Lisio, that mistris Bianca
+Doth fancie any other but Lucentio,
+I tel you sir, she beares me faire in hand
+
+   Luc. Sir, to satisfie you in what I haue said,
+Stand by, and marke the manner of his teaching.
+Enter Bianca.
+
+  Hor. Now Mistris, profit you in what you reade?
+  Bian. What Master reade you first, resolue me that?
+  Hor. I reade, that I professe the Art to loue
+
+   Bian. And may you proue sir Master of your Art
+
+   Luc. While you sweet deere proue Mistresse of my
+heart
+
+   Hor. Quicke proceeders marry, now tel me I pray,
+you that durst sweare that your Mistris Bianca
+Lou'd me in the World so wel as Lucentio
+
+   Tra. Oh despightful Loue, vnconstant womankind,
+I tel thee Lisio this is wonderfull
+
+   Hor. Mistake no more, I am not Lisio,
+Nor a Musitian as I seeme to bee,
+But one that scorne to liue in this disguise,
+For such a one as leaues a Gentleman,
+And makes a God of such a Cullion;
+Know sir, that I am cal'd Hortensio
+
+   Tra. Signior Hortensio, I haue often heard
+Of your entire affection to Bianca,
+And since mine eyes are witnesse of her lightnesse,
+I wil with you, if you be so contented,
+Forsweare Bianca, and her loue for euer
+
+   Hor. See how they kisse and court: Signior Lucentio,
+Heere is my hand, and heere I firmly vow
+Neuer to woo her more, but do forsweare her
+As one vnworthie all the former fauours
+That I haue fondly flatter'd them withall
+
+   Tra. And heere I take the like vnfained oath,
+Neuer to marrie with her, though she would intreate,
+Fie on her, see how beastly she doth court him
+
+   Hor. Would all the world but he had quite forsworn
+For me, that I may surely keepe mine oath.
+I wil be married to a wealthy Widdow,
+Ere three dayes passe, which hath as long lou'd me,
+As I haue lou'd this proud disdainful Haggard,
+And so farewel signior Lucentio,
+Kindnesse in women, not their beauteous lookes
+Shal win my loue, and so I take my leaue,
+In resolution, as I swore before
+
+   Tra. Mistris Bianca, blesse you with such grace,
+As longeth to a Louers blessed case:
+Nay, I haue tane you napping gentle Loue,
+And haue forsworne you with Hortensio
+
+   Bian. Tranio you iest, but haue you both forsworne
+mee?
+  Tra. Mistris we haue
+
+   Luc. Then we are rid of Lisio
+
+   Tra. I'faith hee'l haue a lustie Widdow now,
+That shalbe woo'd, and wedded in a day
+
+   Bian. God giue him ioy
+
+   Tra. I, and hee'l tame her
+
+   Bianca. He sayes so Tranio
+
+   Tra. Faith he is gone vnto the taming schoole
+
+   Bian. The taming schoole: what is there such a place?
+  Tra. I mistris, and Petruchio is the master,
+That teacheth trickes eleuen and twentie long,
+To tame a shrew, and charme her chattering tongue.
+Enter Biondello.
+
+  Bion. Oh Master, master I haue watcht so long,
+That I am dogge-wearie, but at last I spied
+An ancient Angel comming downe the hill,
+Wil serue the turne
+
+   Tra. What is he Biondello?
+  Bio. Master, a Marcantant, or a pedant,
+I know not what, but formall in apparrell,
+In gate and countenance surely like a Father
+
+   Luc. And what of him Tranio?
+  Tra. If he be credulous, and trust my tale,
+Ile make him glad to seeme Vincentio,
+And giue assurance to Baptista Minola.
+As if he were the right Vincentio
+
+   Par. Take me your loue, and then let me alone.
+Enter a Pedant.
+
+  Ped. God saue you sir
+
+   Tra. And you sir, you are welcome,
+Trauaile you farre on, or are you at the farthest?
+  Ped. Sir at the farthest for a weeke or two,
+But then vp farther, and as farre as Rome,
+And so to Tripolie, if God lend me life
+
+   Tra. What Countreyman I pray?
+  Ped. Of Mantua
+
+   Tra. Of Mantua Sir, marrie God forbid,
+And come to Padua carelesse of your life
+
+   Ped. My life sir? how I pray? for that goes hard
+
+   Tra. 'Tis death for any one in Mantua
+To come to Padua, know you not the cause?
+Your ships are staid at Venice, and the Duke
+For priuate quarrel 'twixt your Duke and him,
+Hath publish'd and proclaim'd it openly:
+'Tis meruaile, but that you are but newly come,
+You might haue heard it else proclaim'd about
+
+   Ped. Alas sir, it is worse for me then so,
+For I haue bils for monie by exchange
+From Florence, and must heere deliuer them
+
+   Tra. Wel sir, to do you courtesie,
+This wil I do, and this I wil aduise you.
+First tell me, haue you euer beene at Pisa?
+  Ped. I sir, in Pisa haue I often bin,
+Pisa renowned for graue Citizens
+
+   Tra. Among them know you one Vincentio?
+  Ped. I know him not, but I haue heard of him:
+A Merchant of incomparable wealth
+
+   Tra. He is my father sir, and sooth to say,
+In count'nance somewhat doth resemble you
+
+   Bion. As much as an apple doth an oyster, & all one
+
+   Tra. To saue your life in this extremitie,
+This fauor wil I do you for his sake,
+And thinke it not the worst of all your fortunes,
+That you are like to Sir Vincentio.
+His name and credite shal you vndertake,
+And in my house you shal be friendly lodg'd,
+Looke that you take vpon you as you should,
+You vnderstand me sir: so shal you stay
+Til you haue done your businesse in the Citie:
+If this be court'sie sir, accept of it
+
+   Ped. Oh sir I do, and wil repute you euer
+The patron of my life and libertie
+
+   Tra. Then go with me, to make the matter good,
+This by the way I let you vnderstand,
+My father is heere look'd for euerie day,
+To passe assurance of a dowre in marriage
+'Twixt me, and one Baptistas daughter heere:
+In all these circumstances Ile instruct you,
+Go with me to cloath you as becomes you.
+
+Exeunt.
+
+
+Actus Quartus. Scena Prima.
+
+Enter Katherina and Grumio.
+
+  Gru. No, no forsooth I dare not for my life
+
+   Ka. The more my wrong, the more his spite appears.
+What, did he marrie me to famish me?
+Beggers that come vnto my fathers doore,
+Vpon intreatie haue a present almes,
+If not, elsewhere they meete with charitie:
+But I, who neuer knew how to intreat,
+Nor neuer needed that I should intreate,
+Am staru'd for meate, giddie for lacke of sleepe:
+With oathes kept waking, and with brawling fed,
+And that which spights me more then all these wants,
+He does it vnder name of perfect loue:
+As who should say, if I should sleepe or eate
+'Twere deadly sicknesse, or else present death.
+I prethee go, and get me some repast,
+I care not what, so it be holsome foode
+
+   Gru. What say you to a Neats foote?
+  Kate. 'Tis passing good, I prethee let me haue it
+
+   Gru. I feare it is too chollericke a meate.
+How say you to a fat Tripe finely broyl'd?
+  Kate. I like it well, good Grumio fetch it me
+
+   Gru. I cannot tell, I feare 'tis chollericke.
+What say you to a peece of Beefe and Mustard?
+  Kate. A dish that I do loue to feede vpon
+
+   Gru. I, but the Mustard is too hot a little
+
+   Kate. Why then the Beefe, and let the Mustard rest
+
+   Gru. Nay then I wil not, you shal haue the Mustard
+Or else you get no beefe of Grumio
+
+   Kate. Then both or one, or any thing thou wilt
+
+   Gru. Why then the Mustard without the beefe
+
+   Kate. Go get thee gone, thou false deluding slaue,
+
+Beats him.
+
+That feed'st me with the verie name of meate.
+Sorrow on thee, and all the packe of you
+That triumph thus vpon my misery:
+Go get thee gone, I say.
+Enter Petruchio, and Hortensio with meate
+
+   Petr. How fares my Kate, what sweeting all amort?
+  Hor. Mistris, what cheere?
+  Kate. Faith as cold as can be
+
+   Pet. Plucke vp thy spirits, looke cheerfully vpon me.
+Heere Loue, thou seest how diligent I am,
+To dresse thy meate my selfe, and bring it thee.
+I am sure sweet Kate, this kindnesse merites thankes.
+What, not a word? Nay then, thou lou'st it not:
+And all my paines is sorted to no proofe.
+Heere take away this dish
+
+   Kate. I pray you let it stand
+
+   Pet. The poorest seruice is repaide with thankes,
+And so shall mine before you touch the meate
+
+   Kate. I thanke you sir
+
+   Hor. Signior Petruchio, fie you are too blame:
+Come Mistris Kate, Ile beare you companie
+
+   Petr. Eate it vp all Hortensio, if thou louest mee:
+Much good do it vnto thy gentle heart:
+Kate eate apace; and now my honie Loue,
+Will we returne vnto thy Fathers house,
+And reuell it as brauely as the best,
+With silken coats and caps, and golden Rings,
+With Ruffes and Cuffes, and Fardingales, and things:
+With Scarfes, and Fannes, & double change of brau'ry,
+With Amber Bracelets, Beades, and all this knau'ry.
+What hast thou din'd? The Tailor staies thy leasure,
+To decke thy bodie with his ruffling treasure.
+Enter Tailor.
+
+Come Tailor, let vs see these ornaments.
+Enter Haberdasher.
+
+Lay forth the gowne. What newes with you sir?
+  Fel. Heere is the cap your Worship did bespeake
+
+   Pet. Why this was moulded on a porrenger,
+A Veluet dish: Fie, fie, 'tis lewd and filthy,
+Why 'tis a cockle or a walnut-shell,
+A knacke, a toy, a tricke, a babies cap:
+Away with it, come let me haue a bigger
+
+   Kate. Ile haue no bigger, this doth fit the time,
+And Gentlewomen weare such caps as these
+
+   Pet. When you are gentle, you shall haue one too,
+And not till then
+
+   Hor. That will not be in hast
+
+   Kate. Why sir I trust I may haue leaue to speake,
+And speake I will. I am no childe, no babe,
+Your betters haue indur'd me say my minde,
+And if you cannot, best you stop your eares.
+My tongue will tell the anger of my heart,
+Or els my heart concealing it wil breake,
+And rather then it shall, I will be free,
+Euen to the vttermost as I please in words
+
+   Pet. Why thou saist true, it is paltrie cap,
+A custard coffen, a bauble, a silken pie,
+I loue thee well in that thou lik'st it not
+
+   Kate. Loue me, or loue me not, I like the cap,
+And it I will haue, or I will haue none
+
+   Pet. Thy gowne, why I: come Tailor let vs see't.
+Oh mercie God, what masking stuffe is heere?
+Whats this? a sleeue? 'tis like demi cannon,
+What, vp and downe caru'd like an apple Tart?
+Heers snip, and nip, and cut, and slish and slash,
+Like to a Censor in a barbers shoppe:
+Why what a deuils name Tailor cal'st thou this?
+  Hor. I see shees like to haue neither cap nor gowne
+
+   Tai. You bid me make it orderlie and well,
+According to the fashion, and the time
+
+   Pet. Marrie and did: but if you be remembred,
+I did not bid you marre it to the time.
+Go hop me ouer euery kennell home,
+For you shall hop without my custome sir:
+Ile none of it; hence, make your best of it
+
+   Kate. I neuer saw a better fashion'd gowne,
+More queint, more pleasing, nor more commendable:
+Belike you meane to make a puppet of me
+
+   Pet. Why true, he meanes to make a puppet of thee
+
+   Tail. She saies your Worship meanes to make a
+puppet of her
+
+   Pet. Oh monstrous arrogance:
+Thou lyest, thou thred, thou thimble,
+Thou yard three quarters, halfe yard, quarter, naile,
+Thou Flea, thou Nit, thou winter cricket thou:
+Brau'd in mine owne house with a skeine of thred:
+Away thou Ragge, thou quantitie, thou remnant,
+Or I shall so be-mete thee with thy yard,
+As thou shalt thinke on prating whil'st thou liu'st:
+I tell thee I, that thou hast marr'd her gowne
+
+   Tail. Your worship is deceiu'd, the gowne is made
+Iust as my master had direction:
+Grumio gaue order how it should be done
+
+   Gru. I gaue him no order, I gaue him the stuffe
+
+   Tail. But how did you desire it should be made?
+  Gru. Marrie sir with needle and thred
+
+   Tail. But did you not request to haue it cut?
+  Gru. Thou hast fac'd many things
+
+   Tail. I haue
+
+   Gru. Face not mee: thou hast brau'd manie men,
+braue not me; I will neither bee fac'd nor brau'd. I say
+vnto thee, I bid thy Master cut out the gowne, but I did
+not bid him cut it to peeces. Ergo thou liest
+
+   Tail. Why heere is the note of the fashion to testify
+
+   Pet. Reade it
+
+   Gru. The note lies in's throate if he say I said so
+
+   Tail. Inprimis, a loose bodied gowne
+
+   Gru. Master, if euer I said loose-bodied gowne, sow
+me in the skirts of it, and beate me to death with a bottome
+of browne thred: I said a gowne
+
+   Pet. Proceede
+
+   Tai. With a small compast cape
+
+   Gru. I confesse the cape
+
+   Tai. With a trunke sleeue
+
+   Gru. I confesse two sleeues
+
+   Tai. The sleeues curiously cut
+
+   Pet. I there's the villanie
+
+   Gru. Error i'th bill sir, error i'th bill? I commanded
+the sleeues should be cut out, and sow'd vp againe, and
+that Ile proue vpon thee, though thy little finger be armed
+in a thimble
+
+   Tail. This is true that I say, and I had thee in place
+where thou shouldst know it
+
+   Gru. I am for thee straight: take thou the bill, giue
+me thy meat-yard, and spare not me
+
+   Hor. God-a-mercie Grumio, then hee shall haue no
+oddes
+
+   Pet. Well sir in breefe the gowne is not for me
+
+   Gru. You are i'th right sir, 'tis for my mistris
+
+   Pet. Go take it vp vnto thy masters vse
+
+   Gru. Villaine, not for thy life: Take vp my Mistresse
+gowne for thy masters vse
+
+   Pet. Why sir, what's your conceit in that?
+  Gru. Oh sir, the conceit is deeper then you think for:
+Take vp my Mistris gowne to his masters vse.
+Oh fie, fie, fie
+
+   Pet. Hortensio, say thou wilt see the Tailor paide:
+Go take it hence, be gone, and say no more
+
+   Hor. Tailor, Ile pay thee for thy gowne to morrow,
+Take no vnkindnesse of his hastie words:
+Away I say, commend me to thy master.
+
+Exit Tail.
+
+  Pet. Well, come my Kate, we will vnto your fathers,
+Euen in these honest meane habiliments:
+Our purses shall be proud, our garments poore:
+For 'tis the minde that makes the bodie rich.
+And as the Sunne breakes through the darkest clouds,
+So honor peereth in the meanest habit.
+What is the Iay more precious then the Larke?
+Because his feathers are more beautifull.
+Or is the Adder better then the Eele,
+Because his painted skin contents the eye.
+Oh no good Kate: neither art thou the worse
+For this poore furniture, and meane array.
+If thou accountedst it shame, lay it on me,
+And therefore frolicke, we will hence forthwith,
+To feast and sport vs at thy fathers house,
+Go call my men, and let vs straight to him,
+And bring our horses vnto Long-lane end,
+There wil we mount, and thither walke on foote,
+Let's see, I thinke 'tis now some seuen a clocke,
+And well we may come there by dinner time
+
+   Kate. I dare assure you sir, 'tis almost two,
+And 'twill be supper time ere you come there
+
+   Pet. It shall be seuen ere I go to horse:
+Looke what I speake, or do, or thinke to doe,
+You are still crossing it, sirs let't alone,
+I will not goe to day, and ere I doe,
+It shall be what a clock I say it is
+
+   Hor. Why so this gallant will command the sunne.
+Enter Tranio, and the Pedant drest like Vincentio.
+
+  Tra. Sirs, this is the house, please it you that I call
+
+   Ped. I what else, and but I be deceiued,
+Signior Baptista may remember me
+Neere twentie yeares a goe in Genoa
+
+   Tra. Where we were lodgers, at the Pegasus,
+Tis well, and hold your owne in any case
+With such austeritie as longeth to a father.
+Enter Biondello.
+
+  Ped. I warrant you: but sir here comes your boy,
+'Twere good he were school'd
+
+   Tra. Feare you not him: sirra Biondello,
+Now doe your dutie throughlie I aduise you:
+Imagine 'twere the right Vincentio
+
+   Bion. Tut, feare not me
+
+   Tra. But hast thou done thy errand to Baptista
+
+   Bion. I told him that your father was at Venice,
+And that you look't for him this day in Padua,
+  Tra. Th'art a tall fellow, hold thee that to drinke,
+Here comes Baptista: set your countenance sir.
+Enter Baptista and Lucentio: Pedant booted and bare headed.
+
+  Tra. Signior Baptista you are happilie met:
+Sir, this is the gentleman I told you of,
+I pray you stand good father to me now,
+Giue me Bianca for my patrimony
+
+   Ped. Soft son: sir by your leaue, hauing com to Padua
+To gather in some debts, my son Lucentio
+Made me acquainted with a waighty cause
+Of loue betweene your daughter and himselfe:
+And for the good report I heare of you,
+And for the loue he beareth to your daughter,
+And she to him: to stay him not too long,
+I am content in a good fathers care
+To haue him matcht, and if you please to like
+No worse then I, vpon some agreement
+Me shall you finde readie and willing
+With one consent to haue her so bestowed:
+For curious I cannot be with you
+Signior Baptista, of whom I heare so well
+
+   Bap. Sir, pardon me in what I haue to say,
+Your plainnesse and your shortnesse please me well:
+Right true it is your sonne Lucentio here
+Doth loue my daughter, and she loueth him,
+Or both dissemble deepely their affections:
+And therefore if you say no more then this,
+That like a Father you will deale with him,
+And passe my daughter a sufficient dower,
+The match is made, and all is done,
+Your sonne shall haue my daughter with consent
+
+   Tra. I thanke you sir, where then doe you know best
+We be affied and such assurance tane,
+As shall with either parts agreement stand
+
+   Bap. Not in my house Lucentio, for you know
+Pitchers haue eares, and I haue manie seruants,
+Besides old Gremio is harkning still,
+And happilie we might be interrupted
+
+   Tra. Then at my lodging, and it like you,
+There doth my father lie: and there this night
+Weele passe the businesse priuately and well:
+Send for your daughter by your seruant here,
+My Boy shall fetch the Scriuener presentlie,
+The worst is this that at so slender warning,
+You are like to haue a thin and slender pittance
+
+   Bap. It likes me well:
+Cambio hie you home, and bid Bianca make her readie
+straight:
+And if you will tell what hath hapned,
+Lucentios Father is arriued in Padua,
+And how she's like to be Lucentios wife
+
+   Biond. I praie the gods she may withall my heart.
+Enter.
+
+  Tran. Dallie not with the gods, but get thee gone.
+Enter Peter.
+
+Signior Baptista, shall I leade the way,
+Welcome, one messe is like to be your cheere,
+Come sir, we will better it in Pisa
+
+   Bap. I follow you.
+
+Exeunt.
+
+Enter Lucentio and Biondello.
+
+  Bion. Cambio
+
+   Luc. What saist thou Biondello
+
+   Biond. You saw my Master winke and laugh vpon
+you?
+  Luc. Biondello, what of that?
+  Biond. Faith nothing: but has left mee here behinde
+to expound the meaning or morrall of his signes and tokens
+
+   Luc. I pray thee moralize them
+
+   Biond. Then thus: Baptista is safe talking with the
+deceiuing Father of a deceitfull sonne
+
+   Luc. And what of him?
+  Biond. His daughter is to be brought by you to the
+supper
+
+   Luc. And then
+
+   Bio. The old Priest at Saint Lukes Church is at your
+command at all houres
+
+   Luc. And what of all this
+
+   Bion. I cannot tell, expect they are busied about a
+counterfeit assurance: take you assurance of her, Cum
+preuilegio ad Impremendum solem, to th' Church take the
+Priest, Clarke, and some sufficient honest witnesses:
+If this be not that you looke for, I haue no more to say,
+But bid Bianca farewell for euer and a day
+
+   Luc. Hear'st thou Biondello
+
+   Biond. I cannot tarry: I knew a wench maried in an
+afternoone as shee went to the Garden for Parseley to
+stuffe a Rabit, and so may you sir: and so adew sir, my
+Master hath appointed me to goe to Saint Lukes to bid
+the Priest be readie to come against you come with your
+appendix.
+Enter.
+
+  Luc. I may and will, if she be so contented:
+She will be pleas'd, then wherefore should I doubt:
+Hap what hap may, Ile roundly goe about her:
+It shall goe hard if Cambio goe without her.
+Enter.
+
+Enter Petruchio, Kate, Hortentio
+
+  Petr. Come on a Gods name, once more toward our
+fathers:
+Good Lord how bright and goodly shines the Moone
+
+   Kate. The Moone, the Sunne: it is not Moonelight
+now
+
+   Pet. I say it is the Moone that shines so bright
+
+   Kate. I know it is the Sunne that shines so bright
+
+   Pet. Now by my mothers sonne, and that's my selfe,
+It shall be moone, or starre, or what I list,
+Or ere I iourney to your Fathers house:
+Goe on, and fetch our horses backe againe,
+Euermore crost and crost, nothing but crost
+
+   Hort. Say as he saies, or we shall neuer goe
+
+   Kate. Forward I pray, since we haue come so farre,
+And be it moone, or sunne, or what you please:
+And if you please to call it a rush Candle,
+Henceforth I vowe it shall be so for me
+
+   Petr. I say it is the Moone
+
+   Kate. I know it is the Moone
+
+   Petr. Nay then you lye: it is the blessed Sunne
+
+   Kate. Then God be blest, it is the blessed sun,
+But sunne it is not, when you say it is not,
+And the Moone changes euen as your minde:
+What you will haue it nam'd, euen that it is,
+And so it shall be so for Katherine
+
+   Hort. Petruchio, goe thy waies, the field is won
+
+   Petr. Well, forward, forward, thus the bowle should run,
+And not vnluckily against the Bias:
+But soft, Company is comming here.
+Enter Vincentio.
+
+Good morrow gentle Mistris, where away:
+Tell me sweete Kate, and tell me truely too,
+Hast thou beheld a fresher Gentlewoman:
+Such warre of white and red within her cheekes:
+What stars do spangle heauen with such beautie,
+As those two eyes become that heauenly face?
+Faire louely Maide, once more good day to thee:
+Sweete Kate embrace her for her beauties sake
+
+   Hort. A will make the man mad to make the woman
+of him
+
+   Kate. Yong budding Virgin, faire, and fresh, & sweet,
+Whether away, or whether is thy aboade?
+Happy the Parents of so faire a childe;
+Happier the man whom fauourable stars
+A lots thee for his louely bedfellow
+
+   Petr. Why how now Kate, I hope thou art not mad,
+This is a man old, wrinckled, faded, withered,
+And not a Maiden, as thou saist he is
+
+   Kate. Pardon old father my mistaking eies,
+That haue bin so bedazled with the sunne,
+That euery thing I looke on seemeth greene:
+Now I perceiue thou art a reuerent Father:
+Pardon I pray thee for my mad mistaking
+
+   Petr. Do good old grandsire, & withall make known
+Which way thou trauellest, if along with vs,
+We shall be ioyfull of thy companie
+
+   Vin. Faire Sir, and you my merry Mistris,
+That with your strange encounter much amasde me:
+My name is call'd Vincentio, my dwelling Pisa,
+And bound I am to Padua, there to visite
+A sonne of mine, which long I haue not seene
+
+   Petr. What is his name?
+  Vinc. Lucentio gentle sir
+
+   Petr. Happily met, the happier for thy sonne:
+And now by Law, as well as reuerent age,
+I may intitle thee my louing Father,
+The sister to my wife, this Gentlewoman,
+Thy Sonne by this hath married: wonder not,
+Nor be not grieued, she is of good esteeme,
+Her dowrie wealthie, and of worthie birth;
+Beside, so qualified, as may beseeme
+The Spouse of any noble Gentleman:
+Let me imbrace with old Vincentio,
+And wander we to see thy honest sonne,
+Who will of thy arriuall be full ioyous
+
+   Vinc. But is this true, or is it else your pleasure,
+Like pleasant trauailors to breake a Iest
+Vpon the companie you ouertake?
+  Hort. I doe assure thee father so it is
+
+   Petr. Come goe along and see the truth hereof,
+For our first merriment hath made thee iealous.
+
+Exeunt.
+
+  Hor. Well Petruchio, this has put me in heart;
+Haue to my Widdow, and if she froward,
+Then hast thou taught Hortentio to be vntoward.
+Enter.
+
+Enter Biondello, Lucentio and Bianca, Gremio is out before.
+
+  Biond. Softly and swiftly sir, for the Priest is ready
+
+   Luc. I flie Biondello; but they may chance to neede
+thee at home, therefore leaue vs.
+Enter.
+
+  Biond. Nay faith, Ile see the Church a your backe,
+and then come backe to my mistris as soone as I can
+
+   Gre. I maruaile Cambio comes not all this while.
+Enter Petruchio, Kate, Vincentio, Grumio with Attendants.
+
+  Petr. Sir heres the doore, this is Lucentios house,
+My Fathers beares more toward the Market-place,
+Thither must I, and here I leaue you sir
+
+   Vin. You shall not choose but drinke before you go,
+I thinke I shall command your welcome here;
+And by all likelihood some cheere is toward.
+
+Knock.
+
+  Grem. They're busie within, you were best knocke
+lowder.
+
+Pedant lookes out of the window.
+
+  Ped. What's he that knockes as he would beat downe
+the gate?
+  Vin. Is Signior Lucentio within sir?
+  Ped. He's within sir, but not to be spoken withall
+
+   Vinc. What if a man bring him a hundred pound or
+two to make merrie withall
+
+   Ped. Keepe your hundred pounds to your selfe, hee
+shall neede none so long as I liue
+
+   Petr. Nay, I told you your sonne was well beloued in
+Padua: doe you heare sir, to leaue friuolous circumstances,
+I pray you tell signior Lucentio that his Father is
+come from Pisa, and is here at the doore to speake with
+him
+
+   Ped. Thou liest his Father is come from Padua, and
+here looking out at the window
+
+   Vin. Art thou his father?
+  Ped. I sir, so his mother saies, if I may beleeue her
+
+   Petr. Why how now gentleman: why this is flat knauerie
+to take vpon you another mans name
+
+   Peda. Lay hands on the villaine, I beleeue a meanes
+to cosen some bodie in this Citie vnder my countenance.
+Enter Biondello.
+
+  Bio. I haue seene them in the Church together, God
+send 'em good shipping: but who is here? mine old Master
+Vincentio: now wee are vndone and brought to nothing
+
+   Vin. Come hither crackhempe
+
+   Bion. I hope I may choose Sir
+
+   Vin. Come hither you rogue, what haue you forgot
+mee?
+  Biond. Forgot you, no sir: I could not forget you, for
+I neuer saw you before in all my life
+
+   Vinc. What, you notorious villaine, didst thou neuer
+see thy Mistris father, Vincentio?
+  Bion. What my old worshipfull old master? yes
+marie sir see where he lookes out of the window
+
+   Vin. Ist so indeede.
+
+He beates Biondello.
+
+  Bion. Helpe, helpe, helpe, here's a mad man will murder
+me
+
+   Pedan. Helpe, sonne, helpe signior Baptista
+
+   Petr. Preethe Kate let's stand aside and see the end of
+this controuersie.
+Enter Pedant with seruants, Baptista, Tranio.
+
+  Tra. Sir, what are you that offer to beate my seruant?
+  Vinc. What am I sir: nay what are you sir: oh immortall
+Goddes: oh fine villaine, a silken doublet, a veluet
+hose, a scarlet cloake, and a copataine hat: oh I am
+vndone, I am vndone: while I plaie the good husband
+at home, my sonne and my seruant spend all at the vniuersitie
+
+   Tra. How now, what's the matter?
+  Bapt. What is the man lunaticke?
+  Tra. Sir, you seeme a sober ancient Gentleman by
+your habit: but your words shew you a mad man: why
+sir, what cernes it you, if I weare Pearle and gold: I thank
+my good Father, I am able to maintaine it
+
+   Vin. Thy father: oh villaine, he is a Saile-maker in
+Bergamo
+
+   Bap. You mistake sir, you mistake sir, praie what do
+you thinke is his name?
+  Vin. His name, as if I knew not his name: I haue
+brought him vp euer since he was three yeeres old, and
+his name is Tronio
+
+   Ped. Awaie, awaie mad asse, his name is Lucentio, and
+he is mine onelie sonne and heire to the Lands of me signior
+Vincentio
+
+   Ven. Lucentio: oh he hath murdred his Master; laie
+hold on him I charge you in the Dukes name: oh my
+sonne, my sonne: tell me thou villaine, where is my son
+Lucentio?
+  Tra. Call forth an officer: Carrie this mad knaue to
+the Iaile: father Baptista, I charge you see that hee be
+forth comming
+
+   Vinc. Carrie me to the Iaile?
+  Gre. Staie officer, he shall not go to prison
+
+   Bap. Talke not signior Gremio: I saie he shall goe to
+prison
+
+   Gre. Take heede signior Baptista, least you be conicatcht
+in this businesse: I dare sweare this is the right
+Vincentio
+
+   Ped. Sweare if thou dar'st
+
+   Gre. Naie, I dare not sweare it
+
+   Tran. Then thou wert best saie that I am not Lucentio
+
+   Gre. Yes, I know thee to be signior Lucentio
+
+   Bap. Awaie with the dotard, to the Iaile with him.
+Enter Biondello, Lucentio and Bianeu.
+
+  Vin. Thus strangers may be haild and abusd: oh monstrous
+villaine
+
+   Bion. Oh we are spoil'd, and yonder he is, denie him,
+forsweare him, or else we are all vndone.
+
+Exit Biondello, Tranio and Pedant as fast as may be.
+
+  Luc. Pardon sweete father.
+
+Kneele.
+
+  Vin. Liues my sweete sonne?
+  Bian. Pardon deere father
+
+   Bap. How hast thou offended, where is Lucentio?
+  Luc. Here's Lucentio, right sonne to the right Vincentio,
+That haue by marriage made thy daughter mine,
+While counterfeit supposes bleer'd thine eine
+
+   Gre. Here's packing with a witnesse to deceiue vs all
+
+   Vin. Where is that damned villaine Tranio,
+That fac'd and braued me in this matter so?
+  Bap. Why, tell me is not this my Cambio?
+  Bian. Cambio is chang'd into Lucentio
+
+   Luc. Loue wrought these miracles. Biancas loue
+Made me exchange my state with Tranio,
+While he did beare my countenance in the towne,
+And happilie I haue arriued at the last
+Vnto the wished hauen of my blisse:
+What Tranio did, my selfe enforst him to;
+Then pardon him sweete Father for my sake
+
+   Vin. Ile slit the villaines nose that would haue sent
+me to the Iaile
+
+   Bap. But doe you heare sir, haue you married my
+daughter without asking my good will?
+  Vin. Feare not Baptista, we will content you, goe to:
+but I will in to be reueng'd for this villanie.
+Enter.
+
+  Bap. And I to sound the depth of this knauerie.
+Enter.
+
+  Luc. Looke not pale Bianca, thy father will not frown.
+
+Exeunt.
+
+  Gre. My cake is dough, but Ile in among the rest,
+Out of hope of all, but my share of the feast
+
+   Kate. Husband let's follow, to see the end of this adoe
+
+   Petr. First kisse me Kate, and we will
+
+   Kate. What in the midst of the streete?
+  Petr. What art thou asham'd of me?
+  Kate. No sir, God forbid, but asham'd to kisse
+
+   Petr. Why then let's home againe: Come Sirra let's
+awaie
+
+   Kate. Nay, I will giue thee a kisse, now praie thee
+Loue staie
+
+   Petr. Is not this well? come my sweete Kate.
+Better once then neuer, for neuer to late.
+
+Exeunt.
+
+
+Actus Quintus.
+
+Enter Baptista, Vincentio, Gremio, the Pedant, Lucentio, and
+Bianca.
+Tranio, Biondello Grumio, and Widdow: The Seruingmen with
+Tranio bringing
+in a Banquet.
+
+  Luc. At last, though long, our iarring notes agree,
+And time it is when raging warre is come,
+To smile at scapes and perils ouerblowne:
+My faire Bianca bid my father welcome,
+While I with selfesame kindnesse welcome thine:
+Brother Petruchio, sister Katerina,
+And thou Hortentio with thy louing Widdow:
+Feast with the best, and welcome to my house,
+My Banket is to close our stomakes vp
+After our great good cheere: praie you sit downe,
+For now we sit to chat as well as eate
+
+   Petr. Nothing but sit and sit, and eate and eate
+
+   Bap. Padua affords this kindnesse, sonne Petruchio
+
+   Petr. Padua affords nothing but what is kinde
+
+   Hor. For both our sakes I would that word were true
+
+   Pet. Now for my life Hortentio feares his Widow
+
+   Wid. Then neuer trust me if I be affeard
+
+   Petr. You are verie sencible, and yet you misse my
+sence:
+I meane Hortentio is afeard of you
+
+   Wid. He that is giddie thinks the world turns round
+
+   Petr. Roundlie replied
+
+   Kat. Mistris, how meane you that?
+  Wid. Thus I conceiue by him
+
+   Petr. Conceiues by me, how likes Hortentio that?
+  Hor. My Widdow saies, thus she conceiues her tale
+
+   Petr. Verie well mended: kisse him for that good
+Widdow
+
+   Kat. He that is giddie thinkes the world turnes round,
+I praie you tell me what you meant by that
+
+   Wid. Your housband being troubled with a shrew,
+Measures my husbands sorrow by his woe:
+And now you know my meaning
+
+   Kate. A verie meane meaning
+
+   Wid. Right, I meane you
+
+   Kat. And I am meane indeede, respecting you
+
+   Petr. To her Kate
+
+   Hor. To her Widdow
+
+   Petr. A hundred marks, my Kate does put her down
+
+   Hor. That's my office
+  Petr. Spoke like an Officer: ha to the lad.
+
+Drinkes to Hortentio.
+
+  Bap. How likes Gremio these quicke witted folkes?
+  Gre. Beleeue me sir, they But together well
+
+   Bian. Head, and but an hastie witted bodie,
+Would say your Head and But were head and horne
+
+   Vin. I Mistris Bride, hath that awakened you?
+  Bian. I, but not frighted me, therefore Ile sleepe againe
+
+   Petr. Nay that you shall not since you haue begun:
+Haue at you for a better iest or too
+
+   Bian. Am I your Bird, I meane to shift my bush,
+And then pursue me as you draw your Bow.
+You are welcome all.
+
+Exit Bianca.
+
+  Petr. She hath preuented me, here signior Tranio,
+This bird you aim'd at, though you hit her not,
+Therefore a health to all that shot and mist
+
+   Tri. Oh sir, Lucentio slipt me like his Gray-hound,
+Which runs himselfe, and catches for his Master
+
+   Petr. A good swift simile, but something currish
+
+   Tra. 'Tis well sir that you hunted for your selfe:
+'Tis thought your Deere does hold you at a baie
+
+   Bap. Oh, oh Petruchio, Tranio hits you now
+
+   Luc. I thanke thee for that gird good Tranio
+
+   Hor. Confesse, confesse, hath he not hit you here?
+  Petr. A has a little gald me I confesse:
+And as the Iest did glaunce awaie from me,
+'Tis ten to one it maim'd you too out right
+
+   Bap. Now in good sadnesse sonne Petruchio,
+I thinke thou hast the veriest shrew of all
+
+   Petr. Well, I say no: and therefore sir assurance,
+Let's each one send vnto his wife,
+And he whose wife is most obedient,
+To come at first when he doth send for her,
+Shall win the wager which we will propose
+
+   Hort. Content, what's the wager?
+  Luc. Twentie crownes
+
+   Petr. Twentie crownes,
+Ile venture so much of my Hawke or Hound,
+But twentie times so much vpon my Wife
+
+   Luc. A hundred then
+
+   Hor. Content
+
+   Petr. A match, 'tis done
+
+   Hor. Who shall begin?
+  Luc. That will I.
+Goe Biondello, bid your Mistris come to me
+
+   Bio. I goe.
+Enter.
+
+  Bap. Sonne, Ile be your halfe, Bianca comes
+
+   Luc. Ile haue no halues: Ile beare it all my selfe.
+Enter Biondello.
+
+How now, what newes?
+  Bio. Sir, my Mistris sends you word
+That she is busie, and she cannot come
+
+   Petr. How? she's busie, and she cannot come: is that
+an answere?
+  Gre. I, and a kinde one too:
+Praie God sir your wife send you not a worse
+
+   Petr. I hope better
+
+   Hor. Sirra Biondello, goe and intreate my wife to
+come to me forthwith.
+
+Exit. Bion.
+
+  Pet. Oh ho, intreate her, nay then shee must needes
+come
+
+   Hor. I am affraid sir, doe what you can
+Enter Biondello.
+
+Yours will not be entreated: Now, where's my wife?
+  Bion. She saies you haue some goodly Iest in hand,
+She will not come: she bids you come to her
+
+   Petr. Worse and worse, she will not come:
+Oh vilde, intollerable, not to be indur'd:
+Sirra Grumio, goe to your Mistris,
+Say I command her come to me.
+Enter.
+
+  Hor. I know her answere
+
+   Pet. What?
+  Hor. She will not
+
+   Petr. The fouler fortune mine, and there an end.
+Enter Katerina.
+
+  Bap. Now by my hollidam here comes Katerina
+
+   Kat. What is your will sir, that you send for me?
+  Petr. Where is your sister, and Hortensios wife?
+  Kate. They sit conferring by the Parler fire
+
+   Petr. Goe fetch them hither, if they denie to come,
+Swinge me them soundly forth vnto their husbands:
+Away I say, and bring them hither straight
+
+   Luc. Here is a wonder, if you talke of a wonder
+
+   Hor. And so it is: I wonder what it boads
+
+   Petr. Marrie peace it boads, and loue, and quiet life,
+An awfull rule, and right supremicie:
+And to be short, what not, that's sweete and happie
+
+   Bap. Now faire befall thee good Petruchio;
+The wager thou hast won, and I will adde
+Vnto their losses twentie thousand crownes,
+Another dowrie to another daughter,
+For she is chang'd as she had neuer bin
+
+   Petr. Nay, I will win my wager better yet,
+And show more signe of her obedience,
+Her new built vertue and obedience.
+Enter Kate, Bianca, and Widdow.
+
+See where she comes, and brings your froward Wiues
+As prisoners to her womanlie perswasion:
+Katerine, that Cap of yours becomes you not,
+Off with that bable, throw it vnderfoote
+
+   Wid. Lord let me neuer haue a cause to sigh,
+Till I be brought to such a sillie passe
+
+   Bian. Fie what a foolish dutie call you this?
+  Luc. I would your dutie were as foolish too:
+The wisdome of your dutie faire Bianca,
+Hath cost me fiue hundred crownes since supper time
+
+   Bian. The more foole you for laying on my dutie
+
+   Pet. Katherine I charge thee tell these head-strong
+women, what dutie they doe owe their Lords and husbands
+
+   Wid. Come, come, your mocking: we will haue no
+telling
+
+   Pet. Come on I say, and first begin with her
+
+   Wid. She shall not
+
+   Pet. I say she shall, and first begin with her
+
+   Kate. Fie, fie, vnknit that threatning vnkinde brow,
+And dart not scornefull glances from those eies,
+To wound thy Lord, thy King, thy Gouernour.
+It blots thy beautie, as frosts doe bite the Meads,
+Confounds thy fame, as whirlewinds shake faire budds,
+And in no sence is meete or amiable.
+A woman mou'd, is like a fountaine troubled,
+Muddie, ill seeming, thicke, bereft of beautie,
+And while it is so, none so dry or thirstie
+Will daigne to sip, or touch one drop of it.
+Thy husband is thy Lord, thy life, thy keeper,
+Thy head, thy soueraigne: One that cares for thee,
+And for thy maintenance. Commits his body
+To painfull labour, both by sea and land:
+To watch the night in stormes, the day in cold,
+Whil'st thou ly'st warme at home, secure and safe,
+And craues no other tribute at thy hands,
+But loue, faire lookes, and true obedience;
+Too little payment for so great a debt.
+Such dutie as the subiect owes the Prince,
+Euen such a woman oweth to her husband:
+And when she is froward, peeuish, sullen, sowre,
+And not obedient to his honest will,
+What is she but a foule contending Rebell,
+And gracelesse Traitor to her louing Lord?
+I am asham'd that women are so simple,
+To offer warre, where they should kneele for peace:
+Or seeke for rule, supremacie, and sway,
+When they are bound to serue, loue, and obay.
+Why are our bodies soft, and weake, and smooth,
+Vnapt to toyle and trouble in the world,
+But that our soft conditions, and our harts,
+Should well agree with our externall parts?
+Come, come, you froward and vnable wormes,
+My minde hath bin as bigge as one of yours,
+My heart as great, my reason haplie more,
+To bandie word for word, and frowne for frowne;
+But now I see our Launces are but strawes:
+Our strength as weake, our weakenesse past compare,
+That seeming to be most, which we indeed least are.
+Then vale your stomackes, for it is no boote,
+And place your hands below your husbands foote:
+In token of which dutie, if he please,
+My hand is readie, may it do him ease
+
+   Pet. Why there's a wench: Come on, and kisse mee
+Kate
+
+   Luc. Well go thy waies olde Lad for thou shalt ha't
+
+   Vin. Tis a good hearing, when children are toward
+
+   Luc. But a harsh hearing, when women are froward,
+  Pet. Come Kate, wee'le to bed,
+We three are married, but you two are sped.
+'Twas I wonne the wager, though you hit the white,
+And being a winner, God giue you good night.
+
+Exit Petruchio
+
+  Horten. Now goe thy wayes, thou hast tam'd a curst
+Shrow
+
+   Luc. Tis a wonder, by your leaue, she wil be tam'd so.
+
+FINIS. THE Taming of the Shrew.
+

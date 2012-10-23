@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>Indexer.Local</name></assembly>
+<members>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:Indexer.Local.DocumentList.DocumentIndexMapper">
+<summary>
+ Maps a file path to a docid x book title tuple.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:Indexer.Local.DocumentList">
+
+</member>
+<member name="M:Indexer.Local.FauxMapReduceFramework.runMapReduceJobToDisk``3(Indexer.Mappers.Mapper{``0,``1},Indexer.Reducers.Reducer{``0,``1,``2},System.Collections.Generic.IEnumerable{System.String})">
+<summary>
+ Runs a map reduce job in memory, saving intermediate results to disk. This can handle a bit
+ larger datasets before thrashing.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:Indexer.Local.FauxMapReduceFramework.serializeObject``1(``0,System.String)">
+<summary>
+ Runs a map reduce job on the local machine in sequence.
+</summary>
+</member>
+<member name="M:Indexer.Local.FauxMapReduceFramework.runMapReduceJob``3(Indexer.Mappers.Mapper{``0,``1},Indexer.Reducers.Reducer{``0,``1,``2},System.Collections.Generic.IEnumerable{System.String})">
+<summary>
+ Runs a map reduce job on the local machine in sequence and in memory.
+</summary>
+</member>
+<member name="T:Indexer.Local.FauxMapReduceFramework">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:Program.buildDocumentList(System.String,System.String)">
+<summary>
+ Builds a list of all known documents.
+</summary>
+</member>
+<member name="M:Program.buildTokenPostingLists(System.String,System.String)">
+<summary>
+ Builds the token posting lists for each token in the corpus.
+</summary>
+</member>
+<member name="M:Program.buildLexicon(System.String,System.String)">
+<summary>
+ Builds the lexicon for the entire corpus of documents.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:Program">
+
+</member>
+</members>
+</doc>

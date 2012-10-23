@@ -1,0 +1,5256 @@
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+************The Tragedie of Anthonie, and Cleopatra*************
+
+This is our 3rd edition of most of these plays.  See the index.
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+The Tragedie of Anthonie, and Cleopatra
+
+by William Shakespeare
+
+July, 2000  [Etext #2268]
+
+
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+************The Tragedie of Anthonie, and Cleopatra*************
+
+*****This file should be named 0ws3510.txt or 0ws3510.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 0ws3511.txt
+VERSIONS based on separate sources get new LETTER, 0ws3510a.txt
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Project Gutenberg's Etext of Shakespeare's The Tragedie of Anthonie, and Cleopatra
+
+
+
+
+
+
+Executive Director's Notes:
+
+In addition to the notes below, and so you will *NOT* think all
+the spelling errors introduced by the printers of the time have
+been corrected, here are the first few lines of Hamlet, as they
+are presented herein:
+
+  Barnardo. Who's there?
+  Fran. Nay answer me: Stand & vnfold
+your selfe
+
+   Bar. Long liue the King
+
+***
+
+As I understand it, the printers often ran out of certain words
+or letters they had often packed into a "cliche". . .this is the
+original meaning of the term cliche. . .and thus, being unwilling
+to unpack the cliches, and thus you will see some substitutions
+that look very odd. . .such as the exchanges of u for v, v for u,
+above. . .and you may wonder why they did it this way, presuming
+Shakespeare did not actually write the play in this manner. . . .
+
+The answer is that they MAY have packed "liue" into a cliche at a
+time when they were out of "v"'s. . .possibly having used "vv" in
+place of some "w"'s, etc.  This was a common practice of the day,
+as print was still quite expensive, and they didn't want to spend
+more on a wider selection of characters than they had to.
+
+You will find a lot of these kinds of "errors" in this text, as I
+have mentioned in other times and places, many "scholars" have an
+extreme attachment to these errors, and many have accorded them a
+very high place in the "canon" of Shakespeare.  My father read an
+assortment of these made available to him by Cambridge University
+in England for several months in a glass room constructed for the
+purpose.  To the best of my knowledge he read ALL those available
+. . .in great detail. . .and determined from the various changes,
+that Shakespeare most likely did not write in nearly as many of a
+variety of errors we credit him for, even though he was in/famous
+for signing his name with several different spellings.
+
+So, please take this into account when reading the comments below
+made by our volunteer who prepared this file:  you may see errors
+that are "not" errors. . . .
+
+So. . .with this caveat. . .we have NOT changed the canon errors,
+here is the Project Gutenberg Etext of Shakespeare's The Tragedie of Anthonie, and Cleopatra.
+
+Michael S. Hart
+Project Gutenberg
+Executive Director
+
+
+***
+
+
+Scanner's Notes: What this is and isn't.  This was taken from 
+a copy of Shakespeare's first folio and it is as close as I can
+come in ASCII to the printed text.
+
+The elongated S's have been changed to small s's and the
+conjoined ae have been changed to ae.  I have left the spelling,
+punctuation, capitalization as close as possible to the
+printed text.  I have corrected some spelling mistakes (I have put
+together a spelling dictionary devised from the spellings of the
+Geneva Bible and Shakespeare's First Folio and have unified
+spellings according to this template), typo's and expanded
+abbreviations as I have come across them.  Everything within
+brackets [] is what I have added.  So if you don't like that
+you can delete everything within the brackets if you want a
+purer Shakespeare.
+
+Another thing that you should be aware of is that there are textual
+differences between various copies of the first folio.  So there may
+be differences (other than what I have mentioned above) between
+this and other first folio editions.  This is due to the printer's
+habit of setting the type and running off a number of copies and
+then proofing the printed copy and correcting the type and then
+continuing the printing run.  The proof run wasn't thrown away but
+incorporated into the printed copies.  This is just the way it is.
+The text I have used was a composite of more than 30 different
+First Folio editions' best pages.
+
+If you find any scanning errors, out and out typos, punctuation
+errors, or if you disagree with my spelling choices please feel
+free to email me those errors.  I wish to make this the best
+etext possible.  My email address for right now are haradda@aol.com
+and davidr@inconnect.com.  I hope that you enjoy this.
+
+David Reed
+
+The Tragedie of Anthonie, and Cleopatra
+
+Actus Primus. Scoena Prima.
+
+Enter Demetrius and Philo.
+
+  Philo. Nay, but this dotage of our Generals
+Ore-flowes the measure: those his goodly eyes
+That o're the Files and Musters of the Warre,
+Haue glow'd like plated Mars:
+Now bend, now turne
+The Office and Deuotion of their view
+Vpon a Tawny Front. His Captaines heart,
+Which in the scuffles of great Fights hath burst
+The Buckles on his brest, reneages all temper,
+And is become the Bellowes and the Fan
+To coole a Gypsies Lust.
+
+Flourish. Enter Anthony, Cleopatra, her Ladies, the Traine, with
+Eunuchs
+fanning her.
+
+Looke where they come:
+Take but good note, and you shall see in him
+(The triple Pillar of the world) transform'd
+Into a Strumpets Foole. Behold and see
+
+   Cleo. If it be Loue indeed, tell me how much
+
+   Ant. There's beggery in the loue that can be reckon'd
+  Cleo. Ile set a bourne how farre to be belou'd
+
+   Ant. Then must thou needes finde out new Heauen,
+new Earth.
+Enter a Messenger.
+
+  Mes. Newes (my good Lord) from Rome
+
+   Ant. Grates me, the summe
+
+   Cleo. Nay heare them Anthony.
+Fuluia perchance is angry: Or who knowes,
+If the scarse-bearded Caesar haue not sent
+His powrefull Mandate to you. Do this, or this;
+Take in that Kingdome, and Infranchise that:
+Perform't, or else we damne thee
+
+   Ant. How, my Loue?
+  Cleo. Perchance? Nay, and most like:
+You must not stay heere longer, your dismission
+Is come from Caesar, therefore heare it Anthony,
+Where's Fuluias Processe? (Caesars I would say) both?
+Call in the Messengers: As I am Egypts Queene,
+Thou blushest Anthony, and that blood of thine
+Is Caesars homager: else so thy cheeke payes shame,
+When shrill-tongu'd Fuluia scolds. The Messengers
+
+   Ant. Let Rome in Tyber melt, and the wide Arch
+Of the raing'd Empire fall: Heere is my space,
+Kingdomes are clay: Our dungie earth alike
+Feeds Beast as Man; the Noblenesse of life
+Is to do thus: when such a mutuall paire,
+And such a twaine can doo't, in which I binde
+One paine of punishment, the world to weete
+We stand vp Peerelesse
+
+   Cleo. Excellent falshood:
+Why did he marry Fuluia, and not loue her?
+Ile seeme the Foole I am not. Anthony will be himselfe
+
+   Ant. But stirr'd by Cleopatra.
+Now for the loue of Loue, and her soft houres,
+Let's not confound the time with Conference harsh;
+There's not a minute of our liues should stretch
+Without some pleasure now. What sport to night?
+  Cleo. Heare the Ambassadors
+
+   Ant. Fye wrangling Queene:
+Whom euery thing becomes, to chide, to laugh,
+To weepe: who euery passion fully striues
+To make it selfe (in Thee) faire, and admir'd.
+No Messenger but thine, and all alone, to night
+Wee'l wander through the streets, and note
+The qualities of people. Come my Queene,
+Last night you did desire it. Speake not to vs.
+
+Exeunt. with the Traine.
+
+  Dem. Is Caesar with Anthonius priz'd so slight?
+  Philo. Sir, sometimes when he is not Anthony,
+He comes too short of that great Property
+Which still should go with Anthony
+
+   Dem. I am full sorry, that hee approues the common
+Lyar, who thus speakes of him at Rome; but I will hope
+of better deeds to morrow. Rest you happy.
+
+Exeunt.
+
+Enter Enobarbus, Lamprius, a Southsayer, Rannius, Lucillius,
+Charmian,
+Iras, Mardian the Eunuch, and Alexas.
+
+  Char. L[ord]. Alexas, sweet Alexas, most any thing Alexas,
+almost most absolute Alexas, where's the Soothsayer
+that you prais'd so to'th' Queene? Oh that I knewe this
+Husband, which you say, must change his Hornes with
+Garlands
+
+   Alex. Soothsayer
+
+   Sooth. Your will?
+  Char. Is this the Man? Is't you sir that know things?
+  Sooth. In Natures infinite booke of Secrecie, a little I
+can read
+
+   Alex. Shew him your hand
+
+   Enob. Bring in the Banket quickly: Wine enough,
+Cleopatra's health to drinke
+
+   Char. Good sir, giue me good Fortune
+
+   Sooth. I make not, but foresee
+
+   Char. Pray then, foresee me one
+
+   Sooth. You shall be yet farre fairer then you are
+
+   Char. He meanes in flesh
+
+   Iras. No, you shall paint when you are old
+
+   Char. Wrinkles forbid
+
+   Alex. Vex not his prescience, be attentiue
+
+   Char. Hush
+
+   Sooth. You shall be more belouing, then beloued
+
+   Char. I had rather heate my Liuer with drinking
+
+   Alex. Nay, heare him
+
+   Char. Good now some excellent Fortune: Let mee
+be married to three Kings in a forenoone, and Widdow
+them all: Let me haue a Childe at fifty, to whom Herode
+of Iewry may do Homage. Finde me to marrie me with
+Octauius Caesar, and companion me with my Mistris
+
+   Sooth. You shall out-liue the Lady whom you serue
+
+   Char. Oh excellent, I loue long life better then Figs
+
+   Sooth. You haue seene and proued a fairer former fortune,
+then that which is to approach
+
+   Char. Then belike my Children shall haue no names:
+Prythee how many Boyes and Wenches must I haue
+
+   Sooth. If euery of your wishes had a wombe, & foretell
+euery wish, a Million
+
+   Char. Out Foole, I forgiue thee for a Witch
+
+   Alex. You thinke none but your sheets are priuie to
+your wishes
+
+   Char. Nay come, tell Iras hers
+
+   Alex. Wee'l know all our Fortunes
+
+   Enob. Mine, and most of our Fortunes to night, shall
+be drunke to bed
+
+   Iras. There's a Palme presages Chastity, if nothing els
+
+   Char. E'ne as the o're-flowing Nylus presageth Famine
+
+   Iras. Go you wilde Bedfellow, you cannot Soothsay
+
+   Char. Nay, if an oyly Palme bee not a fruitfull Prognostication,
+I cannot scratch mine eare. Prythee tel her
+but a worky day Fortune
+
+   Sooth. Your Fortunes are alike
+
+   Iras. But how, but how, giue me particulars
+
+   Sooth. I haue said
+
+   Iras. Am I not an inch of Fortune better then she?
+  Char. Well, if you were but an inch of fortune better
+then I: where would you choose it
+
+   Iras. Not in my Husbands nose
+
+   Char. Our worser thoughts Heauens mend
+
+   Alexas. Come, his Fortune, his Fortune. Oh let him
+mary a woman that cannot go, sweet Isis, I beseech thee,
+and let her dye too, and giue him a worse, and let worse
+follow worse, till the worst of all follow him laughing to
+his graue, fifty-fold a Cuckold. Good Isis heare me this
+Prayer, though thou denie me a matter of more waight:
+good Isis I beseech thee
+
+   Iras. Amen, deere Goddesse, heare that prayer of the
+people. For, as it is a heart-breaking to see a handsome
+man loose-Wiu'd, so it is a deadly sorrow, to beholde a
+foule Knaue vncuckolded: Therefore deere Isis keep decorum,
+and Fortune him accordingly
+
+   Char. Amen
+
+   Alex. Lo now, if it lay in their hands to make mee a
+Cuckold, they would make themselues Whores, but
+they'ld doo't.
+Enter Cleopatra.
+
+  Enob. Hush, heere comes Anthony
+
+   Char. Not he, the Queene
+
+   Cleo. Saue you, my Lord
+
+   Enob. No Lady
+
+   Cleo. Was he not heere?
+  Char. No Madam
+
+   Cleo. He was dispos'd to mirth, but on the sodaine
+A Romane thought hath strooke him.
+Enobarbus?
+  Enob. Madam
+
+   Cleo. Seeke him, and bring him hither: wher's Alexias?
+  Alex. Heere at your seruice.
+My Lord approaches.
+Enter Anthony, with a Messenger.
+
+  Cleo. We will not looke vpon him:
+Go with vs.
+
+Exeunt.
+
+  Messen. Fuluia thy Wife,
+First came into the Field
+
+   Ant. Against my Brother Lucius?
+  Messen. I: but soone that Warre had end,
+And the times state
+Made friends of them, ioynting their force 'gainst Caesar,
+Whose better issue in the warre from Italy,
+Vpon the first encounter draue them
+
+   Ant. Well, what worst
+
+   Mess. The Nature of bad newes infects the Teller
+
+   Ant. When it concernes the Foole or Coward: On.
+Things that are past, are done, with me. 'Tis thus,
+Who tels me true, though in his Tale lye death,
+I heare him as he flatter'd
+
+   Mes. Labienus (this is stiffe-newes)
+Hath with his Parthian Force
+Extended Asia: from Euphrates his conquering
+Banner shooke, from Syria to Lydia,
+And to Ionia, whil'st-
+  Ant. Anthony thou would'st say
+
+   Mes. Oh my Lord
+
+   Ant. Speake to me home,
+Mince not the generall tongue, name
+Cleopatra as she is call'd in Rome:
+Raile thou in Fuluia's phrase, and taunt my faults
+With such full License, as both Truth and Malice
+Haue power to vtter. Oh then we bring forth weeds,
+When our quicke windes lye still, and our illes told vs
+Is as our earing: fare thee well awhile
+
+   Mes. At your Noble pleasure.
+
+Exit Messenger
+
+Enter another Messenger.
+
+  Ant. From Scicion how the newes? Speake there
+
+   1.Mes. The man from Scicion,
+Is there such an one?
+  2.Mes. He stayes vpon your will
+
+   Ant. Let him appeare:
+These strong Egyptian Fetters I must breake,
+Or loose my selfe in dotage.
+Enter another Messenger with a Letter.
+
+What are you?
+  3.Mes. Fuluia thy wife is dead
+
+   Ant. Where dyed she
+
+   Mes. In Scicion, her length of sicknesse,
+With what else more serious,
+Importeth thee to know, this beares
+
+   Antho. Forbeare me
+There's a great Spirit gone, thus did I desire it:
+What our contempts doth often hurle from vs,
+We wish it ours againe. The present pleasure,
+By reuolution lowring, does become
+The opposite of it selfe: she's good being gon,
+The hand could plucke her backe, that shou'd her on.
+I must from this enchanting Queene breake off,
+Ten thousand harmes, more then the illes I know
+My idlenesse doth hatch.
+Enter Enobarbus.
+
+How now Enobarbus
+
+   Eno. What's your pleasure, Sir?
+  Anth. I must with haste from hence
+
+   Eno. Why then we kill all our Women. We see how
+mortall an vnkindnesse is to them, if they suffer our departure
+death's the word
+
+   Ant. I must be gone
+
+   Eno. Vnder a compelling an occasion, let women die.
+It were pitty to cast them away for nothing, though betweene
+them and a great cause, they should be esteemed
+nothing. Cleopatra catching but the least noyse of this,
+dies instantly: I haue seene her dye twenty times vppon
+farre poorer moment: I do think there is mettle in death,
+which commits some louing acte vpon her, she hath such
+a celerity in dying
+
+   Ant. She is cunning past mans thought
+
+   Eno. Alacke Sir no, her passions are made of nothing
+but the finest part of pure Loue. We cannot cal her winds
+and waters, sighes and teares: They are greater stormes
+and Tempests then Almanackes can report. This cannot
+be cunning in her; if it be, she makes a showre of Raine
+as well as Ioue
+
+   Ant. Would I had neuer seene her
+
+   Eno. Oh sir, you had then left vnseene a wonderfull
+peece of worke, which not to haue beene blest withall,
+would haue discredited your Trauaile
+
+   Ant. Fuluia is dead
+
+   Eno. Sir
+
+   Ant. Fuluia is dead
+
+   Eno. Fuluia?
+  Ant. Dead
+
+   Eno. Why sir, giue the Gods a thankefull Sacrifice:
+when it pleaseth their Deities to take the wife of a man
+from him, it shewes to man the Tailors of the earth: comforting
+therein, that when olde Robes are worne out,
+there are members to make new. If there were no more
+Women but Fuluia, then had you indeede a cut, and the
+case to be lamented: This greefe is crown'd with Consolation,
+your old Smocke brings foorth a new Petticoate,
+and indeed the teares liue in an Onion, that should water
+this sorrow
+
+   Ant. The businesse she hath broached in the State,
+Cannot endure my absence
+
+   Eno. And the businesse you haue broach'd heere cannot
+be without you, especially that of Cleopatra's, which
+wholly depends on your abode
+
+   Ant. No more light Answeres:
+Let our Officers
+Haue notice what we purpose. I shall breake
+The cause of our Expedience to the Queene,
+And get her loue to part. For not alone
+The death of Fuluia, with more vrgent touches
+Do strongly speake to vs: but the Letters too
+Of many our contriuing Friends in Rome,
+Petition vs at home. Sextus Pompeius
+Haue giuen the dare to Caesar, and commands
+The Empire of the Sea. Our slippery people,
+Whose Loue is neuer link'd to the deseruer,
+Till his deserts are past, begin to throw
+Pompey the great, and all his Dignities
+Vpon his Sonne, who high in Name and Power,
+Higher then both in Blood and Life, stands vp
+For the maine Souldier. Whose quality going on,
+The sides o'th' world may danger. Much is breeding,
+
+Which like the Coursers heire, hath yet but life,
+And not a Serpents poyson. Say our pleasure,
+To such whose places vnder vs, require
+Our quicke remoue from hence
+
+   Enob. I shall doo't.
+Enter Cleopatra, Charmian, Alexas, and Iras.
+
+  Cleo. Where is he?
+  Char. I did not see him since
+
+   Cleo. See where he is,
+Whose with him, what he does:
+I did not send you. If you finde him sad,
+Say I am dauncing: if in Myrth, report
+That I am sodaine sicke. Quicke, and returne
+
+   Char. Madam, me thinkes if you did loue him deerly,
+You do not hold the method, to enforce
+The like from him
+
+   Cleo. What should I do, I do not?
+  Ch. In each thing giue him way, crosse him in nothing
+
+   Cleo. Thou teachest like a foole: the way to lose him
+
+   Char. Tempt him not so too farre. I wish forbeare,
+In time we hate that which we often feare.
+Enter Anthony.
+
+But heere comes Anthony
+
+   Cleo. I am sicke, and sullen
+
+   An. I am sorry to giue breathing to my purpose
+
+   Cleo. Helpe me away deere Charmian, I shall fall,
+It cannot be thus long, the sides of Nature
+Will not sustaine it
+
+   Ant. Now my deerest Queene
+
+   Cleo. Pray you stand farther from mee
+
+   Ant. What's the matter?
+  Cleo. I know by that same eye ther's some good news.
+What sayes the married woman you may goe?
+Would she had neuer giuen you leaue to come.
+Let her not say 'tis I that keepe you heere,
+I haue no power vpon you: Hers you are
+
+   Ant. The Gods best know
+
+   Cleo. Oh neuer was there Queene
+So mightily betrayed: yet at the first
+I saw the Treasons planted
+
+   Ant. Cleopatra
+
+   Cleo. Why should I thinke you can be mine, & true,
+(Though you in swearing shake the Throaned Gods)
+Who haue beene false to Fuluia?
+Riotous madnesse,
+To be entangled with those mouth-made vowes,
+Which breake themselues in swearing
+
+   Ant. Most sweet Queene
+
+   Cleo. Nay pray you seeke no colour for your going,
+But bid farewell, and goe:
+When you sued staying,
+Then was the time for words: No going then,
+Eternity was in our Lippes, and Eyes,
+Blisse in our browes bent: none our parts so poore,
+But was a race of Heauen. They are so still,
+Or thou the greatest Souldier of the world,
+Art turn'd the greatest Lyar
+
+   Ant. How now Lady?
+  Cleo. I would I had thy inches, thou should'st know
+There were a heart in Egypt
+
+   Ant. Heare me Queene:
+The strong necessity of Time, commands
+Our Seruices a-while: but my full heart
+Remaines in vse with you. Our Italy,
+Shines o're with ciuill Swords; Sextus Pompeius
+Makes his approaches to the Port of Rome,
+Equality of two Domesticke powers,
+Breed scrupulous faction: The hated growne to strength
+Are newly growne to Loue: The condemn'd Pompey,
+Rich in his Fathers Honor, creepes apace
+Into the hearts of such, as haue not thriued
+Vpon the present state, whose Numbers threaten,
+And quietnesse growne sicke of rest, would purge
+By any desperate change: My more particular,
+And that which most with you should safe my going,
+Is Fuluias death
+
+   Cleo. Though age from folly could not giue me freedom
+It does from childishnesse. Can Fuluia dye?
+  Ant. She's dead my Queene.
+Looke heere, and at thy Soueraigne leysure read
+The Garboyles she awak'd: at the last, best,
+See when, and where shee died
+
+   Cleo. O most false Loue!
+Where be the Sacred Violles thou should'st fill
+With sorrowfull water? Now I see, I see,
+In Fuluias death, how mine receiu'd shall be
+
+   Ant. Quarrell no more, but bee prepar'd to know
+The purposes I beare: which are, or cease,
+As you shall giue th' aduice. By the fire
+That quickens Nylus slime, I go from hence
+Thy Souldier, Seruant, making Peace or Warre,
+As thou affects
+
+   Cleo. Cut my Lace, Charmian come,
+But let it be, I am quickly ill, and well,
+So Anthony loues
+
+   Ant. My precious Queene forbeare,
+And giue true euidence to his Loue, which stands
+An honourable Triall
+
+   Cleo. So Fuluia told me.
+I prythee turne aside, and weepe for her,
+Then bid adiew to me, and say the teares
+Belong to Egypt. Good now, play one Scene
+Of excellent dissembling, and let it looke
+Like perfect Honor
+
+   Ant. You'l heat my blood no more?
+  Cleo. You can do better yet: but this is meetly
+
+   Ant. Now by Sword
+
+   Cleo. And Target. Still he mends.
+But this is not the best. Looke prythee Charmian,
+How this Herculean Roman do's become
+The carriage of his chafe
+
+   Ant. Ile leaue you Lady
+
+   Cleo. Courteous Lord, one word:
+Sir, you and I must part, but that's not it:
+Sir, you and I haue lou'd, but there's not it:
+That you know well, something it is I would:
+Oh, my Obliuion is a very Anthony,
+And I am all forgotten
+
+   Ant. But that your Royalty
+Holds Idlenesse your subiect, I should take you
+For Idlenesse it selfe
+
+   Cleo. 'Tis sweating Labour,
+To beare such Idlenesse so neere the heart
+As Cleopatra this. But Sir, forgiue me,
+Since my becommings kill me, when they do not
+Eye well to you. Your Honor calles you hence,
+Therefore be deafe to my vnpittied Folly,
+And all the Gods go with you. Vpon your Sword
+Sit Lawrell victory, and smooth successe
+Be strew'd before your feete
+
+   Ant. Let vs go.
+Come: Our separation so abides and flies,
+That thou reciding heere, goes yet with mee;
+And I hence fleeting, heere remaine with thee.
+Away.
+
+Exeunt.
+
+Enter Octauius reading a Letter, Lepidus, and their Traine.
+
+  Caes You may see Lepidus, and henceforth know,
+It is not Caesars Naturall vice, to hate
+One great Competitor. From Alexandria
+This is the newes: He fishes, drinkes, and wastes
+The Lampes of night in reuell: Is not more manlike
+Then Cleopatra: nor the Queene of Ptolomy
+More Womanly then he. Hardly gaue audience
+Or vouchsafe to thinke he had Partners. You
+Shall finde there a man, who is th' abstracts of all faults,
+That all men follow
+
+   Lep. I must not thinke
+There are, euils enow to darken all his goodnesse:
+His faults in him, seeme as the Spots of Heauen,
+More fierie by nights Blacknesse; Hereditarie,
+Rather then purchaste: what he cannot change,
+Then what he chooses
+
+   Caes You are too indulgent. Let's graunt it is not
+Amisse to tumble on the bed of Ptolomy,
+To giue a Kingdome for a Mirth, to sit
+And keepe the turne of Tipling with a Slaue,
+To reele the streets at noone, and stand the Buffet
+With knaues that smels of sweate: Say this becoms him
+(As his composure must be rare indeed,
+Whom these things cannot blemish) yet must Anthony
+No way excuse his foyles, when we do beare
+So great waight in his lightnesse. If he fill'd
+His vacancie with his Voluptuousnesse,
+Full surfets, and the drinesse of his bones,
+Call on him for't. But to confound such time,
+That drummes him from his sport, and speakes as lowd
+As his owne State, and ours, 'tis to be chid:
+As we rate Boyes, who being mature in knowledge,
+Pawne their experience to their present pleasure,
+And so rebell to iudgement.
+Enter a Messenger.
+
+  Lep. Heere's more newes
+
+   Mes. Thy biddings haue beene done, & euerie houre
+Most Noble Caesar, shalt thou haue report
+How 'tis abroad. Pompey is strong at Sea,
+And it appeares, he is belou'd of those
+That only haue feard Caesar: to the Ports
+The discontents repaire, and mens reports
+Giue him much wrong'd
+
+   Caes I should haue knowne no lesse,
+It hath bin taught vs from the primall state
+That he which is was wisht, vntill he were:
+And the ebb'd man,
+Ne're lou'd, till ne're worth loue,
+Comes fear'd, by being lack'd. This common bodie,
+Like to a Vagabond Flagge vpon the Streame,
+Goes too, and backe, lacking the varrying tyde
+To rot it selfe with motion
+
+   Mes. Caesar I bring thee word,
+Menacrates and Menas famous Pyrates
+Makes the Sea serue them, which they eare and wound
+With keeles of euery kinde. Many hot inrodes
+They make in Italy, the Borders Maritime
+Lacke blood to thinke on't, and flush youth reuolt,
+No Vessell can peepe forth: but 'tis as soone
+Taken as seene: for Pompeyes name strikes more
+Then could his Warre resisted
+  Caesar. Anthony,
+Leaue thy lasciuious Vassailes. When thou once
+Was beaten from Medena, where thou slew'st
+Hirsius, and Pansa Consuls, at thy heele
+Did Famine follow, whom thou fought'st against,
+(Though daintily brought vp) with patience more
+Then Sauages could suffer. Thou did'st drinke
+The stale of Horses, and the gilded Puddle
+Which Beasts would cough at. Thy pallat the[n] did daine
+The roughest Berry, on the rudest Hedge.
+Yea, like the Stagge, when Snow the Pasture sheets,
+The barkes of Trees thou brows'd. On the Alpes,
+It is reported thou did'st eate strange flesh,
+Which some did dye to looke on: And all this
+(It wounds thine Honor that I speake it now)
+Was borne so like a Soldiour, that thy cheeke
+So much as lank'd not
+
+   Lep. 'Tis pitty of him
+
+   Caes Let his shames quickely
+Driue him to Rome, 'tis time we twaine
+Did shew our selues i'th' Field, and to that end
+Assemble me immediate counsell, Pompey
+Thriues in our Idlenesse
+
+   Lep. To morrow Caesar,
+I shall be furnisht to informe you rightly
+Both what by Sea and Land I can be able
+To front this present time
+
+   Caes Til which encounter, it is my busines too. Farwell
+
+   Lep. Farwell my Lord, what you shal know mean time
+Of stirres abroad, I shall beseech you Sir
+To let me be partaker
+
+   Caesar. Doubt not sir, I knew it for my Bond.
+
+Exeunt.
+
+Enter Cleopatra, Charmian, Iras, & Mardian.
+
+  Cleo. Charmian
+
+   Char. Madam
+
+   Cleo. Ha, ha, giue me to drinke Mandragora
+
+   Char. Why Madam?
+  Cleo. That I might sleepe out this great gap of time:
+My Anthony is away
+
+   Char. You thinke of him too much
+
+   Cleo. O 'tis Treason
+
+   Char. Madam, I trust not so
+
+   Cleo. Thou, Eunuch Mardian?
+  Mar. What's your Highnesse pleasure?
+  Cleo. Not now to heare thee sing. I take no pleasure
+In ought an Eunuch ha's: Tis well for thee,
+That being vnseminar'd, thy freer thoughts
+May not flye forth of Egypt. Hast thou Affections?
+  Mar. Yes gracious Madam
+
+   Cleo. Indeed?
+  Mar. Not in deed Madam, for I can do nothing
+But what in deede is honest to be done:
+Yet haue I fierce Affections, and thinke
+What Venus did with Mars
+
+   Cleo. Oh Charmion:
+Where think'st thou he is now? Stands he, or sits he?
+Or does he walke? Or is he on his Horse?
+Oh happy horse to beare the weight of Anthony!
+Do brauely Horse, for wot'st thou whom thou moou'st,
+The demy Atlas of this Earth, the Arme
+And Burganet of men. Hee's speaking now,
+Or murmuring, where's my Serpent of old Nyle,
+(For so he cals me:) Now I feede my selfe
+With most delicious poyson. Thinke on me
+That am with Phoebus amorous pinches blacke,
+And wrinkled deepe in time. Broad-fronted Caesar,
+When thou was't heere aboue the ground, I was
+A morsell for a Monarke: and great Pompey
+Would stand and make his eyes grow in my brow,
+There would he anchor his Aspect, and dye
+With looking on his life.
+Enter Alexas from Caesar.
+
+  Alex. Soueraigne of Egypt, haile
+
+   Cleo. How much vnlike art thou Marke Anthony?
+Yet comming from him, that great Med'cine hath
+With his Tinct gilded thee.
+How goes it with my braue Marke Anthonie?
+  Alex. Last thing he did (deere Queene)
+He kist the last of many doubled kisses
+This Orient Pearle. His speech stickes in my heart
+
+   Cleo. Mine eare must plucke it thence
+
+   Alex. Good Friend, quoth he:
+Say the firme Roman to great Egypt sends
+This treasure of an Oyster: at whose foote
+To mend the petty present, I will peece
+Her opulent Throne, with Kingdomes. All the East,
+(Say thou) shall call her Mistris. So he nodded,
+And soberly did mount an Arme-gaunt Steede,
+Who neigh'd so hye, that what I would haue spoke,
+Was beastly dumbe by him
+
+   Cleo. What was he sad, or merry?
+  Alex. Like to the time o'th' yeare, between y extremes
+Of hot and cold, he was nor sad nor merrie
+
+   Cleo. Oh well diuided disposition: Note him,
+Note him good Charmian, 'tis the man; but note him.
+He was not sad, for he would shine on those
+That make their lookes by his. He was not merrie,
+Which seem'd to tell them, his remembrance lay
+In Egypt with his ioy, but betweene both.
+Oh heauenly mingle! Bee'st thou sad, or merrie,
+The violence of either thee becomes,
+So do's it no mans else. Met'st thou my Posts?
+  Alex. I Madam, twenty seuerall Messengers.
+Why do you send so thicke?
+  Cleo. Who's borne that day, when I forget to send
+to Anthonie, shall dye a Begger. Inke and paper Charmian.
+Welcome my good Alexas. Did I Charmian, euer
+loue Caesar so?
+  Char. Oh that braue Caesar!
+  Cleo. Be choak'd with such another Emphasis,
+Say the braue Anthony
+
+   Char. The valiant Caesar
+
+   Cleo. By Isis, I will giue thee bloody teeth,
+If thou with Caesar Paragon againe:
+My man of men
+
+   Char. By your most gracious pardon,
+I sing but after you
+
+   Cleo. My Sallad dayes,
+When I was greene in iudgement, cold in blood,
+To say, as I saide then. But come, away,
+Get me Inke and Paper,
+he shall haue euery day a seuerall greeting, or Ile vnpeople
+Egypt.
+
+Exeunt.
+
+Enter Pompey, Menecrates, and Menas, in warlike manner.
+
+  Pom. If the great Gods be iust, they shall assist
+The deeds of iustest men
+
+   Mene. Know worthy Pompey, that what they do delay,
+they not deny
+
+   Pom. Whiles we are sutors to their Throne, decayes
+the thing we sue for
+
+   Mene. We ignorant of our selues,
+Begge often our owne harmes, which the wise Powres
+Deny vs for our good: so finde we profit
+By loosing of our Prayers
+
+   Pom. I shall do well:
+The people loue me, and the Sea is mine;
+My powers are Cressent, and my Auguring hope
+Sayes it will come to'th' full. Marke Anthony
+In Egypt sits at dinner, and will make
+No warres without doores. Caesar gets money where
+He looses hearts: Lepidus flatters both,
+Of both is flatter'd: but he neither loues,
+Nor either cares for him
+
+   Mene. Caesar and Lepidus are in the field,
+A mighty strength they carry
+
+   Pom. Where haue you this? 'Tis false
+
+   Mene. From Siluius, Sir
+
+   Pom. He dreames: I know they are in Rome together
+Looking for Anthony: but all the charmes of Loue,
+Salt Cleopatra soften thy wand lip,
+Let Witchcraft ioyne with Beauty, Lust with both,
+Tye vp the Libertine in a field of Feasts,
+Keepe his Braine fuming. Epicurean Cookes,
+Sharpen with cloylesse sawce his Appetite,
+That sleepe and feeding may prorogue his Honour,
+Euen till a Lethied dulnesse-
+Enter Varrius.
+
+How now Varrius?
+  Var. This is most certaine, that I shall deliuer:
+Marke Anthony is euery houre in Rome
+Expected. Since he went from Egypt, 'tis
+A space for farther Trauaile
+
+   Pom. I could haue giuen lesse matter
+A better eare. Menas, I did not thinke
+This amorous Surfetter would haue donn'd his Helme
+For such a petty Warre: His Souldiership
+Is twice the other twaine: But let vs reare
+The higher our Opinion, that our stirring
+Can from the lap of Egypts Widdow, plucke
+The neere Lust-wearied Anthony
+
+   Mene. I cannot hope,
+Caesar and Anthony shall well greet together;
+His Wife that's dead, did trespasses to Caesar,
+His Brother wan'd vpon him, although I thinke
+Not mou'd by Anthony
+
+   Pom. I know not Menas,
+How lesser Enmities may giue way to greater,
+Were't not that we stand vp against them all:
+'Twer pregnant they should square between themselues,
+For they haue entertained cause enough
+To draw their swords: but how the feare of vs
+May Ciment their diuisions, and binde vp
+The petty difference, we yet not know:
+Bee't as our Gods will haue't; it onely stands
+Our liues vpon, to vse our strongest hands
+Come Menas.
+
+Exeunt.
+
+Enter Enobarbus and Lepidus.
+
+  Lep. Good Enobarbus, 'tis a worthy deed,
+And shall become you well, to intreat your Captaine
+To soft and gentle speech
+
+   Enob. I shall intreat him
+To answer like himselfe: if Caesar moue him,
+Let Anthony looke ouer Caesars head,
+And speake as lowd as Mars. By Iupiter,
+Were I the wearer of Anthonio's Beard,
+I would not shaue't to day
+
+   Lep. 'Tis not a time for priuate stomacking
+
+   Eno. Euery time serues for the matter that is then
+borne in't
+
+   Lep. But small to greater matters must giue way
+
+   Eno. Not if the small come first
+
+   Lep. Your speech is passion: but pray you stirre
+No Embers vp. Heere comes the Noble Anthony.
+Enter Anthony and Ventidius.
+
+  Eno. And yonder Caesar.
+Enter Caesar, Mecenas, and Agrippa.
+
+  Ant. If we compose well heere, to Parthia:
+Hearke Ventidius
+
+   Caesar. I do not know Mecenas, aske Agrippa
+
+   Lep. Noble Friends:
+That which combin'd vs was most great, and let not
+A leaner action rend vs. What's amisse,
+May it be gently heard. When we debate
+Our triuiall difference loud, we do commit
+Murther in healing wounds. Then Noble Partners,
+The rather for I earnestly beseech,
+Touch you the sowrest points with sweetest tearmes,
+Nor curstnesse grow to'th' matter
+
+   Ant. 'Tis spoken well:
+Were we before our Armies, and to fight,
+I should do thus.
+Flourish.
+
+  Caes Welcome to Rome
+
+   Ant. Thanke you
+
+   Caes Sit
+
+   Ant. Sit sir
+
+   Caes Nay then
+
+   Ant. I learne, you take things ill, which are not so:
+Or being, concerne you not
+
+   Caes I must be laught at, if or for nothing, or a little, I
+Should say my selfe offended, and with you
+Chiefely i'th' world. More laught at, that I should
+Once name you derogately: when to sound your name
+It not concern'd me
+
+   Ant. My being in Egypt Caesar, what was't to you?
+  Caes No more then my reciding heere at Rome
+Might be to you in Egypt: yet if you there
+Did practise on my State, your being in Egypt
+Might be my question
+
+   Ant. How intend you, practis'd?
+  Caes You may be pleas'd to catch at mine intent,
+By what did heere befall me. Your Wife and Brother
+Made warres vpon me, and their contestation
+Was Theame for you, you were the word of warre
+
+   Ant. You do mistake your busines, my Brother neuer
+Did vrge me in his Act: I did inquire it.
+And haue my Learning from some true reports
+That drew their swords with you, did he not rather
+Discredit my authority with yours,
+And make the warres alike against my stomacke,
+Hauing alike your cause. Of this, my Letters
+Before did satisfie you. If you'l patch a quarrell,
+As matter whole you haue to make it with,
+It must not be with this
+
+   Caes You praise your selfe, by laying defects of iudgement
+to me: but you patcht vp your excuses
+
+   Anth. Not so, not so:
+I know you could not lacke, I am certaine on't,
+Very necessity of this thought, that I
+Your Partner in the cause 'gainst which he fought,
+Could not with gracefull eyes attend those Warres
+Which fronted mine owne peace. As for my wife,
+I would you had her spirit, in such another,
+The third oth' world is yours, which with a Snaffle,
+You may pace easie, but not such a wife
+
+   Enobar. Would we had all such wiues, that the men
+might go to Warres with the women
+
+   Anth. So much vncurbable, her Garboiles (Caesar)
+Made out of her impatience: which not wanted
+Shrodenesse of policie to: I greeuing grant,
+Did you too much disquiet, for that you must,
+But say I could not helpe it
+
+   Caesar. I wrote to you, when rioting in Alexandria you
+Did pocket vp my Letters: and with taunts
+Did gibe my Misiue out of audience
+
+   Ant. Sir, he fell vpon me, ere admitted, then:
+Three Kings I had newly feasted, and did want
+Of what I was i'th' morning: but next day
+I told him of my selfe, which was as much
+As to haue askt him pardon. Let this Fellow
+Be nothing of our strife: if we contend
+Out of our question wipe him
+
+   Caesar. You haue broken the Article of your oath,
+which you shall neuer haue tongue to charge me with
+
+   Lep. Soft Caesar
+
+   Ant. No Lepidus, let him speake,
+The Honour is Sacred which he talks on now,
+Supposing that I lackt it: but on Caesar,
+The Article of my oath
+
+   Caesar. To lend me Armes, and aide when I requir'd
+them, the which you both denied
+
+   Anth. Neglected rather:
+And then when poysoned houres had bound me vp
+From mine owne knowledge, as neerely as I may,
+Ile play the penitent to you. But mine honesty,
+Shall not make poore my greatnesse, nor my power
+Worke without it. Truth is, that Fuluia,
+To haue me out of Egypt, made Warres heere,
+For which my selfe, the ignorant motiue, do
+So farre aske pardon, as befits mine Honour
+To stoope in such a case
+
+   Lep. 'Tis Noble spoken
+
+   Mece. If it might please you, to enforce no further
+The griefes betweene ye: to forget them quite,
+Were to remember: that the present neede,
+Speakes to attone you
+
+   Lep. Worthily spoken Mecenas
+
+   Enobar. Or if you borrow one anothers Loue for the
+instant, you may when you heare no more words of
+Pompey returne it againe: you shall haue time to wrangle
+in, when you haue nothing else to do
+
+   Anth. Thou art a Souldier, onely speake no more
+
+   Enob. That trueth should be silent, I had almost forgot
+
+   Anth. You wrong this presence, therefore speake no
+more
+
+   Enob. Go too then: your Considerate stone
+
+   Caesar. I do not much dislike the matter, but
+The manner of his speech: for't cannot be,
+We shall remaine in friendship, our conditions
+So diffring in their acts. Yet if I knew,
+What Hoope should hold vs staunch from edge to edge
+Ath' world: I would persue it
+
+   Agri. Giue me leaue Caesar
+
+   Caesar. Speake Agrippa
+
+   Agri. Thou hast a Sister by the Mothers side, admir'd
+Octauia: Great Mark Anthony is now a widdower
+
+   Caesar. Say not, say Agrippa; if Cleopater heard you, your
+proofe were well deserued of rashnesse
+
+   Anth. I am not marryed Caesar: let me heere Agrippa
+further speake
+
+   Agri. To hold you in perpetuall amitie,
+To make you Brothers, and to knit your hearts
+With an vn-slipping knot, take Anthony,
+Octauia to his wife: whose beauty claimes
+No worse a husband then the best of men: whose
+Vertue, and whose generall graces, speake
+That which none else can vtter. By this marriage,
+All little Ielousies which now seeme great,
+And all great feares, which now import their dangers,
+Would then be nothing. Truth's would be tales,
+Where now halfe tales be truth's: her loue to both,
+Would each to other, and all loues to both
+Draw after her. Pardon what I haue spoke,
+For 'tis a studied not a present thought,
+By duty ruminated
+
+   Anth. Will Caesar speake?
+  Caesar. Not till he heares how Anthony is toucht,
+With what is spoke already
+
+   Anth. What power is in Agrippa,
+If I would say Agrippa, be it so,
+To make this good?
+  Caesar. The power of Caesar,
+And his power, vnto Octauia
+
+   Anth. May I neuer
+(To this good purpose, that so fairely shewes)
+Dreame of impediment: let me haue thy hand
+Further this act of Grace: and from this houre,
+The heart of Brothers gouerne in our Loues,
+And sway our great Designes
+
+   Caesar. There's my hand:
+A Sister I bequeath you, whom no Brother
+Did euer loue so deerely. Let her liue
+To ioyne our kingdomes, and our hearts, and neuer
+Flie off our Loues againe
+
+   Lepi. Happily, Amen
+
+   Ant. I did not think to draw my Sword 'gainst Pompey,
+For he hath laid strange courtesies, and great
+Of late vpon me. I must thanke him onely,
+Least my remembrance, suffer ill report:
+At heele of that, defie him
+
+   Lepi. Time cals vpon's,
+Of vs must Pompey presently be sought,
+Or else he seekes out vs
+
+   Anth. Where lies he?
+  Caesar. About the Mount-Mesena
+
+   Anth. What is his strength by land?
+  Caesar. Great, and encreasing:
+But by Sea he is an absolute Master
+
+   Anth. So is the Fame.
+Would we had spoke together. Hast we for it,
+Yet ere we put our selues in Armes, dispatch we
+The businesse we haue talkt of
+
+   Caesar. With most gladnesse,
+And do inuite you to my Sisters view,
+Whether straight Ile lead you
+
+   Anth. Let vs Lepidus not lacke your companie
+
+   Lep. Noble Anthony, not sickenesse should detaine
+me.
+
+Flourish. Exit omnes. Manet Enobarbus, Agrippa, Mecenas.
+
+  Mec. Welcome from aegypt Sir
+
+   Eno. Halfe the heart of Caesar, worthy Mecenas. My
+honourable Friend Agrippa
+
+   Agri. Good Enobarbus
+
+   Mece. We haue cause to be glad, that matters are so
+well disgested: you staid well by't in Egypt
+
+   Enob. I Sir, we did sleepe day out of countenaunce:
+and made the night light with drinking
+
+   Mece. Eight Wilde-Boares rosted whole at a breakfast:
+and but twelue persons there. Is this true?
+  Eno. This was but as a Flye by an Eagle: we had much
+more monstrous matter of Feast, which worthily deserued
+noting
+
+   Mecenas. She's a most triumphant Lady, if report be
+square to her
+
+   Enob. When she first met Marke Anthony, she purst
+vp his heart vpon the Riuer of Sidnis
+
+   Agri. There she appear'd indeed: or my reporter deuis'd
+well for her
+
+   Eno. I will tell you,
+The Barge she sat in, like a burnisht Throne
+Burnt on the water: the Poope was beaten Gold,
+Purple the Sailes: and so perfumed that
+The Windes were Loue-sicke.
+With them the Owers were Siluer,
+Which to the tune of Flutes kept stroke, and made
+The water which they beate, to follow faster;
+As amorous of their strokes. For her owne person,
+It beggerd all discription, she did lye
+In her Pauillion, cloth of Gold, of Tissue,
+O're-picturing that Venus, where we see
+The fancie out-worke Nature. On each side her,
+Stood pretty Dimpled Boyes, like smiling Cupids,
+With diuers coulour'd Fannes whose winde did seeme,
+To gloue the delicate cheekes which they did coole,
+And what they vndid did
+
+   Agrip. Oh rare for Anthony
+
+   Eno. Her Gentlewoman, like the Nereides,
+So many Mer-maides tended her i'th' eyes,
+And made their bends adornings. At the Helme,
+A seeming Mer-maide steeres: The Silken Tackle,
+Swell with the touches of those Flower-soft hands,
+That yarely frame the office. From the Barge
+A strange inuisible perfume hits the sense
+Of the adiacent Wharfes. The Citty cast
+Her people out vpon her: and Anthony
+Enthron'd i'th' Market-place, did sit alone,
+Whisling to'th' ayre: which but for vacancie,
+Had gone to gaze on Cleopater too,
+And made a gap in Nature
+
+   Agri. Rare Egiptian
+
+   Eno. Vpon her landing, Anthony sent to her,
+Inuited her to Supper: she replyed,
+It should be better, he became her guest:
+Which she entreated, our Courteous Anthony,
+Whom nere the word of no woman hard speake,
+Being barber'd ten times o're, goes to the Feast;
+And for his ordinary, paies his heart,
+For what his eyes eate onely
+
+   Agri. Royall Wench:
+She made great Caesar lay his Sword to bed,
+He ploughed her, and she cropt
+
+   Eno. I saw her once
+Hop forty Paces through the publicke streete,
+And hauing lost her breath, she spoke, and panted,
+That she did make defect, perfection,
+And breathlesse powre breath forth
+
+   Mece. Now Anthony, must leaue her vtterly
+
+   Eno. Neuer he will not:
+Age cannot wither her, nor custome stale
+Her infinite variety: other women cloy
+The appetites they feede, but she makes hungry,
+Where most she satisfies. For vildest things
+Become themselues in her, that the holy Priests
+Blesse her, when she is Riggish
+
+   Mece. If Beauty, Wisedome, Modesty, can settle
+The heart of Anthony: Octauia is
+A blessed Lottery to him
+
+   Agrip. Let vs go. Good Enobarbus, make your selfe
+my guest, whilst you abide heere
+
+   Eno. Humbly Sir I thanke you.
+
+Exeunt.
+
+Enter Anthony, Caesar, Octauia betweene them.
+
+  Anth. The world, and my great office, will
+Sometimes deuide me from your bosome
+
+   Octa. All which time, before the Gods my knee shall
+bowe my prayers to them for you
+
+   Anth. Goodnight Sir. My Octauia
+Read not my blemishes in the worlds report:
+I haue not kept my square, but that to come
+Shall all be done byth' Rule: good night deere Lady:
+Good night Sir
+
+   Caesar. Goodnight.
+Enter.
+
+Enter Soothsaier.
+
+  Anth. Now sirrah: you do wish your selfe in Egypt?
+  Sooth. Would I had neuer come from thence, nor you
+thither
+
+   Ant. If you can, your reason?
+  Sooth. I see it in my motion: haue it not in my tongue,
+But yet hie you to Egypt againe
+
+   Antho. Say to me, whose Fortunes shall rise higher
+Caesars or mine?
+  Sooth. Caesars. Therefore (oh Anthony) stay not by his side
+Thy Daemon that thy spirit which keepes thee, is
+Noble, Couragious, high vnmatchable,
+Where Caesars is not. But neere him, thy Angell
+Becomes a feare: as being o're-powr'd, therefore
+Make space enough betweene you
+
+   Anth. Speake this no more
+
+   Sooth. To none but thee no more but: when to thee,
+If thou dost play with him at any game,
+Thou art sure to loose: And of that Naturall lucke,
+He beats thee 'gainst the oddes. Thy Luster thickens,
+When he shines by: I say againe, thy spirit
+Is all affraid to gouerne thee neere him:
+But he alway 'tis Noble
+
+   Anth. Get thee gone:
+Say to Ventigius I would speake with him.
+Enter.
+
+He shall to Parthia, be it Art or hap,
+He hath spoken true. The very Dice obey him,
+And in our sports my better cunning faints,
+Vnder his chance, if we draw lots he speeds,
+His Cocks do winne the Battaile, still of mine,
+When it is all to naught: and his Quailes euer
+Beate mine (in hoopt) at odd's. I will to Egypte:
+And though I make this marriage for my peace,
+I'th' East my pleasure lies. Oh come Ventigius.
+
+Enter Ventigius.
+
+You must to Parthia, your Commissions ready:
+Follow me, and reciue't.
+
+Exeunt.
+
+Enter Lepidus, Mecenas and Agrippa.
+
+  Lepidus. Trouble your selues no further: pray you
+hasten your Generals after
+
+   Agr. Sir, Marke Anthony, will e'ne but kisse Octauia,
+and weele follow
+
+   Lepi. Till I shall see you in your Souldiers dresse,
+Which will become you both: Farewell
+
+   Mece. We shall: as I conceiue the iourney, be at
+Mount before you Lepidus
+
+   Lepi. Your way is shorter, my purposes do draw me
+much about, you'le win two dayes vpon me
+
+   Both. Sir good successe
+
+   Lepi. Farewell.
+
+Exeunt.
+
+Enter Cleopater, Charmian, Iras, and Alexas.
+
+  Cleo. Giue me some Musicke: Musicke, moody foode
+of vs that trade in Loue
+
+   Omnes. The Musicke, hoa.
+Enter Mardian the Eunuch.
+
+  Cleo. Let it alone, let's to Billiards: come Charmian
+
+   Char. My arme is sore, best play with Mardian
+
+   Cleopa. As well a woman with an Eunuch plaide, as
+with a woman. Come you'le play with me Sir?
+  Mardi. As well as I can Madam
+
+   Cleo. And when good will is shewed,
+Though't come to short
+The Actor may pleade pardon. Ile none now,
+Giue me mine Angle, weele to'th' Riuer there
+My Musicke playing farre off. I will betray
+Tawny fine fishes, my bended hooke shall pierce
+Their slimy iawes: and as I draw them vp,
+Ile thinke them euery one an Anthony,
+And say, ah ha; y'are caught
+
+   Char. 'Twas merry when you wager'd on your Angling,
+when your diuer did hang a salt fish on his hooke
+which he with feruencie drew vp
+
+   Cleo. That time? Oh times:
+I laught him out of patience: and that night
+I laught him into patience, and next morne,
+Ere the ninth houre, I drunke him to his bed:
+Then put my Tires and Mantles on him, whilst
+I wore his Sword Phillippan. Oh from Italie,
+Enter a Messenger.
+
+Ramme thou thy fruitefull tidings in mine eares,
+That long time haue bin barren
+
+   Mes. Madam, Madam
+
+   Cleo. Anthonyo's dead.
+If thou say so Villaine, thou kil'st thy Mistris:
+But well and free, if thou so yeild him.
+There is Gold, and heere
+My blewest vaines to kisse: a hand that Kings
+Haue lipt, and trembled kissing
+
+   Mes. First Madam, he is well
+
+   Cleo. Why there's more Gold.
+But sirrah marke, we vse
+To say, the dead are well: bring it to that,
+The Gold I giue thee, will I melt and powr
+Downe thy ill vttering throate
+
+   Mes. Good Madam heare me
+
+   Cleo. Well, go too I will:
+But there's no goodnesse in thy face if Anthony
+Be free and healthfull; so tart a fauour
+To trumpet such good tidings. If not well,
+Thou shouldst come like a Furie crown'd with Snakes,
+Not like a formall man
+
+   Mes. Wilt please you heare me?
+  Cleo. I haue a mind to strike thee ere thou speak'st:
+Yet if thou say Anthony liues, 'tis well,
+Or friends with Caesar, or not Captiue to him,
+Ile set thee in a shower of Gold, and haile
+Rich Pearles vpon thee
+
+   Mes. Madam, he's well
+
+   Cleo. Well said
+
+   Mes. And Friends with Caesar
+
+   Cleo. Th'art an honest man
+
+   Mes. Caesar, and he, are greater Friends then euer
+
+   Cleo. Make thee a Fortune from me
+
+   Mes. But yet Madam
+
+   Cleo. I do not like but yet, it does alay
+The good precedence, fie vpon but yet,
+But yet is as a Iaylor to bring foorth
+Some monstrous Malefactor. Prythee Friend,
+Powre out the packe of matter to mine eare,
+The good and bad together: he's friends with Caesar,
+In state of health thou saist, and thou saist, free
+
+   Mes. Free Madam, no: I made no such report,
+He's bound vnto Octauia
+
+   Cleo. For what good turne?
+  Mes. For the best turne i'th' bed
+
+   Cleo. I am pale Charmian
+
+   Mes. Madam, he's married to Octauia
+
+   Cleo. The most infectious Pestilence vpon thee.
+
+Strikes him downe.
+
+  Mes. Good Madam patience
+
+   Cleo. What say you?
+
+Strikes him.
+
+Hence horrible Villaine, or Ile spurne thine eyes
+Like balls before me: Ile vnhaire thy head,
+
+She hales him vp and downe.
+
+Thou shalt be whipt with Wyer, and stew'd in brine,
+Smarting in lingring pickle
+
+   Mes. Gratious Madam,
+I that do bring the newes, made not the match
+
+   Cleo. Say 'tis not so, a Prouince I will giue thee,
+And make thy Fortunes proud: the blow thou had'st
+Shall make thy peace, for mouing me to rage,
+And I will boot thee with what guift beside
+Thy modestie can begge
+
+   Mes. He's married Madam
+
+   Cleo. Rogue, thou hast liu'd too long.
+
+Draw a knife.
+
+  Mes. Nay then Ile runne:
+What meane you Madam, I haue made no fault.
+Enter.
+
+  Char. Good Madam keepe your selfe within your selfe,
+The man is innocent
+
+   Cleo. Some Innocents scape not the thunderbolt:
+Melt Egypt into Nyle: and kindly creatures
+Turne all to Serpents. Call the slaue againe,
+Though I am mad, I will not byte him: Call?
+  Char. He is afeard to come
+
+   Cleo. I will not hurt him,
+These hands do lacke Nobility, that they strike
+A meaner then my selfe: since I my selfe
+Haue giuen my selfe the cause. Come hither Sir.
+Enter the Messenger againe.
+
+Though it be honest, it is neuer good
+To bring bad newes: giue to a gratious Message
+An host of tongues, but let ill tydings tell
+Themselues, when they be felt
+
+   Mes. I haue done my duty
+
+   Cleo. Is he married?
+I cannot hate thee worser then I do,
+If thou againe say yes
+
+   Mes. He's married Madam
+
+   Cleo. The Gods confound thee,
+Dost thou hold there still?
+  Mes. Should I lye Madame?
+  Cleo. Oh, I would thou didst:
+So halfe my Egypt were submerg'd and made
+A Cesterne for scal'd Snakes. Go get thee hence,
+Had'st thou Narcissus in thy face to me,
+Thou would'st appeere most vgly: He is married?
+  Mes. I craue your Highnesse pardon
+
+   Cleo. He is married?
+  Mes. Take no offence, that I would not offend you,
+To punnish me for what you make me do
+Seemes much vnequall, he's married to Octauia
+
+   Cleo. Oh that his fault should make a knaue of thee,
+That art not what th'art sure of. Get thee hence,
+The Marchandize which thou hast brought from Rome
+Are all too deere for me:
+Lye they vpon thy hand, and be vndone by em
+
+   Char. Good your Highnesse patience
+
+   Cleo. In praysing Anthony, I haue disprais'd Caesar
+
+   Char. Many times Madam
+
+   Cleo. I am paid for't now: lead me from hence,
+I faint, oh Iras, Charmian: 'tis no matter.
+Go to the Fellow, good Alexas bid him
+Report the feature of Octauia: her yeares,
+Her inclination, let him not leaue out
+The colour of her haire. Bring me word quickly,
+Let him for euer go, let him not Charmian,
+Though he be painted one way like a Gorgon,
+The other wayes a Mars. Bid you Alexas
+Bring me word, how tall she is: pitty me Charmian,
+But do not speake to me. Lead me to my Chamber.
+
+Exeunt.
+
+Flourish. Enter Pompey, at one doore with Drum and Trumpet: at
+another
+Caesar, Lepidus, Anthony, Enobarbus, Mecenas, Agrippa, Menas
+with Souldiers
+Marching.
+
+  Pom. Your Hostages I haue, so haue you mine:
+And we shall talke before we fight
+
+   Caesar. Most meete that first we come to words,
+And therefore haue we
+Our written purposes before vs sent,
+Which if thou hast considered, let vs know,
+If 'twill tye vp thy discontented Sword,
+And carry backe to Cicelie much tall youth,
+That else must perish heere
+
+   Pom. To you all three,
+The Senators alone of this great world,
+Chiefe Factors for the Gods. I do not know,
+Wherefore my Father should reuengers want,
+Hauing a Sonne and Friends, since Iulius Caesar,
+Who at Phillippi the good Brutus ghosted,
+There saw you labouring for him. What was't
+That mou'd pale Cassius to conspire? And what
+Made all-honor'd, honest, Romaine Brutus,
+With the arm'd rest, Courtiers of beautious freedome,
+To drench the Capitoll, but that they would
+Haue one man but a man, and that his it
+Hath made me rigge my Nauie. At whose burthen,
+The anger'd Ocean fomes, with which I meant
+To scourge th' ingratitude, that despightfull Rome
+Cast on my Noble Father
+
+   Caesar. Take your time
+
+   Ant. Thou can'st not feare vs Pompey with thy sailes.
+Weele speake with thee at Sea. At land thou know'st
+How much we do o're-count thee
+
+   Pom. At Land indeed
+Thou dost orecount me of my Fathers house:
+But since the Cuckoo buildes not for himselfe,
+Remaine in't as thou maist
+
+   Lepi. Be pleas'd to tell vs,
+(For this is from the present how you take)
+The offers we haue sent you
+
+   Caesar. There's the point
+
+   Ant. Which do not be entreated too,
+But waigh what it is worth imbrac'd
+  Caesar. And what may follow to try a larger Fortune
+
+   Pom. You haue made me offer
+Of Cicelie, Sardinia: and I must
+Rid all the Sea of Pirats. Then, to send
+Measures of Wheate to Rome: this greed vpon,
+To part with vnhackt edges, and beare backe
+Our Targes vndinted
+
+   Omnes. That's our offer
+
+   Pom. Know then I came before you heere,
+A man prepar'd
+To take this offer. But Marke Anthony,
+Put me to some impatience: though I loose
+The praise of it by telling. You must know
+When Caesar and your Brother were at blowes,
+Your Mother came to Cicelie, and did finde
+Her welcome Friendly
+
+   Ant. I haue heard it Pompey,
+And am well studied for a liberall thanks,
+Which I do owe you
+
+   Pom. Let me haue your hand:
+I did not thinke Sir, to haue met you heere,
+  Ant. The beds i'th' East are soft, and thanks to you,
+That cal'd me timelier then my purpose hither:
+For I haue gained by't
+
+   Caesar. Since I saw you last, ther's a change vpon you
+
+   Pom. Well, I know not,
+What counts harsh Fortune cast's vpon my face,
+But in my bosome shall she neuer come,
+To make my heart her vassaile
+
+   Lep. Well met heere
+
+   Pom. I hope so Lepidus, thus we are agreed:
+I craue our composion may be written
+And seal'd betweene vs,
+  Caesar. That's the next to do
+
+   Pom. Weele feast each other, ere we part, and lett's
+Draw lots who shall begin
+
+   Ant. That will I Pompey
+
+   Pompey. No Anthony take the lot: but first or last,
+your fine Egyptian cookerie shall haue the fame, I haue
+heard that Iulius Caesar, grew fat with feasting there
+
+   Anth. You haue heard much
+
+   Pom. I haue faire meaning Sir
+
+   Ant. And faire words to them
+
+   Pom. Then so much haue I heard,
+And I haue heard Appolodorus carried-
+  Eno. No more that: he did so
+
+   Pom. What I pray you?
+  Eno. A certaine Queene to Caesar in a Matris
+
+   Pom. I know thee now, how far'st thou Souldier?
+  Eno. Well, and well am like to do, for I perceiue
+Foure Feasts are toward
+
+   Pom. Let me shake thy hand,
+I neuer hated thee: I haue seene thee fight,
+When I haue enuied thy behauiour
+
+   Enob. Sir, I neuer lou'd you much, but I ha' prais'd ye,
+When you haue well deseru'd ten times as much,
+As I haue said you did
+
+   Pom. Inioy thy plainnesse,
+It nothing ill becomes thee:
+Aboord my Gally, I inuite you all.
+Will you leade Lords?
+  All. Shew's the way, sir
+
+   Pom. Come.
+
+Exeunt. Manet Enob. & Menas]
+  Men. Thy Father Pompey would ne're haue made this
+Treaty. You, and I haue knowne sir
+
+   Enob. At Sea, I thinke
+
+   Men. We haue Sir
+
+   Enob. You haue done well by water
+
+   Men. And you by Land
+
+   Enob. I will praise any man that will praise me, thogh
+it cannot be denied what I haue done by Land
+
+   Men. Nor what I haue done by water
+
+   Enob. Yes some-thing you can deny for your owne
+safety: you haue bin a great Theefe by Sea
+
+   Men. And you by Land
+
+   Enob. There I deny my Land seruice: but giue mee
+your hand Menas, if our eyes had authority, heere they
+might take two Theeues kissing
+
+   Men. All mens faces are true, whatsomere their hands
+are
+
+   Enob. But there is neuer a fayre Woman, ha's a true
+Face
+
+   Men. No slander, they steale hearts
+
+   Enob. We came hither to fight with you
+
+   Men. For my part, I am sorry it is turn'd to a Drinking.
+Pompey doth this day laugh away his Fortune
+
+   Enob. If he do, sure he cannot weep't backe againe
+
+   Men. Y'haue said Sir, we look'd not for Marke Anthony
+heere, pray you, is he married to Cleopatra?
+  Enob. Caesars Sister is call'd Octauia
+
+   Men. True Sir, she was the wife of Caius Marcellus
+
+   Enob. But she is now the wife of Marcus Anthonius
+
+   Men. Pray'ye sir
+
+   Enob. 'Tis true
+
+   Men. Then is Caesar and he, for euer knit together
+
+   Enob. If I were bound to Diuine of this vnity, I wold
+not Prophesie so
+
+   Men. I thinke the policy of that purpose, made more
+in the Marriage, then the loue of the parties
+
+   Enob. I thinke so too. But you shall finde the band
+that seemes to tye their friendship together, will bee the
+very strangler of their Amity: Octauia is of a holy, cold,
+and still conuersation
+
+   Men. Who would not haue his wife so?
+  Eno. Not he that himselfe is not so: which is Marke
+Anthony: he will to his Egyptian dish againe: then shall
+the sighes of Octauia blow the fire vp in Caesar, and (as I
+said before) that which is the strength of their Amity,
+shall proue the immediate Author of their variance. Anthony
+will vse his affection where it is. Hee married but
+his occasion heere
+
+   Men. And thus it may be. Come Sir, will you aboord?
+I haue a health for you
+
+   Enob. I shall take it sir: we haue vs'd our Throats in
+Egypt
+
+   Men. Come, let's away.
+
+Exeunt.
+
+Musicke playes. Enter two or three Seruants with a Banket.
+
+  1 Heere they'l be man: some o' their Plants are ill
+rooted already, the least winde i'th' world wil blow them
+downe
+
+   2 Lepidus is high Coulord
+
+   1 They haue made him drinke Almes drinke
+
+   2 As they pinch one another by the disposition, hee
+cries out, no more; reconciles them to his entreatie, and
+himselfe to'th' drinke
+
+   1 But it raises the greater warre betweene him & his
+discretion
+
+   2 Why this it is to haue a name in great mens Fellowship:
+I had as liue haue a Reede that will doe me no
+seruice, as a Partizan I could not heaue
+
+   1 To be call'd into a huge Sphere, and not to be seene
+to moue in't, are the holes where eyes should bee, which
+pittifully disaster the cheekes.
+
+A Sennet sounded. Enter Caesar, Anthony, Pompey, Lepidus,
+Agrippa,
+Mecenas, Enobarbus, Menes, with other Captaines.
+
+  Ant. Thus do they Sir: they take the flow o'th' Nyle
+By certaine scales i'th' Pyramid: they know
+By'th' height, the lownesse, or the meane: If dearth
+Or Foizon follow. The higher Nilus swels,
+The more it promises: as it ebbes, the Seedsman
+Vpon the slime and Ooze scatters his graine,
+And shortly comes to Haruest
+
+   Lep. Y'haue strange Serpents there?
+  Anth. I Lepidus
+
+   Lep. Your Serpent of Egypt, is bred now of your mud
+by the operation of your Sun: so is your Crocodile
+
+   Ant. They are so
+
+   Pom. Sit, and some Wine: A health to Lepidus
+
+   Lep. I am not so well as I should be:
+But Ile ne're out
+
+   Enob. Not till you haue slept: I feare me you'l bee in
+till then
+
+   Lep. Nay certainly, I haue heard the Ptolomies Pyramisis
+are very goodly things: without contradiction I
+haue heard that
+
+   Menas. Pompey, a word
+
+   Pomp. Say in mine eare, what is't
+
+   Men. Forsake thy seate I do beseech thee Captaine,
+And heare me speake a word
+
+   Pom. Forbeare me till anon.
+
+Whispers in's Eare.
+
+This Wine for Lepidus
+
+   Lep. What manner o' thing is your Crocodile?
+  Ant. It is shap'd sir like it selfe, and it is as broad as it
+hath bredth; It is iust so high as it is, and mooues with it
+owne organs. It liues by that which nourisheth it, and
+the Elements once out of it, it Transmigrates
+
+   Lep. What colour is it of?
+  Ant. Of it owne colour too
+
+   Lep. 'Tis a strange Serpent
+
+   Ant. 'Tis so, and the teares of it are wet
+
+   Caes Will this description satisfie him?
+  Ant. With the Health that Pompey giues him, else he
+is a very Epicure
+
+   Pomp. Go hang sir, hang: tell me of that? Away:
+Do as I bid you. Where's this Cup I call'd for?
+  Men. If for the sake of Merit thou wilt heare mee,
+Rise from thy stoole
+
+   Pom. I thinke th'art mad: the matter?
+  Men. I haue euer held my cap off to thy Fortunes
+
+   Pom. Thou hast seru'd me with much faith: what's
+else to say? Be iolly Lords
+
+   Anth. These Quicke-sands Lepidus,
+Keepe off, them for you sinke
+
+   Men. Wilt thou be Lord of all the world?
+  Pom. What saist thou?
+  Men. Wilt thou be Lord of the whole world?
+That's twice
+
+   Pom. How should that be?
+  Men. But entertaine it, and though thou thinke me
+poore, I am the man will giue thee all the world
+
+   Pom. Hast thou drunke well
+
+   Men. No Pompey, I haue kept me from the cup,
+Thou art if thou dar'st be, the earthly Ioue:
+What ere the Ocean pales, or skie inclippes,
+Is thine, if thou wilt ha't
+
+   Pom. Shew me which way?
+  Men. These three World-sharers, these Competitors
+Are in thy vessell. Let me cut the Cable,
+And when we are put off, fall to their throates:
+All there is thine
+
+   Pom. Ah, this thou shouldst haue done,
+And not haue spoke on't. In me 'tis villanie,
+In thee, 't had bin good seruice: thou must know,
+'Tis not my profit that does lead mine Honour:
+Mine Honour it, Repent that ere thy tongue,
+Hath so betraide thine acte. Being done vnknowne,
+I should haue found it afterwards well done,
+But must condemne it now: desist, and drinke
+
+   Men. For this, Ile neuer follow
+Thy paul'd Fortunes more,
+Who seekes and will not take, when once 'tis offer'd,
+Shall neuer finde it more
+
+   Pom. This health to Lepidus
+
+   Ant. Beare him ashore,
+Ile pledge it for him Pompey
+
+   Eno. Heere's to thee Menas
+
+   Men. Enobarbus, welcome
+
+   Pom. Fill till the cup be hid
+
+   Eno. There's a strong Fellow Menas
+
+   Men. Why?
+  Eno. A beares the third part of the world man: seest
+not?
+  Men. The third part, then he is drunk: would it were
+all, that it might go on wheeles
+
+   Eno. Drinke thou: encrease the Reeles
+
+   Men. Come
+
+   Pom. This is not yet an Alexandrian Feast
+
+   Ant. It ripen's, towards it: strike the Vessells hoa.
+Heere's to Caesar
+
+   Caesar. I could well forbear't, it's monstrous labour
+when I wash my braine, and it grow fouler
+
+   Ant. Be a Child o'th' time
+
+   Caesar. Possesse it, Ile make answer: but I had rather
+fast from all, foure dayes, then drinke so much in one
+
+   Enob. Ha my braue Emperour, shall we daunce now
+the Egyptian Backenals, and celebrate our drinke?
+  Pom. Let's ha't good Souldier
+
+   Ant. Come, let's all take hands,
+Till that the conquering Wine hath steep't our sense,
+In soft and delicate Lethe
+
+   Eno. All take hands:
+Make battery to our eares with the loud Musicke,
+The while, Ile place you, then the Boy shall sing.
+The holding euery man shall beate as loud,
+As his strong sides can volly.
+
+Musicke Playes. Enobarbus places them hand in hand.
+
+The Song.
+
+Come thou Monarch of the Vine,
+Plumpie Bacchus, with pinke eyne:
+In thy Fattes our Cares be drown'd,
+With thy Grapes our haires be Crown'd.
+Cup vs till the world go round,
+Cup vs till the world go round
+
+   Caesar. What would you more?
+Pompey goodnight. Good Brother
+Let me request you of our grauer businesse
+Frownes at this leuitie. Gentle Lords let's part,
+You see we haue burnt our cheekes. Strong Enobarbe
+Is weaker then the Wine, and mine owne tongue
+Spleet's what it speakes: the wilde disguise hath almost
+Antickt vs all. What needs more words? goodnight.
+Good Anthony your hand
+
+   Pom. Ile try you on the shore
+
+   Anth. And shall Sir, giues your hand
+
+   Pom. Oh Anthony, you haue my Father house.
+But what, we are Friends?
+Come downe into the Boate
+
+   Eno. Take heed you fall not Menas: Ile not on shore,
+No to my Cabin: these Drummes,
+These Trumpets, Flutes: what
+Let Neptune heare, we bid aloud farewell
+To these great Fellowes. Sound and be hang'd, sound out.
+
+Sound a Flourish with Drummes.
+
+  Enor. Hoo saies a there's my Cap
+
+   Men. Hoa, Noble Captaine, come.
+
+Exeunt.
+
+Enter Ventidius as it were in triumph, the dead body of Pacorus
+borne
+before him.
+
+  Ven. Now darting Parthya art thou stroke, and now
+Pleas'd Fortune does of Marcus Crassus death
+Make me reuenger. Beare the Kings Sonnes body,
+Before our Army, thy Pacorus Orades,
+Paies this for Marcus Crassus
+
+   Romaine. Noble Ventidius,
+Whil'st yet with Parthian blood thy Sword is warme,
+The Fugitiue Parthians follow. Spurre through Media,
+Mesapotamia, and the shelters, whether
+The routed flie. So thy grand Captaine Anthony
+Shall set thee on triumphant Chariots, and
+Put Garlands on thy head
+
+   Ven. Oh Sillius, Sillius,
+I haue done enough. A lower place note well
+May make too great an act. For learne this Sillius,
+Better to leaue vndone, then by our deed
+Acquire too high a Fame, when him we serues away.
+Caesar and Anthony, haue euer wonne
+More in their officer, then person. Sossius
+One of my place in Syria, his Lieutenant,
+For quicke accumulation of renowne,
+Which he atchiu'd by'th' minute, lost his fauour.
+Who does i'th' Warres more then his Captaine can,
+Becomes his Captaines Captaine: and Ambition
+(The Souldiers vertue) rather makes choise of losse
+Then gaine, which darkens him.
+I could do more to do Anthonius good,
+But 'twould offend him. And in his offence,
+Should my performance perish
+
+   Rom. Thou hast Ventidius that, without the which a
+Souldier and his Sword graunts scarce distinction: thou
+wilt write to Anthony
+
+   Ven. Ile humbly signifie what in his name,
+That magicall word of Warre we haue effected,
+How with his Banners, and his well paid ranks,
+The nere-yet beaten Horse of Parthia,
+We haue iaded out o'th' Field
+
+   Rom. Where is he now?
+  Ven. He purposeth to Athens, whither with what hast
+The waight we must conuay with's, will permit:
+We shall appeare before him. On there, passe along.
+
+Exeunt.
+
+Enter Agrippa at one doore, Enobarbus at another.
+
+  Agri. What are the Brothers parted?
+  Eno. They haue dispatcht with Pompey, he is gone,
+The other three are Sealing. Octauia weepes
+To part from Rome: Caesar is sad, and Lepidus
+Since Pompey's feast, as Menas saies, is troubled
+With the Greene-Sicknesse
+
+   Agri. 'Tis a Noble Lepidus
+
+   Eno. A very fine one: oh, how he loues Caesar
+
+   Agri. Nay but how deerely he adores Mark Anthony
+
+   Eno. Caesar? why he's the Iupiter of men
+
+   Ant. What's Anthony, the God of Iupiter?
+  Eno. Spake you of Caesar? How, the non-pareill?
+  Agri. Oh Anthony, oh thou Arabian Bird!
+  Eno. Would you praise Caesar, say Caesar go no further
+
+   Agr. Indeed he plied them both with excellent praises
+
+   Eno. But he loues Caesar best, yet he loues Anthony:
+Hoo, Hearts, Tongues, Figure,
+Scribes, Bards, Poets, cannot
+Thinke speake, cast, write, sing, number: hoo,
+His loue to Anthony. But as for Caesar,
+Kneele downe, kneele downe, and wonder
+
+   Agri. Both he loues
+
+   Eno. They are his Shards, and he their Beetle, so:
+This is to horse: Adieu, Noble Agrippa
+
+   Agri. Good Fortune worthy Souldier, and farewell.
+Enter Caesar, Anthony, Lepidus, and Octauia.
+
+  Antho. No further Sir
+
+   Caesar. You take from me a great part of my selfe:
+Vse me well in't. Sister, proue such a wife
+As my thoughts make thee, and as my farthest Band
+Shall passe on thy approofe: most Noble Anthony,
+Let not the peece of Vertue which is set
+Betwixt vs, as the Cyment of our loue
+To keepe it builded, be the Ramme to batter
+The Fortresse of it: for better might we
+Haue lou'd without this meane, if on both parts
+This be not cherisht
+
+   Ant. Make me not offended, in your distrust
+
+   Caesar. I haue said
+
+   Ant. You shall not finde,
+Though you be therein curious, the lest cause
+For what you seeme to feare, so the Gods keepe you,
+And make the hearts of Romaines serue your ends:
+We will heere part
+
+
+   Caesar. Farewell my deerest Sister, fare thee well,
+The Elements be kind to thee, and make
+Thy spirits all of comfort: fare thee well
+
+   Octa. My Noble Brother
+
+   Anth. The Aprill's in her eyes, it is Loues spring,
+And these the showers to bring it on: be cheerfull
+
+   Octa. Sir, looke well to my Husbands house: and-
+  Caesar. What Octauia?
+  Octa. Ile tell you in your eare
+
+   Ant. Her tongue will not obey her heart, nor can
+Her heart informe her tongue.
+The Swannes downe feather
+That stands vpon the Swell at the full of Tide:
+And neither way inclines
+
+   Eno. Will Caesar weepe?
+  Agr. He ha's a cloud in's face
+
+   Eno. He were the worse for that were he a Horse, so is
+he being a man
+
+   Agri. Why Enobarbus:
+When Anthony found Iulius Caesar dead,
+He cried almost to roaring: And he wept,
+When at Phillippi he found Brutus slaine
+
+   Eno. That year indeed, he was trobled with a rheume,
+What willingly he did confound, he wail'd,
+Beleeu't till I weepe too
+
+   Caesar. No sweet Octauia,
+You shall heare from me still: the time shall not
+Out-go my thinking on you
+
+   Ant. Come Sir, come,
+Ile wrastle with you in my strength of loue,
+Looke heere I haue you, thus I let you go,
+And giue you to the Gods
+
+   Caesar. Adieu, be happy
+
+   Lep. Let all the number of the Starres giue light
+To thy faire way
+
+   Caesar. Farewell, farewell.
+
+Kisses Octauia.
+
+  Ant. Farewell.
+
+Trumpets sound. Exeunt.
+
+Enter Cleopatra, Charmian, Iras, and Alexas.
+
+  Cleo. Where is the Fellow?
+  Alex. Halfe afeard to come
+
+   Cleo. Go too, go too: Come hither Sir.
+Enter the Messenger as before.
+
+  Alex. Good Maiestie: Herod of Iury dare not looke
+vpon you, but when you are well pleas'd
+
+   Cleo. That Herods head, Ile haue: but how? When
+Anthony is gone, through whom I might commaund it:
+Come thou neere
+
+   Mes. Most gratious Maiestie
+
+   Cleo. Did'st thou behold Octauia?
+  Mes. I dread Queene
+
+   Cleo. Where?
+  Mes. Madam in Rome, I lookt her in the face: and
+saw her led betweene her Brother, and Marke Anthony
+
+   Cleo. Is she as tall as me?
+  Mes. She is not Madam
+
+   Cleo. Didst heare her speake?
+Is she shrill tongu'd or low?
+  Mes. Madam, I heard her speake, she is low voic'd
+
+   Cleo. That's not so good: he cannot like her long
+
+   Char. Like her? Oh Isis: 'tis impossible
+
+   Cleo. I thinke so Charmian: dull of tongue, & dwarfish
+What Maiestie is in her gate, remember
+If ere thou look'st on Maiestie
+
+   Mes. She creepes: her motion, & her station are as one.
+She shewes a body, rather then a life,
+A Statue, then a Breather
+
+   Cleo. Is this certaine?
+  Mes. Or I haue no obseruance
+
+   Cha. Three in Egypt cannot make better note
+
+   Cleo. He's very knowing, I do perceiu't,
+There's nothing in her yet.
+The Fellow ha's good iudgement
+
+   Char. Excellent
+
+   Cleo. Guesse at her yeares, I prythee
+
+   Mess. Madam, she was a widdow
+
+   Cleo. Widdow? Charmian, hearke
+
+   Mes. And I do thinke she's thirtie
+
+   Cle. Bear'st thou her face in mind? is't long or round?
+  Mess. Round, euen to faultinesse
+
+   Cleo. For the most part too, they are foolish that are
+so. Her haire what colour?
+  Mess. Browne Madam: and her forehead
+As low as she would wish it
+
+   Cleo. There's Gold for thee,
+Thou must not take my former sharpenesse ill,
+I will employ thee backe againe: I finde thee
+Most fit for businesse. Go, make thee ready,
+Our Letters are prepar'd
+
+   Char. A proper man
+
+   Cleo. Indeed he is so: I repent me much
+That so I harried him. Why me think's by him,
+This Creature's no such thing
+
+   Char. Nothing Madam
+
+   Cleo. The man hath seene some Maiesty, and should
+know
+
+   Char. Hath he seene Maiestie? Isis else defend: and
+seruing you so long
+
+   Cleopa. I haue one thing more to aske him yet good
+Charmian: but 'tis no matter, thou shalt bring him to me
+where I will write; all may be well enough
+
+   Char. I warrant you Madam.
+
+Exeunt.
+
+Enter Anthony and Octauia.
+
+  Ant. Nay, nay Octauia, not onely that,
+That were excusable, that and thousands more
+Of semblable import, but he hath wag'd
+New Warres 'gainst Pompey. Made his will, and read it,
+To publicke eare, spoke scantly of me,
+When perforce he could not
+But pay me tearmes of Honour: cold and sickly
+He vented then most narrow measure: lent me,
+When the best hint was giuen him: he not took't,
+Or did it from his teeth
+
+   Octaui. Oh my good Lord,
+Beleeue not all, or if you must beleeue,
+Stomacke not all. A more vnhappie Lady,
+If this deuision chance, ne're stood betweene
+Praying for both parts:
+The good Gods wil mocke me presently,
+When I shall pray: Oh blesse my Lord, and Husband,
+Vndo that prayer, by crying out as loud,
+Oh blesse my Brother. Husband winne, winne Brother,
+Prayes, and distroyes the prayer, no midway
+'Twixt these extreames at all
+
+   Ant. Gentle Octauia,
+Let your best loue draw to that point which seeks
+Best to preserue it: if I loose mine Honour,
+I loose my selfe: better I were not yours
+Then your so branchlesse. But as you requested,
+Your selfe shall go between's, the meane time Lady,
+Ile raise the preparation of a Warre
+Shall staine your Brother, make your soonest hast,
+So your desires are yours
+
+   Oct. Thanks to my Lord,
+The Ioue of power make me most weake, most weake,
+Your reconciler: Warres 'twixt you twaine would be,
+As if the world should cleaue, and that slaine men
+Should soalder vp the Rift
+
+   Anth. When it appeeres to you where this begins,
+Turne your displeasure that way, for our faults
+Can neuer be so equall, that your loue
+Can equally moue with them. Prouide your going,
+Choose your owne company, and command what cost
+Your heart he's mind too.
+
+Exeunt.
+
+Enter Enobarbus, and Eros.
+
+  Eno. How now Friend Eros?
+  Eros. Ther's strange Newes come Sir
+
+   Eno. What man?
+  Ero. Caesar & Lepidus haue made warres vpon Pompey
+
+   Eno. This is old, what is the successe?
+  Eros. Caesar hauing made vse of him in the warres
+'gainst Pompey: presently denied him riuality, would not
+let him partake in the glory of the action, and not resting
+here, accuses him of Letters he had formerly wrote to
+Pompey. Vpon his owne appeale seizes him, so the poore
+third is vp, till death enlarge his Confine
+
+   Eno. Then would thou hadst a paire of chaps no more,
+and throw betweene them all the food thou hast, they'le
+grinde the other. Where's Anthony?
+  Eros. He's walking in the garden thus, and spurnes
+The rush that lies before him. Cries Foole Lepidus,
+And threats the throate of that his Officer,
+That murdred Pompey
+
+   Eno. Our great Nauies rig'd
+
+   Eros. For Italy and Caesar, more Domitius,
+My Lord desires you presently: my Newes
+I might haue told heareafter
+
+   Eno. 'Twillbe naught, but let it be: bring me to Anthony
+
+   Eros. Come Sir,
+
+Exeunt.
+
+Enter Agrippa, Mecenas, and Caesar.
+
+  Caes Contemning Rome he ha's done all this, & more
+In Alexandria: heere's the manner of't:
+I'th' Market-place on a Tribunall siluer'd,
+Cleopatra and himselfe in Chaires of Gold
+Were publikely enthron'd: at the feet, sat
+Caesarion whom they call my Fathers Sonne,
+And all the vnlawfull issue, that their Lust
+Since then hath made betweene them. Vnto her,
+He gaue the stablishment of Egypt, made her
+Of lower Syria, Cyprus, Lydia, absolute Queene
+
+   Mece. This in the publike eye?
+  Caesar. I'th' common shew place, where they exercise,
+His Sonnes hither proclaimed the King of Kings,
+Great Media, Parthia, and Armenia
+He gaue to Alexander. To Ptolomy he assign'd,
+Syria, Silicia, and Phoenetia: she
+In th' abiliments of the Goddesse Isis
+That day appeer'd, and oft before gaue audience,
+As 'tis reported so
+
+   Mece. Let Rome be thus inform'd
+
+   Agri. Who queazie with his insolence already,
+Will their good thoughts call from him
+
+   Caesar. The people knowes it,
+And haue now receiu'd his accusations
+
+   Agri. Who does he accuse?
+  Caesar. Caesar, and that hauing in Cicilie
+Sextus Pompeius spoil'd, we had not rated him
+His part o'th' Isle. Then does he say, he lent me
+Some shipping vnrestor'd. Lastly, he frets
+That Lepidus of the Triumpherate, should be depos'd,
+And being that, we detaine all his Reuenue
+
+   Agri. Sir, this should be answer'd
+
+   Caesar. 'Tis done already, and the Messenger gone:
+I haue told him Lepidus was growne too cruell,
+That he his high Authority abus'd,
+And did deserue his change: for what I haue conquer'd,
+I grant him part: but then in his Armenia,
+And other of his conquer'd Kingdoms, I demand the like
+  Mec. Hee'l neuer yeeld to that
+
+   Caes Nor must not then be yeelded to in this.
+Enter Octauia with her Traine.
+
+  Octa. Haile Caesar, and my L[ord]. haile most deere Caesar
+
+   Caesar. That euer I should call thee Cast-away
+
+   Octa. You haue not call'd me so, nor haue you cause
+
+   Caes Why haue you stoln vpon vs thus? you come not
+Like Caesars Sister, The wife of Anthony
+Should haue an Army for an Vsher, and
+The neighes of Horse to tell of her approach,
+Long ere she did appeare. The trees by'th' way
+Should haue borne men, and expectation fainted,
+Longing for what it had not. Nay, the dust
+Should haue ascended to the Roofe of Heauen,
+Rais'd by your populous Troopes: But you are come
+A Market-maid to Rome, and haue preuented
+The ostentation of our loue; which left vnshewne,
+Is often left vnlou'd: we should haue met you
+By Sea, and Land, supplying euery Stage
+With an augmented greeting
+
+   Octa. Good my Lord,
+To come thus was I not constrain'd, but did it
+On my free-will. My Lord Marke Anthony,
+Hearing that you prepar'd for Warre, acquainted
+My greeued eare withall: whereon I begg'd
+His pardon for returne
+
+   Caes Which soone he granted,
+Being an abstract 'tweene his Lust, and him
+
+   Octa. Do not say so, my Lord
+
+   Caes I haue eyes vpon him,
+And his affaires come to me on the wind: wher is he now?
+  Octa. My Lord, in Athens
+
+   Caesar. No my most wronged Sister, Cleopatra
+Hath nodded him to her. He hath giuen his Empire
+Vp to a Whore, who now are leuying
+The Kings o'th' earth for Warre. He hath assembled,
+Bochus the King of Lybia, Archilaus
+Of Cappadocia, Philadelphos King
+Of Paphlagonia: the Thracian King Adullas,
+King Manchus of Arabia, King of Pont,
+Herod of Iewry, Mithridates King
+Of Comageat, Polemen and Amintas,
+The Kings of Mede, and Licoania,
+With a more larger List of Scepters
+
+   Octa. Aye me most wretched,
+That haue my heart parted betwixt two Friends,
+That does afflict each other
+
+   Caes Welcom hither: your Letters did with-holde our breaking
+forth
+Till we perceiu'd both how you were wrong led,
+And we in negligent danger: cheere your heart,
+Be you not troubled with the time, which driues
+O're your content, these strong necessities,
+But let determin'd things to destinie
+Hold vnbewayl'd their way. Welcome to Rome,
+Nothing more deere to me: You are abus'd
+Beyond the marke of thought: and the high Gods
+To do you Iustice, makes his Ministers
+Of vs, and those that loue you. Best of comfort,
+And euer welcom to vs
+
+   Agrip. Welcome Lady
+
+   Mec. Welcome deere Madam,
+Each heart in Rome does loue and pitty you,
+Onely th' adulterous Anthony, most large
+In his abhominations, turnes you off,
+And giues his potent Regiment to a Trull
+That noyses it against vs
+
+   Octa. Is it so sir?
+  Caes Most certaine: Sister welcome: pray you
+Be euer knowne to patience. My deer'st Sister.
+
+Exeunt.
+
+Enter Cleopatra, and Enobarbus.
+
+  Cleo. I will be euen with thee, doubt it not
+
+   Eno. But why, why, why?
+  Cleo. Thou hast forespoke my being in these warres,
+And say'st it is not fit
+
+   Eno. Well: is it, is it
+
+   Cleo. If not, denounc'd against vs, why should not
+we be there in person
+
+   Enob. Well, I could reply: if wee should serue with
+Horse and Mares together, the Horse were meerly lost:
+the Mares would beare a Soldiour and his Horse
+
+   Cleo. What is't you say?
+  Enob. Your presence needs must puzle Anthony,
+Take from his heart, take from his Braine, from's time,
+What should not then be spar'd. He is already
+Traduc'd for Leuity, and 'tis said in Rome,
+That Photinus an Eunuch, and your Maides
+Mannage this warre
+
+   Cleo. Sinke Rome, and their tongues rot
+That speake against vs. A Charge we beare i'th' Warre,
+And as the president of my Kingdome will
+Appeare there for a man. Speake not against it,
+I will not stay behinde.
+Enter Anthony and Camidias.
+
+  Eno. Nay I haue done, here comes the Emperor
+
+   Ant. Is it not strange Camidius,
+That from Tarientum, and Brandusium,
+He could so quickly cut the Ionian Sea,
+And take in Troine. You haue heard on't (Sweet?)
+  Cleo. Celerity is neuer more admir'd,
+Then by the negligent
+
+   Ant. A good rebuke,
+Which might haue well becom'd the best of men
+To taunt at slacknesse. Camidius, wee
+Will fight with him by Sea
+
+   Cleo. By Sea, what else?
+  Cam. Why will my Lord, do so?
+  Ant. For that he dares vs too't
+
+   Enob. So hath my Lord, dar'd him to single fight
+
+   Cam. I, and to wage this Battell at Pharsalia,
+Where Caesar fought with Pompey. But these offers
+Which serue not for his vantage, he shakes off,
+And so should you
+
+   Enob. Your Shippes are not well mann'd,
+Your Marriners are Militers, Reapers, people
+Ingrost by swift Impresse. In Caesars Fleete,
+Are those, that often haue 'gainst Pompey fought,
+Their shippes are yare, yours heauy: no disgrace
+Shall fall you for refusing him at Sea,
+Being prepar'd for Land
+
+   Ant. By Sea, by Sea
+
+   Eno. Most worthy Sir, you therein throw away
+The absolute Soldiership you haue by Land,
+Distract your Armie, which doth most consist
+Of Warre-markt-footmen, leaue vnexecuted
+Your owne renowned knowledge, quite forgoe
+The way which promises assurance, and
+Giue vp your selfe meerly to chance and hazard,
+From firme Securitie
+
+   Ant. Ile fight at Sea
+
+   Cleo. I haue sixty Sailes, Caesar none better
+
+   Ant. Our ouer-plus of shipping will we burne,
+And with the rest full mann'd, from th' head of Action
+Beate th' approaching Caesar. But if we faile,
+We then can doo't at Land.
+Enter a Messenger.
+
+Thy Businesse?
+  Mes. The Newes is true, my Lord, he is descried,
+Caesar ha's taken Toryne
+
+   Ant. Can he be there in person? 'Tis impossible
+Strange, that his power should be. Camidius,
+Our nineteene Legions thou shalt hold by Land,
+And our twelue thousand Horse. Wee'l to our Ship,
+Away my Thetis.
+Enter a Soldiour.
+
+How now worthy Souldier?
+  Soul. Oh Noble Emperor, do not fight by Sea,
+Trust not to rotten plankes: Do you misdoubt
+This Sword, and these my Wounds; let th' Egyptians
+And the Phoenicians go a ducking: wee
+Haue vs'd to conquer standing on the earth,
+And fighting foot to foot
+
+   Ant. Well, well, away.
+
+exit Ant. Cleo. & Enob
+
+   Soul. By Hercules I thinke I am i'th' right
+
+   Cam. Souldier thou art: but his whole action growes
+Not in the power on't: so our Leaders leade,
+And we are Womens mens
+
+   Soul. You keepe by Land the Legions and the Horse
+whole, do you not?
+  Ven. Marcus Octauius, Marcus Iusteus,
+Publicola, and Celius, are for Sea:
+But we keepe whole by Land. This speede of Caesars
+Carries beyond beleefe
+
+   Soul. While he was yet in Rome,
+His power went out in such distractions,
+As beguilde all Spies
+
+   Cam. Who's his Lieutenant, heare you?
+  Soul. They say, one Towrus
+
+   Cam. Well, I know the man.
+Enter a Messenger.
+
+  Mes. The Emperor cals Camidius
+
+   Cam. With Newes the times with Labour,
+And throwes forth each minute, some.
+
+Exeunt.
+
+Enter Caesar with his Army, marching.
+
+  Caes Towrus?
+  Tow. My Lord
+
+   Caes Strike not by Land,
+Keepe whole, prouoke not Battaile
+Till we haue done at Sea. Do not exceede
+The Prescript of this Scroule: Our fortune lyes
+Vpon this iumpe.
+Enter.
+
+Enter Anthony, and Enobarbus.
+
+  Ant. Set we our Squadrons on yond side o'th' Hill,
+In eye of Caesars battaile, from which place
+We may the number of the Ships behold,
+And so proceed accordingly.
+Enter.
+
+Camidius Marcheth with his Land Army one way ouer the stage,
+and Towrus
+the Lieutenant of Caesar the other way: After their going in, is
+heard the
+noise of a Sea fight. Alarum. Enter Enobarbus and Scarus.
+
+  Eno. Naught, naught, al naught, I can behold no longer:
+Thantoniad, the Egyptian Admirall,
+With all their sixty flye, and turne the Rudder:
+To see't, mine eyes are blasted.
+Enter Scarrus.
+
+  Scar. Gods, & Goddesses, all the whol synod of them!
+  Eno. What's thy passion
+
+   Scar. The greater Cantle of the world, is lost
+With very ignorance, we haue kist away
+Kingdomes, and Prouinces
+
+   Eno. How appeares the Fight?
+  Scar. On our side, like the Token'd Pestilence,
+Where death is sure. Yon ribaudred Nagge of Egypt,
+(Whom Leprosie o're-take) i'th' midst o'th' fight,
+When vantage like a payre of Twinnes appear'd
+Both as the same, or rather ours the elder;
+(The Breeze vpon her) like a Cow in Iune,
+Hoists Sailes, and flyes
+
+   Eno. That I beheld:
+Mine eyes did sicken at the sight, and could not
+Indure a further view
+
+   Scar. She once being looft,
+The Noble ruine of her Magicke, Anthony,
+Claps on his Sea-wing, and (like a doting Mallard)
+Leauing the Fight in heighth, flyes after her:
+I neuer saw an Action of such shame;
+Experience, Man-hood, Honor, ne're before,
+Did violate so it selfe
+
+   Enob. Alacke, alacke.
+Enter Camidius
+
+   Cam. Our Fortune on the Sea is out of breath,
+And sinkes most lamentably. Had our Generall
+Bin what he knew himselfe, it had gone well:
+Oh his ha's giuen example for our flight,
+Most grossely by his owne
+
+   Enob. I, are you thereabouts? Why then goodnight
+indeede
+
+   Cam. Toward Peloponnesus are they fled
+
+   Scar. 'Tis easie toot,
+And there I will attend what further comes
+
+   Camid. To Caesar will I render
+My Legions and my Horse, sixe Kings alreadie
+Shew me the way of yeelding
+
+   Eno. Ile yet follow
+The wounded chance of Anthony, though my reason
+Sits in the winde against me.
+Enter Anthony with Attendants.
+
+  Ant. Hearke, the Land bids me tread no more vpon't,
+It is asham'd to beare me. Friends, come hither,
+I am so lated in the world, that I
+Haue lost my way for euer. I haue a shippe,
+Laden with Gold, take that, diuide it: flye,
+And make your peace with Caesar
+
+   Omnes. Fly? Not wee
+
+   Ant. I haue fled my selfe, and haue instructed cowards
+To runne, and shew their shoulders. Friends be gone,
+I haue my selfe resolu'd vpon a course,
+Which has no neede of you. Be gone,
+My Treasure's in the Harbour. Take it: Oh,
+I follow'd that I blush to looke vpon,
+My very haires do mutiny: for the white
+Reproue the browne for rashnesse, and they them
+For feare, and doting. Friends be gone, you shall
+Haue Letters from me to some Friends, that will
+Sweepe your way for you. Pray you looke not sad,
+Nor make replyes of loathnesse, take the hint
+Which my dispaire proclaimes. Let them be left
+Which leaues it selfe, to the Sea-side straight way;
+I will possesse you of that ship and Treasure.
+Leaue me, I pray a little: pray you now,
+Nay do so: for indeede I haue lost command,
+Therefore I pray you, Ile see you by and by.
+
+Sits downe
+
+Enter Cleopatra led by Charmian and Eros.
+
+  Eros. Nay gentle Madam, to him, comfort him
+
+   Iras. Do most deere Queene
+
+   Char. Do, why, what else?
+  Cleo. Let me sit downe: Oh Iuno
+
+   Ant. No, no, no, no, no
+
+   Eros. See you heere, Sir?
+  Ant. Oh fie, fie, fie
+
+   Char. Madam
+
+   Iras. Madam, oh good Empresse
+
+   Eros. Sir, sir
+
+   Ant. Yes my Lord, yes; he at Philippi kept
+His sword e'ne like a dancer, while I strooke
+The leane and wrinkled Cassius, and 'twas I
+That the mad Brutus ended: he alone
+Dealt on Lieutenantry, and no practise had
+In the braue squares of Warre: yet now: no matter
+
+   Cleo. Ah stand by
+
+   Eros. The Queene my Lord, the Queene
+
+   Iras. Go to him, Madam, speake to him,
+Hee's vnqualitied with very shame
+
+   Cleo. Well then, sustaine me: Oh
+
+   Eros. Most Noble Sir arise, the Queene approaches,
+Her head's declin'd, and death will cease her, but
+Your comfort makes the rescue
+
+   Ant. I haue offended Reputation,
+A most vnnoble sweruing
+
+   Eros. Sir, the Queene
+
+   Ant. Oh whether hast thou lead me Egypt, see
+How I conuey my shame, out of thine eyes,
+By looking backe what I haue left behinde
+Stroy'd in dishonor
+
+   Cleo. Oh my Lord, my Lord,
+Forgiue my fearfull sayles, I little thought
+You would haue followed
+
+   Ant. Egypt, thou knew'st too well,
+My heart was to thy Rudder tyed by'th' strings,
+And thou should'st towe me after. O're my spirit
+The full supremacie thou knew'st, and that
+Thy becke, might from the bidding of the Gods
+Command mee
+
+   Cleo. Oh my pardon
+
+   Ant. Now I must
+To the young man send humble Treaties, dodge
+And palter in the shifts of lownes, who
+With halfe the bulke o'th' world plaid as I pleas'd,
+Making, and marring Fortunes. You did know
+How much you were my Conqueror, and that
+My Sword, made weake by my affection, would
+Obey it on all cause
+
+   Cleo. Pardon, pardon
+
+   Ant. Fall not a teare I say, one of them rates
+All that is wonne and lost: Giue me a kisse,
+Euen this repayes me.
+We sent our Schoolemaster, is a come backe?
+Loue I am full of Lead: some Wine
+Within there, and our Viands: Fortune knowes,
+We scorne her most, when most she offers blowes.
+
+Exeunt.
+
+Enter Caesar, Agrippa, and Dollabello, with others.
+
+  Caes Let him appeare that's come from Anthony.
+Know you him
+
+   Dolla. Caesar, 'tis his Schoolemaster,
+An argument that he is pluckt, when hither
+He sends so poore a Pinnion of his Wing,
+Which had superfluous Kings for Messengers,
+Not many Moones gone by.
+Enter Ambassador from Anthony.
+
+  Caesar. Approach, and speake
+
+   Amb. Such as I am, I come from Anthony:
+I was of late as petty to his ends,
+As is the Morne-dew on the Mertle leafe
+To his grand Sea
+
+   Caes Bee't so, declare thine office
+
+   Amb. Lord of his Fortunes he salutes thee, and
+Requires to liue in Egypt, which not granted
+He Lessons his Requests, and to thee sues
+To let him breath betweene the Heauens and Earth
+A priuate man in Athens: this for him.
+Next, Cleopatra does confesse thy Greatnesse,
+Submits her to thy might, and of thee craues
+The Circle of the Ptolomies for her heyres,
+Now hazarded to thy Grace
+
+   Caes For Anthony,
+I haue no eares to his request. The Queene,
+Of Audience, nor Desire shall faile, so shee
+From Egypt driue her all-disgraced Friend,
+Or take his life there. This if shee performe,
+She shall not sue vnheard. So to them both
+
+   Amb. Fortune pursue thee
+
+   Caes Bring him through the Bands:
+To try thy Eloquence, now 'tis time, dispatch,
+From Anthony winne Cleopatra, promise
+And in our Name, what she requires, adde more
+From thine inuention, offers. Women are not
+In their best Fortunes strong; but want will periure
+The ne're touch'd Vestall. Try thy cunning Thidias,
+Make thine owne Edict for thy paines, which we
+Will answer as a Law
+
+   Thid. Caesar. I go
+
+   Caesar. Obserue how Anthony becomes his flaw,
+And what thou think'st his very action speakes
+In euery power that mooues
+
+   Thid. Caesar, I shall.
+
+Exeunt.
+
+Enter Cleopatra, Enobarbus, Charmian, & Iras.
+
+  Cleo. What shall we do, Enobarbus?
+  Eno. Thinke, and dye
+
+   Cleo. Is Anthony, or we in fault for this?
+  Eno. Anthony onely, that would make his will
+Lord of his Reason. What though you fled,
+From that great face of Warre, whose seuerall ranges
+Frighted each other? Why should he follow?
+The itch of his Affection should not then
+Haue nickt his Captain-ship, at such a point,
+When halfe to halfe the world oppos'd, he being
+The meered question? 'Twas a shame no lesse
+Then was his losse, to course your flying Flagges,
+And leaue his Nauy gazing
+
+   Cleo. Prythee peace.
+Enter the Ambassador, with Anthony.
+
+  Ant. Is that his answer?
+  Amb. I my Lord
+
+   Ant. The Queene shall then haue courtesie,
+So she will yeeld vs vp
+
+   Am. He sayes so
+
+   Antho. Let her know't. To the Boy Caesar send this
+grizled head, and he will fill thy wishes to the brimme,
+With Principalities
+
+   Cleo. That head my Lord?
+  Ant. To him againe, tell him he weares the Rose
+Of youth vpon him: from which, the world should note
+Something particular: His Coine, Ships, Legions,
+May be a Cowards, whose Ministers would preuaile
+Vnder the seruice of a Childe, as soone
+As i'th' Command of Caesar. I dare him therefore
+To lay his gay Comparisons a-part,
+And answer me declin'd, Sword against Sword,
+Our selues alone: Ile write it: Follow me
+
+   Eno. Yes like enough: hye battel'd Caesar will
+Vnstate his happinesse, and be Stag'd to'th' shew
+Against a Sworder. I see mens Iudgements are
+A parcell of their Fortunes, and things outward
+Do draw the inward quality after them
+To suffer all alike, that he should dreame,
+Knowing all measures, the full Caesar will
+Answer his emptinesse; Caesar thou hast subdu'de
+His iudgement too.
+Enter a Seruant.
+
+  Ser. A Messenger from Caesar
+
+   Cleo. What no more Ceremony? See my Women,
+Against the blowne Rose may they stop their nose,
+That kneel'd vnto the Buds. Admit him sir
+
+   Eno. Mine honesty, and I, beginne to square,
+The Loyalty well held to Fooles, does make
+Our Faith meere folly: yet he that can endure
+To follow with Allegeance a falne Lord,
+Does conquer him that did his Master conquer,
+And earnes a place i'th' Story.
+Enter Thidias.
+
+  Cleo. Caesars will
+
+   Thid. Heare it apart
+
+   Cleo. None but Friends: say boldly
+
+   Thid. So haply are they Friends to Anthony
+
+   Enob. He needs as many (Sir) as Caesar ha's,
+Or needs not vs. If Caesar please, our Master
+Will leape to be his Friend: For vs you know,
+Whose he is, we are, and that is Caesars
+
+   Thid. So. Thus then thou most renown'd, Caesar intreats,
+Not to consider in what case thou stand'st
+Further then he is Caesars
+
+   Cleo. Go on, right Royall
+
+   Thid. He knowes that you embrace not Anthony
+As you did loue, but as you feared him
+
+   Cleo. Oh
+
+   Thid. The scarre's vpon your Honor, therefore he
+Does pitty, as constrained blemishes,
+Not as deserued
+
+   Cleo. He is a God,
+And knowes what is most right. Mine Honour
+Was not yeelded, but conquer'd meerely
+
+   Eno. To be sure of that, I will aske Anthony.
+Sir, sir, thou art so leakie
+That we must leaue thee to thy sinking, for
+Thy deerest quit thee.
+
+Exit Enob.
+
+  Thid. Shall I say to Caesar,
+What you require of him: for he partly begges
+To be desir'd to giue. It much would please him,
+That of his Fortunes you should make a staffe
+To leane vpon. But it would warme his spirits
+To heare from me you had left Anthony,
+And put your selfe vnder his shrowd, the vniuersal Landlord
+
+   Cleo. What's your name?
+  Thid. My name is Thidias
+
+   Cleo. Most kinde Messenger,
+Say to great Caesar this in disputation,
+I kisse his conqu'ring hand: Tell him, I am prompt
+To lay my Crowne at's feete, and there to kneele.
+Tell him, from his all-obeying breath, I heare
+The doome of Egypt
+
+   Thid. 'Tis your Noblest course:
+Wisedome and Fortune combatting together,
+If that the former dare but what it can,
+No chance may shake it. Giue me grace to lay
+My dutie on your hand
+
+   Cleo. Your Caesars Father oft,
+(When he hath mus'd of taking kingdomes in)
+Bestow'd his lips on that vnworthy place,
+As it rain'd kisses.
+Enter Anthony and Enobarbus.
+
+  Ant. Fauours? By Ioue that thunders. What art thou Fellow?
+  Thid. One that but performes
+The bidding of the fullest man, and worthiest
+To haue command obey'd
+
+   Eno. You will be whipt
+
+   Ant. Approch there: ah you Kite. Now Gods & diuels
+Authority melts from me of late. When I cried hoa,
+Like Boyes vnto a musse, Kings would start forth,
+And cry, your will. Haue you no eares?
+I am Anthony yet. Take hence this Iack, and whip him.
+Enter a Seruant.
+
+  Eno. 'Tis better playing with a Lions whelpe,
+Then with an old one dying
+
+   Ant. Moone and Starres,
+Whip him: wer't twenty of the greatest Tributaries
+That do acknowledge Caesar, should I finde them
+So sawcy with the hand of she heere, what's her name
+Since she was Cleopatra? Whip him Fellowes,
+Till like a Boy you see him crindge his face,
+And whine aloud for mercy. Take him hence
+
+   Thid. Marke Anthony
+
+   Ant. Tugge him away: being whipt
+Bring him againe, the Iacke of Caesars shall
+Beare vs an arrant to him.
+
+Exeunt. with Thidius.
+
+You were halfe blasted ere I knew you: Ha?
+Haue I my pillow left vnprest in Rome,
+Forborne the getting of a lawfull Race,
+And by a Iem of women, to be abus'd
+By one that lookes on Feeders?
+  Cleo. Good my Lord
+
+   Ant. You haue beene a boggeler euer,
+But when we in our viciousnesse grow hard
+(Oh misery on't) the wise Gods seele our eyes
+In our owne filth, drop our cleare iudgements, make vs
+Adore our errors, laugh at's while we strut
+To our confusion
+
+   Cleo. Oh, is't come to this?
+  Ant. I found you as a Morsell, cold vpon
+Dead Caesars Trencher: Nay, you were a Fragment
+Of Gneius Pompeyes, besides what hotter houres
+Vnregistred in vulgar Fame, you haue
+Luxuriously pickt out. For I am sure,
+Though you can guesse what Temperance should be,
+You know not what it is
+
+   Cleo. Wherefore is this?
+  Ant. To let a Fellow that will take rewards,
+And say, God quit you, be familiar with
+My play-fellow, your hand; this Kingly Seale,
+And plighter of high hearts. O that I were
+Vpon the hill of Basan, to out-roare
+The horned Heard, for I haue sauage cause,
+And to proclaime it ciuilly, were like
+A halter'd necke, which do's the Hangman thanke,
+For being yare about him. Is he whipt?
+Enter a Seruant with Thidias.
+
+  Ser. Soundly, my Lord
+
+   Ant. Cried he? and begg'd a Pardon?
+  Ser. He did aske fauour
+
+   Ant. If that thy Father liue, let him repent
+Thou was't not made his daughter, and be thou sorrie
+To follow Caesar in his Triumph, since
+Thou hast bin whipt. For following him, henceforth
+The white hand of a Lady Feauer thee,
+Shake thou to looke on't. Get thee backe to Caesar,
+Tell him thy entertainment: looke thou say
+He makes me angry with him. For he seemes
+Proud and disdainfull, harping on what I am,
+Not what he knew I was. He makes me angry,
+And at this time most easie 'tis to doo't:
+When my good Starres, that were my former guides
+Haue empty left their Orbes, and shot their Fires
+Into th' Abisme of hell. If he mislike,
+My speech, and what is done, tell him he has
+Hiparchus, my enfranched Bondman, whom
+He may at pleasure whip, or hang, or torture,
+As he shall like to quit me. Vrge it thou:
+Hence with thy stripes, be gone.
+
+Exit Thid.
+
+  Cleo. Haue you done yet?
+  Ant. Alacke our Terrene Moone is now Eclipst,
+And it portends alone the fall of Anthony
+
+   Cleo. I must stay his time?
+  Ant. To flatter Caesar, would you mingle eyes
+With one that tyes his points
+
+   Cleo. Not know me yet?
+  Ant. Cold-hearted toward me?
+  Cleo. Ah (Deere) if I be so,
+From my cold heart let Heauen ingender haile,
+And poyson it in the sourse, and the first stone
+Drop in my necke: as it determines so
+Dissolue my life, the next Caesarian smile,
+Till by degrees the memory of my wombe,
+Together with my braue Egyptians all,
+By the discandering of this pelleted storme,
+Lye grauelesse, till the Flies and Gnats of Nyle
+Haue buried them for prey
+
+   Ant. I am satisfied:
+Caesar sets downe in Alexandria, where
+I will oppose his Fate. Our force by Land,
+Hath Nobly held, our seuer'd Nauie too
+Haue knit againe, and Fleete, threatning most Sea-like.
+Where hast thou bin my heart? Dost thou heare Lady?
+If from the Field I shall returne once more
+To kisse these Lips, I will appeare in Blood,
+I, and my Sword, will earne our Chronicle,
+There's hope in't yet
+
+   Cleo. That's my braue Lord
+
+   Ant. I will be trebble-sinewed, hearted, breath'd,
+And fight maliciously: for when mine houres
+Were nice and lucky, men did ransome liues
+Of me for iests: But now, Ile set my teeth,
+And send to darkenesse all that stop me. Come,
+Let's haue one other gawdy night: Call to me
+All my sad Captaines, fill our Bowles once more:
+Let's mocke the midnight Bell
+
+   Cleo. It is my Birth-day,
+I had thought t'haue held it poore. But since my Lord
+Is Anthony againe, I will be Cleopatra
+
+   Ant. We will yet do well
+
+   Cleo. Call all his Noble Captaines to my Lord
+
+   Ant. Do so, wee'l speake to them,
+And to night Ile force
+The Wine peepe through their scarres.
+Come on (my Queene)
+There's sap in't yet. The next time I do fight
+Ile make death loue me: for I will contend
+Euen with his pestilent Sythe.
+
+Exeunt.
+
+  Eno. Now hee'l out-stare the Lightning, to be furious
+Is to be frighted out of feare, and in that moode
+The Doue will pecke the Estridge; and I see still
+A diminution in our Captaines braine,
+Restores his heart; when valour prayes in reason,
+It eates the Sword it fights with: I will seeke
+Some way to leaue him.
+
+Exeunt.
+
+Enter Caesar, Agrippa, & Mecenas with his Army, Caesar reading
+a Letter.
+
+  Caes He calles me Boy, and chides as he had power
+To beate me out of Egypt. My Messenger
+He hath whipt with Rods, dares me to personal Combat.
+Caesar to Anthony: let the old Ruffian know,
+I haue many other wayes to dye: meane time
+Laugh at his Challenge
+
+   Mece. Caesar must thinke,
+When one so great begins to rage, hee's hunted
+Euen to falling. Giue him no breath, but now
+Make boote of his distraction: Neuer anger
+Made good guard for it selfe
+
+   Caes Let our best heads know,
+That to morrow, the last of many Battailes
+We meane to fight. Within our Files there are,
+Of those that seru'd Marke Anthony but late,
+Enough to fetch him in. See it done,
+And Feast the Army, we haue store to doo't,
+And they haue earn'd the waste. Poore Anthony.
+
+Exeunt.
+
+Enter Anthony, Cleopatra, Enobarbus, Charmian, Iras, Alexas,
+with others.
+
+  Ant. He will not fight with me, Domitian?
+  Eno. No?
+  Ant. Why should he not?
+  Eno. He thinks, being twenty times of better fortune,
+He is twenty men to one
+
+   Ant. To morrow Soldier,
+By Sea and Land Ile fight: or I will liue,
+Or bathe my dying Honor in the blood
+Shall make it liue againe. Woo't thou fight well
+
+   Eno. Ile strike, and cry, Take all
+
+   Ant. Well said, come on:
+Call forth my Houshold Seruants, lets to night
+Enter 3 or 4 Seruitors.
+
+Be bounteous at our Meale. Giue me thy hand,
+Thou hast bin rightly honest, so hast thou,
+Thou, and thou, and thou: you haue seru'd me well,
+And Kings haue beene your fellowes
+
+   Cleo. What meanes this?
+  Eno. 'Tis one of those odde tricks which sorow shoots
+Out of the minde
+
+   Ant. And thou art honest too:
+I wish I could be made so many men,
+And all of you clapt vp together, in
+An Anthony: that I might do you seruice,
+So good as you haue done
+
+   Omnes. The Gods forbid
+
+   Ant. Well, my good Fellowes, wait on me to night:
+Scant not my Cups, and make as much of me,
+As when mine Empire was your Fellow too,
+And suffer'd my command
+
+   Cleo. What does he meane?
+  Eno. To make his Followers weepe
+
+   Ant. Tend me to night;
+May be, it is the period of your duty,
+Haply you shall not see me more, or if,
+A mangled shadow. Perchance to morrow,
+You'l serue another Master. I looke on you,
+As one that takes his leaue. Mine honest Friends,
+I turne you not away, but like a Master
+Married to your good seruice, stay till death:
+Tend me to night two houres, I aske no more,
+And the Gods yeeld you for't
+
+   Eno. What meane you (Sir)
+To giue them this discomfort? Looke they weepe,
+And I an Asse, am Onyon-ey'd; for shame,
+Transforme vs not to women
+
+   Ant. Ho, ho, ho:
+Now the Witch take me, if I meant it thus.
+Grace grow where those drops fall (my hearty Friends)
+You take me in too dolorous a sense,
+For I spake to you for your comfort, did desire you
+To burne this night with Torches: Know (my hearts)
+I hope well of to morrow, and will leade you,
+Where rather Ile expect victorious life,
+Then death, and Honor. Let's to Supper, come,
+And drowne consideration.
+
+Exeunt.
+
+Enter a Company of Soldiours.
+
+  1.Sol. Brother, goodnight: to morrow is the day
+
+   2.Sol. It will determine one way: Fare you well.
+Heard you of nothing strange about the streets
+
+   1 Nothing: what newes?
+  2 Belike 'tis but a Rumour, good night to you
+
+   1 Well sir, good night.
+
+They meete other Soldiers.
+
+  2 Souldiers, haue carefull Watch
+
+   1 And you: Goodnight, goodnight.
+
+They place themselues in euery corner of the Stage.
+
+  2 Heere we: and if to morrow
+Our Nauie thriue, I haue an absolute hope
+Our Landmen will stand vp
+
+   1 'Tis a braue Army, and full of purpose.
+
+Musicke of the Hoboyes is vnder the Stage.
+
+  2 Peace, what noise?
+  1 List, list
+
+   2 Hearke
+
+   1 Musicke i'th' Ayre
+
+   3 Vnder the earth
+
+   4 It signes well, do's it not?
+  3 No
+
+   1 Peace I say: What should this meane?
+  2 'Tis the God Hercules, whom Anthony loued,
+Now leaues him
+
+   1 Walke, let's see if other Watchmen
+Do heare what we do?
+  2 How now Maisters?
+
+Speak together.
+
+  Omnes. How now? how now? do you heare this?
+  1 I, is't not strange?
+  3 Do you heare Masters? Do you heare?
+  1 Follow the noyse so farre as we haue quarter.
+Let's see how it will giue off
+
+   Omnes. Content: 'Tis strange.
+
+Exeunt.
+
+Enter Anthony and Cleopatra, with others.
+
+  Ant. Eros, mine Armour Eros
+
+   Cleo. Sleepe a little
+
+   Ant. No my Chucke. Eros, come mine Armor Eros.
+Enter Eros.
+
+Come good Fellow, put thine Iron on,
+If Fortune be not ours to day, it is
+Because we braue her. Come
+
+   Cleo. Nay, Ile helpe too, Anthony.
+What's this for? Ah let be, let be, thou art
+The Armourer of my heart: False, false: This, this,
+Sooth-law Ile helpe: Thus it must bee
+
+   Ant. Well, well, we shall thriue now.
+Seest thou my good Fellow. Go, put on thy defences
+
+   Eros. Briefely Sir
+
+   Cleo. Is not this buckled well?
+  Ant. Rarely, rarely:
+He that vnbuckles this, till we do please
+To daft for our Repose, shall heare a storme.
+Thou fumblest Eros, and my Queenes a Squire
+More tight at this, then thou: Dispatch. O Loue,
+That thou couldst see my Warres to day, and knew'st
+The Royall Occupation, thou should'st see
+A Workeman in't.
+Enter an Armed Soldier.
+
+Good morrow to thee, welcome,
+Thou look'st like him that knowes a warlike Charge:
+To businesse that we loue, we rise betime,
+And go too't with delight
+
+   Soul. A thousand Sir, early though't be, haue on their
+Riueted trim, and at the Port expect you.
+
+Showt. Trumpets Flourish. Enter Captaines, and Souldiers.
+
+  Alex. The Morne is faire: Good morrow Generall
+
+   All. Good morrow Generall
+
+   Ant. 'Tis well blowne Lads.
+This Morning, like the spirit of a youth
+That meanes to be of note, begins betimes.
+So, so: Come giue me that, this way, well-sed.
+Fare thee well Dame, what ere becomes of me,
+This is a Soldiers kisse: rebukeable,
+And worthy shamefull checke it were, to stand
+On more Mechanicke Complement, Ile leaue thee.
+Now like a man of Steele, you that will fight,
+Follow me close, Ile bring you too't: Adieu.
+
+Exeunt.
+
+  Char. Please you retyre to your Chamber?
+  Cleo. Lead me:
+He goes forth gallantly: That he and Caesar might
+Determine this great Warre in single fight;
+Then Anthony; but now. Well on.
+
+Exeunt.
+
+Trumpets sound. Enter Anthony, and Eros.
+
+  Eros. The Gods make this a happy day to Anthony
+
+   Ant. Would thou, & those thy scars had once preuaild
+To make me fight at Land
+
+   Eros. Had'st thou done so,
+The Kings that haue reuolted, and the Soldier
+That has this morning left thee, would haue still
+Followed thy heeles
+
+   Ant. Whose gone this morning?
+  Eros. Who? one euer neere thee, call for Enobarbus,
+He shall not heare thee, or from Caesars Campe,
+Say I am none of thine
+
+   Ant. What sayest thou?
+  Sold. Sir he is with Caesar
+
+   Eros. Sir, his Chests and Treasure he has not with him
+
+   Ant. Is he gone?
+  Sol. Most certaine
+
+   Ant. Go Eros, send his Treasure after, do it,
+Detaine no iot I charge thee: write to him,
+(I will subscribe) gentle adieu's, and greetings;
+Say, that I wish he neuer finde more cause
+To change a Master. Oh my Fortunes haue
+Corrupted honest men. Dispatch Enobarbus.
+
+Exit
+
+Flourish. Enter Agrippa, Caesar, with Enobarbus, and Dollabella.
+
+  Caes Go forth Agrippa, and begin the fight:
+Our will is Anthony be tooke aliue:
+Make it so knowne
+
+   Agrip. Caesar, I shall
+
+   Caesar. The time of vniuersall peace is neere:
+Proue this a prosp'rous day, the three nook'd world
+Shall beare the Oliue freely.
+
+Enter a Messenger.
+
+  Mes. Anthony is come into the Field
+
+   Caes Go charge Agrippa,
+Plant those that haue reuolted in the Vant,
+That Anthony may seeme to spend his Fury
+Vpon himselfe.
+
+Exeunt.
+
+  Enob. Alexas did reuolt, and went to Iewry on
+Affaires of Anthony, there did disswade
+Great Herod to incline himselfe to Caesar,
+And leaue his Master Anthony. For this paines,
+Caesar hath hang'd him: Camindius and the rest
+That fell away, haue entertainment, but
+No honourable trust: I haue done ill,
+Of which I do accuse my selfe so sorely,
+That I will ioy no more.
+
+Enter a Soldier of Caesars.
+
+  Sol. Enobarbus, Anthony
+Hath after thee sent all thy Treasure, with
+His Bounty ouer-plus. The Messenger
+Came on my guard, and at thy Tent is now
+Vnloading of his Mules
+
+   Eno. I giue it you
+
+   Sol. Mocke not Enobarbus,
+I tell you true: Best you saf't the bringer
+Out of the hoast, I must attend mine Office,
+Or would haue done't my selfe. Your Emperor
+Continues still a Ioue.
+
+Exit
+
+  Enob. I am alone the Villaine of the earth,
+And feele I am so most. Oh Anthony,
+Thou Mine of Bounty, how would'st thou haue payed
+My better seruice, when my turpitude
+Thou dost so Crowne with Gold. This blowes my hart,
+If swift thought breake it not: a swifter meane
+Shall out-strike thought, but thought will doo't. I feele
+I fight against thee: No I will go seeke
+Some Ditch, wherein to dye: the foul'st best fits
+My latter part of life.
+
+Enter.
+
+Alarum, Drummes and Trumpets. Enter Agrippa.
+
+  Agrip. Retire, we haue engag'd our selues too farre:
+Caesar himselfe ha's worke, and our oppression
+Exceeds what we expected.
+
+Enter.
+
+Alarums. Enter Anthony, and Scarrus wounded.
+
+  Scar. O my braue Emperor, this is fought indeed,
+Had we done so at first, we had drouen them home
+With clowts about their heads.
+
+Far off.
+
+  Ant. Thou bleed'st apace
+
+   Scar. I had a wound heere that was like a T,
+But now 'tis made an H
+
+   Ant. They do retyre
+
+   Scar. Wee'l beat 'em into Bench-holes, I haue yet
+Roome for six scotches more
+
+Enter Eros.
+
+  Eros. They are beaten Sir, and our aduantage serues
+For a faire victory
+
+   Scar. Let vs score their backes,
+And snatch 'em vp, as we take Hares behinde,
+'Tis sport to maul a Runner
+
+   Ant. I will reward thee
+Once for thy sprightly comfort, and ten-fold
+For thy good valour. Come thee on
+
+   Scar. Ile halt after.
+
+Exeunt.
+
+Alarum. Enter Anthony againe in a March. Scarrus, with others.
+
+  Ant. We haue beate him to his Campe: Runne one
+Before, & let the Queen know of our guests: to morrow
+Before the Sun shall see's, wee'l spill the blood
+That ha's to day escap'd. I thanke you all,
+For doughty handed are you, and haue fought
+Not as you seru'd the Cause, but as't had beene
+Each mans like mine: you haue shewne all Hectors.
+Enter the Citty, clip your Wiues, your Friends,
+Tell them your feats, whil'st they with ioyfull teares
+Wash the congealement from your wounds, and kisse
+The Honour'd-gashes whole.
+Enter Cleopatra.
+
+Giue me thy hand,
+To this great Faiery, Ile commend thy acts,
+Make her thankes blesse thee. Oh thou day o'th' world,
+Chaine mine arm'd necke, leape thou, Attyre and all
+Through proofe of Harnesse to my heart, and there
+Ride on the pants triumphing
+
+   Cleo. Lord of Lords.
+Oh infinite Vertue, comm'st thou smiling from
+The worlds great snare vncaught
+
+   Ant. Mine Nightingale,
+We haue beate them to their Beds.
+What Gyrle, though gray
+Do somthing mingle with our yonger brown, yet ha we
+A Braine that nourishes our Nerues, and can
+Get gole for gole of youth. Behold this man,
+Commend vnto his Lippes thy fauouring hand,
+Kisse it my Warriour: He hath fought to day,
+As if a God in hate of Mankinde, had
+Destroyed in such a shape
+
+   Cleo. Ile giue thee Friend
+An Armour all of Gold: it was a Kings
+
+   Ant. He has deseru'd it, were it Carbunkled
+Like holy Phoebus Carre. Giue me thy hand,
+Through Alexandria make a iolly March,
+
+Beare our hackt Targets, like the men that owe them.
+Had our great Pallace the capacity
+To Campe this hoast, we all would sup together,
+And drinke Carowses to the next dayes Fate
+Which promises Royall perill, Trumpetters
+With brazen dinne blast you the Citties eare,
+Make mingle with our ratling Tabourines,
+That heauen and earth may strike their sounds together,
+Applauding our approach.
+
+Exeunt.
+
+Enter a Centerie, and his Company, Enobarbus followes.
+
+  Cent. If we be not releeu'd within this houre,
+We must returne to'th' Court of Guard: the night
+Is shiny, and they say, we shall embattaile
+By'th' second houre i'th' Morne
+
+   1.Watch. This last day was a shrew'd one too's
+
+   Enob. Oh beare me witnesse night
+
+   2 What man is this?
+  1 Stand close, and list him
+
+   Enob. Be witnesse to me (O thou blessed Moone)
+When men reuolted shall vpon Record
+Beare hatefull memory: poore Enobarbus did
+Before thy face repent
+
+   Cent. Enobarbus?
+  2 Peace: Hearke further
+
+   Enob. Oh Soueraigne Mistris of true Melancholly,
+The poysonous dampe of night dispunge vpon me,
+That Life, a very Rebell to my will,
+May hang no longer on me. Throw my heart
+Against the flint and hardnesse of my fault,
+Which being dried with greefe, will breake to powder,
+And finish all foule thoughts. Oh Anthony,
+Nobler then my reuolt is Infamous,
+Forgiue me in thine owne particular,
+But let the world ranke me in Register
+A Master leauer, and a fugitiue:
+Oh Anthony! Oh Anthony!
+  1 Let's speake to him
+
+   Cent. Let's heare him, for the things he speakes
+May concerne Caesar
+
+   2 Let's do so; but he sleepes
+
+   Cent. Swoonds rather, for so bad a Prayer as his
+Was neuer yet for sleepe
+
+   1 Go we to him
+
+   2 Awake sir, awake, speake to vs
+
+   1 Heare you sir?
+  Cent. The hand of death hath raught him.
+
+Drummes afarre off.
+
+Hearke the Drummes demurely wake the sleepers:
+Let vs beare him to'th' Court of Guard: he is of note:
+Our houre is fully out
+
+   2 Come on then, he may recouer yet.
+
+Exeunt.
+
+Enter Anthony and Scarrus, with their Army.
+
+  Ant. Their preparation is to day by Sea,
+We please them not by Land
+
+   Scar. For both, my Lord
+
+   Ant. I would they'ld fight i'th' Fire, or i'th' Ayre,
+Wee'ld fight there too. But this it is, our Foote
+Vpon the hilles adioyning to the Citty
+Shall stay with vs. Order for Sea is giuen,
+They haue put forth the Hauen:
+Where their appointment we may best discouer,
+And looke on their endeuour.
+
+Exeunt.
+
+Enter Caesar, and his Army.
+
+  Caes But being charg'd, we will be still by Land,
+Which as I tak't we shall, for his best force
+Is forth to Man his Gallies. To the Vales,
+And hold our best aduantage.
+
+Exeunt.
+
+Alarum afarre off, as at a Sea-fight. Enter Anthony, and Scarrus.
+
+  Ant. Yet they are not ioyn'd:
+Where yon'd Pine does stand, I shall discouer all.
+Ile bring thee word straight, how 'tis like to go.
+Enter.
+
+  Scar. Swallowes haue built
+In Cleopatra's Sailes their nests. The Auguries
+Say, they know not, they cannot tell, looke grimly,
+And dare not speake their knowledge. Anthony,
+Is valiant, and deiected, and by starts
+His fretted Fortunes giue him hope and feare
+Of what he has, and has not.
+Enter Anthony.
+
+  Ant. All is lost:
+This fowle Egyptian hath betrayed me:
+My Fleete hath yeelded to the Foe, and yonder
+They cast their Caps vp, and Carowse together
+Like Friends long lost. Triple-turn'd Whore, 'tis thou
+Hast sold me to this Nouice, and my heart
+Makes onely Warres on thee. Bid them all flye:
+For when I am reueng'd vpon my Charme,
+I haue done all. Bid them all flye, be gone.
+Oh Sunne, thy vprise shall I see no more,
+Fortune, and Anthony part heere, euen heere
+Do we shake hands? All come to this? The hearts
+That pannelled me at heeles, to whom I gaue
+Their wishes, do dis-Candie, melt their sweets
+On blossoming Caesar: And this Pine is barkt,
+That ouer-top'd them all. Betray'd I am.
+Oh this false Soule of Egypt! this graue Charme,
+Whose eye beck'd forth my Wars, & cal'd them home:
+Whose Bosome was my Crownet, my chiefe end,
+Like a right Gypsie, hath at fast and loose
+Beguil'd me, to the very heart of losse.
+What Eros, Eros?
+Enter Cleopatra.
+
+Ah, thou Spell! Auaunt
+
+   Cleo. Why is my Lord enrag'd against his Loue?
+  Ant. Vanish, or I shall giue thee thy deseruing,
+And blemish Caesars Triumph. Let him take thee,
+And hoist thee vp to the shouting Plebeians,
+Follow his Chariot, like the greatest spot
+Of all thy Sex. Most Monster-like be shewne
+For poor'st Diminitiues, for Dolts, and let
+Patient Octauia, plough thy visage vp
+With her prepared nailes.
+
+exit Cleopatra.
+
+'Tis well th'art gone,
+If it be well to liue. But better 'twere
+Thou fell'st into my furie, for one death
+Might haue preuented many. Eros, hoa!
+The shirt of Nessus is vpon me, teach me
+Alcides, thou mine Ancestor, thy rage.
+Let me lodge Licas on the hornes o'th' Moone,
+And with those hands that graspt the heauiest Club,
+Subdue my worthiest selfe: The Witch shall die,
+To the young Roman Boy she hath sold me, and I fall
+Vnder this plot: She dyes for't. Eros hoa?
+Enter.
+
+Enter Cleopatra, Charmian, Iras, Mardian.
+
+  Cleo. Helpe me my women: Oh hee's more mad
+Then Telamon for his Shield, the Boare of Thessaly
+Was neuer so imbost
+
+   Char. To'th' Monument, there locke your selfe,
+And send him word you are dead:
+The Soule and Body riue not more in parting,
+Then greatnesse going off
+
+   Cleo. To'th' Monument:
+Mardian, go tell him I haue slaine my selfe:
+Say, that the last I spoke was Anthony,
+And word it (prythee) pitteously. Hence Mardian,
+And bring me how he takes my death to'th' Monument.
+
+Exeunt.
+
+Enter Anthony, and Eros.
+
+  Ant. Eros, thou yet behold'st me?
+  Eros. I Noble Lord
+
+   Ant. Sometime we see a clowd that's Dragonish,
+A vapour sometime, like a Beare, or Lyon,
+A toward Cittadell, a pendant Rocke,
+A forked Mountaine, or blew Promontorie
+With Trees vpon't, that nodde vnto the world,
+And mocke our eyes with Ayre.
+Thou hast seene these Signes,
+They are blacke Vespers Pageants
+
+   Eros. I my Lord
+
+   Ant. That which is now a Horse, euen with a thoght
+the Racke dislimes, and makes it indistinct
+As water is in water
+
+   Eros. It does my Lord
+
+   Ant. My good Knaue Eros, now thy Captaine is
+Euen such a body: Heere I am Anthony,
+Yet cannot hold this visible shape (my Knaue)
+I made these warres for Egypt, and the Queene,
+Whose heart I thought I had, for she had mine:
+Which whil'st it was mine, had annext vntoo't
+A Million moe, (now lost:) shee Eros has
+Packt Cards with Caesars, and false plaid my Glory
+Vnto an Enemies triumph.
+Nay, weepe not gentle Eros, there is left vs
+Our selues to end our selues.
+Enter Mardian.
+
+Oh thy vilde Lady, she has rob'd me of my Sword
+
+   Mar. No Anthony,
+My Mistris lou'd thee, and her Fortunes mingled
+with thine intirely
+
+   Ant. Hence sawcy Eunuch peace, she hath betraid me,
+And shall dye the death
+
+   Mar. Death of one person, can be paide but once,
+And that she ha's discharg'd. What thou would'st do
+Is done vnto thy hand: the last she spake
+Was Anthony, most Noble Anthony.
+Then in the midd'st a tearing grone did breake
+The name of Anthony: it was diuided
+Betweene her heart, and lips: she tendred life
+Thy name so buried in her
+
+   Ant. Dead then?
+  Mar. Dead
+
+   Ant. Vnarme Eros, the long dayes taske is done,
+And we must sleepe: That thou depart'st hence safe
+Does pay thy labour richly: Go.
+
+exit Mardian.
+
+Off, plucke off,
+The seuen-fold shield of Aiax cannot keepe
+The battery from my heart. Oh cleaue my sides.
+Heart, once be stronger then thy Continent,
+Cracke thy fraile Case. Apace Eros, apace;
+No more a Soldier: bruised peeces go,
+You haue bin Nobly borne. From me awhile.
+
+exit Eros
+
+I will o're-take thee Cleopatra, and
+Weepe for my pardon. So it must be, for now
+All length is Torture: since the Torch is out,
+Lye downe and stray no farther. Now all labour
+Marres what it does: yea, very force entangles
+It selfe with strength: Seale then and all is done.
+Eros? I come my Queene. Eros? Stay for me,
+Where Soules do couch on Flowers, wee'l hand in hand,
+And with our sprightly Port make the Ghostes gaze:
+Dido, and her Aeneas shall want Troopes,
+And all the haunt be ours. Come Eros, Eros.
+Enter Eros.
+
+  Eros. What would my Lord?
+  Ant. Since Cleopatra dyed,
+I haue liu'd in such dishonour, that the Gods
+Detest my basenesse. I, that with my Sword,
+Quarter'd the World, and o're greene Neptunes backe
+With Ships, made Cities; condemne my selfe, to lacke
+The Courage of a Woman, lesse Noble minde
+Then she which by her death, our Caesar telles
+I am Conqueror of my selfe. Thou art sworne Eros,
+That when the exigent should come, which now
+Is come indeed: When I should see behinde me
+Th' ineuitable prosecution of disgrace and horror,
+That on my command, thou then would'st kill me.
+Doo't, the time is come: Thou strik'st not me,
+'Tis Caesar thou defeat'st. Put colour in thy Cheeke
+
+   Eros. The Gods with-hold me,
+Shall I do that which all the Parthian Darts,
+(Though Enemy) lost ayme, and could not
+
+   Ant. Eros,
+Would'st thou be window'd in great Rome, and see
+Thy Master thus with pleacht Armes, bending downe
+His corrigible necke, his face subdu'de
+To penetratiue shame; whil'st the wheel'd seate
+Of Fortunate Caesar drawne before him, branded
+His Basenesse that ensued
+
+   Eros. I would not see't
+
+   Ant. Come then: for with a wound I must be cur'd.
+Draw that thy honest Sword, which thou hast worne
+Most vsefull for thy Country
+
+   Eros. Oh sir, pardon me
+
+   Ant. When I did make thee free, swor'st y not then
+To do this when I bad thee? Do it at once,
+Or thy precedent Seruices are all
+But accidents vnpurpos'd. Draw, and come
+
+   Eros. Turne from me then that Noble countenance,
+Wherein the worship of the whole world lyes
+
+   Ant. Loe thee
+
+   Eros. My sword is drawne
+
+   Ant. Then let it do at once
+The thing why thou hast drawne it
+
+   Eros. My deere Master,
+My Captaine, and my Emperor. Let me say
+Before I strike this bloody stroke, Farwell
+
+   Ant. 'Tis said man, and farewell
+
+   Eros. Farewell great Chiefe. Shall I strike now?
+  Ant. Now Eros.
+
+Killes himselfe.
+
+  Eros. Why there then:
+Thus I do escape the sorrow of Anthonies death
+
+   Ant. Thrice-Nobler then my selfe,
+Thou teachest me: Oh valiant Eros, what
+I should, and thou could'st not, my Queene and Eros
+Haue by their braue instruction got vpon me
+A Noblenesse in Record. But I will bee
+A Bride-groome in my death, and run intoo't
+As to a Louers bed. Come then, and Eros,
+Thy Master dies thy Scholler; to do thus
+I learnt of thee. How, not dead? Not dead?
+The Guard, how? Oh dispatch me.
+Enter a Guard.
+
+  1.Guard. What's the noise?
+  Ant. I haue done my worke ill Friends:
+Oh make an end of what I haue begun
+
+   2 The Starre is falne
+
+   1 And time is at his Period
+
+   All. Alas, and woe
+
+   Ant. Let him that loues me, strike me dead
+
+   1 Not I
+
+   2 Nor I
+
+   3 Nor any one.
+
+Exeunt.
+
+  Decretus. Thy death and fortunes bid thy folowers fly
+This sword but shewne to Caesar with this tydings,
+Shall enter me with him.
+Enter Diomedes.
+
+  Dio. Where's Anthony?
+  Decre. There Diomed there
+
+   Diom. Liues he: wilt thou not answer man?
+  Ant. Art thou there Diomed?
+Draw thy sword, and giue mee,
+Suffising strokes for death
+
+   Diom. Most absolute Lord:
+My Mistris Cleopatra sent me to thee
+
+   Ant. When did shee send thee?
+  Diom. Now my Lord
+
+   Anth. Where is she?
+  Diom. Lockt in her Monument: she had a Prophesying feare
+Of what hath come to passe: for when she saw
+(Which neuer shall be found) you did suspect
+She had dispos'd with Caesar, and that your rage
+Would not be purg'd, she sent you word she was dead:
+But fearing since how it might worke, hath sent
+Me to proclaime the truth, and I am come
+I dread, too late
+
+   Ant. Too late good Diomed: call my Guard I prythee
+
+   Dio. What hoa: the Emperors Guard,
+The Guard, what hoa? Come, your Lord calles.
+Enter 4. or 5. of the Guard of Anthony.
+
+  Ant. Beare me good Friends where Cleopatra bides,
+'Tis the last seruice that I shall command you
+
+   1 Woe, woe are we sir, you may not liue to weare
+All your true Followers out
+
+   All. Most heauy day
+
+   Ant. Nay good my Fellowes, do not please sharp fate
+To grace it with your sorrowes. Bid that welcome
+Which comes to punish vs, and we punish it
+Seeming to beare it lightly. Take me vp,
+I haue led you oft, carry me now good Friends,
+And haue my thankes for all.
+
+Exit bearing Anthony
+
+Enter Cleopatra, and her Maides aloft, with Charmian & Iras.
+
+  Cleo. Oh Charmian, I will neuer go from hence
+
+   Char. Be comforted deere Madam
+
+   Cleo. No, I will not:
+All strange and terrible euents are welcome,
+But comforts we dispise; our size of sorrow
+Proportion'd to our cause, must be as great
+As that which makes it.
+Enter Diomed.
+
+How now? is he dead?
+  Diom. His death's vpon him, but not dead.
+Looke out o'th other side your Monument,
+His Guard haue brought him thither.
+Enter Anthony, and the Guard.
+
+  Cleo. Oh Sunne,
+Burne the great Sphere thou mou'st in, darkling stand
+The varrying shore o'th' world. O Antony, Antony, Antony
+Helpe Charmian, helpe Iras helpe: helpe Friends
+Below, let's draw him hither
+
+   Ant. Peace,
+Not Caesars Valour hath o'rethrowne Anthony,
+But Anthonie's hath Triumpht on it selfe
+
+   Cleo. So it should be,
+That none but Anthony should conquer Anthony,
+But woe 'tis so
+
+   Ant. I am dying Egypt, dying; onely
+I heere importune death a-while, vntill
+Of many thousand kisses, the poore last
+I lay vpon thy lippes
+
+   Cleo. I dare not Deere,
+Deere my Lord pardon: I dare not,
+Least I be taken: nor th' Imperious shew
+Of the full-Fortun'd Caesar, euer shall
+Be brooch'd with me, if Knife, Drugges, Serpents haue
+Edge, sting, or operation. I am safe:
+Your Wife Octauia, with her modest eyes,
+And still Conclusion, shall acquire no Honour
+Demuring vpon me: but come, come Anthony,
+Helpe me my women, we must draw thee vp:
+Assist good Friends
+
+   Ant. Oh quicke, or I am gone
+
+   Cleo. Heere's sport indeede:
+How heauy weighes my Lord?
+Our strength is all gone into heauinesse,
+That makes the waight. Had I great Iuno's power,
+The strong wing'd Mercury should fetch thee vp,
+And set thee by Ioues side. Yet come a little,
+Wishers were euer Fooles. Oh come, come, come,
+
+They heaue Anthony aloft to Cleopatra.
+
+And welcome, welcome. Dye when thou hast liu'd,
+Quicken with kissing: had my lippes that power,
+Thus would I weare them out
+
+   All. A heauy sight
+
+   Ant. I am dying Egypt, dying.
+Giue me some Wine, and let me speake a little
+
+   Cleo. No, let me speake, and let me rayle so hye,
+That the false Huswife Fortune, breake her Wheele,
+Prouok'd by my offence
+
+   Ant. One word (sweet Queene)
+Of Caesar seeke your Honour, with your safety. Oh
+
+   Cleo. They do not go together
+
+   Ant. Gentle heare me,
+None about Caesar trust, but Proculeius
+
+   Cleo. My Resolution, and my hands, Ile trust,
+None about Caesar
+
+   Ant. The miserable change now at my end,
+Lament nor sorrow at: but please your thoughts
+In feeding them with those my former Fortunes
+Wherein I liued. The greatest Prince o'th' world,
+The Noblest: and do now not basely dye,
+Not Cowardly put off my Helmet to
+My Countreyman. A Roman, by a Roman
+Valiantly vanquish'd. Now my Spirit is going,
+I can no more
+
+   Cleo. Noblest of men, woo't dye?
+Hast thou no care of me, shall I abide
+In this dull world, which in thy absence is
+No better then a Stye? Oh see my women:
+The Crowne o'th' earth doth melt. My Lord?
+Oh wither'd is the Garland of the Warre,
+The Souldiers pole is falne: young Boyes and Gyrles
+Are leuell now with men: The oddes is gone,
+And there is nothing left remarkeable
+Beneath the visiting Moone
+
+   Char. Oh quietnesse, Lady
+
+   Iras. She's dead too, our Soueraigne
+
+   Char. Lady
+
+   Iras. Madam
+
+   Char. Oh Madam, Madam, Madam
+
+   Iras. Royall Egypt: Empresse
+
+   Char. Peace, peace, Iras
+
+   Cleo. No more but in a Woman, and commanded
+By such poore passion, as the Maid that Milkes,
+And doe's the meanest chares. It were for me,
+To throw my Scepter at the iniurious Gods,
+To tell them that this World did equall theyrs,
+Till they had stolne our Iewell. All's but naught:
+Patience is sortish, and impatience does
+Become a Dogge that's mad: Then is it sinne,
+To rush into the secret house of death,
+Ere death dare come to vs. How do you Women?
+What, what good cheere? Why how now Charmian?
+My Noble Gyrles? Ah Women, women! Looke
+Our Lampe is spent, it's out. Good sirs, take heart,
+Wee'l bury him: And then, what's braue, what's Noble,
+Let's doo't after the high Roman fashion,
+And make death proud to take vs. Come, away,
+This case of that huge Spirit now is cold.
+Ah Women, Women! Come, we haue no Friend
+But Resolution, and the breefest end.
+
+Exeunt., bearing of Anthonies body.
+
+Enter Caesar, Agrippa, Dollabella, Menas, with his Counsell of
+Warre.
+
+  Caesar. Go to him Dollabella, bid him yeeld,
+Being so frustrate, tell him,
+He mockes the pawses that he makes
+
+   Dol. Caesar, I shall.
+Enter Decretas with the sword of Anthony.
+
+  Caes Wherefore is that? And what art thou that dar'st
+Appeare thus to vs?
+  Dec. I am call'd Decretas,
+Marke Anthony I seru'd, who best was worthie
+Best to be seru'd: whil'st he stood vp, and spoke
+He was my Master, and I wore my life
+To spend vpon his haters. If thou please
+To take me to thee, as I was to him,
+Ile be to Caesar: if y pleasest not, I yeild thee vp my life
+
+   Caesar. What is't thou say'st?
+  Dec. I say (Oh Caesar) Anthony is dead
+
+   Caesar. The breaking of so great a thing, should make
+A greater cracke. The round World
+Should haue shooke Lyons into ciuill streets,
+And Cittizens to their dennes. The death of Anthony
+Is not a single doome, in the name lay
+A moity of the world
+
+   Dec. He is dead Caesar,
+Not by a publike minister of Iustice,
+Nor by a hyred Knife, but that selfe-hand
+Which writ his Honor in the Acts it did,
+Hath with the Courage which the heart did lend it,
+Splitted the heart. This is his Sword,
+I robb'd his wound of it: behold it stain'd
+With his most Noble blood
+
+   Caes Looke you sad Friends,
+The Gods rebuke me, but it is Tydings
+To wash the eyes of Kings
+
+   Dol. And strange it is,
+That Nature must compell vs to lament
+Our most persisted deeds
+
+   Mec. His taints and Honours, wag'd equal with him
+
+   Dola. A Rarer spirit neuer
+Did steere humanity: but you Gods will giue vs
+Some faults to make vs men. Caesar is touch'd
+
+   Mec. When such a spacious Mirror's set before him,
+He needes must see him selfe
+
+   Caesar. Oh Anthony,
+I haue followed thee to this, but we do launch
+Diseases in our Bodies. I must perforce
+Haue shewne to thee such a declining day,
+Or looke on thine: we could not stall together,
+In the whole world. But yet let me lament
+With teares as Soueraigne as the blood of hearts,
+That thou my Brother, my Competitor,
+In top of all designe; my Mate in Empire,
+Friend and Companion in the front of Warre,
+The Arme of mine owne Body, and the Heart
+Where mine his thoughts did kindle; that our Starres
+Vnreconciliable, should diuide our equalnesse to this.
+Heare me good Friends,
+But I will tell you at some meeter Season,
+The businesse of this man lookes out of him,
+Wee'l heare him what he sayes.
+Enter an aegyptian.
+
+Whence are you?
+  aegyp. A poore Egyptian yet, the Queen my mistris
+Confin'd in all, she has her Monument
+Of thy intents, desires, instruction,
+That she preparedly may frame her selfe
+To'th' way shee's forc'd too
+
+   Caesar. Bid her haue good heart,
+She soone shall know of vs, by some of ours,
+How honourable, and how kindely Wee
+Determine for her. For Caesar cannot leaue to be vngentle
+  aegypt. So the Gods preserue thee.
+Enter.
+
+  Caes Come hither Proculeius. Go and say
+We purpose her no shame: giue her what comforts
+The quality of her passion shall require;
+Least in her greatnesse, by some mortall stroke
+She do defeate vs. For her life in Rome,
+Would be eternall in our Triumph: Go,
+And with your speediest bring vs what she sayes,
+And how you finde of her
+
+   Pro. Caesar I shall.
+
+Exit Proculeius.
+
+  Caes Gallus, go you along: where's Dolabella, to second
+Proculeius?
+  All. Dolabella
+
+   Caes Let him alone: for I remember now
+How hee's imployd: he shall in time be ready.
+Go with me to my Tent, where you shall see
+How hardly I was drawne into this Warre,
+How calme and gentle I proceeded still
+In all my Writings. Go with me, and see
+What I can shew in this.
+
+Exeunt.
+
+Enter Cleopatra, Charmian, Iras, and Mardian.
+
+  Cleo. My desolation does begin to make
+A better life: Tis paltry to be Caesar:
+Not being Fortune, hee's but Fortunes knaue,
+A minister of her will: and it is great
+To do that thing that ends all other deeds,
+Which shackles accedents, and bolts vp change;
+Which sleepes, and neuer pallates more the dung,
+The beggers Nurse, and Caesars.
+Enter Proculeius.
+
+  Pro. Caesar sends greeting to the Queene of Egypt,
+And bids thee study on what faire demands
+Thou mean'st to haue him grant thee
+
+   Cleo. What's thy name?
+  Pro. My name is Proculeius
+
+   Cleo. Anthony
+Did tell me of you, bad me trust you, but
+I do not greatly care to be deceiu'd
+That haue no vse for trusting. If your Master
+Would haue a Queene his begger, you must tell him,
+That Maiesty to keepe decorum, must
+No lesse begge then a Kingdome: If he please
+To giue me conquer'd Egypt for my Sonne,
+He giues me so much of mine owne, as I
+Will kneele to him with thankes
+
+   Pro. Be of good cheere:
+Y'are falne into a Princely hand, feare nothing,
+Make your full reference freely to my Lord,
+Who is so full of Grace, that it flowes ouer
+On all that neede. Let me report to him
+Your sweet dependancie, and you shall finde
+A Conqueror that will pray in ayde for kindnesse,
+Where he for grace is kneel'd too
+
+   Cleo. Pray you tell him,
+I am his Fortunes Vassall, and I send him
+The Greatnesse he has got. I hourely learne
+A Doctrine of Obedience, and would gladly
+Looke him i'th' Face
+
+   Pro. This Ile report (deere Lady)
+Haue comfort, for I know your plight is pittied
+Of him that caus'd it
+
+   Pro. You see how easily she may be surpriz'd:
+Guard her till Caesar come
+
+   Iras. Royall Queene
+
+   Char. Oh Cleopatra, thou art taken Queene
+
+   Cleo. Quicke, quicke, good hands
+
+   Pro. Hold worthy Lady, hold:
+Doe not your selfe such wrong, who are in this
+Releeu'd, but not betraid
+
+   Cleo. What of death too that rids our dogs of languish
+  Pro. Cleopatra, do not abuse my Masters bounty, by
+Th' vndoing of your selfe: Let the World see
+His Noblenesse well acted, which your death
+Will neuer let come forth
+
+   Cleo. Where art thou Death?
+Come hither come; Come, come, and take a Queene
+Worth many Babes and Beggers
+
+   Pro. Oh temperance Lady
+
+   Cleo. Sir, I will eate no meate, Ile not drinke sir,
+If idle talke will once be necessary
+Ile not sleepe neither. This mortall house Ile ruine,
+Do Caesar what he can. Know sir, that I
+Will not waite pinnion'd at your Masters Court,
+Nor once be chastic'd with the sober eye
+Of dull Octauia. Shall they hoyst me vp,
+And shew me to the showting Varlotarie
+Of censuring Rome? Rather a ditch in Egypt.
+Be gentle graue vnto me, rather on Nylus mudde
+Lay me starke-nak'd, and let the water-Flies
+Blow me into abhorring; rather make
+My Countries high pyramides my Gibbet,
+And hang me vp in Chaines
+
+   Pro. You do extend
+These thoughts of horror further then you shall
+Finde cause in Caesar.
+Enter Dolabella.
+
+  Dol. Proculeius,
+What thou hast done, thy Master Caesar knowes,
+And he hath sent for thee: for the Queene,
+Ile take her to my Guard
+
+   Pro. So Dolabella,
+It shall content me best: Be gentle to her,
+To Caesar I will speake, what you shall please,
+If you'l imploy me to him.
+
+Exit Proculeius
+
+  Cleo. Say, I would dye
+
+   Dol. Most Noble Empresse, you haue heard of me
+
+   Cleo. I cannot tell
+
+   Dol. Assuredly you know me
+
+   Cleo. No matter sir, what I haue heard or knowne:
+You laugh when Boyes or Women tell their Dreames,
+Is't not your tricke?
+  Dol. I vnderstand not, Madam
+
+   Cleo. I dreampt there was an Emperor Anthony.
+Oh such another sleepe, that I might see
+But such another man
+
+   Dol. If it might please ye
+
+   Cleo. His face was as the Heau'ns, and therein stucke
+A Sunne and Moone, which kept their course, & lighted
+The little o'th' earth
+
+   Dol. Most Soueraigne Creature
+
+   Cleo. His legges bestrid the Ocean, his rear'd arme
+Crested the world: His voyce was propertied
+As all the tuned Spheres, and that to Friends:
+But when he meant to quaile, and shake the Orbe,
+He was as ratling Thunder. For his Bounty,
+There was no winter in't. An Anthony it was,
+That grew the more by reaping: His delights
+Were Dolphin-like, they shew'd his backe aboue
+The Element they liu'd in: In his Liuery
+Walk'd Crownes and Crownets: Realms & Islands were
+As plates dropt from his pocket
+
+   Dol. Cleopatra
+
+   Cleo. Thinke you there was, or might be such a man
+As this I dreampt of?
+  Dol. Gentle Madam, no
+
+   Cleo. You Lye vp to the hearing of the Gods:
+But if there be, not euer were one such
+It's past the size of dreaming: Nature wants stuffe
+To vie strange formes with fancie, yet t' imagine
+An Anthony were Natures peece, 'gainst Fancie,
+Condemning shadowes quite
+
+   Dol. Heare me, good Madam:
+Your losse is as your selfe, great; and you beare it
+As answering to the waight, would I might neuer
+Ore-take pursu'de successe: But I do feele
+By the rebound of yours, a greefe that suites
+My very heart at roote
+
+   Cleo. I thanke you sir:
+Know you what Caesar meanes to do with me?
+  Dol. I am loath to tell you what, I would you knew
+
+   Cleo. Nay pray you sir
+
+   Dol. Though he be Honourable
+
+   Cleo. Hee'l leade me then in Triumph
+
+   Dol. Madam he will, I know't.
+
+Flourish.
+
+Enter Proculeius, Caesar, Gallus, Mecenas, and others of his
+Traine.
+
+  All. Make way there Caesar
+
+   Caes Which is the Queene of Egypt
+
+   Dol. It is the Emperor Madam.
+
+Cleo. kneeles.
+
+  Caesar. Arise, you shall not kneele:
+I pray you rise, rise Egypt
+
+   Cleo. Sir, the Gods will haue it thus,
+My Master and my Lord I must obey,
+  Caesar. Take to you no hard thoughts,
+The Record of what iniuries you did vs,
+Though written in our flesh, we shall remember
+As things but done by chance
+
+   Cleo. Sole Sir o'th' World,
+I cannot proiect mine owne cause so well
+To make it cleare, but do confesse I haue
+Bene laden with like frailties, which before
+Haue often sham'd our Sex
+
+   Caesar. Cleopatra know,
+We will extenuate rather then inforce:
+If you apply your selfe to our intents,
+Which towards you are most gentle, you shall finde
+A benefit in this change: but if you seeke
+To lay on me a Cruelty, by taking
+Anthonies course, you shall bereaue your selfe
+Of my good purposes, and put your children
+To that destruction which Ile guard them from,
+If thereon you relye. Ile take my leaue
+
+   Cleo. And may through all the world: tis yours, & we
+your Scutcheons, and your signes of Conquest shall
+Hang in what place you please. Here my good Lord
+
+   Caesar. You shall aduise me in all for Cleopatra
+
+   Cleo. This is the breefe: of Money, Plate, & Iewels
+I am possest of, 'tis exactly valewed,
+Not petty things admitted. Where's Seleucus?
+  Seleu. Heere Madam
+
+   Cleo. This is my Treasurer, let him speake (my Lord)
+Vpon his perill, that I haue reseru'd
+To my selfe nothing. Speake the truth Seleucus
+
+   Seleu. Madam, I had rather seele my lippes,
+Then to my perill speake that which is not
+
+   Cleo. What haue I kept backe
+
+   Sel. Enough to purchase what you haue made known
+  Caesar. Nay blush not Cleopatra, I approue
+Your Wisedome in the deede
+
+   Cleo. See Caesar: Oh behold,
+How pompe is followed: Mine will now be yours,
+And should we shift estates, yours would be mine.
+The ingratitude of this Seleucus, does
+Euen make me wilde. Oh Slaue, of no more trust
+Then loue that's hyr'd? What goest thou backe, y shalt
+Go backe I warrant thee: but Ile catch thine eyes
+Though they had wings. Slaue, Soule-lesse, Villain, Dog.
+O rarely base!
+  Caesar. Good Queene, let vs intreat you
+
+   Cleo. O Caesar, what a wounding shame is this,
+That thou vouchsafing heere to visit me,
+Doing the Honour of thy Lordlinesse
+To one so meeke, that mine owne Seruant should
+Parcell the summe of my disgraces, by
+Addition of his Enuy. Say (good Caesar)
+That I some Lady trifles haue reseru'd,
+Immoment toyes, things of such Dignitie
+As we greet moderne Friends withall, and say
+Some Nobler token I haue kept apart
+For Liuia and Octauia, to induce
+Their mediation, must I be vnfolded
+With one that I haue bred: The Gods! it smites me
+Beneath the fall I haue. Prythee go hence,
+Or I shall shew the Cynders of my spirits
+Through th' Ashes of my chance: Wer't thou a man,
+Thou would'st haue mercy on me
+
+   Caesar. Forbeare Seleucus
+
+   Cleo. Be it known, that we the greatest are mis-thoght
+For things that others do: and when we fall,
+We answer others merits, in our name
+Are therefore to be pittied
+
+   Caesar. Cleopatra,
+Not what you haue reseru'd, nor what acknowledg'd
+Put we i'th' Roll of Conquest: still bee't yours,
+Bestow it at your pleasure, and beleeue
+Caesars no Merchant, to make prize with you
+Of things that Merchants sold. Therefore be cheer'd,
+Make not your thoughts your prisons: No deere Queen,
+For we intend so to dispose you, as
+Your selfe shall giue vs counsell: Feede, and sleepe:
+Our care and pitty is so much vpon you,
+That we remaine your Friend, and so adieu
+
+   Cleo. My Master, and my Lord
+
+   Caesar. Not so: Adieu.
+
+Flourish. Exeunt Caesar, and his Traine.
+
+  Cleo. He words me Gyrles, he words me,
+That I should not be Noble to my selfe.
+But hearke thee Charmian
+
+   Iras. Finish good Lady, the bright day is done,
+And we are for the darke
+
+   Cleo. Hye thee againe,
+I haue spoke already, and it is prouided,
+Go put it to the haste
+
+   Char. Madam, I will.
+Enter Dolabella.
+
+  Dol. Where's the Queene?
+  Char. Behold sir
+
+   Cleo. Dolabella
+
+   Dol. Madam, as thereto sworne, by your command
+(Which my loue makes Religion to obey)
+I tell you this: Caesar through Syria
+Intends his iourney, and within three dayes,
+You with your Children will he send before,
+Make your best vse of this. I haue perform'd
+Your pleasure, and my promise
+
+   Cleo. Dolabella, I shall remaine your debter
+
+   Dol. I your Seruant:
+Adieu good Queene, I must attend on Caesar.
+
+Exit
+
+  Cleo. Farewell, and thankes.
+Now Iras, what think'st thou?
+Thou, an Egyptian Puppet shall be shewne
+In Rome aswell as I: Mechanicke Slaues
+With greazie Aprons, Rules, and Hammers shall
+Vplift vs to the view. In their thicke breathes,
+Ranke of grosse dyet, shall we be enclowded,
+And forc'd to drinke their vapour
+
+   Iras. The Gods forbid
+
+   Cleo. Nay, 'tis most certaine Iras: sawcie Lictors
+Will catch at vs like Strumpets, and scald Rimers
+Ballads vs out a Tune. The quicke Comedians
+Extemporally will stage vs, and present
+Our Alexandrian Reuels: Anthony
+Shall be brought drunken forth, and I shall see
+Some squeaking Cleopatra Boy my greatnesse
+I'th' posture of a Whore
+
+   Iras. O the good Gods!
+  Cleo. Nay that's certaine
+
+   Iras. Ile neuer see't? for I am sure mine Nailes
+Are stronger then mine eyes
+
+   Cleo. Why that's the way to foole their preparation,
+And to conquer their most absurd intents.
+Enter Charmian.
+
+Now Charmian.
+Shew me my Women like a Queene: Go fetch
+My best Attyres. I am againe for Cidrus,
+To meete Marke Anthony. Sirra Iras, go
+(Now Noble Charmian, wee'l dispatch indeede,)
+And when thou hast done this chare, Ile giue thee leaue
+To play till Doomesday: bring our Crowne, and all.
+
+A noise within.
+
+Wherefore's this noise?
+Enter a Guardsman.
+
+  Gards. Heere is a rurall Fellow,
+That will not be deny'de your Highnesse presence,
+He brings you Figges
+
+   Cleo. Let him come in.
+
+Exit Guardsman.
+
+What poore an Instrument
+May do a Noble deede: he brings me liberty:
+My Resolution's plac'd, and I haue nothing
+Of woman in me: Now from head to foote
+I am Marble constant: now the fleeting Moone
+No Planet is of mine.
+Enter Guardsman, and Clowne.
+
+  Guards. This is the man
+
+   Cleo. Auoid, and leaue him.
+
+Exit Guardsman.
+
+Hast thou the pretty worme of Nylus there,
+That killes and paines not?
+  Clow. Truly I haue him: but I would not be the partie
+that should desire you to touch him, for his byting is
+immortall: those that doe dye of it, doe seldome or neuer
+recouer
+
+   Cleo. Remember'st thou any that haue dyed on't?
+  Clow. Very many, men and women too. I heard of
+one of them no longer then yesterday, a very honest woman,
+but something giuen to lye, as a woman should not
+do, but in the way of honesty, how she dyed of the byting
+of it, what paine she felt: Truely, she makes a verie
+good report o'th' worme: but he that wil beleeue all that
+they say, shall neuer be saued by halfe that they do: but
+this is most falliable, the Worme's an odde Worme
+
+   Cleo. Get thee hence, farewell
+
+   Clow. I wish you all ioy of the Worme
+
+   Cleo. Farewell
+
+   Clow. You must thinke this (looke you,) that the
+Worme will do his kinde
+
+   Cleo. I, I, farewell
+
+   Clow. Looke you, the Worme is not to bee trusted,
+but in the keeping of wise people: for indeede, there is
+no goodnesse in the Worme
+
+   Cleo. Take thou no care, it shall be heeded
+
+   Clow. Very good: giue it nothing I pray you, for it
+is not worth the feeding
+
+   Cleo. Will it eate me?
+  Clow. You must not think I am so simple, but I know
+the diuell himselfe will not eate a woman: I know, that
+a woman is a dish for the Gods, if the diuell dresse her
+not. But truly, these same whorson diuels doe the Gods
+great harme in their women: for in euery tenne that they
+make, the diuels marre fiue
+
+   Cleo. Well, get thee gone, farewell
+
+   Clow. Yes forsooth: I wish you ioy o'th' worm.
+
+Exit
+
+  Cleo. Giue me my Robe, put on my Crowne, I haue
+Immortall longings in me. Now no more
+The iuyce of Egypts Grape shall moyst this lip.
+Yare, yare, good Iras; quicke: Me thinkes I heare
+Anthony call: I see him rowse himselfe
+To praise my Noble Act. I heare him mock
+The lucke of Caesar, which the Gods giue men
+To excuse their after wrath. Husband, I come:
+Now to that name, my Courage proue my Title.
+I am Fire, and Ayre; my other Elements
+I giue to baser life. So, haue you done?
+Come then, and take the last warmth of my Lippes.
+Farewell kinde Charmian, Iras, long farewell.
+Haue I the Aspicke in my lippes? Dost fall?
+If thou, and Nature can so gently part,
+The stroke of death is as a Louers pinch,
+Which hurts, and is desir'd. Dost thou lye still?
+If thus thou vanishest, thou tell'st the world,
+It is not worth leaue-taking
+
+   Char. Dissolue thicke clowd, & Raine, that I may say
+The Gods themselues do weepe
+
+   Cleo. This proues me base:
+If she first meete the Curled Anthony,
+Hee'l make demand of her, and spend that kisse
+Which is my heauen to haue. Come thou mortal wretch,
+With thy sharpe teeth this knot intrinsicate,
+Of life at once vntye: Poore venomous Foole,
+Be angry, and dispatch. Oh could'st thou speake,
+That I might heare thee call great Caesar Asse, vnpolicied
+
+   Char. Oh Easterne Starre
+
+   Cleo. Peace, peace:
+Dost thou not see my Baby at my breast,
+That suckes the Nurse asleepe
+
+   Char. O breake! O breake!
+  Cleo. As sweet as Balme, as soft as Ayre, as gentle.
+O Anthony! Nay I will take thee too.
+What should I stay-
+
+Dyes.
+
+  Char. In this wilde World? So fare thee well:
+Now boast thee Death, in thy possession lyes
+A Lasse vnparalell'd. Downie Windowes cloze,
+And golden Phoebus, neuer be beheld
+Of eyes againe so Royall: your Crownes away,
+Ile mend it, and then play-
+Enter the Guard rustling in; and Dolabella.
+
+  1.Guard. Where's the Queene?
+  Char. Speake softly, wake her not
+
+   1 Caesar hath sent
+  Char. Too slow a Messenger.
+Oh come apace, dispatch, I partly feele thee
+
+   1 Approach hoa,
+All's not well: Caesar's beguild
+
+   2 There's Dolabella sent from Caesar: call him
+
+   1 What worke is heere Charmian?
+Is this well done?
+  Char. It is well done, and fitting for a Princesse
+Descended of so many Royall Kings.
+Ah Souldier.
+
+Charmian dyes.
+
+Enter Dolabella.
+
+  Dol. How goes it heere?
+  2.Guard. All dead
+
+   Dol. Caesar, thy thoughts
+Touch their effects in this: Thy selfe art comming
+To see perform'd the dreaded Act which thou
+So sought'st to hinder.
+Enter Caesar and all his Traine, marching.
+
+  All. A way there, a way for Caesar
+
+   Dol. Oh sir, you are too sure an Augurer:
+That you did feare, is done
+
+   Caesar. Brauest at the last,
+She leuell'd at our purposes, and being Royall
+Tooke her owne way: the manner of their deaths,
+I do not see them bleede
+
+   Dol. Who was last with them?
+  1.Guard. A simple Countryman, that broght hir Figs:
+This was his Basket
+
+   Caesar. Poyson'd then
+
+   1.Guard. Oh Caesar:
+This Charmian liu'd but now, she stood and spake:
+I found her trimming vp the Diadem;
+On her dead Mistris tremblingly she stood,
+And on the sodaine dropt
+
+   Caesar. Oh Noble weakenesse:
+If they had swallow'd poyson, 'twould appeare
+By externall swelling: but she lookes like sleepe,
+As she would catch another Anthony
+In her strong toyle of Grace
+
+   Dol. Heere on her brest,
+There is a vent of Bloud, and something blowne,
+The like is on her Arme
+
+   1.Guard. This is an Aspickes traile,
+And these Figge-leaues haue slime vpon them, such
+As th' Aspicke leaues vpon the Caues of Nyle
+
+   Caesar. Most probable
+That so she dyed: for her Physitian tels mee
+She hath pursu'de Conclusions infinite
+Of easie wayes to dye. Take vp her bed,
+And beare her Women from the Monument,
+She shall be buried by her Anthony.
+No Graue vpon the earth shall clip in it
+A payre so famous: high euents as these
+Strike those that make them: and their Story is
+No lesse in pitty, then his Glory which
+Brought them to be lamented. Our Army shall
+In solemne shew, attend this Funerall,
+And then to Rome. Come Dolabella, see
+High Order, in this great Solemnity.
+
+Exeunt. omnes
+
+FINIS. THE TRAGEDIE OF Anthonie, and Cleopatra.
+
+

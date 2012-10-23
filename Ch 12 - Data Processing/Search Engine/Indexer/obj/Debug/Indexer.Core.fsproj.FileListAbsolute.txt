@@ -1,0 +1,18 @@
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Indexer.Core\Indexer.Core\bin\Debug\Indexer.Core.XML
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Indexer.Core\Indexer.Core\bin\Debug\Indexer.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Indexer.Core\Indexer.Core\bin\Debug\Indexer.Core.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Indexer.Core\Indexer.Core\obj\Debug\Indexer.Core.fsprojResolveAssemblyReference.cache
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Indexer.Core\Indexer.Core\obj\Debug\Indexer.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Indexer.Core\Indexer.Core\obj\Debug\Indexer.Core.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Search Engine\Indexer.Core\bin\Debug\Indexer.Core.XML
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Search Engine\Indexer.Core\bin\Debug\Indexer.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Search Engine\Indexer.Core\bin\Debug\Indexer.Core.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Search Engine\Indexer.Core\obj\Debug\Indexer.Core.fsprojResolveAssemblyReference.cache
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Search Engine\Indexer.Core\obj\Debug\Indexer.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Search Engine\Indexer.Core\obj\Debug\Indexer.Core.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer.Core\bin\Debug\Indexer.Core.XML
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer.Core\bin\Debug\Indexer.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer.Core\bin\Debug\Indexer.Core.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer.Core\obj\Debug\Indexer.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer.Core\obj\Debug\Indexer.Core.pdb

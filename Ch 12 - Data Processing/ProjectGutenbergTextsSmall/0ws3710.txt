@@ -1,0 +1,3777 @@
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+******************The Life of Timon of Athens*******************
+
+This is our 3rd edition of most of these plays.  See the index.
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+The Life of Timon of Athens
+
+by William Shakespeare
+
+July, 2000  [Etext #2262]
+
+
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+******************The Life of Timon of Athens*******************
+
+*****This file should be named 0ws3710.txt or 0ws3710.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 0ws3711.txt
+VERSIONS based on separate sources get new LETTER, 0ws3710a.txt
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Project Gutenberg's Etext of Shakespeare's The Life of Timon
+of Athens
+
+
+
+Executive Director's Notes:
+
+In addition to the notes below, and so you will *NOT* think all
+the spelling errors introduced by the printers of the time have
+been corrected, here are the first few lines of Hamlet, as they
+are presented herein:
+
+  Barnardo. Who's there?
+  Fran. Nay answer me: Stand & vnfold
+your selfe
+
+   Bar. Long liue the King
+
+***
+
+As I understand it, the printers often ran out of certain words
+or letters they had often packed into a "cliche". . .this is the
+original meaning of the term cliche. . .and thus, being unwilling
+to unpack the cliches, and thus you will see some substitutions
+that look very odd. . .such as the exchanges of u for v, v for u,
+above. . .and you may wonder why they did it this way, presuming
+Shakespeare did not actually write the play in this manner. . . .
+
+The answer is that they MAY have packed "liue" into a cliche at a
+time when they were out of "v"'s. . .possibly having used "vv" in
+place of some "w"'s, etc.  This was a common practice of the day,
+as print was still quite expensive, and they didn't want to spend
+more on a wider selection of characters than they had to.
+
+You will find a lot of these kinds of "errors" in this text, as I
+have mentioned in other times and places, many "scholars" have an
+extreme attachment to these errors, and many have accorded them a
+very high place in the "canon" of Shakespeare.  My father read an
+assortment of these made available to him by Cambridge University
+in England for several months in a glass room constructed for the
+purpose.  To the best of my knowledge he read ALL those available
+. . .in great detail. . .and determined from the various changes,
+that Shakespeare most likely did not write in nearly as many of a
+variety of errors we credit him for, even though he was in/famous
+for signing his name with several different spellings.
+
+So, please take this into account when reading the comments below
+made by our volunteer who prepared this file:  you may see errors
+that are "not" errors. . . .
+
+So. . .with this caveat. . .we have NOT changed the canon errors,
+here is the Project Gutenberg Etext of Shakespeare's The Life of
+Timon of Athens.
+
+Michael S. Hart
+Project Gutenberg
+Executive Director
+
+
+***
+
+
+Scanner's Notes: What this is and isn't.  This was taken from
+a copy of Shakespeare's first folio and it is as close as I can
+come in ASCII to the printed text.
+
+The elongated S's have been changed to small s's and the
+conjoined ae have been changed to ae.  I have left the spelling,
+punctuation, capitalization as close as possible to the
+printed text.  I have corrected some spelling mistakes (I have put
+together a spelling dictionary devised from the spellings of the
+Geneva Bible and Shakespeare's First Folio and have unified
+spellings according to this template), typo's and expanded
+abbreviations as I have come across them.  Everything within
+brackets [] is what I have added.  So if you don't like that
+you can delete everything within the brackets if you want a
+purer Shakespeare.
+
+Another thing that you should be aware of is that there are textual
+differences between various copies of the first folio.  So there may
+be differences (other than what I have mentioned above) between
+this and other first folio editions.  This is due to the printer's
+habit of setting the type and running off a number of copies and
+then proofing the printed copy and correcting the type and then
+continuing the printing run.  The proof run wasn't thrown away but
+incorporated into the printed copies.  This is just the way it is.
+The text I have used was a composite of more than 30 different
+First Folio editions' best pages.
+
+If you find any scanning errors, out and out typos, punctuation
+errors, or if you disagree with my spelling choices please feel
+free to email me those errors.  I wish to make this the best
+etext possible.  My email address for right now are haradda@aol.com
+and davidr@inconnect.com.  I hope that you enjoy this.
+
+David Reed
+The Life of Timon of Athens
+
+Enter Poet, Painter, Ieweller, Merchant, and Mercer, at seuerall
+doores.
+
+  Poet. Good day Sir
+
+   Pain. I am glad y'are well
+
+   Poet. I haue not seene you long, how goes
+the World?
+  Pain. It weares sir, as it growes
+
+   Poet. I that's well knowne:
+But what particular Rarity? What strange,
+Which manifold record not matches: see
+Magicke of Bounty, all these spirits thy power
+Hath coniur'd to attend.
+I know the Merchant
+
+   Pain. I know them both: th' others a Ieweller
+
+   Mer. O 'tis a worthy Lord
+
+   Iew. Nay that's most fixt
+
+   Mer. A most incomparable man, breath'd as it were,
+To an vntyreable and continuate goodnesse:
+He passes
+
+   Iew. I haue a Iewell heere
+
+   Mer. O pray let's see't. For the Lord Timon, sir?
+  Iewel. If he will touch the estimate. But for that-
+  Poet. When we for recompence haue prais'd the vild,
+It staines the glory in that happy Verse,
+Which aptly sings the good
+
+   Mer. 'Tis a good forme
+
+   Iewel. And rich: heere is a Water looke ye
+
+   Pain. You are rapt sir, in some worke, some Dedication
+to the great Lord
+
+   Poet. A thing slipt idlely from me.
+Our Poesie is as a Gowne, which vses
+From whence 'tis nourisht: the fire i'th' Flint
+Shewes not, till it be strooke: our gentle flame
+Prouokes it selfe, and like the currant flyes
+Each bound it chases. What haue you there?
+  Pain. A Picture sir: when comes your Booke forth?
+  Poet. Vpon the heeles of my presentment sir.
+Let's see your peece
+
+   Pain. 'Tis a good Peece
+
+   Poet. So 'tis, this comes off well, and excellent
+
+   Pain. Indifferent
+
+   Poet. Admirable: How this grace
+Speakes his owne standing: what a mentall power
+This eye shootes forth? How bigge imagination
+Moues in this Lip, to th' dumbnesse of the gesture,
+One might interpret
+
+   Pain. It is a pretty mocking of the life:
+Heere is a touch: Is't good?
+  Poet. I will say of it,
+It Tutors Nature, Artificiall strife
+Liues in these toutches, liuelier then life.
+Enter certaine Senators.
+
+  Pain. How this Lord is followed
+
+   Poet. The Senators of Athens, happy men
+
+   Pain. Looke moe
+
+   Po. You see this confluence, this great flood of visitors,
+I haue in this rough worke, shap'd out a man
+Whom this beneath world doth embrace and hugge
+With amplest entertainment: My free drift
+Halts not particularly, but moues it selfe
+In a wide Sea of wax, no leuell'd malice
+Infects one comma in the course I hold,
+But flies an Eagle flight, bold, and forth on,
+Leauing no Tract behinde
+
+   Pain. How shall I vnderstand you?
+  Poet. I will vnboult to you.
+You see how all Conditions, how all Mindes,
+As well of glib and slipp'ry Creatures, as
+Of Graue and austere qualitie, tender downe
+Their seruices to Lord Timon: his large Fortune,
+Vpon his good and gracious Nature hanging,
+Subdues and properties to his loue and tendance
+All sorts of hearts; yea, from the glasse-fac'd Flatterer
+To Apemantus, that few things loues better
+Then to abhorre himselfe; euen hee drops downe
+The knee before him, and returnes in peace
+Most rich in Timons nod
+
+   Pain. I saw them speake together
+
+   Poet. Sir, I haue vpon a high and pleasant hill
+Feign'd Fortune to be thron'd.
+The Base o'th' Mount
+Is rank'd with all deserts, all kinde of Natures
+That labour on the bosome of this Sphere,
+To propagate their states; among'st them all,
+Whose eyes are on this Soueraigne Lady fixt,
+One do I personate of Lord Timons frame,
+Whom Fortune with her Iuory hand wafts to her,
+Whose present grace, to present slaues and seruants
+Translates his Riuals
+
+   Pain. 'Tis conceyu'd, to scope
+This Throne, this Fortune, and this Hill me thinkes
+With one man becken'd from the rest below,
+Bowing his head against the sleepy Mount
+To climbe his happinesse, would be well exprest
+In our Condition
+
+   Poet. Nay Sir, but heare me on:
+All those which were his Fellowes but of late,
+Some better then his valew; on the moment
+Follow his strides, his Lobbies fill with tendance,
+Raine Sacrificiall whisperings in his eare,
+Make Sacred euen his styrrop, and through him
+Drinke the free Ayre
+
+   Pain. I marry, what of these?
+  Poet. When Fortune in her shift and change of mood
+Spurnes downe her late beloued; all his Dependants
+Which labour'd after him to the Mountaines top,
+Euen on their knees and hand, let him sit downe,
+Not one accompanying his declining foot
+
+   Pain. Tis common:
+A thousand morall Paintings I can shew,
+That shall demonstrate these quicke blowes of Fortunes,
+More pregnantly then words. Yet you do well,
+To shew Lord Timon, that meane eyes haue seene
+The foot aboue the head.
+Trumpets sound.
+
+Enter Lord Timon, addressing himselfe curteously to euery Sutor.
+
+  Tim. Imprison'd is he, say you?
+  Mes. I my good Lord, fiue Talents is his debt,
+His meanes most short, his Creditors most straite:
+Your Honourable Letter he desires
+To those haue shut him vp, which failing,
+Periods his comfort
+
+   Tim. Noble Ventidius, well:
+I am not of that Feather, to shake off
+My Friend when he must neede me. I do know him
+A Gentleman, that well deserues a helpe,
+Which he shall haue. Ile pay the debt, and free him
+
+   Mes. Your Lordship euer bindes him
+
+   Tim. Commend me to him, I will send his ransome,
+And being enfranchized bid him come to me;
+'Tis not enough to helpe the Feeble vp,
+But to support him after. Fare you well
+
+   Mes. All happinesse to your Honor.
+Enter.
+
+Enter an old Athenian.
+
+  Oldm. Lord Timon, heare me speake
+
+   Tim. Freely good Father
+
+   Oldm. Thou hast a Seruant nam'd Lucilius
+
+   Tim. I haue so: What of him?
+  Oldm. Most Noble Timon, call the man before thee
+
+   Tim. Attends he heere, or no? Lucillius
+
+   Luc. Heere at your Lordships seruice
+
+   Oldm. This Fellow heere, L[ord]. Timon, this thy Creature,
+By night frequents my house. I am a man
+That from my first haue beene inclin'd to thrift,
+And my estate deserues an Heyre more rais'd,
+Then one which holds a Trencher
+
+   Tim. Well: what further?
+  Old. One onely Daughter haue I, no Kin else,
+On whom I may conferre what I haue got:
+The Maid is faire, a'th' youngest for a Bride,
+And I haue bred her at my deerest cost
+In Qualities of the best. This man of thine
+Attempts her loue: I prythee (Noble Lord)
+Ioyne with me to forbid him her resort,
+My selfe haue spoke in vaine
+
+   Tim. The man is honest
+
+   Oldm. Therefore he will be Timon,
+His honesty rewards him in it selfe,
+It must not beare my Daughter
+
+   Tim. Does she loue him?
+  Oldm. She is yong and apt:
+Our owne precedent passions do instruct vs
+What leuities in youth
+
+   Tim. Loue you the Maid?
+  Luc. I my good Lord, and she accepts of it
+
+   Oldm. If in her Marriage my consent be missing,
+I call the Gods to witnesse, I will choose
+Mine heyre from forth the Beggers of the world,
+And dispossesse her all
+
+   Tim. How shall she be endowed,
+If she be mated with an equall Husband?
+  Oldm. Three Talents on the present; in future, all
+
+   Tim. This Gentleman of mine
+Hath seru'd me long:
+To build his Fortune, I will straine a little,
+For 'tis a Bond in men. Giue him thy Daughter,
+What you bestow, in him Ile counterpoize,
+And make him weigh with her
+
+   Oldm. Most Noble Lord,
+Pawne me to this your Honour, she is his
+
+   Tim. My hand to thee,
+Mine Honour on my promise
+
+   Luc. Humbly I thanke your Lordship, neuer may
+That state or Fortune fall into my keeping,
+Which is not owed to you.
+
+Exit
+
+  Poet. Vouchsafe my Labour,
+And long liue your Lordship
+
+   Tim. I thanke you, you shall heare from me anon:
+Go not away. What haue you there, my Friend?
+  Pain. A peece of Painting, which I do beseech
+Your Lordship to accept
+
+   Tim. Painting is welcome.
+The Painting is almost the Naturall man:
+For since Dishonor Traffickes with mans Nature,
+He is but out-side: These Pensil'd Figures are
+Euen such as they giue out. I like your worke,
+And you shall finde I like it; Waite attendance
+Till you heare further from me
+
+   Pain. The Gods preserue ye
+
+   Tim. Well fare you Gentleman: giue me your hand.
+We must needs dine together: sir your Iewell
+Hath suffered vnder praise
+
+   Iewel. What my Lord, dispraise?
+  Tim. A meere saciety of Commendations,
+If I should pay you for't as 'tis extold,
+It would vnclew me quite
+
+   Iewel. My Lord, 'tis rated
+As those which sell would giue: but you well know,
+Things of like valew differing in the Owners,
+Are prized by their Masters. Beleeu't deere Lord,
+You mend the Iewell by the wearing it
+
+   Tim. Well mock'd.
+Enter Apermantus.
+
+  Mer. No my good Lord, he speakes y common toong
+Which all men speake with him
+
+   Tim. Looke who comes heere, will you be chid?
+  Iewel. Wee'l beare with your Lordship
+
+   Mer. Hee'l spare none
+
+   Tim. Good morrow to thee,
+Gentle Apermantus
+
+   Ape. Till I be gentle, stay thou for thy good morrow.
+When thou art Timons dogge, and these Knaues honest
+
+   Tim. Why dost thou call them Knaues, thou know'st
+them not?
+  Ape. Are they not Athenians?
+  Tim. Yes
+
+   Ape. Then I repent not
+
+   Iew. You know me, Apemantus?
+  Ape. Thou know'st I do, I call'd thee by thy name
+
+   Tim. Thou art proud Apemantus?
+  Ape. Of nothing so much, as that I am not like Timon
+  Tim. Whether art going?
+  Ape. To knocke out an honest Athenians braines
+
+   Tim. That's a deed thou't dye for
+
+   Ape. Right, if doing nothing be death by th' Law
+
+   Tim. How lik'st thou this picture Apemantus?
+  Ape. The best, for the innocence
+
+   Tim. Wrought he not well that painted it
+
+   Ape. He wrought better that made the Painter, and
+yet he's but a filthy peece of worke
+
+   Pain. Y'are a Dogge
+
+   Ape. Thy Mothers of my generation: what's she, if I
+be a Dogge?
+  Tim. Wilt dine with me Apemantus?
+  Ape. No: I eate not Lords
+
+   Tim. And thou should'st, thoud'st anger Ladies
+
+   Ape. O they eate Lords;
+So they come by great bellies
+
+   Tim. That's a lasciuious apprehension
+
+   Ape. So, thou apprehend'st it,
+Take it for thy labour
+
+   Tim. How dost thou like this Iewell, Apemantus?
+  Ape. Not so well as plain-dealing, which wil not cast
+a man a Doit
+
+   Tim. What dost thou thinke 'tis worth?
+  Ape. Not worth my thinking.
+How now Poet?
+  Poet. How now Philosopher?
+  Ape. Thou lyest
+
+   Poet. Art not one?
+  Ape. Yes
+
+   Poet. Then I lye not
+
+   Ape. Art not a Poet?
+  Poet. Yes
+
+   Ape. Then thou lyest:
+Looke in thy last worke, where thou hast feign'd him a
+worthy Fellow
+
+   Poet. That's not feign'd, he is so
+
+   Ape. Yes he is worthy of thee, and to pay thee for thy
+labour. He that loues to be flattered, is worthy o'th flatterer.
+Heauens, that I were a Lord
+
+   Tim. What wouldst do then Apemantus?
+  Ape. E'ne as Apemantus does now, hate a Lord with
+my heart
+
+   Tim. What thy selfe?
+  Ape. I
+
+   Tim. Wherefore?
+  Ape. That I had no angry wit to be a Lord.
+Art not thou a Merchant?
+  Mer. I Apemantus
+
+   Ape. Traffick confound thee, if the Gods will not
+
+   Mer. If Trafficke do it, the Gods do it
+
+   Ape. Traffickes thy God, & thy God confound thee.
+
+Trumpet sounds. Enter a Messenger.
+
+  Tim. What Trumpets that?
+  Mes. 'Tis Alcibiades, and some twenty Horse
+All of Companionship
+
+   Tim. Pray entertaine them, giue them guide to vs.
+You must needs dine with me: go not you hence
+Till I haue thankt you: when dinners done
+Shew me this peece, I am ioyfull of your sights.
+Enter Alcibiades with the rest.
+
+Most welcome Sir
+
+   Ape. So, so; their Aches contract, and sterue your
+supple ioynts: that there should bee small loue amongest
+these sweet Knaues, and all this Curtesie. The straine of
+mans bred out into Baboon and Monkey
+
+   Alc. Sir, you haue sau'd my longing, and I feed
+Most hungerly on your sight
+
+   Tim. Right welcome Sir:
+Ere we depart, wee'l share a bounteous time
+In different pleasures.
+Pray you let vs in.
+
+Exeunt.
+
+Enter two Lords.
+
+  1.Lord What time a day is't Apemantus?
+  Ape. Time to be honest
+
+   1 That time serues still
+
+   Ape. The most accursed thou that still omitst it
+
+   2 Thou art going to Lord Timons Feast
+
+   Ape. I, to see meate fill Knaues, and Wine heat fooles
+
+   2 Farthee well, farthee well
+
+   Ape. Thou art a Foole to bid me farewell twice
+
+   2 Why Apemantus?
+  Ape. Should'st haue kept one to thy selfe, for I meane
+to giue thee none
+
+   1 Hang thy selfe
+
+   Ape. No I will do nothing at thy bidding:
+Make thy requests to thy Friend
+
+   2 Away vnpeaceable Dogge,
+Or Ile spurne thee hence
+
+   Ape. I will flye like a dogge, the heeles a'th' Asse
+
+   1 Hee's opposite to humanity.
+Come shall we in,
+And taste Lord Timons bountie: he out-goes
+The verie heart of kindnesse
+
+   2 He powres it out: Plutus the God of Gold
+Is but his Steward: no meede but he repayes
+Seuen-fold aboue it selfe: No guift to him,
+But breeds the giuer a returne: exceeding
+All vse of quittance
+
+   1 The Noblest minde he carries,
+That euer gouern'd man
+
+   2 Long may he liue in Fortunes. Shall we in?
+Ile keepe you Company.
+
+Exeunt.
+
+Hoboyes Playing lowd Musicke. A great Banquet seru'd in: and
+then, Enter
+Lord Timon, the States, the Athenian Lords, Ventigius which
+Timon redeem'd
+from prison. Then comes dropping after all Apemantus
+discontentedly like
+himselfe.
+
+  Ventig. Most honoured Timon,
+It hath pleas'd the Gods to remember my Fathers age,
+And call him to long peace:
+He is gone happy, and has left me rich:
+Then, as in gratefull Vertue I am bound
+To your free heart, I do returne those Talents
+Doubled with thankes and seruice, from whose helpe
+I deriu'd libertie
+
+   Tim. O by no meanes,
+Honest Ventigius: You mistake my loue,
+I gaue it freely euer, and ther's none
+Can truely say he giues, if he receiues:
+If our betters play at that game, we must not dare
+To imitate them: faults that are rich are faire
+
+   Vint. A Noble spirit
+
+   Tim. Nay my Lords, Ceremony was but deuis'd at first
+To set a glosse on faint deeds, hollow welcomes,
+Recanting goodnesse, sorry ere 'tis showne:
+But where there is true friendship, there needs none.
+Pray sit, more welcome are ye to my Fortunes,
+Then my Fortunes to me
+
+   1.Lord. My Lord, we alwaies haue confest it
+
+   Aper. Ho ho, confest it? Handg'd it? Haue you not?
+  Timo. O Apermantus, you are welcome
+
+   Aper. No: You shall not make me welcome:
+I come to haue thee thrust me out of doores
+
+   Tim. Fie, th'art a churle, ye'haue got a humour there
+Does not become a man, 'tis much too blame:
+They say my Lords, Ira furor breuis est,
+But yond man is verie angrie.
+Go, let him haue a Table by himselfe:
+For he does neither affect companie,
+Nor is he fit for't indeed
+
+   Aper. Let me stay at thine apperill Timon,
+I come to obserue, I giue thee warning on't
+
+   Tim. I take no heede of thee: Th'art an Athenian,
+therefore welcome: I my selfe would haue no power,
+prythee let my meate make thee silent
+
+   Aper. I scorne thy meate, 'twould choake me: for I
+should nere flatter thee. Oh you Gods! What a number
+of men eats Timon, and he sees 'em not? It greeues me
+to see so many dip there meate in one mans blood, and
+all the madnesse is, he cheeres them vp too.
+I wonder men dare trust themselues with men.
+Me thinks they should enuite them without kniues,
+Good for there meate, and safer for their liues.
+There's much example for't, the fellow that sits next him,
+now parts bread with him, pledges the breath of him in
+a diuided draught: is the readiest man to kill him. 'Tas
+beene proued, if I were a huge man I should feare to
+drinke at meales, least they should spie my wind-pipes
+dangerous noates, great men should drinke with harnesse
+on their throates
+
+   Tim. My Lord in heart: and let the health go round
+
+   2.Lord. Let it flow this way my good Lord
+
+   Aper. Flow this way? A braue fellow. He keepes his
+tides well, those healths will make thee and thy state
+looke ill, Timon.
+Heere's that which is too weake to be a sinner,
+Honest water, which nere left man i'th' mire:
+This and my food are equals, there's no ods,
+Feasts are to proud to giue thanks to the Gods.
+
+Apermantus Grace.
+
+Immortall Gods, I craue no pelfe,
+I pray for no man but my selfe,
+Graunt I may neuer proue so fond,
+To trust man on his Oath or Bond.
+Or a Harlot for her weeping,
+Or a Dogge that seemes asleeping,
+Or a keeper with my freedome,
+Or my friends if I should need 'em.
+Amen. So fall too't:
+Richmen sin, and I eat root.
+Much good dich thy good heart, Apermantus
+  Tim. Captaine,
+Alcibiades, your hearts in the field now
+
+   Alci. My heart is euer at your seruice, my Lord
+
+   Tim. You had rather be at a breakefast of Enemies,
+then a dinner of Friends
+
+   Alc. So they were bleeding new my Lord, there's no
+meat like 'em, I could wish my best friend at such a Feast
+
+   Aper. Would all those Flatterers were thine Enemies
+then, that then thou might'st kill 'em: & bid me to 'em
+
+   1.Lord. Might we but haue that happinesse my Lord,
+that you would once vse our hearts, whereby we might
+expresse some part of our zeales, we should thinke our
+selues for euer perfect
+
+   Timon. Oh no doubt my good Friends, but the Gods
+themselues haue prouided that I shall haue much helpe
+from you: how had you beene my Friends else. Why
+haue you that charitable title from thousands? Did not
+you chiefely belong to my heart? I haue told more of
+you to my selfe, then you can with modestie speake in
+your owne behalfe. And thus farre I confirme you. Oh
+you Gods (thinke I,) what need we haue any Friends; if
+we should nere haue need of 'em? They were the most
+needlesse Creatures liuing; should we nere haue vse for
+'em? And would most resemble sweete Instruments
+hung vp in Cases, that keepes there sounds to themselues.
+Why I haue often wisht my selfe poorer, that
+I might come neerer to you: we are borne to do benefits.
+And what better or properer can we call our owne,
+then the riches of our Friends? Oh what a pretious comfort
+'tis, to haue so many like Brothers commanding
+one anothers Fortunes. Oh ioyes, e'ne made away er't
+can be borne: mine eies cannot hold out water me thinks
+to forget their Faults. I drinke to you
+
+   Aper. Thou weep'st to make them drinke, Timon
+
+   2.Lord. Ioy had the like conception in our eies,
+And at that instant, like a babe sprung vp
+
+   Aper. Ho, ho: I laugh to thinke that babe a bastard
+
+   3.Lord. I promise you my Lord you mou'd me much
+
+   Aper. Much.
+
+Sound Tucket. Enter the Maskers of Amazons, with Lutes in their
+hands,
+dauncing and playing.
+
+  Tim. What meanes that Trumpe? How now?
+Enter Seruant.
+
+  Ser. Please you my Lord, there are certaine Ladies
+Most desirous of admittance
+
+   Tim. Ladies? what are their wils?
+  Ser. There comes with them a fore-runner my Lord,
+which beares that office, to signifie their pleasures
+
+   Tim. I pray let them be admitted.
+Enter Cupid with the Maske of Ladies.
+
+  Cup. Haile to thee worthy Timon and to all that of
+his Bounties taste: the fiue best Sences acknowledge thee
+their Patron, and come freely to gratulate thy plentious
+bosome.
+There tast, touch all, pleas'd from thy Table rise:
+They onely now come but to Feast thine eies
+
+   Timo. They'r welcome all, let 'em haue kind admittance.
+Musicke make their welcome
+
+   Luc. You see my Lord, how ample y'are belou'd
+
+   Aper. Hoyday,
+What a sweepe of vanitie comes this way.
+They daunce? They are madwomen,
+Like Madnesse is the glory of this life,
+As this pompe shewes to a little oyle and roote.
+We make our selues Fooles, to disport our selues,
+And spend our Flatteries, to drinke those men,
+Vpon whose Age we voyde it vp agen
+With poysonous Spight and Enuy.
+Who liues, that's not depraued, or depraues;
+Who dyes, that beares not one spurne to their graues
+Of their Friends guift:
+I should feare, those that dance before me now,
+Would one day stampe vpon me: 'Tas bene done,
+Men shut their doores against a setting Sunne.
+
+The Lords rise from Table, with much adoring of Timon, and to
+shew their
+loues, each single out an Amazon, and all Dance, men with
+women, a loftie
+straine or two to the Hoboyes, and cease.
+
+  Tim. You haue done our pleasures
+Much grace (faire Ladies)
+Set a faire fashion on our entertainment,
+Which was not halfe so beautifull, and kinde:
+You haue added worth vntoo't, and luster,
+And entertain'd me with mine owne deuice.
+I am to thanke you for't
+
+   1 Lord. My Lord you take vs euen at the best
+
+   Aper. Faith for the worst is filthy, and would not hold
+taking, I doubt me
+
+   Tim. Ladies, there is an idle banquet attends you,
+Please you to dispose your selues
+
+   All La. Most thankfully, my Lord.
+
+Exeunt.
+
+  Tim. Flauius
+
+   Fla. My Lord
+
+   Tim. The little Casket bring me hither
+
+   Fla. Yes, my Lord. More Iewels yet?
+There is no crossing him in's humor,
+Else I should tell him well, yfaith I should;
+When all's spent, hee'ld be crost then, and he could:
+'Tis pitty Bounty had not eyes behinde,
+That man might ne're be wretched for his minde.
+Enter.
+
+  1 Lord. Where be our men?
+  Ser. Heere my Lord, in readinesse
+
+   2 Lord. Our Horses
+
+   Tim. O my Friends:
+I haue one word to say to you: Looke you, my good L[ord].
+I must intreat you honour me so much,
+As to aduance this Iewell, accept it, and weare it,
+Kinde my Lord
+
+   1 Lord. I am so farre already in your guifts
+
+   All. So are we all.
+Enter a Seruant.
+
+  Ser. My Lord, there are certaine Nobles of the Senate
+newly alighted, and come to visit you
+
+   Tim. They are fairely welcome.
+Enter Flauius.
+
+  Fla. I beseech your Honor, vouchsafe me a word, it
+does concerne you neere
+
+   Tim. Neere? why then another time Ile heare thee.
+I prythee let's be prouided to shew them entertainment
+
+   Fla. I scarse know how.
+Enter another Seruant.
+
+  Ser. May it please your Honor, Lord Lucius
+(Out of his free loue) hath presented to you
+Foure Milke-white Horses, trapt in Siluer
+
+   Tim. I shall accept them fairely: let the Presents
+Be worthily entertain'd.
+Enter a third Seruant.
+
+How now? What newes?
+  3.Ser. Please you my Lord, that honourable Gentleman
+Lord Lucullus, entreats your companie to morrow,
+to hunt with him, and ha's sent your Honour two brace
+of Grey-hounds
+
+   Tim. Ile hunt with him,
+And let them be receiu'd, not without faire Reward
+
+   Fla. What will this come to?
+He commands vs to prouide, and giue great guifts, and
+all out of an empty Coffer:
+Nor will he know his Purse, or yeeld me this,
+To shew him what a Begger his heart is,
+Being of no power to make his wishes good.
+His promises flye so beyond his state,
+That what he speaks is all in debt, he ows for eu'ry word:
+He is so kinde, that he now payes interest for't;
+His Land's put to their Bookes. Well, would I were
+Gently put out of Office, before I were forc'd out:
+Happier is he that has no friend to feede,
+Then such that do e'ne Enemies exceede.
+I bleed inwardly for my Lord.
+
+Exit
+
+  Tim. You do your selues much wrong,
+You bate too much of your owne merits.
+Heere my Lord, a trifle of our Loue
+
+   2.Lord. With more then common thankes
+I will receyue it
+
+   3.Lord. O he's the very soule of Bounty
+
+   Tim. And now I remember my Lord, you gaue good
+words the other day of a Bay Courser I rod on. Tis yours
+because you lik'd it
+
+   1.L. Oh, I beseech you pardon mee, my Lord, in that
+
+   Tim. You may take my word my Lord: I know no
+man can iustly praise, but what he does affect. I weighe
+my Friends affection with mine owne: Ile tell you true,
+Ile call to you
+
+   All Lor. O none so welcome
+
+   Tim. I take all, and your seuerall visitations
+So kinde to heart, 'tis not enough to giue:
+Me thinkes, I could deale Kingdomes to my Friends,
+And nere be wearie. Alcibiades,
+Thou art a Soldiour, therefore sildome rich,
+It comes in Charitie to thee: for all thy liuing
+Is mong'st the dead: and all the Lands thou hast
+Lye in a pitcht field
+
+   Alc. I, defil'd Land, my Lord
+
+   1.Lord. We are so vertuously bound
+
+   Tim. And so am I to you
+
+   2.Lord. So infinitely endeer'd
+
+   Tim. All to you. Lights, more Lights
+
+   1.Lord. The best of Happines, Honor, and Fortunes
+Keepe with you Lord Timon
+
+   Tim. Ready for his Friends.
+
+Exeunt. Lords
+
+  Aper. What a coiles heere, seruing of beckes, and iutting
+out of bummes. I doubt whether their Legges be
+worth the summes that are giuen for 'em.
+Friendships full of dregges,
+Me thinkes false hearts, should neuer haue sound legges.
+Thus honest Fooles lay out their wealth on Curtsies
+
+   Tim. Now Apermantus (if thou wert not sullen)
+I would be good to thee
+
+   Aper. No, Ile nothing; for if I should be brib'd too,
+there would be none left to raile vpon thee, and then thou
+wouldst sinne the faster. Thou giu'st so long Timon (I
+feare me) thou wilt giue away thy selfe in paper shortly.
+What needs these Feasts, pompes, and Vaine-glories?
+  Tim. Nay, and you begin to raile on Societie once, I
+am sworne not to giue regard to you. Farewell, & come
+with better Musicke.
+
+Exit
+
+  Aper. So: Thou wilt not heare mee now, thou shalt
+not then. Ile locke thy heauen from thee:
+Oh that mens eares should be
+To Counsell deafe, but not to Flatterie.
+
+Exit
+
+Enter a Senator.
+
+  Sen. And late fiue thousand: to Varro and to Isidore
+He owes nine thousand, besides my former summe,
+Which makes it fiue and twenty. Still in motion
+Of raging waste? It cannot hold, it will not.
+If I want Gold, steale but a beggers Dogge,
+And giue it Timon, why the Dogge coines Gold.
+If I would sell my Horse, and buy twenty moe
+Better then he; why giue my Horse to Timon.
+Aske nothing, giue it him, it Foles me straight
+And able Horses: No Porter at his gate,
+But rather one that smiles, and still inuites
+All that passe by. It cannot hold, no reason
+Can sound his state in safety. Caphis hoa,
+Caphis I say.
+Enter Caphis.
+
+  Ca. Heere sir, what is your pleasure
+
+   Sen. Get on your cloake, & hast you to Lord Timon,
+Importune him for my Moneyes, be not ceast
+With slight deniall; nor then silenc'd, when
+Commend me to your Master, and the Cap
+Playes in the right hand, thus: but tell him,
+My Vses cry to me; I must serue my turne
+Out of mine owne, his dayes and times are past,
+And my reliances on his fracted dates
+Haue smit my credit. I loue, and honour him,
+But must not breake my backe, to heale his finger.
+Immediate are my needs, and my releefe
+Must not be tost and turn'd to me in words,
+But finde supply immediate. Get you gone,
+Put on a most importunate aspect,
+A visage of demand: for I do feare
+When euery Feather stickes in his owne wing,
+Lord Timon will be left a naked gull,
+Which flashes now a Phoenix, get you gone
+
+   Ca. I go sir
+
+   Sen. I go sir?
+Take the Bonds along with you,
+And haue the dates in. Come
+
+   Ca. I will Sir
+
+   Sen. Go.
+
+Exeunt.
+
+Enter Steward, with many billes in his hand.
+
+  Stew. No care, no stop, so senselesse of expence,
+That he will neither know how to maintaine it,
+Nor cease his flow of Riot. Takes no accompt
+How things go from him, nor resume no care
+Of what is to continue: neuer minde,
+Was to be so vnwise, to be so kinde.
+What shall be done, he will not heare, till feele:
+I must be round with him, now he comes from hunting.
+Fye, fie, fie, fie.
+Enter Caphis, Isidore, and Varro.
+
+  Cap. Good euen Varro: what, you come for money?
+  Var. Is't not your businesse too?
+  Cap. It is, and yours too, Isidore?
+  Isid. It is so
+
+   Cap. Would we were all discharg'd
+
+   Var. I feare it,
+  Cap. Heere comes the Lord.
+Enter Timon, and his Traine
+
+   Tim. So soone as dinners done, wee'l forth againe
+My Alcibiades. With me, what is your will?
+  Cap. My Lord, heere is a note of certaine dues
+
+   Tim. Dues? whence are you?
+  Cap. Of Athens heere, my Lord
+
+   Tim. Go to my Steward
+
+   Cap. Please it your Lordship, he hath put me off
+To the succession of new dayes this moneth:
+My Master is awak'd by great Occasion,
+To call vpon his owne, and humbly prayes you,
+That with your other Noble parts, you'l suite,
+In giuing him his right
+
+   Tim. Mine honest Friend,
+I prythee but repaire to me next morning
+
+   Cap. Nay, good my Lord
+
+   Tim. Containe thy selfe, good Friend
+
+   Var. One Varroes seruant, my good Lord
+
+   Isid. From Isidore, he humbly prayes your speedy payment
+
+   Cap. If you did know my Lord, my Masters wants
+
+   Var. 'Twas due on forfeyture my Lord, sixe weekes,
+and past
+
+   Isi. Your Steward puts me off my Lord, and I
+Am sent expressely to your Lordship
+
+   Tim. Giue me breath:
+I do beseech you good my Lords keepe on,
+Ile waite vpon you instantly. Come hither: pray you
+How goes the world, that I am thus encountred
+With clamorous demands of debt, broken Bonds,
+And the detention of long since due debts
+Against my Honor?
+  Stew. Please you Gentlemen,
+The time is vnagreeable to this businesse:
+Your importunacie cease, till after dinner,
+That I may make his Lordship vnderstand
+Wherefore you are not paid
+
+   Tim. Do so my Friends, see them well entertain'd
+
+   Stew. Pray draw neere.
+Enter.
+
+Enter Apemantus and Foole.
+
+  Caph. Stay, stay, here comes the Foole with Apemantus,
+let's ha some sport with 'em
+
+   Var. Hang him, hee'l abuse vs
+
+   Isid. A plague vpon him dogge
+
+   Var. How dost Foole?
+  Ape. Dost Dialogue with thy shadow?
+  Var. I speake not to thee
+
+   Ape. No 'tis to thy selfe. Come away
+
+   Isi. There's the Foole hangs on your backe already
+
+   Ape. No thou stand'st single, th'art not on him yet
+
+   Cap. Where's the Foole now?
+  Ape. He last ask'd the question. Poore Rogues, and
+Vsurers men, Bauds betweene Gold and want
+
+   Al. What are we Apemantus?
+  Ape. Asses
+
+   All. Why?
+  Ape. That you ask me what you are, & do not know
+your selues. Speake to 'em Foole
+
+   Foole. How do you Gentlemen?
+  All. Gramercies good Foole:
+How does your Mistris?
+  Foole. She's e'ne setting on water to scal'd such Chickens
+as you are. Would we could see you at Corinth
+
+   Ape. Good, Gramercy.
+Enter Page.
+
+  Foole. Looke you, heere comes my Masters Page
+
+   Page. Why how now Captaine? what do you in this
+wise Company.
+How dost thou Apermantus?
+  Ape. Would I had a Rod in my mouth, that I might
+answer thee profitably
+
+   Boy. Prythee Apemantus reade me the superscription
+of these Letters, I know not which is which
+
+   Ape. Canst not read?
+  Page. No
+
+   Ape. There will litle Learning dye then that day thou
+art hang'd. This is to Lord Timon, this to Alcibiades. Go
+thou was't borne a Bastard, and thou't dye a Bawd
+
+   Page. Thou was't whelpt a Dogge, and thou shalt
+famish a Dogges death.
+Answer not, I am gone.
+
+Exit
+
+  Ape. E'ne so thou out-runst Grace,
+Foole I will go with you to Lord Timons
+
+   Foole. Will you leaue me there?
+  Ape. If Timon stay at home.
+You three serue three Vsurers?
+  All. I would they seru'd vs
+
+   Ape. So would I:
+As good a tricke as euer Hangman seru'd Theefe
+
+   Foole. Are you three Vsurers men?
+  All. I Foole
+
+   Foole. I thinke no Vsurer, but ha's a Foole to his Seruant.
+My Mistris is one, and I am her Foole: when men
+come to borrow of your Masters, they approach sadly,
+and go away merry: but they enter my Masters house
+merrily, and go away sadly. The reason of this?
+  Var. I could render one
+
+   Ap. Do it then, that we may account thee a Whoremaster,
+and a Knaue, which notwithstanding thou shalt
+be no lesse esteemed
+
+   Varro. What is a Whoremaster Foole?
+  Foole. A Foole in good cloathes, and something like
+thee. 'Tis a spirit, sometime t' appeares like a Lord, somtime
+like a Lawyer, sometime like a Philosopher, with
+two stones moe then's artificiall one. Hee is verie often
+like a Knight; and generally, in all shapes that man goes
+vp and downe in, from fourescore to thirteen, this spirit
+walkes in
+
+   Var. Thou art not altogether a Foole
+
+   Foole. Nor thou altogether a Wise man,
+As much foolerie as I haue, so much wit thou lack'st
+
+   Ape. That answer might haue become Apemantus
+
+   All. Aside, aside, heere comes Lord Timon.
+Enter Timon and Steward.
+
+  Ape. Come with me (Foole) come
+
+   Foole. I do not alwayes follow Louer, elder Brother,
+and Woman, sometime the Philosopher
+
+   Stew. Pray you walke neere,
+Ile speake with you anon.
+
+Exeunt.
+
+  Tim. You make me meruell wherefore ere this time
+Had you not fully laide my state before me,
+That I might so haue rated my expence
+As I had leaue of meanes
+
+   Stew. You would not heare me:
+At many leysures I propose
+
+   Tim. Go too:
+Perchance some single vantages you tooke,
+When my indisposition put you backe,
+And that vnaptnesse made your minister
+Thus to excuse your selfe
+
+   Stew. O my good Lord,
+At many times I brought in my accompts,
+Laid them before you, you would throw them off,
+And say you sound them in mine honestie,
+When for some trifling present you haue bid me
+Returne so much, I haue shooke my head, and wept:
+Yea 'gainst th' Authoritie of manners, pray'd you
+To hold your hand more close: I did indure
+Not sildome, nor no slight checkes, when I haue
+Prompted you in the ebbe of your estate,
+And your great flow of debts; my lou'd Lord,
+Though you heare now (too late) yet nowes a time,
+The greatest of your hauing, lackes a halfe,
+To pay your present debts
+
+   Tim. Let all my Land be sold
+
+   Stew. 'Tis all engag'd, some forfeyted and gone,
+And what remaines will hardly stop the mouth
+Of present dues; the future comes apace:
+What shall defend the interim, and at length
+How goes our reck'ning?
+  Tim. To Lacedemon did my Land extend
+
+   Stew. O my good Lord, the world is but a word,
+Were it all yours, to giue it in a breath,
+How quickely were it gone
+
+   Tim. You tell me true
+
+   Stew. If you suspect my Husbandry or Falshood,
+Call me before th' exactest Auditors,
+And set me on the proofe. So the Gods blesse me,
+When all our Offices haue beene opprest
+With riotous Feeders, when our Vaults haue wept
+With drunken spilth of Wine; when euery roome
+Hath blaz'd with Lights, and braid with Minstrelsie,
+I haue retyr'd me to a wastefull cocke,
+And set mine eyes at flow
+
+   Tim. Prythee no more
+
+   Stew. Heauens, haue I said, the bounty of this Lord:
+How many prodigall bits haue Slaues and Pezants
+This night englutted: who is not Timons,
+What heart, head, sword, force, meanes, but is L[ord]. Timons:
+Great Timon, Noble, Worthy, Royall Timon:
+Ah, when the meanes are gone, that buy this praise,
+The breath is gone, whereof this praise is made:
+Feast won, fast lost; one cloud of Winter showres,
+These flyes are coucht
+
+   Tim. Come sermon me no further.
+No villanous bounty yet hath past my heart;
+Vnwisely, not ignobly haue I giuen.
+Why dost thou weepe, canst thou the conscience lacke,
+To thinke I shall lacke friends: secure thy heart,
+If I would broach the vessels of my loue,
+And try the argument of hearts, by borrowing,
+Men, and mens fortunes could I frankely vse
+As I can bid thee speake
+
+   Ste. Assurance blesse your thoughts
+
+   Tim. And in some sort these wants of mine are crown'd,
+That I account them blessings. For by these
+Shall I trie Friends. You shall perceiue
+How you mistake my Fortunes:
+I am wealthie in my Friends.
+Within there, Flauius, Seruilius?
+Enter three Seruants.
+
+  Ser. My Lord, my Lord
+
+   Tim. I will dispatch you seuerally.
+You to Lord Lucius, to Lord Lucullus you, I hunted
+with his Honor to day; you to Sempronius; commend me
+to their loues; and I am proud say, that my occasions
+haue found time to vse 'em toward a supply of mony: let
+the request be fifty Talents
+
+   Flam. As you haue said, my Lord
+
+   Stew. Lord Lucius and Lucullus? Humh
+
+   Tim. Go you sir to the Senators;
+Of whom, euen to the States best health; I haue
+Deseru'd this Hearing: bid 'em send o'th' instant
+A thousand Talents to me
+
+   Ste. I haue beene bold
+(For that I knew it the most generall way)
+To them, to vse your Signet, and your Name,
+But they do shake their heads, and I am heere
+No richer in returne
+
+   Tim. Is't true? Can't be?
+  Stew. They answer in a ioynt and corporate voice,
+That now they are at fall, want Treasure cannot
+Do what they would, are sorrie: you are Honourable,
+But yet they could haue wisht, they know not,
+Something hath beene amisse; a Noble Nature
+May catch a wrench; would all were well; tis pitty,
+And so intending other serious matters,
+After distastefull lookes; and these hard Fractions
+With certaine halfe-caps, and cold mouing nods,
+They froze me into Silence
+
+   Tim. You Gods reward them:
+Prythee man looke cheerely. These old Fellowes
+Haue their ingratitude in them Hereditary:
+Their blood is cak'd, 'tis cold, it sildome flowes,
+'Tis lacke of kindely warmth, they are not kinde;
+And Nature, as it growes againe toward earth,
+Is fashion'd for the iourney, dull and heauy.
+Go to Ventiddius (prythee be not sad,
+Thou art true, and honest; Ingeniously I speake,
+No blame belongs to thee:) Ventiddius lately
+Buried his Father, by whose death hee's stepp'd
+Into a great estate: When he was poore,
+Imprison'd, and in scarsitie of Friends,
+I cleer'd him with fiue Talents: Greet him from me,
+Bid him suppose, some good necessity
+Touches his Friend, which craues to be remembred
+With those fiue Talents; that had, giue't these Fellowes
+To whom 'tis instant due. Neu'r speake, or thinke,
+That Timons fortunes 'mong his Friends can sinke
+
+   Stew. I would I could not thinke it:
+That thought is Bounties Foe;
+Being free it selfe, it thinkes all others so.
+
+Exeunt.
+
+Flaminius waiting to speake with a Lord from his Master, enters a
+seruant
+to him.
+
+  Ser. I haue told my Lord of you, he is comming down
+to you
+
+   Flam. I thanke you Sir.
+Enter Lucullus.
+
+  Ser. Heere's my Lord
+
+   Luc. One of Lord Timons men? A Guift I warrant.
+Why this hits right: I dreampt of a Siluer Bason & Ewre
+to night. Flaminius, honest Flaminius, you are verie respectiuely
+welcome sir. Fill me some Wine. And how
+does that Honourable, Compleate, Free-hearted Gentleman
+of Athens, thy very bountifull good Lord and Mayster?
+  Flam. His health is well sir
+
+   Luc. I am right glad that his health is well sir: and
+what hast thou there vnder thy Cloake, pretty Flaminius?
+  Flam. Faith, nothing but an empty box Sir, which in
+my Lords behalfe, I come to intreat your Honor to supply:
+who hauing great and instant occasion to vse fiftie
+Talents, hath sent to your Lordship to furnish him: nothing
+doubting your present assistance therein
+
+   Luc. La, la, la, la: Nothing doubting sayes hee? Alas
+good Lord, a Noble Gentleman 'tis, if he would not keep
+so good a house. Many a time and often I ha din'd with
+him, and told him on't, and come againe to supper to him
+of purpose, to haue him spend lesse, and yet he wold embrace
+no counsell, take no warning by my comming, euery
+man has his fault, and honesty is his. I ha told him on't,
+but I could nere get him from't.
+Enter Seruant with Wine.
+
+  Ser. Please your Lordship, heere is the Wine
+
+   Luc. Flaminius, I haue noted thee alwayes wise.
+Heere's to thee
+
+   Flam. Your Lordship speakes your pleasure
+
+   Luc. I haue obserued thee alwayes for a towardlie
+prompt spirit, giue thee thy due, and one that knowes
+what belongs to reason; and canst vse the time wel, if the
+time vse thee well. Good parts in thee; get you gone sirrah.
+Draw neerer honest Flaminius. Thy Lords a bountifull
+Gentleman, but thou art wise, and thou know'st
+well enough (although thou com'st to me) that this is no
+time to lend money, especially vpon bare friendshippe
+without securitie. Here's three Solidares for thee, good
+Boy winke at me, and say thou saw'st mee not. Fare thee
+well
+
+   Flam. Is't possible the world should so much differ,
+And we aliue that liued? Fly damned basenesse
+To him that worships thee
+
+   Luc. Ha? Now I see thou art a Foole, and fit for thy
+Master.
+
+Exit L[ucullus].
+
+  Flam. May these adde to the number y may scald thee:
+Let moulten Coine be thy damnation,
+Thou disease of a friend, and not himselfe:
+Has friendship such a faint and milkie heart,
+It turnes in lesse then two nights? O you Gods!
+I feele my Masters passion. This Slaue vnto his Honor,
+Has my Lords meate in him:
+Why should it thriue, and turne to Nutriment,
+When he is turn'd to poyson?
+O may Diseases onely worke vpon't:
+And when he's sicke to death, let not that part of Nature
+Which my Lord payd for, be of any power
+To expell sicknesse, but prolong his hower.
+Enter.
+
+Enter Lucius, with three strangers.
+
+  Luc. Who the Lord Timon? He is my very good friend
+and an Honourable Gentleman
+
+   1 We know him for no lesse, thogh we are but strangers
+to him. But I can tell you one thing my Lord, and
+which I heare from common rumours, now Lord Timons
+happie howres are done and past, and his estate shrinkes
+from him
+
+   Lucius. Fye no, doe not beleeue it: hee cannot want
+for money
+
+   2 But beleeue you this my Lord, that not long agoe,
+one of his men was with the Lord Lucullus, to borrow so
+many Talents, nay vrg'd extreamly for't, and shewed
+what necessity belong'd too't, and yet was deny'de
+
+   Luci. How?
+  2 I tell you, deny'de my Lord
+
+   Luci. What a strange case was that? Now before the
+Gods I am asham'd on't. Denied that honourable man?
+There was verie little Honour shew'd in't. For my owne
+part, I must needes confesse, I haue receyued some small
+kindnesses from him, as Money, Plate, Iewels, and such
+like Trifles; nothing comparing to his: yet had hee mistooke
+him, and sent to me, I should ne're haue denied his
+Occasion so many Talents.
+Enter Seruilius.
+
+  Seruil. See, by good hap yonders my Lord, I haue
+swet to see his Honor. My Honor'd Lord
+
+   Lucil. Seruilius? You are kindely met sir. Farthewell,
+commend me to thy Honourable vertuous Lord, my very
+exquisite Friend
+
+   Seruil. May it please your Honour, my Lord hath
+sent-
+  Luci. Ha? what ha's he sent? I am so much endeered
+to that Lord; hee's euer sending: how shall I thank him
+think'st thou? And what has he sent now?
+  Seruil. Has onely sent his present Occasion now my
+Lord: requesting your Lordship to supply his instant vse
+with so many Talents
+
+   Lucil. I know his Lordship is but merry with me,
+He cannot want fifty fiue hundred Talents
+
+   Seruil. But in the mean time he wants lesse my Lord.
+If his occasion were not vertuous,
+I should not vrge it halfe so faithfully
+
+   Luc. Dost thou speake seriously Seruilius?
+  Seruil. Vpon my soule 'tis true Sir
+
+   Luci. What a wicked Beast was I to disfurnish my
+self against such a good time, when I might ha shewn my
+selfe Honourable? How vnluckily it hapned, that I shold
+Purchase the day before for a little part, and vndo a great
+deale of Honour? Seruilius, now before the Gods I am
+not able to do (the more beast I say) I was sending to vse
+Lord Timon my selfe, these Gentlemen can witnesse; but
+I would not for the wealth of Athens I had done't now.
+Commend me bountifully to his good Lordship, and I
+hope his Honor will conceiue the fairest of mee, because
+I haue no power to be kinde. And tell him this from me,
+I count it one of my greatest afflictions say, that I cannot
+pleasure such an Honourable Gentleman. Good Seruilius,
+will you befriend mee so farre, as to vse mine owne
+words to him?
+  Ser. Yes sir, I shall.
+
+Exit Seruil[ius].
+
+  Lucil. Ile looke you out a good turne Seruilius.
+True as you said, Timon is shrunke indeede,
+And he that's once deny'de, will hardly speede.
+Enter.
+
+  1 Do you obserue this Hostilius?
+  2 I, to well
+
+   1 Why this is the worlds soule,
+And iust of the same peece
+Is euery Flatterers sport: who can call him his Friend
+That dips in the same dish? For in my knowing
+Timon has bin this Lords Father,
+And kept his credit with his purse:
+Supported his estate, nay Timons money
+Has paid his men their wages. He ne're drinkes,
+But Timons Siluer treads vpon his Lip,
+And yet, oh see the monstrousnesse of man,
+When he lookes out in an vngratefull shape;
+He does deny him (in respect of his)
+What charitable men affoord to Beggers
+
+   3 Religion grones at it
+
+   1 For mine owne part, I neuer tasted Timon in my life
+Nor came any of his bounties ouer me,
+To marke me for his Friend. Yet I protest,
+For his right Noble minde, illustrious Vertue,
+And Honourable Carriage,
+Had his necessity made vse of me,
+I would haue put my wealth into Donation,
+And the best halfe should haue return'd to him,
+So much I loue his heart: But I perceiue,
+Men must learne now with pitty to dispence,
+For Policy sits aboue Conscience.
+
+Exeunt.
+
+Enter a third seruant with Sempronius, another of Timons Friends.
+
+  Semp. Must he needs trouble me in't? Hum.
+'Boue all others?
+He might haue tried Lord Lucius, or Lucullus,
+And now Ventidgius is wealthy too,
+Whom he redeem'd from prison. All these
+Owes their estates vnto him
+
+   Ser. My Lord,
+They haue all bin touch'd, and found Base-Mettle,
+For they haue all denied him
+
+   Semp. How? Haue they deny'de him?
+Has Ventidgius and Lucullus deny'de him,
+And does he send to me? Three? Humh?
+It shewes but little loue, or iudgement in him.
+Must I be his last Refuge? His Friends (like Physitians)
+Thriue, giue him ouer: Must I take th' Cure vpon me?
+Has much disgrac'd me in't, I'me angry at him,
+That might haue knowne my place. I see no sense for't,
+But his Occasions might haue wooed me first:
+For in my conscience, I was the first man
+That ere receiued guift from him.
+And does he thinke so backwardly of me now,
+That Ile requite it last? No:
+So it may proue an Argument of Laughter
+To th' rest, and 'mong'st Lords be thought a Foole:
+I'de rather then the worth of thrice the summe,
+Had sent to me first, but for my mindes sake:
+I'de such a courage to do him good. But now returne,
+And with their faint reply, this answer ioyne;
+Who bates mine Honor, shall not know my Coyne.
+
+Exit
+
+  Ser. Excellent: Your Lordships a goodly Villain: the
+diuell knew not what he did, when hee made man Politicke;
+he crossed himselfe by't: and I cannot thinke, but
+in the end, the Villanies of man will set him cleere. How
+fairely this Lord striues to appeare foule? Takes Vertuous
+Copies to be wicked: like those, that vnder hotte ardent
+zeale, would set whole Realmes on fire, of such a nature
+is his politike loue.
+This was my Lords best hope, now all are fled
+Saue onely the Gods. Now his Friends are dead,
+Doores that were ne're acquainted with their Wards
+Many a bounteous yeere, must be imploy'd
+Now to guard sure their Master:
+And this is all a liberall course allowes,
+Who cannot keepe his wealth, must keep his house.
+Enter.
+
+Enter Varro's man, meeting others. All Timons Creditors to wait
+for his
+comming out. Then enter Lucius and Hortensius.
+
+  Var.man. Well met, goodmorrow Titus & Hortensius
+  Tit. The like to you kinde Varro
+
+   Hort. Lucius, what do we meet together?
+  Luci. I, and I think one businesse do's command vs all.
+For mine is money
+
+   Tit. So is theirs, and ours.
+Enter Philotus.
+
+  Luci. And sir Philotus too
+
+   Phil. Good day at once
+
+   Luci. Welcome good Brother.
+What do you thinke the houre?
+  Phil. Labouring for Nine
+
+   Luci. So much?
+  Phil. Is not my Lord seene yet?
+  Luci. Not yet
+
+   Phil. I wonder on't, he was wont to shine at seauen
+
+   Luci. I, but the dayes are waxt shorter with him:
+You must consider, that a Prodigall course
+Is like the Sunnes, but not like his recouerable, I feare:
+'Tis deepest Winter in Lord Timons purse, that is: One
+may reach deepe enough, and yet finde little
+
+   Phil. I am of your feare, for that
+
+   Tit. Ile shew you how t' obserue a strange euent:
+Your Lord sends now for Money?
+  Hort. Most true, he doe's
+
+   Tit. And he weares Iewels now of Timons guift,
+For which I waite for money
+
+   Hort. It is against my heart
+
+   Luci. Marke how strange it showes,
+Timon in this, should pay more then he owes:
+And e'ne as if your Lord should weare rich Iewels,
+And send for money for 'em
+
+   Hort. I'me weary of this Charge,
+The Gods can witnesse:
+I know my Lord hath spent of Timons wealth,
+And now Ingratitude, makes it worse then stealth
+
+   Varro. Yes, mine's three thousand Crownes:
+What's yours?
+  Luci. Fiue thousand mine
+
+   Varro. 'Tis much deepe, and it should seem by th' sum
+Your Masters confidence was aboue mine,
+Else surely his had equall'd.
+Enter Flaminius.
+
+  Tit. One of Lord Timons men
+
+   Luc. Flaminius? Sir, a word: Pray is my Lord readie
+to come forth?
+  Flam. No, indeed he is not
+
+   Tit. We attend his Lordship: pray signifie so much
+
+   Flam. I need not tell him that, he knowes you are too diligent.
+Enter Steward in a Cloake, muffled.
+
+  Luci. Ha: is not that his Steward muffled so?
+He goes away in a Clowd: Call him, call him
+
+   Tit. Do you heare, sir?
+  2.Varro. By your leaue, sir
+
+   Stew. What do ye aske of me, my Friend
+
+   Tit. We waite for certaine Money heere, sir
+
+   Stew. I, if Money were as certaine as your waiting,
+'Twere sure enough.
+Why then preferr'd you not your summes and Billes
+When your false Masters eate of my Lords meat?
+Then they could smile, and fawne vpon his debts.
+And take downe th' Intrest into their glutt'nous Mawes.
+You do your selues but wrong, to stirre me vp,
+Let me passe quietly:
+Beleeue't, my Lord and I haue made an end,
+I haue no more to reckon, he to spend
+
+   Luci. I, but this answer will not serue
+
+   Stew. If't 'twill not serue, 'tis not so base as you,
+For you serue Knaues
+
+   1.Varro. How? What does his casheer'd Worship
+mutter?
+  2.Varro. No matter what, hee's poore, and that's reuenge
+enough. Who can speake broader, then hee that
+has no house to put his head in? Such may rayle against
+great buildings.
+Enter Seruilius.
+
+  Tit. Oh heere's Seruilius: now wee shall know some
+answere
+
+   Seru. If I might beseech you Gentlemen, to repayre
+some other houre, I should deriue much from't. For tak't
+of my soule, my Lord leanes wondrously to discontent:
+His comfortable temper has forsooke him, he's much out
+of health, and keepes his Chamber
+
+   Luci. Many do keepe their Chambers, are not sicke:
+And if it be so farre beyond his health,
+Me thinkes he should the sooner pay his debts,
+And make a cleere way to the Gods
+
+   Seruil. Good Gods
+
+   Titus. We cannot take this for answer, sir
+
+   Flaminius within. Seruilius helpe, my Lord, my Lord.
+Enter Timon in a rage.
+
+  Tim. What, are my dores oppos'd against my passage?
+Haue I bin euer free, and must my house
+Be my retentiue Enemy? My Gaole?
+The place which I haue Feasted, does it now
+(Like all Mankinde) shew me an Iron heart?
+  Luci. Put in now Titus
+
+   Tit. My Lord, heere is my Bill
+
+   Luci. Here's mine
+
+   1.Var. And mine, my Lord
+
+   2.Var. And ours, my Lord
+
+   Philo. All our Billes
+
+   Tim. Knocke me downe with 'em, cleaue mee to the
+Girdle
+
+   Luc. Alas, my Lord
+
+   Tim. Cut my heart in summes
+
+   Tit. Mine, fifty Talents
+
+   Tim. Tell out my blood
+
+   Luc. Fiue thousand Crownes, my Lord
+
+   Tim. Fiue thousand drops payes that.
+What yours? and yours?
+  1.Var. My Lord
+
+   2.Var. My Lord
+
+   Tim. Teare me, take me, and the Gods fall vpon you.
+
+Exit Timon.
+
+  Hort. Faith I perceiue our Masters may throwe their
+caps at their money, these debts may well be call'd desperate
+ones, for a madman owes 'em.
+
+Exeunt.
+
+Enter Timon.
+
+  Timon. They haue e'ene put my breath from mee the
+slaues. Creditors? Diuels
+
+   Stew. My deere Lord
+
+   Tim. What if it should be so?
+  Stew. My Lord
+
+   Tim. Ile haue it so. My Steward?
+  Stew. Heere my Lord
+
+   Tim. So fitly? Go, bid all my Friends againe,
+Lucius, Lucullus, and Sempronius Vllorxa: All,
+Ile once more feast the Rascals
+
+   Stew. O my Lord, you onely speake from your distracted
+soule; there's not so much left to furnish out a moderate
+Table
+
+   Tim. Be it not in thy care:
+Go I charge thee, inuite them all, let in the tide
+Of Knaues once more: my Cooke and Ile prouide.
+
+Exeunt.
+
+Enter three Senators at one doore, Alcibiades meeting them, with
+Attendants
+
+   1.Sen. My Lord, you haue my voyce, too't,
+The faults Bloody:
+'Tis necessary he should dye:
+Nothing imboldens sinne so much, as Mercy
+
+   2 Most true; the Law shall bruise 'em
+
+   Alc. Honor, health, and compassion to the Senate
+
+   1 Now Captaine
+
+   Alc. I am an humble Sutor to your Vertues;
+For pitty is the vertue of the Law,
+And none but Tyrants vse it cruelly.
+It pleases time and Fortune to lye heauie
+Vpon a Friend of mine, who in hot blood
+Hath stept into the Law: which is past depth
+To those that (without heede) do plundge intoo't.
+He is a Man (setting his Fate aside) of comely Vertues,
+Nor did he soyle the fact with Cowardice.
+(And Honour in him, which buyes out his fault)
+But with a Noble Fury, and faire spirit,
+Seeing his Reputation touch'd to death,
+He did oppose his Foe:
+And with such sober and vnnoted passion
+He did behooue his anger ere 'twas spent,
+As if he had but prou'd an Argument
+
+   1.Sen. You vndergo too strict a Paradox,
+Striuing to make an vgly deed looke faire:
+Your words haue tooke such paines, as if they labour'd
+To bring Man-slaughter into forme, and set Quarrelling
+Vpon the head of Valour; which indeede
+Is Valour mis-begot, and came into the world,
+When Sects, and Factions were newly borne.
+Hee's truly Valiant, that can wisely suffer
+The worst that man can breath,
+And make his Wrongs, his Out-sides,
+To weare them like his Rayment, carelessely,
+And ne're preferre his iniuries to his heart,
+To bring it into danger.
+If Wrongs be euilles, and inforce vs kill,
+What Folly 'tis, to hazard life for Ill
+
+   Alci. My Lord
+
+   1.Sen. You cannot make grosse sinnes looke cleare,
+To reuenge is no Valour, but to beare
+
+   Alci. My Lords, then vnder fauour, pardon me,
+If I speake like a Captaine.
+Why do fond men expose themselues to Battell,
+And not endure all threats? Sleepe vpon't,
+And let the Foes quietly cut their Throats
+Without repugnancy? If there be
+Such Valour in the bearing, what make wee
+Abroad? Why then, Women are more valiant
+That stay at home, if Bearing carry it:
+And the Asse, more Captaine then the Lyon?
+The fellow loaden with Irons, wiser then the Iudge?
+If Wisedome be in suffering. Oh my Lords,
+As you are great, be pittifully Good,
+Who cannot condemne rashnesse in cold blood?
+To kill, I grant, is sinnes extreamest Gust,
+But in defence, by Mercy, 'tis most iust.
+To be in Anger, is impietie:
+But who is Man, that is not Angrie.
+Weigh but the Crime with this
+
+   2.Sen. You breath in vaine
+
+   Alci. In vaine?
+His seruice done at Lacedemon, and Bizantium,
+Were a sufficient briber for his life
+
+   1 What's that?
+  Alc. Why say my Lords ha's done faire seruice,
+And slaine in fight many of your enemies:
+How full of valour did he beare himselfe
+In the last Conflict, and made plenteous wounds?
+  2 He has made too much plenty with him:
+He's a sworne Riotor, he has a sinne
+That often drownes him, and takes his valour prisoner.
+If there were no Foes, that were enough
+To ouercome him. In that Beastly furie,
+He has bin knowne to commit outrages,
+And cherrish Factions. 'Tis inferr'd to vs,
+His dayes are foule, and his drinke dangerous
+
+   1 He dyes
+
+   Alci. Hard fate: he might haue dyed in warre.
+My Lords, if not for any parts in him,
+Though his right arme might purchase his owne time,
+And be in debt to none: yet more to moue you,
+Take my deserts to his, and ioyne 'em both.
+And for I know, your reuerend Ages loue Security,
+Ile pawne my Victories, all my Honour to you
+Vpon his good returnes.
+If by this Crime, he owes the Law his life,
+Why let the Warre receiue't in valiant gore,
+For Law is strict, and Warre is nothing more
+
+   1 We are for Law, he dyes, vrge it no more
+On height of our displeasure: Friend, or Brother,
+He forfeits his owne blood, that spilles another
+
+   Alc. Must it be so? It must not bee:
+My Lords, I do beseech you know mee
+
+   2 How?
+  Alc. Call me to your remembrances
+
+   3 What
+
+   Alc. I cannot thinke but your Age has forgot me,
+It could not else be, I should proue so bace,
+To sue and be deny'de such common Grace.
+My wounds ake at you
+
+   1 Do you dare our anger?
+'Tis in few words, but spacious in effect:
+We banish thee for euer
+
+   Alc. Banish me?
+Banish your dotage, banish vsurie,
+That makes the Senate vgly
+
+   1 If after two dayes shine, Athens containe thee,
+Attend our waightier Iudgement.
+And not to swell our Spirit,
+He shall be executed presently.
+
+Exeunt.
+
+  Alc. Now the Gods keepe you old enough,
+That you may liue
+Onely in bone, that none may looke on you.
+I'm worse then mad: I haue kept backe their Foes
+While they haue told their Money, and let out
+Their Coine vpon large interest. I my selfe,
+Rich onely in large hurts. All those, for this?
+Is this the Balsome, that the vsuring Senat
+Powres into Captaines wounds? Banishment.
+It comes not ill: I hate not to be banisht,
+It is a cause worthy my Spleene and Furie,
+That I may strike at Athens. Ile cheere vp
+My discontented Troopes, and lay for hearts;
+'Tis Honour with most Lands to be at ods,
+Souldiers should brooke as little wrongs as Gods.
+Enter.
+
+Enter diuers Friends at seuerall doores.
+
+  1 The good time of day to you, sir
+
+   2 I also wish it to you: I thinke this Honorable Lord
+did but try vs this other day
+
+   1 Vpon that were my thoughts tyring when wee encountred.
+I hope it is not so low with him as he made it
+seeme in the triall of his seuerall Friends
+
+   2 It should not be, by the perswasion of his new Feasting
+
+   1 I should thinke so. He hath sent mee an earnest inuiting,
+which many my neere occasions did vrge mee to
+put off: but he hath coniur'd mee beyond them, and I
+must needs appeare
+
+   2 In like manner was I in debt to my importunat businesse,
+but he would not heare my excuse. I am sorrie,
+when he sent to borrow of mee, that my Prouision was
+out
+
+   1 I am sicke of that greefe too, as I vnderstand how all
+things go
+
+   2 Euery man heares so: what would hee haue borrowed
+of you?
+  1 A thousand Peeces
+
+   2 A thousand Peeces?
+  1 What of you?
+  2 He sent to me sir- Heere he comes.
+Enter Timon and Attendants.
+
+  Tim. With all my heart Gentlemen both; and how
+fare you?
+  1 Euer at the best, hearing well of your Lordship
+
+   2 The Swallow followes not Summer more willing,
+then we your Lordship
+
+   Tim. Nor more willingly leaues Winter, such Summer
+Birds are men. Gentlemen, our dinner will not recompence
+this long stay: Feast your eares with the Musicke
+awhile: If they will fare so harshly o'th' Trumpets
+sound: we shall too't presently
+
+   1 I hope it remaines not vnkindely with your Lordship,
+that I return'd you an empty Messenger
+
+   Tim. O sir, let it not trouble you
+
+   2 My Noble Lord
+
+   Tim. Ah my good Friend, what cheere?
+
+The Banket brought in.
+
+  2 My most Honorable Lord, I am e'ne sick of shame,
+that when your Lordship this other day sent to me, I was
+so vnfortunate a Beggar
+
+   Tim. Thinke not on't, sir
+
+   2 If you had sent but two houres before
+
+   Tim. Let it not cumber your better remembrance.
+Come bring in all together
+
+   2 All couer'd Dishes
+
+   1 Royall Cheare, I warrant you
+
+   3 Doubt not that, if money and the season can yeild it
+  1 How do you? What's the newes?
+  3 Alcibiades is banish'd: heare you of it?
+  Both. Alcibiades banish'd?
+  3 'Tis so, be sure of it
+
+   1 How? How?
+  2 I pray you vpon what?
+  Tim. My worthy Friends, will you draw neere?
+  3 Ile tell you more anon. Here's a Noble feast toward
+  2 This is the old man still
+
+   3 Wilt hold? Wilt hold?
+  2 It do's: but time will, and so
+
+   3 I do conceyue
+
+   Tim. Each man to his stoole, with that spurre as hee
+would to the lip of his Mistris: your dyet shall bee in all
+places alike. Make not a Citie Feast of it, to let the meat
+coole, ere we can agree vpon the first place. Sit, sit.
+The Gods require our Thankes.
+You great Benefactors, sprinkle our Society with Thankefulnesse.
+For your owne guifts, make your selues prais'd: But
+reserue still to giue, least your Deities be despised. Lend to each
+man enough, that one neede not lend to another. For were your
+Godheads to borrow of men, men would forsake the Gods. Make
+the Meate be beloued, more then the Man that giues it. Let
+no Assembly of Twenty, be without a score of Villaines. If there
+sit twelue Women at the Table, let a dozen of them bee as they
+are. The rest of your Fees, O Gods, the Senators of Athens,
+together with the common legge of People, what is amisse in
+them, you Gods, make suteable for destruction. For these my
+present Friends, as they are to mee nothing, so in nothing blesse
+them, and to nothing are they welcome.
+Vncouer Dogges, and lap
+
+   Some speake. What do's his Lordship meane?
+  Some other. I know not
+
+   Timon. May you a better Feast neuer behold
+You knot of Mouth-Friends: Smoke, & lukewarm water
+Is your perfection. This is Timons last,
+Who stucke and spangled you with Flatteries,
+Washes it off and sprinkles in your faces
+Your reeking villany. Liue loath'd, and long
+Most smiling, smooth, detested Parasites,
+Curteous Destroyers, affable Wolues, meeke Beares:
+You Fooles of Fortune, Trencher-friends, Times Flyes,
+Cap and knee-Slaues, vapours, and Minute Iackes.
+Of Man and Beast, the infinite Maladie
+Crust you quite o're. What do'st thou go?
+Soft, take thy Physicke first; thou too, and thou:
+Stay I will lend thee money, borrow none.
+What? All in Motion? Henceforth be no Feast,
+Whereat a Villaine's not a welcome Guest.
+Burne house, sinke Athens, henceforth hated be
+Of Timon Man, and all Humanity.
+
+Exit
+
+Enter the Senators, with other Lords.
+
+  1 How now, my Lords?
+  2 Know you the quality of Lord Timons fury?
+  3 Push, did you see my Cap?
+  4 I haue lost my Gowne
+
+   1 He's but a mad Lord, & nought but humors swaies
+him. He gaue me a Iewell th' other day, and now hee has
+beate it out of my hat.
+Did you see my Iewell?
+  2 Did you see my Cap
+
+   3 Heere 'tis
+
+   4 Heere lyes my Gowne
+
+   1 Let's make no stay
+
+   2 Lord Timons mad
+
+   3 I feel't vpon my bones
+
+   4 One day he giues vs Diamonds, next day stones.
+
+Exeunt. the Senators.
+
+Enter Timon.
+
+  Tim. Let me looke backe vpon thee. O thou Wall
+That girdles in those Wolues, diue in the earth,
+And fence not Athens. Matrons, turne incontinent,
+Obedience fayle in Children: Slaues and Fooles
+Plucke the graue wrinkled Senate from the Bench,
+And minister in their steeds, to generall Filthes.
+Conuert o'th' Instant greene Virginity,
+Doo't in your Parents eyes. Bankrupts, hold fast
+Rather then render backe; out with your Kniues,
+And cut your Trusters throates. Bound Seruants, steale,
+Large-handed Robbers your graue Masters are,
+And pill by Law. Maide, to thy Masters bed,
+Thy Mistris is o'th' Brothell. Some of sixteen,
+Plucke the lyn'd Crutch from thy old limping Sire,
+With it, beate out his Braines. Piety, and Feare,
+Religion to the Gods, Peace, Iustice, Truth,
+Domesticke awe, Night-rest, and Neighbourhood,
+Instruction, Manners, Mysteries, and Trades,
+Degrees, Obseruances, Customes, and Lawes,
+Decline to your confounding contraries.
+And yet Confusion liue: Plagues incident to men,
+Your potent and infectious Feauors, heape
+On Athens ripe for stroke. Thou cold Sciatica,
+Cripple our Senators, that their limbes may halt
+As lamely as their Manners. Lust, and Libertie
+Creepe in the Mindes and Marrowes of our youth,
+That 'gainst the streame of Vertue they may striue,
+And drowne themselues in Riot. Itches, Blaines,
+So we all th' Athenian bosomes, and their crop
+Be generall Leprosie: Breath, infect breath,
+That their Society (as their Friendship) may
+Be meerely poyson. Nothing Ile beare from thee
+But nakednesse, thou detestable Towne,
+Take thou that too, with multiplying Bannes:
+Timon will to the Woods, where he shall finde
+Th' vnkindest Beast, more kinder then Mankinde.
+The Gods confound (heare me you good Gods all)
+Th' Athenians both within and out that Wall:
+And graunt as Timon growes, his hate may grow
+To the whole race of Mankinde, high and low.
+Amen.
+Enter.
+
+Enter Steward with two or three Seruants.
+
+  1 Heare you M[aster]. Steward, where's our Master?
+Are we vndone, cast off, nothing remaining?
+  Stew. Alack my Fellowes, what should I say to you?
+Let me be recorded by the righteous Gods,
+I am as poore as you
+
+   1 Such a House broke?
+So Noble a Master falne, all gone, and not
+One Friend to take his Fortune by the arme,
+And go along with him
+
+   2 As we do turne our backes
+From our Companion, throwne into his graue,
+So his Familiars to his buried Fortunes
+Slinke all away, leaue their false vowes with him
+Like empty purses pickt; and his poore selfe
+A dedicated Beggar to the Ayre,
+With his disease, of all shunn'd pouerty,
+Walkes like contempt alone. More of our Fellowes.
+Enter other Seruants.
+
+  Stew. All broken Implements of a ruin'd house
+
+   3 Yet do our hearts weare Timons Liuery,
+That see I by our Faces: we are Fellowes still,
+Seruing alike in sorrow: Leak'd is our Barke,
+And we poore Mates, stand on the dying Decke,
+Hearing the Surges threat: we must all part
+Into this Sea of Ayre
+
+   Stew. Good Fellowes all,
+The latest of my wealth Ile share among'st you.
+Where euer we shall meete, for Timons sake,
+Let's yet be Fellowes. Let's shake our heads, and say
+As 'twere a Knell vnto our Masters Fortunes,
+We haue seene better dayes. Let each take some:
+Nay put out all your hands: Not one word more,
+Thus part we rich in sorrow, parting poore.
+
+Embrace and part seuerall wayes.
+
+Oh the fierce wretchednesse that Glory brings vs!
+Who would not wish to be from wealth exempt,
+Since Riches point to Misery and Contempt?
+Who would be so mock'd with Glory, or to liue
+But in a Dreame of Friendship,
+To haue his pompe, and all what state compounds,
+But onely painted like his varnisht Friends:
+Poore honest Lord, brought lowe by his owne heart,
+Vndone by Goodnesse: Strange vnvsuall blood,
+When mans worst sinne is, He do's too much Good.
+Who then dares to be halfe so kinde agen?
+For Bounty that makes Gods, do still marre Men.
+My deerest Lord, blest to be most accurst,
+Rich onely to be wretched; thy great Fortunes
+Are made thy cheefe Afflictions. Alas (kinde Lord)
+Hee's flung in Rage from this ingratefull Seate
+Of monstrous Friends:
+Nor ha's he with him to supply his life,
+Or that which can command it:
+Ile follow and enquire him out.
+Ile euer serue his minde, with my best will,
+Whilst I haue Gold, Ile be his Steward still.
+Enter.
+
+Enter Timon in the woods.
+
+  Tim. O blessed breeding Sun, draw from the earth
+Rotten humidity: below thy Sisters Orbe
+Infect the ayre. Twin'd Brothers of one wombe,
+Whose procreation, residence, and birth,
+Scarse is diuidant; touch them with seuerall fortunes,
+The greater scornes the lesser. Not Nature
+(To whom all sores lay siege) can beare great Fortune
+But by contempt of Nature.
+Raise me this Begger, and deny't that Lord,
+The Senators shall beare contempt Hereditary,
+The Begger Natiue Honor.
+It is the Pastour Lards, the Brothers sides,
+The want that makes him leaue: who dares? who dares
+In puritie of Manhood stand vpright
+And say, this mans a Flatterer. If one be,
+So are they all: for euerie grize of Fortune
+Is smooth'd by that below. The Learned pate
+Duckes to the Golden Foole. All's obliquie:
+There's nothing leuell in our cursed Natures
+But direct villanie. Therefore be abhorr'd,
+All Feasts, Societies, and Throngs of men.
+His semblable, yea himselfe Timon disdaines,
+Destruction phang mankinde; Earth yeeld me Rootes,
+Who seekes for better of thee, sawce his pallate
+With thy most operant Poyson. What is heere?
+Gold? Yellow, glittering, precious Gold?
+No Gods, I am no idle Votarist,
+Roots you cleere Heauens. Thus much of this will make
+Blacke, white; fowle, faire; wrong, right;
+Base, Noble; Old, young; Coward, valiant.
+Ha you Gods! why this? what this, you Gods? why this
+Will lugge your Priests and Seruants from your sides:
+Plucke stout mens pillowes from below their heads.
+This yellow Slaue,
+Will knit and breake Religions, blesse th' accurst,
+Make the hoare Leprosie ador'd, place Theeues,
+And giue them Title, knee, and approbation
+With Senators on the Bench: This is it
+That makes the wappen'd Widdow wed againe;
+Shee, whom the Spittle-house, and vlcerous sores,
+Would cast the gorge at. This Embalmes and Spices
+To'th' Aprill day againe. Come damn'd Earth,
+Thou common whore of Mankinde, that puttes oddes
+Among the rout of Nations, I will make thee
+Do thy right Nature.
+
+March afarre off.
+
+Ha? A Drumme? Th'art quicke,
+But yet Ile bury thee: Thou't go (strong Theefe)
+When Gowty keepers of thee cannot stand:
+Nay stay thou out for earnest.
+Enter Alcibiades with Drumme and Fife in warlike manner, and
+Phrynia and
+Timandra.
+
+  Alc. What art thou there? speake
+
+   Tim. A Beast as thou art. The Canker gnaw thy hart
+For shewing me againe the eyes of Man
+
+   Alc. What is thy name? Is man so hatefull to thee,
+That art thy selfe a Man?
+  Tim. I am Misantropos, and hate Mankinde.
+For thy part, I do wish thou wert a dogge,
+That I might loue thee something
+
+   Alc. I know thee well:
+But in thy Fortunes am vnlearn'd, and strange
+
+   Tim. I know thee too, and more then that I know thee
+I not desire to know. Follow thy Drumme,
+With mans blood paint the ground Gules, Gules:
+Religious Cannons, ciuill Lawes are cruell,
+Then what should warre be? This fell whore of thine,
+Hath in her more destruction then thy Sword,
+For all her Cherubin looke
+
+   Phrin. Thy lips rot off
+
+   Tim. I will not kisse thee, then the rot returnes
+To thine owne lippes againe
+
+   Alc. How came the Noble Timon to this change?
+  Tim. As the Moone do's, by wanting light to giue:
+But then renew I could not like the Moone,
+There were no Sunnes to borrow of
+
+   Alc. Noble Timon, what friendship may I do thee?
+  Tim. None, but to maintaine my opinion
+
+   Alc. What is it Timon?
+  Tim. Promise me Friendship, but performe none.
+If thou wilt not promise, the Gods plague thee, for thou
+art a man: if thou do'st performe, confound thee, for
+thou art a man
+
+   Alc. I haue heard in some sort of thy Miseries
+
+   Tim. Thou saw'st them when I had prosperitie
+
+   Alc. I see them now, then was a blessed time
+
+   Tim. As thine is now, held with a brace of Harlots
+
+   Timan. Is this th' Athenian Minion, whom the world
+Voic'd so regardfully?
+  Tim. Art thou Timandra?
+  Timan. Yes
+
+   Tim. Be a whore still, they loue thee not that vse thee,
+giue them diseases, leauing with thee their Lust. Make
+vse of thy salt houres, season the slaues for Tubbes and
+Bathes, bring downe Rose-cheekt youth to the Fubfast,
+and the Diet
+
+   Timan. Hang thee Monster
+
+   Alc. Pardon him sweet Timandra, for his wits
+Are drown'd and lost in his Calamities.
+I haue but little Gold of late, braue Timon,
+The want whereof, doth dayly make reuolt
+In my penurious Band. I haue heard and greeu'd
+How cursed Athens, mindelesse of thy worth,
+Forgetting thy great deeds, when Neighbour states
+But for thy Sword and Fortune trod vpon them
+
+   Tim. I prythee beate thy Drum, and get thee gone
+
+   Alc. I am thy Friend, and pitty thee deere Timon
+
+   Tim. How doest thou pitty him whom y dost troble,
+I had rather be alone
+
+   Alc. Why fare thee well:
+Heere is some Gold for thee
+
+   Tim. Keepe it, I cannot eate it
+
+   Alc. When I haue laid proud Athens on a heape
+
+   Tim. Warr'st thou 'gainst Athens
+
+   Alc. I Timon, and haue cause
+
+   Tim. The Gods confound them all in thy Conquest,
+And thee after, when thou hast Conquer'd
+
+   Alc. Why me, Timon?
+  Tim. That by killing of Villaines
+Thou was't borne to conquer my Country.
+Put vp thy Gold. Go on, heeres Gold, go on;
+Be as a Plannetary plague, when Ioue
+Will o're some high-Vic'd City, hang his poyson
+In the sicke ayre: let not thy sword skip one:
+Pitty not honour'd Age for his white Beard,
+He is an Vsurer. Strike me the counterfet Matron,
+It is her habite onely, that is honest,
+Her selfe's a Bawd. Let not the Virgins cheeke
+Make soft thy trenchant Sword: for those Milke pappes
+That through the window Barne bore at mens eyes,
+Are not within the Leafe of pitty writ,
+But set them down horrible Traitors. Spare not the Babe
+Whose dimpled smiles from Fooles exhaust their mercy;
+Thinke it a Bastard, whom the Oracle
+Hath doubtfully pronounced, the throat shall cut,
+And mince it sans remorse. Sweare against Obiects,
+Put Armour on thine eares, and on thine eyes,
+Whose proofe, nor yels of Mothers, Maides, nor Babes,
+Nor sight of Priests in holy Vestments bleeding,
+Shall pierce a iot. There's Gold to pay thy Souldiers,
+Make large confusion: and thy fury spent,
+Confounded be thy selfe. Speake not, be gone
+
+   Alc. Hast thou Gold yet, Ile take the Gold thou giuest
+me, not all thy Counsell
+
+   Tim. Dost thou or dost thou not, Heauens curse vpon
+thee
+
+   Both. Giue vs some Gold good Timon, hast y more?
+  Tim. Enough to make a Whore forsweare her Trade,
+And to make Whores, a Bawd. Hold vp you Sluts
+Your Aprons mountant; you are not Othable,
+Although I know you'l sweare, terribly sweare
+Into strong shudders, and to heauenly Agues
+Th' immortall Gods that heare you. Spare your Oathes:
+Ile trust to your Conditions, be whores still.
+And he whose pious breath seekes to conuert you,
+Be strong in Whore, allure him, burne him vp,
+Let your close fire predominate his smoke,
+And be no turne-coats: yet may your paines six months
+Be quite contrary, And Thatch
+Your poore thin Roofes with burthens of the dead,
+(Some that were hang'd) no matter:
+Weare them, betray with them; Whore still,
+Paint till a horse may myre vpon your face:
+A pox of wrinkles
+
+   Both. Well, more Gold, what then?
+Beleeue't that wee'l do any thing for Gold
+
+   Tim. Consumptions sowe
+In hollow bones of man, strike their sharpe shinnes,
+And marre mens spurring. Cracke the Lawyers voyce,
+That he may neuer more false Title pleade,
+Nor sound his Quillets shrilly: Hoare the Flamen,
+That scold'st against the quality of flesh,
+And not beleeues himselfe. Downe with the Nose,
+Downe with it flat, take the Bridge quite away
+Of him, that his particular to foresee
+Smels from the generall weale. Make curl'd pate Ruffians bald
+And let the vnscarr'd Braggerts of the Warre
+Deriue some paine from you. Plague all,
+That your Actiuity may defeate and quell
+The sourse of all Erection. There's more Gold.
+Do you damne others, and let this damne you,
+And ditches graue you all
+
+   Both. More counsell with more Money, bounteous
+Timon
+
+   Tim. More whore, more Mischeefe first, I haue giuen
+you earnest
+
+   Alc. Strike vp the Drum towardes Athens, farewell
+Timon: if I thriue well, Ile visit thee againe
+
+   Tim. If I hope well, Ile neuer see thee more
+
+   Alc. I neuer did thee harme
+
+   Tim. Yes, thou spok'st well of me
+
+   Alc. Call'st thou that harme?
+  Tim. Men dayly finde it. Get thee away,
+And take thy Beagles with thee
+
+   Alc. We but offend him, strike.
+
+Exeunt.
+
+  Tim. That Nature being sicke of mans vnkindnesse
+Should yet be hungry: Common Mother, thou
+Whose wombe vnmeasureable, and infinite brest
+Teemes and feeds all: whose selfesame Mettle
+Whereof thy proud Childe (arrogant man) is puft,
+Engenders the blacke Toad, and Adder blew,
+The gilded Newt, and eyelesse venom'd Worme,
+With all th' abhorred Births below Crispe Heauen,
+Whereon Hyperions quickning fire doth shine:
+Yeeld him, who all the humane Sonnes do hate,
+From foorth thy plenteous bosome, one poore roote:
+Enseare thy Fertile and Conceptious wombe,
+Let it no more bring out ingratefull man.
+Goe great with Tygers, Dragons, Wolues, and Beares,
+Teeme with new Monsters, whom thy vpward face
+Hath to the Marbled Mansion all aboue
+Neuer presented. O, a Root, deare thankes:
+Dry vp thy Marrowes, Vines, and Plough-torne Leas,
+Whereof ingratefull man with Licourish draughts
+And Morsels Vnctious, greases his pure minde,
+That from it all Consideration slippes-
+Enter Apemantus.
+
+More man? Plague, plague
+
+   Ape. I was directed hither. Men report,
+Thou dost affect my Manners, and dost vse them
+
+   Tim. 'Tis then, because thou dost not keepe a dogge
+Whom I would imitate. Consumption catch thee
+
+   Ape. This is in thee a Nature but infected,
+A poore vnmanly Melancholly sprung
+From change of future. Why this Spade? this place?
+This Slaue-like Habit, and these lookes of Care?
+Thy Flatterers yet weare Silke, drinke Wine, lye soft,
+Hugge their diseas'd Perfumes, and haue forgot
+That euer Timon was. Shame not these Woods,
+By putting on the cunning of a Carper.
+Be thou a Flatterer now, and seeke to thriue
+By that which ha's vndone thee; hindge thy knee,
+And let his very breath whom thou'lt obserue
+Blow off thy Cap: praise his most vicious straine,
+And call it excellent: thou wast told thus:
+Thou gau'st thine eares (like Tapsters, that bad welcom)
+To Knaues, and all approachers: 'Tis most iust
+That thou turne Rascall, had'st thou wealth againe,
+Rascals should haue't. Do not assume my likenesse
+
+   Tim. Were I like thee, I'de throw away my selfe
+
+   Ape. Thou hast cast away thy selfe, being like thy self
+A Madman so long, now a Foole: what think'st
+That the bleake ayre, thy boysterous Chamberlaine
+Will put thy shirt on warme? Will these moyst Trees,
+That haue out-liu'd the Eagle, page thy heeles
+And skip when thou point'st out? Will the cold brooke
+Candied with Ice, Cawdle thy Morning taste
+To cure thy o're-nights surfet? Call the Creatures,
+Whose naked Natures liue in all the spight
+Of wrekefull Heauen, whose bare vnhoused Trunkes,
+To the conflicting Elements expos'd
+Answer meere Nature: bid them flatter thee.
+O thou shalt finde
+
+   Tim. A Foole of thee: depart
+
+   Ape. I loue thee better now, then ere I did
+
+   Tim. I hate thee worse
+
+   Ape. Why?
+  Tim. Thou flatter'st misery
+
+   Ape. I flatter not, but say thou art a Caytiffe
+
+   Tim. Why do'st thou seeke me out?
+  Ape. To vex thee
+
+   Tim. Alwayes a Villaines Office, or a Fooles.
+Dost please thy selfe in't?
+  Ape. I
+
+   Tim. What, a Knaue too?
+  Ape. If thou did'st put this sowre cold habit on
+To castigate thy pride, 'twere well: but thou
+Dost it enforcedly: Thou'dst Courtier be againe
+Wert thou not Beggar: willing misery
+Out-liues: incertaine pompe, is crown'd before:
+The one is filling still, neuer compleat:
+The other, at high wish: best state Contentlesse,
+Hath a distracted and most wretched being,
+Worse then the worst, Content.
+Thou should'st desire to dye, being miserable
+
+   Tim. Not by his breath, that is more miserable.
+Thou art a Slaue, whom Fortunes tender arme
+With fauour neuer claspt: but bred a Dogge.
+Had'st thou like vs from our first swath proceeded,
+The sweet degrees that this breefe world affords,
+To such as may the passiue drugges of it
+Freely command'st: thou would'st haue plung'd thy self
+In generall Riot, melted downe thy youth
+In different beds of Lust, and neuer learn'd
+The Icie precepts of respect, but followed
+The Sugred game before thee. But my selfe,
+Who had the world as my Confectionarie,
+The mouthes, the tongues, the eyes, and hearts of men,
+At duty more then I could frame employment;
+That numberlesse vpon me stucke, as leaues
+Do on the Oake, haue with one Winters brush
+Fell from their boughes, and left me open, bare,
+For euery storme that blowes. I to beare this,
+That neuer knew but better, is some burthen:
+Thy Nature, did commence in sufferance, Time
+Hath made thee hard in't. Why should'st y hate Men?
+They neuer flatter'd thee. What hast thou giuen?
+If thou wilt curse; thy Father (that poore ragge)
+Must be thy subiect; who in spight put stuffe
+To some shee-Begger, and compounded thee
+Poore Rogue, hereditary. Hence, be gone,
+If thou hadst not bene borne the worst of men,
+Thou hadst bene a Knaue and Flatterer
+
+   Ape. Art thou proud yet?
+  Tim. I, that I am not thee
+
+   Ape. I, that I was no Prodigall
+
+   Tim. I, that I am one now.
+Were all the wealth I haue shut vp in thee,
+I'ld giue thee leaue to hang it. Get thee gone:
+That the whole life of Athens were in this,
+Thus would I eate it
+
+   Ape. Heere, I will mend thy Feast
+
+   Tim. First mend thy company, take away thy selfe
+
+   Ape. So I shall mend mine owne, by'th' lacke of thine
+  Tim. 'Tis not well mended so, it is but botcht;
+If not, I would it were
+
+   Ape. What would'st thou haue to Athens?
+  Tim. Thee thither in a whirlewind: if thou wilt,
+Tell them there I haue Gold, looke, so I haue
+
+   Ape. Heere is no vse for Gold
+
+   Tim. The best, and truest:
+For heere it sleepes, and do's no hyred harme
+
+   Ape. Where lyest a nights Timon?
+  Tim. Vnder that's aboue me.
+Where feed'st thou a-dayes Apemantus?
+  Ape. Where my stomacke findes meate, or rather
+where I eate it
+
+   Tim. Would poyson were obedient, & knew my mind
+  Ape. Where would'st thou send it?
+  Tim. To sawce thy dishes
+
+   Ape. The middle of Humanity thou neuer knewest,
+but the extremitie of both ends. When thou wast in thy
+Gilt, and thy Perfume, they mockt thee for too much
+Curiositie: in thy Ragges thou know'st none, but art despis'd
+for the contrary. There's a medler for thee, eate it
+
+   Tim. On what I hate, I feed not
+
+   Ape. Do'st hate a Medler?
+  Tim. I, though it looke like thee
+
+   Ape. And th'hadst hated Medlers sooner, y should'st
+haue loued thy selfe better now. What man didd'st thou
+euer know vnthrift, that was beloued after his meanes!
+  Tim. Who without those meanes thou talk'st of, didst
+thou euer know belou'd?
+  Ape. My selfe
+
+   Tim. I vnderstand thee: thou had'st some meanes to
+keepe a Dogge
+
+   Apem. What things in the world canst thou neerest
+compare to thy Flatterers?
+  Tim. Women neerest, but men: men are the things
+themselues. What would'st thou do with the world Apemantus,
+if it lay in thy power?
+  Ape. Giue it the Beasts, to be rid of the men
+
+   Tim. Would'st thou haue thy selfe fall in the confusion
+of men, and remaine a Beast with the Beasts
+
+   Ape. I Timon
+
+   Tim. A beastly Ambition, which the Goddes graunt
+thee t' attaine to. If thou wert the Lyon, the Fox would
+beguile thee. if thou wert the Lambe, the Foxe would
+eate thee: if thou wert the Fox, the Lion would suspect
+thee, when peraduenture thou wert accus'd by the Asse:
+If thou wert the Asse, thy dulnesse would torment thee;
+and still thou liu'dst but as a Breakefast to the Wolfe. If
+thou wert the Wolfe, thy greedinesse would afflict thee,
+& oft thou should'st hazard thy life for thy dinner. Wert
+thou the Vnicorne, pride and wrath would confound
+thee, and make thine owne selfe the conquest of thy fury.
+Wert thou a Beare, thou would'st be kill'd by the Horse:
+wert thou a Horse, thou would'st be seaz'd by the Leopard:
+wert thou a Leopard, thou wert Germane to the
+Lion, and the spottes of thy Kindred, were Iurors on thy
+life. All thy safety were remotion, and thy defence absence.
+What Beast could'st thou bee, that were not subiect
+to a Beast: and what a Beast art thou already, that
+seest not thy losse in transformation
+
+   Ape. If thou could'st please me
+With speaking to me, thou might'st
+Haue hit vpon it heere.
+The Commonwealth of Athens, is become
+A Forrest of Beasts
+
+   Tim. How ha's the Asse broke the wall, that thou art
+out of the Citie
+
+   Ape. Yonder comes a Poet and a Painter:
+The plague of Company light vpon thee:
+I will feare to catch it, and giue way.
+When I know not what else to do,
+Ile see thee againe
+
+   Tim. When there is nothing liuing but thee,
+Thou shalt be welcome.
+I had rather be a Beggers Dogge,
+Then Apemantus
+
+   Ape. Thou art the Cap
+Of all the Fooles aliue
+
+   Tim. Would thou wert cleane enough
+To spit vpon
+
+   Ape. A plague on thee,
+Thou art too bad to curse
+
+   Tim. All Villaines
+That do stand by thee, are pure
+
+   Ape. There is no Leprosie,
+But what thou speak'st
+
+   Tim. If I name thee, Ile beate thee;
+But I should infect my hands
+
+   Ape. I would my tongue
+Could rot them off
+
+   Tim. Away thou issue of a mangie dogge,
+Choller does kill me,
+That thou art aliue, I swoond to see thee
+
+   Ape. Would thou would'st burst
+
+   Tim. Away thou tedious Rogue, I am sorry I shall
+lose a stone by thee
+
+   Ape. Beast
+
+   Tim. Slaue
+
+   Ape. Toad
+
+   Tim. Rogue, Rogue, Rogue.
+I am sicke of this false world, and will loue nought
+But euen the meere necessities vpon't:
+Then Timon presently prepare thy graue:
+Lye where the light Fome of the Sea may beate
+Thy graue stone dayly, make thine Epitaph,
+That death in me, at others liues may laugh.
+O thou sweete King-killer, and deare diuorce
+Twixt naturall Sunne and fire: thou bright defiler
+Of Himens purest bed, thou valiant Mars,
+Thou euer, yong, fresh, loued, and delicate wooer,
+Whose blush doth thawe the consecrated Snow
+That lyes on Dians lap.
+Thou visible God,
+That souldrest close Impossibilities,
+And mak'st them kisse; that speak'st with euerie Tongue
+To euerie purpose: O thou touch of hearts,
+Thinke thy slaue-man rebels, and by thy vertue
+Set them into confounding oddes, that Beasts
+May haue the world in Empire
+
+   Ape. Would 'twere so,
+But not till I am dead. Ile say th'hast Gold:
+Thou wilt be throng'd too shortly
+
+   Tim. Throng'd too?
+  Ape. I
+
+   Tim. Thy backe I prythee
+
+   Ape. Liue, and loue thy misery
+
+   Tim. Long liue so, and so dye. I am quit
+
+   Ape. Mo things like men,
+Eate Timon, and abhorre then.
+
+Exit Apeman[tus].
+
+Enter the Bandetti.
+
+  1 Where should he haue this Gold? It is some poore
+Fragment, some slender Ort of his remainder: the meere
+want of Gold, and the falling from of his Friendes, droue
+him into this Melancholly
+
+   2 It is nois'd
+He hath a masse of Treasure
+
+   3 Let vs make the assay vpon him, if he care not for't,
+he will supply vs easily: if he couetously reserue it, how
+shall's get it?
+  2 True: for he beares it not about him:
+'Tis hid
+
+   1 Is not this hee?
+  All. Where?
+  2 'Tis his description
+
+   3 He? I know him
+
+   All. Saue thee Timon
+
+   Tim. Now Theeues
+
+   All. Soldiers, not Theeues
+
+   Tim. Both too, and womens Sonnes
+
+   All. We are not Theeues, but men
+That much do want
+
+   Tim. Your greatest want is, you want much of meat:
+Why should you want? Behold, the Earth hath Rootes:
+Within this Mile breake forth a hundred Springs:
+The Oakes beare Mast, the Briars Scarlet Heps,
+The bounteous Huswife Nature, on each bush,
+Layes her full Messe before you. Want? why Want?
+  1 We cannot liue on Grasse, on Berries, Water,
+As Beasts, and Birds, and Fishes
+
+   Ti. Nor on the Beasts themselues, the Birds & Fishes,
+You must eate men. Yet thankes I must you con,
+That you are Theeues profest: that you worke not
+In holier shapes: For there is boundlesse Theft
+In limited Professions. Rascall Theeues
+Heere's Gold. Go, sucke the subtle blood o'th' Grape,
+Till the high Feauor seeth your blood to froth,
+And so scape hanging. Trust not the Physitian,
+His Antidotes are poyson, and he slayes
+Moe then you Rob: Take wealth, and liues together,
+Do Villaine do, since you protest to doo't.
+Like Workemen, Ile example you with Theeuery:
+The Sunnes a Theefe, and with his great attraction
+Robbes the vaste Sea. The Moones an arrant Theefe,
+And her pale fire, she snatches from the Sunne.
+The Seas a Theefe, whose liquid Surge, resolues
+The Moone into Salt teares. The Earth's a Theefe,
+That feeds and breeds by a composture stolne
+From gen'rall excrement: each thing's a Theefe.
+The Lawes, your curbe and whip, in their rough power
+Ha's vncheck'd Theft. Loue not your selues, away,
+Rob one another, there's more Gold, cut throates,
+All that you meete are Theeues: to Athens go,
+Breake open shoppes, nothing can you steale
+But Theeues do loose it: steale lesse, for this I giue you,
+And Gold confound you howsoere: Amen
+
+   3 Has almost charm'd me from my Profession, by perswading
+me to it
+
+   1 'Tis in the malice of mankinde, that he thus aduises
+vs not to haue vs thriue in our mystery
+
+   2 Ile beleeue him as an Enemy,
+And giue ouer my Trade
+
+   1 Let vs first see peace in Athens, there is no time so
+miserable, but a man may be true.
+
+Exit Theeues.
+
+Enter the Steward to Timon.
+
+  Stew. Oh you Gods!
+Is yon'd despis'd and ruinous man my Lord?
+Full of decay and fayling? Oh Monument
+And wonder of good deeds, euilly bestow'd!
+What an alteration of Honor has desp'rate want made?
+What vilder thing vpon the earth, then Friends,
+Who can bring Noblest mindes, to basest ends.
+How rarely does it meete with this times guise,
+When man was wisht to loue his Enemies:
+Grant I may euer loue, and rather woo
+Those that would mischeefe me, then those that doo.
+Has caught me in his eye, I will present my honest griefe
+vnto him; and as my Lord, still serue him with my life.
+My deerest Master
+
+   Tim. Away: what art thou?
+  Stew. Haue you forgot me, Sir?
+  Tim. Why dost aske that? I haue forgot all men.
+Then, if thou grunt'st, th'art a man.
+I haue forgot thee
+
+   Stew. An honest poore seruant of yours
+
+   Tim. Then I know thee not:
+I neuer had honest man about me, I all
+I kept were Knaues, to serue in meate to Villaines
+
+   Stew. The Gods are witnesse,
+Neu'r did poore Steward weare a truer greefe
+For his vndone Lord, then mine eyes for you
+
+   Tim. What, dost thou weepe?
+Come neerer, then I loue thee
+Because thou art a woman, and disclaim'st
+Flinty mankinde: whose eyes do neuer giue,
+But thorow Lust and Laughter: pittie's sleeping:
+Strange times y weepe with laughing, not with weeping
+
+   Stew. I begge of you to know me, good my Lord,
+T' accept my greefe, and whil'st this poore wealth lasts,
+To entertaine me as your Steward still
+
+   Tim. Had I a Steward
+So true, so iust, and now so comfortable?
+It almost turnes my dangerous Nature wilde.
+Let me behold thy face: Surely, this man
+Was borne of woman.
+Forgiue my generall, and exceptlesse rashnesse
+You perpetuall sober Gods. I do proclaime
+One honest man: Mistake me not, but one:
+No more I pray, and hee's a Steward.
+How faine would I haue hated all mankinde,
+And thou redeem'st thy selfe. But all saue thee,
+I fell with Curses.
+Me thinkes thou art more honest now, then wise:
+For, by oppressing and betraying mee,
+Thou might'st haue sooner got another Seruice:
+For many so arriue at second Masters,
+Vpon their first Lords necke. But tell me true,
+(For I must euer doubt, though ne're so sure)
+Is not thy kindnesse subtle, couetous,
+If not a Vsuring kindnesse, and as rich men deale Guifts,
+Expecting in returne twenty for one?
+  Stew. No my most worthy Master, in whose brest
+Doubt, and suspect (alas) are plac'd too late:
+You should haue fear'd false times, when you did Feast.
+Suspect still comes, where an estate is least.
+That which I shew, Heauen knowes, is meerely Loue,
+Dutie, and Zeale, to your vnmatched minde;
+Care of your Food and Liuing, and beleeue it,
+My most Honour'd Lord,
+For any benefit that points to mee,
+Either in hope, or present, I'de exchange
+For this one wish, that you had power and wealth
+To requite me, by making rich your selfe
+
+   Tim. Looke thee, 'tis so: thou singly honest man,
+Heere take: the Gods out of my miserie
+Ha's sent thee Treasure. Go, liue rich and happy,
+But thus condition'd: Thou shalt build from men:
+Hate all, curse all, shew Charity to none,
+But let the famisht flesh slide from the Bone,
+Ere thou releeue the Begger. Giue to dogges
+What thou denyest to men. Let Prisons swallow 'em,
+Debts wither 'em to nothing, be men like blasted woods
+And may Diseases licke vp their false bloods,
+And so farewell, and thriue
+
+   Stew. O let me stay, and comfort you, my Master
+
+   Tim. If thou hat'st Curses
+Stay not: flye, whil'st thou art blest and free:
+Ne're see thou man, and let me ne're see thee.
+
+Exit
+
+Enter Poet, and Painter.
+
+  Pain. As I tooke note of the place, it cannot be farre
+where he abides
+
+   Poet. What's to be thought of him?
+Does the Rumor hold for true,
+That hee's so full of Gold?
+  Painter. Certaine.
+Alcibiades reports it: Phrinica and Timandylo
+Had Gold of him. He likewise enrich'd
+Poore stragling Souldiers, with great quantity.
+'Tis saide, he gaue vnto his Steward
+A mighty summe
+
+   Poet. Then this breaking of his,
+Ha's beene but a Try for his Friends?
+  Painter. Nothing else:
+You shall see him a Palme in Athens againe,
+And flourish with the highest:
+Therefore, 'tis not amisse, we tender our loues
+To him, in this suppos'd distresse of his:
+It will shew honestly in vs,
+And is very likely, to loade our purposes
+With what they trauaile for,
+If it be a iust and true report, that goes
+Of his hauing
+
+   Poet. What haue you now
+To present vnto him?
+  Painter. Nothing at this time
+But my Visitation: onely I will promise him
+An excellent Peece
+
+   Poet. I must serue him so too;
+Tell him of an intent that's comming toward him
+
+   Painter. Good as the best.
+Promising, is the verie Ayre o'th' Time;
+It opens the eyes of Expectation.
+Performance, is euer the duller for his acte,
+And but in the plainer and simpler kinde of people,
+The deede of Saying is quite out of vse.
+To Promise, is most Courtly and fashionable;
+Performance, is a kinde of Will or Testament
+Which argues a great sicknesse in his iudgement
+That makes it.
+Enter Timon from his Caue.
+
+  Timon. Excellent Workeman,
+Thou canst not paint a man so badde
+As is thy selfe
+
+   Poet. I am thinking
+What I shall say I haue prouided for him:
+It must be a personating of himselfe:
+A Satyre against the softnesse of Prosperity,
+With a Discouerie of the infinite Flatteries
+That follow youth and opulencie
+
+   Timon. Must thou needes
+Stand for a Villaine in thine owne Worke?
+Wilt thou whip thine owne faults in other men?
+Do so, I haue Gold for thee
+
+   Poet. Nay let's seeke him.
+Then do we sinne against our owne estate,
+When we may profit meete, and come too late
+
+   Painter. True:
+When the day serues before blacke-corner'd night;
+Finde what thou want'st, by free and offer'd light.
+Come
+
+   Tim. Ile meete you at the turne:
+What a Gods Gold, that he is worshipt
+In a baser Temple, then where Swine feede?
+'Tis thou that rigg'st the Barke, and plow'st the Fome,
+Setlest admired reuerence in a Slaue,
+To thee be worshipt, and thy Saints for aye:
+Be crown'd with Plagues, that thee alone obay.
+Fit I meet them
+
+   Poet. Haile worthy Timon
+
+   Pain. Our late Noble Master
+
+   Timon. Haue I once liu'd
+To see two honest men?
+  Poet. Sir:
+Hauing often of your open Bounty tasted,
+Hearing you were retyr'd, your Friends falne off,
+Whose thankelesse Natures (O abhorred Spirits)
+Not all the Whippes of Heauen, are large enough.
+What, to you,
+Whose Starre-like Noblenesse gaue life and influence
+To their whole being? I am rapt, and cannot couet
+The monstrous bulke of this Ingratitude
+With any size of words
+
+   Timon. Let it go,
+Naked men may see't the better:
+You that are honest, by being what you are,
+Make them best seene, and knowne
+
+   Pain. He, and my selfe
+Haue trauail'd in the great showre of your guifts,
+And sweetly felt it
+
+   Timon. I, you are honest man
+
+   Painter. We are hither come
+To offer you our seruice
+
+   Timon. Most honest men:
+Why how shall I requite you?
+Can you eate Roots, and drinke cold water, no?
+  Both. What we can do,
+Wee'l do to do you seruice
+
+   Tim. Y'are honest men,
+Y'haue heard that I haue Gold,
+I am sure you haue, speake truth, y'are honest men
+
+   Pain. So it is said my Noble Lord, but therefore
+Came not my Friend, nor I
+
+   Timon. Good honest men: Thou draw'st a counterfet
+Best in all Athens, th'art indeed the best,
+Thou counterfet'st most liuely
+
+   Pain. So, so, my Lord
+
+   Tim. E'ne so sir as I say. And for thy fiction,
+Why thy Verse swels with stuffe so fine and smooth,
+That thou art euen Naturall in thine Art.
+But for all this (my honest Natur'd friends)
+I must needs say you haue a little fault,
+Marry 'tis not monstrous in you, neither wish I
+You take much paines to mend
+
+   Both. Beseech your Honour
+To make it knowne to vs
+
+   Tim. You'l take it ill
+
+   Both. Most thankefully, my Lord
+
+   Timon. Will you indeed?
+  Both. Doubt it not worthy Lord
+
+   Tim. There's neuer a one of you but trusts a Knaue,
+That mightily deceiues you
+
+   Both. Do we, my Lord?
+  Tim. I, and you heare him cogge,
+See him dissemble,
+Know his grosse patchery, loue him, feede him,
+Keepe in your bosome, yet remaine assur'd
+That he's a made-vp-Villaine
+
+   Pain. I know none such, my Lord
+
+   Poet. Nor I
+
+   Timon. Looke you,
+I loue you well, Ile giue you Gold
+Rid me these Villaines from your companies;
+Hang them, or stab them, drowne them in a draught,
+Confound them by some course, and come to me,
+Ile giue you Gold enough
+
+   Both. Name them my Lord, let's know them
+
+   Tim. You that way, and you this:
+But two in Company:
+Each man a part, all single, and alone,
+Yet an arch Villaine keepes him company:
+If where thou art, two Villaines shall not be,
+Come not neere him. If thou would'st not recide
+But where one Villaine is, then him abandon.
+Hence, packe, there's Gold, you came for Gold ye slaues:
+You haue worke for me; there's payment, hence,
+You are an Alcumist, make Gold of that:
+Out Rascall dogges.
+
+Exeunt.
+
+Enter Steward, and two Senators.
+
+  Stew. It is vaine that you would speake with Timon:
+For he is set so onely to himselfe,
+That nothing but himselfe, which lookes like man,
+Is friendly with him
+
+   1.Sen. Bring vs to his Caue.
+It is our part and promise to th' Athenians
+To speake with Timon
+
+   2.Sen. At all times alike
+Men are not still the same: 'twas Time and Greefes
+That fram'd him thus. Time with his fairer hand,
+Offering the Fortunes of his former dayes,
+The former man may make him: bring vs to him
+And chanc'd it as it may
+
+   Stew. Heere is his Caue:
+Peace and content be heere. Lord Timon, Timon,
+Looke out, and speake to Friends: Th' Athenians
+By two of their most reuerend Senate greet thee:
+Speake to them Noble Timon.
+Enter Timon out of his Caue.
+
+  Tim. Thou Sunne that comforts burne,
+Speake and be hang'd:
+For each true word, a blister, and each false
+Be as a Cantherizing to the root o'th' Tongue,
+Consuming it with speaking
+
+   1 Worthy Timon
+
+   Tim. Of none but such as you,
+And you of Timon
+
+   1 The Senators of Athens, greet thee Timon
+
+   Tim. I thanke them,
+And would send them backe the plague,
+Could I but catch it for them
+
+   1 O forget
+What we are sorry for our selues in thee:
+The Senators, with one consent of loue,
+Intreate thee backe to Athens, who haue thought
+On speciall Dignities, which vacant lye
+For thy best vse and wearing
+
+   2 They confesse
+Toward thee, forgetfulnesse too generall grosse;
+Which now the publike Body, which doth sildome
+Play the recanter, feeling in it selfe
+A lacke of Timons ayde, hath since withall
+Of it owne fall, restraining ayde to Timon,
+And send forth vs, to make their sorrowed render,
+Together, with a recompence more fruitfull
+Then their offence can weigh downe by the Dramme,
+I euen such heapes and summes of Loue and Wealth,
+As shall to thee blot out, what wrongs were theirs,
+And write in thee the figures of their loue,
+Euer to read them thine
+
+   Tim. You witch me in it;
+Surprize me to the very brinke of teares;
+Lend me a Fooles heart, and a womans eyes,
+And Ile beweepe these comforts, worthy Senators
+
+   1 Therefore so please thee to returne with vs,
+And of our Athens, thine and ours to take
+The Captainship, thou shalt be met with thankes,
+Allowed with absolute power, and thy good name
+Liue with Authoritie: so soone we shall driue backe
+Of Alcibiades th' approaches wild,
+Who like a Bore too sauage, doth root vp
+His Countries peace
+
+   2 And shakes his threatning Sword
+Against the walles of Athens
+
+   1 Therefore Timon
+
+   Tim. Well sir, I will: therefore I will sir thus:
+If Alcibiades kill my Countrymen,
+Let Alcibiades know this of Timon,
+That Timon cares not. But if he sacke faire Athens,
+And take our goodly aged men by'th' Beards,
+Giuing our holy Virgins to the staine
+Of contumelious, beastly, mad-brain'd warre:
+Then let him know, and tell him Timon speakes it,
+In pitty of our aged, and our youth,
+I cannot choose but tell him that I care not,
+And let him tak't at worst: For their Kniues care not,
+While you haue throats to answer. For my selfe,
+There's not a whittle, in th' vnruly Campe,
+But I do prize it at my loue, before
+The reuerends Throat in Athens. So I leaue you
+To the protection of the prosperous Gods,
+As Theeues to Keepers
+
+   Stew. Stay not, all's in vaine
+
+   Tim. Why I was writing of my Epitaph,
+It will be seene to morrow. My long sicknesse
+Of Health, and Liuing, now begins to mend,
+And nothing brings me all things. Go, liue still,
+Be Alcibiades your plague; you his,
+And last so long enough
+
+   1 We speake in vaine
+
+   Tim. But yet I loue my Country, and am not
+One that reioyces in the common wracke,
+As common bruite doth put it
+
+   1 That's well spoke
+
+   Tim. Commend me to my louing Countreymen
+
+   1 These words become your lippes as they passe thorow
+them
+
+   2 And enter in our eares, like great Triumphers
+In their applauding gates
+
+   Tim. Commend me to them,
+And tell them, that to ease them of their greefes,
+Their feares of Hostile strokes, their Aches losses,
+Their pangs of Loue, with other incident throwes
+That Natures fragile Vessell doth sustaine
+In lifes vncertaine voyage, I will some kindnes do them,
+Ile teach them to preuent wilde Alcibiades wrath
+
+   1 I like this well, he will returne againe
+
+   Tim. I haue a Tree which growes heere in my Close,
+That mine owne vse inuites me to cut downe,
+And shortly must I fell it. Tell my Friends,
+Tell Athens, in the sequence of degree,
+From high to low throughout, that who so please
+To stop Affliction, let him take his haste;
+Come hither ere my Tree hath felt the Axe,
+And hang himselfe. I pray you do my greeting
+
+   Stew. Trouble him no further, thus you still shall
+Finde him
+
+   Tim. Come not to me againe, but say to Athens,
+Timon hath made his euerlasting Mansion
+Vpon the Beached Verge of the salt Flood,
+Who once a day with his embossed Froth
+The turbulent Surge shall couer; thither come,
+And let my graue-stone be your Oracle:
+Lippes, let foure words go by, and Language end:
+What is amisse, Plague and Infection mend.
+Graues onely be mens workes, and Death their gaine;
+Sunne, hide thy Beames, Timon hath done his Raigne.
+
+Exit Timon.
+
+  1 His discontents are vnremoueably coupled to Nature
+
+   2 Our hope in him is dead: let vs returne,
+And straine what other meanes is left vnto vs
+In our deere perill
+
+   1 It requires swift foot.
+
+Exeunt.
+
+Enter two other Senators, with a Messenger.
+
+  1 Thou hast painfully discouer'd: are his Files
+As full as thy report?
+  Mes. I haue spoke the least.
+Besides his expedition promises present approach
+
+   2 We stand much hazard, if they bring not Timon
+
+   Mes. I met a Currier, one mine ancient Friend,
+Whom though in generall part we were oppos'd,
+Yet our old loue made a particular force,
+And made vs speake like Friends. This man was riding
+From Alcibiades to Timons Caue,
+With Letters of intreaty, which imported
+His Fellowship i'th' cause against your City,
+In part for his sake mou'd.
+Enter the other Senators.
+
+  1 Heere come our Brothers
+
+   3 No talke of Timon, nothing of him expect,
+The Enemies Drumme is heard, and fearefull scouring
+Doth choake the ayre with dust: In, and prepare,
+Ours is the fall I feare, our Foes the Snare.
+
+Exeunt.
+
+Enter a Souldier in the Woods, seeking Timon.
+
+  Sol. By all description this should be the place.
+Whose heere? Speake hoa. No answer? What is this?
+Tymon is dead, who hath out-stretcht his span,
+Some Beast reade this; There do's not liue a Man.
+Dead sure, and this his Graue, what's on this Tomb,
+I cannot read: the Charracter Ile take with wax,
+Our Captaine hath in euery Figure skill;
+An ag'd Interpreter, though yong in dayes:
+Before proud Athens hee's set downe by this,
+Whose fall the marke of his Ambition is.
+Enter.
+
+Trumpets sound. Enter Alcibiades with his Powers before Athens.
+
+  Alc. Sound to this Coward, and lasciuious Towne,
+Our terrible approach.
+
+Sounds a Parly.
+
+The Senators appeare vpon the wals.
+
+Till now you haue gone on, and fill'd the time
+With all Licentious measure, making your willes
+The scope of Iustice. Till now, my selfe and such
+As slept within the shadow of your power
+Haue wander'd with our trauerst Armes, and breath'd
+Our sufferance vainly: Now the time is flush,
+When crouching Marrow in the bearer strong
+Cries (of it selfe) no more: Now breathlesse wrong,
+Shall sit and pant in your great Chaires of ease,
+And pursie Insolence shall breake his winde
+With feare and horrid flight
+
+   1.Sen. Noble, and young;
+When thy first greefes were but a meere conceit,
+Ere thou had'st power, or we had cause of feare,
+We sent to thee, to giue thy rages Balme,
+To wipe out our Ingratitude, with Loues
+Aboue their quantitie
+
+   2 So did we wooe
+Transformed Timon, to our Citties loue
+By humble Message, and by promist meanes:
+We were not all vnkinde, nor all deserue
+The common stroke of warre
+
+   1 These walles of ours,
+Were not erected by their hands, from whom
+You haue receyu'd your greefe: Nor are they such,
+That these great Towres, Trophees, & Schools shold fall
+For priuate faults in them
+
+   2 Nor are they liuing
+Who were the motiues that you first went out,
+(Shame that they wanted, cunning in excesse)
+Hath broke their hearts. March, Noble Lord,
+Into our City with thy Banners spred,
+By decimation and a tythed death;
+If thy Reuenges hunger for that Food
+Which Nature loathes, take thou the destin'd tenth,
+And by the hazard of the spotted dye,
+Let dye the spotted
+
+   1 All haue not offended:
+For those that were, it is not square to take
+On those that are, Reuenge: Crimes, like Lands
+Are not inherited, then deere Countryman,
+Bring in thy rankes, but leaue without thy rage,
+Spare thy Athenian Cradle, and those Kin
+Which in the bluster of thy wrath must fall
+With those that haue offended, like a Shepheard,
+Approach the Fold, and cull th' infected forth,
+But kill not altogether
+
+   2 What thou wilt,
+Thou rather shalt inforce it with thy smile,
+Then hew too't, with thy Sword
+
+   1 Set but thy foot
+Against our rampyr'd gates, and they shall ope:
+So thou wilt send thy gentle heart before,
+To say thou't enter Friendly
+
+   2 Throw thy Gloue,
+Or any Token of thine Honour else,
+That thou wilt vse the warres as thy redresse,
+And not as our Confusion: All thy Powers
+Shall make their harbour in our Towne, till wee
+Haue seal'd thy full desire
+
+   Alc. Then there's my Gloue,
+Defend and open your vncharged Ports,
+Those Enemies of Timons, and mine owne
+Whom you your selues shall set out for reproofe,
+Fall and no more; and to attone your feares
+With my more Noble meaning, not a man
+Shall passe his quarter, or offend the streame
+Of Regular Iustice in your Citties bounds,
+But shall be remedied to your publique Lawes
+At heauiest answer
+
+   Both. 'Tis most Nobly spoken
+
+   Alc. Descend, and keepe your words.
+Enter a Messenger.
+
+  Mes. My Noble Generall, Timon is dead,
+Entomb'd vpon the very hemme o'th' Sea,
+And on his Grauestone, this Insculpture which
+With wax I brought away: whose soft Impression
+Interprets for my poore ignorance.
+
+Alcibiades reades the Epitaph.
+
+Heere lies a wretched Coarse, of wretched Soule bereft,
+Seek not my name: A Plague consume you, wicked Caitifs left:
+Heere lye I Timon, who aliue, all liuing men did hate,
+Passe by, and curse thy fill, but passe and stay not here thy gate.
+These well expresse in thee thy latter spirits:
+Though thou abhorrd'st in vs our humane griefes,
+Scornd'st our Braines flow, and those our droplets, which
+From niggard Nature fall; yet Rich Conceit
+Taught thee to make vast Neptune weepe for aye
+On thy low Graue, on faults forgiuen. Dead
+Is Noble Timon, of whose Memorie
+Heereafter more. Bring me into your Citie,
+And I will vse the Oliue, with my Sword:
+Make war breed peace; make peace stint war, make each
+Prescribe to other, as each others Leach.
+Let our Drummes strike.
+
+Exeunt.
+
+
+FINIS.
+
+THE ACTORS NAMES.
+
+TYMON of Athens.
+Lucius, And Lucullus, two Flattering Lords.
+Appemantus, a Churlish Philosopher.
+Sempronius another flattering Lord.
+Alcibiades, an Athenian Captaine.
+Poet.
+Painter.
+Ieweller.
+Merchant.
+Certaine Theeues.
+Flaminius, one of Tymons Seruants.
+Seruilius, another.
+Caphis.
+Varro.
+Philo.
+Titus.
+Lucius.
+Hortensis Seuerall Seruants to Vsurers.
+Ventigius. one of Tymons false Friends.
+Cupid.
+Sempronius. With diuers other Seruants, And Attendants.
+
+THE LIFE OF TYMON OF ATHENS.

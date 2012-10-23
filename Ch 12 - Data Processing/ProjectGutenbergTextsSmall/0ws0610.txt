@@ -1,0 +1,2873 @@
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+**********************The Comedie of Errors*********************
+
+This is our 3rd edition of most of these plays.  See the index.
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+The Comedie of Errors
+
+by William Shakespeare
+
+July, 2000  [Etext #2239]
+
+
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+**********************The Comedie of Errors*********************
+
+*****This file should be named 0ws0610.txt or 0ws0610.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 0ws0611.txt
+VERSIONS based on separate sources get new LETTER, 0ws0610a.txt
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Project Gutenberg's Etext of Shakespeare's The first Part of 
+Henry the Sixt
+
+
+
+
+Executive Director's Notes:
+
+In addition to the notes below, and so you will *NOT* think all
+the spelling errors introduced by the printers of the time have
+been corrected, here are the first few lines of Hamlet, as they
+are presented herein:
+
+  Barnardo. Who's there?
+  Fran. Nay answer me: Stand & vnfold
+your selfe
+
+   Bar. Long liue the King
+
+***
+
+As I understand it, the printers often ran out of certain words
+or letters they had often packed into a "cliche". . .this is the
+original meaning of the term cliche. . .and thus, being unwilling
+to unpack the cliches, and thus you will see some substitutions
+that look very odd. . .such as the exchanges of u for v, v for u,
+above. . .and you may wonder why they did it this way, presuming
+Shakespeare did not actually write the play in this manner. . . .
+
+The answer is that they MAY have packed "liue" into a cliche at a
+time when they were out of "v"'s. . .possibly having used "vv" in
+place of some "w"'s, etc.  This was a common practice of the day,
+as print was still quite expensive, and they didn't want to spend
+more on a wider selection of characters than they had to.
+
+You will find a lot of these kinds of "errors" in this text, as I
+have mentioned in other times and places, many "scholars" have an
+extreme attachment to these errors, and many have accorded them a
+very high place in the "canon" of Shakespeare.  My father read an
+assortment of these made available to him by Cambridge University
+in England for several months in a glass room constructed for the
+purpose.  To the best of my knowledge he read ALL those available
+. . .in great detail. . .and determined from the various changes,
+that Shakespeare most likely did not write in nearly as many of a
+variety of errors we credit him for, even though he was in/famous
+for signing his name with several different spellings.
+
+So, please take this into account when reading the comments below
+made by our volunteer who prepared this file:  you may see errors
+that are "not" errors. . . .
+
+So. . .with this caveat. . .we have NOT changed the canon errors,
+here is the Project Gutenberg Etext of Shakespeare's The first 
+Part of Henry the Sixt.
+
+Michael S. Hart
+Project Gutenberg
+Executive Director
+
+
+***
+
+
+Scanner's Notes: What this is and isn't.  This was taken from
+a copy of Shakespeare's first folio and it is as close as I can
+come in ASCII to the printed text.
+
+The elongated S's have been changed to small s's and the
+conjoined ae have been changed to ae.  I have left the spelling,
+punctuation, capitalization as close as possible to the
+printed text.  I have corrected some spelling mistakes (I have put
+together a spelling dictionary devised from the spellings of the
+Geneva Bible and Shakespeare's First Folio and have unified
+spellings according to this template), typo's and expanded
+abbreviations as I have come across them.  Everything within
+brackets [] is what I have added.  So if you don't like that
+you can delete everything within the brackets if you want a
+purer Shakespeare.
+
+Another thing that you should be aware of is that there are textual
+differences between various copies of the first folio.  So there may
+be differences (other than what I have mentioned above) between
+this and other first folio editions.  This is due to the printer's
+habit of setting the type and running off a number of copies and
+then proofing the printed copy and correcting the type and then
+continuing the printing run.  The proof run wasn't thrown away but
+incorporated into the printed copies.  This is just the way it is.
+The text I have used was a composite of more than 30 different
+First Folio editions' best pages.
+
+If you find any scanning errors, out and out typos, punctuation
+errors, or if you disagree with my spelling choices please feel
+free to email me those errors.  I wish to make this the best
+etext possible.  My email address for right now are haradda@aol.com
+and davidr@inconnect.com.  I hope that you enjoy this.
+
+David Reed
+
+The Comedie of Errors
+
+Actus primus, Scena prima.
+
+Enter the Duke of Ephesus, with the Merchant of Siracusa, Iaylor,
+and
+other attendants.
+
+  Marchant. Proceed Solinus to procure my fall,
+And by the doome of death end woes and all
+
+   Duke. Merchant of Siracusa, plead no more.
+I am not partiall to infringe our Lawes;
+The enmity and discord which of late
+Sprung from the rancorous outrage of your Duke,
+To Merchants our well-dealing Countrimen,
+Who wanting gilders to redeeme their liues,
+Haue seal'd his rigorous statutes with their blouds,
+Excludes all pitty from our threatning lookes:
+For since the mortall and intestine iarres
+Twixt thy seditious Countrimen and vs,
+It hath in solemne Synodes beene decreed,
+Both by the Siracusians and our selues,
+To admit no trafficke to our aduerse townes:
+Nay more, if any borne at Ephesus
+Be seene at any Siracusian Marts and Fayres:
+Againe, if any Siracusian borne
+Come to the Bay of Ephesus, he dies:
+His goods confiscate to the Dukes dispose,
+Vnlesse a thousand markes be leuied
+To quit the penalty, and to ransome him:
+Thy substance, valued at the highest rate,
+Cannot amount vnto a hundred Markes,
+Therefore by Law thou art condemn'd to die
+
+   Mer. Yet this my comfort, when your words are done,
+My woes end likewise with the euening Sonne
+
+   Duk. Well Siracusian; say in briefe the cause
+Why thou departedst from thy natiue home?
+And for what cause thou cam'st to Ephesus
+
+   Mer. A heauier taske could not haue beene impos'd,
+Then I to speake my griefes vnspeakeable:
+Yet that the world may witnesse that my end
+Was wrought by nature, not by vile offence,
+Ile vtter what my sorrow giues me leaue.
+In Syracusa was I borne, and wedde
+Vnto a woman, happy but for me,
+And by me; had not our hap beene bad:
+With her I liu'd in ioy, our wealth increast
+By prosperous voyages I often made
+To Epidamium, till my factors death,
+And he great care of goods at randone left,
+Drew me from kinde embracements of my spouse;
+From whom my absence was not sixe moneths olde,
+Before her selfe (almost at fainting vnder
+The pleasing punishment that women beare)
+Had made prouision for her following me,
+And soone, and safe, arriued where I was:
+There had she not beene long, but she became
+A ioyfull mother of two goodly sonnes:
+And, which was strange, the one so like the other,
+As could not be distinguish'd but by names.
+That very howre, and in the selfe-same Inne,
+A meane woman was deliuered
+Of such a burthen Male, twins both alike:
+Those, for their parents were exceeding poore,
+I bought, and brought vp to attend my sonnes.
+My wife, not meanely prowd of two such boyes,
+Made daily motions for our home returne:
+Vnwilling I agreed, alas, too soone wee came aboord.
+A league from Epidamium had we saild
+Before the alwaies winde-obeying deepe
+Gaue any Tragicke Instance of our harme:
+But longer did we not retaine much hope;
+For what obscured light the heauens did grant,
+Did but conuay vnto our fearefull mindes
+A doubtfull warrant of immediate death,
+Which though my selfe would gladly haue imbrac'd,
+Yet the incessant weepings of my wife,
+Weeping before for what she saw must come,
+And pitteous playnings of the prettie babes
+That mourn'd for fashion, ignorant what to feare,
+Forst me to seeke delayes for them and me,
+And this it was: (for other meanes was none)
+The Sailors sought for safety by our boate,
+And left the ship then sinking ripe to vs.
+My wife, more carefull for the latter borne,
+Had fastned him vnto a small spare Mast,
+Such as sea-faring men prouide for stormes:
+To him one of the other twins was bound,
+Whil'st I had beene like heedfull of the other.
+The children thus dispos'd, my wife and I,
+Fixing our eyes on whom our care was fixt,
+Fastned our selues at eyther end the mast,
+And floating straight, obedient to the streame,
+Was carried towards Corinth, as we thought.
+At length the sonne gazing vpon the earth,
+Disperst those vapours that offended vs,
+And by the benefit of his wished light
+The seas waxt calme, and we discouered
+Two shippes from farre, making amaine to vs:
+Of Corinth that, of Epidarus this,
+But ere they came, oh let me say no more,
+Gather the sequell by that went before
+
+   Duk. Nay forward old man, doe not breake off so,
+For we may pitty, though not pardon thee
+
+   Merch. Oh had the gods done so, I had not now
+Worthily tearm'd them mercilesse to vs:
+For ere the ships could meet by twice fiue leagues,
+We were encountred by a mighty rocke,
+Which being violently borne vp,
+Our helpefull ship was splitted in the midst;
+So that in this vniust diuorce of vs,
+Fortune had left to both of vs alike,
+What to delight in, what to sorrow for,
+Her part, poore soule, seeming as burdened
+With lesser waight, but not with lesser woe,
+Was carried with more speed before the winde,
+And in our sight they three were taken vp
+By Fishermen of Corinth, as we thought.
+At length another ship had seiz'd on vs,
+And knowing whom it was their hap to saue,
+Gaue healthfull welcome to their ship-wrackt guests,
+And would haue reft the Fishers of their prey,
+Had not their backe beene very slow of saile;
+And therefore homeward did they bend their course.
+Thus haue you heard me seuer'd from my blisse,
+That by misfortunes was my life prolong'd,
+To tell sad stories of my owne mishaps
+
+   Duke. And for the sake of them thou sorrowest for,
+Doe me the fauour to dilate at full,
+What haue befalne of them and they till now
+
+   Merch. My yongest boy, and yet my eldest care,
+At eighteene yeeres became inquisitiue
+After his brother; and importun'd me
+That his attendant, so his case was like,
+Reft of his brother, but retain'd his name,
+Might beare him company in the quest of him:
+Whom whil'st I laboured of a loue to see,
+I hazarded the losse of whom I lou'd.
+Fiue Sommers haue I spent in farthest Greece,
+Roming cleane through the bounds of Asia,
+And coasting homeward, came to Ephesus:
+Hopelesse to finde, yet loth to leaue vnsought
+Or that, or any place that harbours men:
+But heere must end the story of my life,
+And happy were I in my timelie death,
+Could all my trauells warrant me they liue
+
+   Duke. Haplesse Egeon whom the fates haue markt
+To beare the extremitie of dire mishap:
+Now trust me, were it not against our Lawes,
+Against my Crowne, my oath, my dignity,
+Which Princes would they may not disanull,
+My soule should sue as aduocate for thee:
+But though thou art adiudged to the death,
+And passed sentence may not be recal'd
+But to our honours great disparagement:
+Yet will I fauour thee in what I can;
+Therefore Marchant, Ile limit thee this day
+To seeke thy helpe by beneficiall helpe,
+Try all the friends thou hast in Ephesus,
+Beg thou, or borrow, to make vp the summe,
+And liue: if no, then thou art doom'd to die:
+Iaylor, take him to thy custodie
+
+   Iaylor. I will my Lord
+
+   Merch. Hopelesse and helpelesse doth Egean wend,
+But to procrastinate his liuelesse end.
+
+Exeunt.
+
+Enter Antipholis Erotes, a Marchant, and Dromio.
+
+  Mer. Therefore giue out you are of Epidamium,
+Lest that your goods too soone be confiscate:
+This very day a Syracusian Marchant
+Is apprehended for a riuall here,
+And not being able to buy out his life,
+According to the statute of the towne,
+Dies ere the wearie sunne set in the West:
+There is your monie that I had to keepe
+
+   Ant. Goe beare it to the Centaure, where we host,
+And stay there Dromio, till I come to thee;
+Within this houre it will be dinner time,
+Till that Ile view the manners of the towne,
+Peruse the traders, gaze vpon the buildings,
+And then returne and sleepe within mine Inne,
+For with long trauaile I am stiffe and wearie.
+Get thee away
+
+   Dro. Many a man would take you at your word,
+And goe indeede, hauing so good a meane.
+
+Exit Dromio.
+
+  Ant. A trustie villaine sir, that very oft,
+When I am dull with care and melancholly,
+Lightens my humour with his merry iests:
+What will you walke with me about the towne,
+And then goe to my Inne and dine with me?
+  E.Mar. I am inuited sir to certaine Marchants,
+Of whom I hope to make much benefit:
+I craue your pardon, soone at fiue a clocke,
+Please you, Ile meete with you vpon the Mart,
+And afterward consort you till bed time:
+My present businesse cals me from you now
+
+   Ant. Farewell till then: I will goe loose my selfe,
+And wander vp and downe to view the Citie
+
+   E.Mar. Sir, I commend you to your owne content.
+
+Exeunt.
+
+  Ant. He that commends me to mine owne content,
+Commends me to the thing I cannot get:
+I to the world am like a drop of water,
+That in the Ocean seekes another drop,
+Who falling there to finde his fellow forth,
+(Vnseene, inquisitiue) confounds himselfe.
+So I, to finde a Mother and a Brother,
+In quest of them (vnhappie a) loose my selfe.
+
+Enter Dromio of Ephesus.
+
+Here comes the almanacke of my true date:
+What now? How chance thou art return'd so soone
+
+   E.Dro. Return'd so soone, rather approacht too late:
+The Capon burnes, the Pig fals from the spit;
+The clocke hath strucken twelue vpon the bell:
+My Mistris made it one vpon my cheeke:
+She is so hot because the meate is colde:
+The meate is colde, because you come not home:
+You come not home, because you haue no stomacke:
+You haue no stomacke, hauing broke your fast:
+But we that know what 'tis to fast and pray,
+Are penitent for your default to day
+
+   Ant. Stop in your winde sir, tell me this I pray?
+Where haue you left the mony that I gaue you
+
+   E.Dro. Oh sixe pence that I had a wensday last,
+To pay the Sadler for my Mistris crupper:
+The Sadler had it Sir, I kept it not
+
+   Ant. I am not in a sportiue humor now:
+Tell me, and dally not, where is the monie?
+We being strangers here, how dar'st thou trust
+So great a charge from thine owne custodie
+
+   E.Dro. I pray you iest sir as you sit at dinner:
+I from my Mistris come to you in post:
+If I returne I shall be post indeede.
+For she will scoure your fault vpon my pate:
+Me thinkes your maw, like mine, should be your cooke,
+And strike you home without a messenger
+
+   Ant. Come Dromio, come, these iests are out of season,
+Reserue them till a merrier houre then this:
+Where is the gold I gaue in charge to thee?
+  E.Dro. To me sir? why you gaue no gold to me?
+  Ant. Come on sir knaue, haue done your foolishnes,
+And tell me how thou hast dispos'd thy charge
+
+   E.Dro. My charge was but to fetch you fro[m] the Mart
+Home to your house, the Phoenix sir, to dinner;
+My Mistris and her sister staies for you
+
+   Ant. Now as I am a Christian answer me,
+In what safe place you haue bestow'd my monie;
+Or I shall breake that merrie sconce of yours
+That stands on tricks, when I am vndispos'd:
+Where is the thousand Markes thou hadst of me?
+  E.Dro. I haue some markes of yours vpon my pate:
+Some of my Mistris markes vpon my shoulders:
+But not a thousand markes betweene you both.
+If I should pay your worship those againe,
+Perchance you will not beare them patiently
+
+   Ant. Thy Mistris markes? what Mistris slaue hast thou?
+  E.Dro. Your worships wife, my Mistris at the Phoenix;
+She that doth fast till you come home to dinner:
+And praies that you will hie you home to dinner
+
+   Ant. What wilt thou flout me thus vnto my face
+Being forbid? There take you that sir knaue
+
+   E.Dro. What meane you sir, for God sake hold your hands:
+Nay, and you will not sir, Ile take my heeles.
+
+Exeunt. Dromio Ep.
+
+  Ant. Vpon my life by some deuise or other,
+The villaine is ore-wrought of all my monie.
+They say this towne is full of cosenage:
+As nimble Iuglers that deceiue the eie:
+Darke working Sorcerers that change the minde:
+Soule-killing Witches, that deforme the bodie:
+Disguised Cheaters, prating Mountebankes;
+And manie such like liberties of sinne:
+If it proue so, I will be gone the sooner:
+Ile to the Centaur to goe seeke this slaue,
+I greatly feare my monie is not safe.
+
+Enter.
+
+
+Actus Secundus.
+
+Enter Adriana, wife to Antipholis Sereptus, with Luciana her
+Sister.
+
+  Adr. Neither my husband nor the slaue return'd,
+That in such haste I sent to seeke his Master?
+Sure Luciana it is two a clocke
+
+   Luc. Perhaps some Merchant hath inuited him,
+And from the Mart he's somewhere gone to dinner:
+Good Sister let vs dine, and neuer fret;
+A man is Master of his libertie:
+Time is their Master, and when they see time,
+They'll goe or come; if so, be patient Sister
+
+   Adr. Why should their libertie then ours be more?
+  Luc. Because their businesse still lies out adore
+
+   Adr. Looke when I serue him so, he takes it thus
+
+   Luc. Oh, know he is the bridle of your will
+
+   Adr. There's none but asses will be bridled so
+
+   Luc. Why, headstrong liberty is lasht with woe:
+There's nothing situate vnder heauens eye,
+But hath his bound in earth, in sea, in skie.
+The beasts, the fishes, and the winged fowles
+Are their males subiects, and at their controules:
+Man more diuine, the Master of all these,
+Lord of the wide world, and wilde watry seas,
+Indued with intellectuall sence and soules,
+Of more preheminence then fish and fowles,
+Are masters to their females, and their Lords:
+Then let your will attend on their accords
+
+   Adri. This seruitude makes you to keepe vnwed
+
+   Luci. Not this, but troubles of the marriage bed
+
+   Adr. But were you wedded, you wold bear some sway
+  Luc. Ere I learne loue, Ile practise to obey
+
+   Adr. How if your husband start some other where?
+  Luc. Till he come home againe, I would forbeare
+
+   Adr. Patience vnmou'd, no maruel though she pause,
+They can be meeke, that haue no other cause:
+A wretched soule bruis'd with aduersitie,
+We bid be quiet when we heare it crie.
+But were we burdned with like waight of paine,
+As much, or more, we should our selues complaine:
+So thou that hast no vnkinde mate to greeue thee,
+With vrging helpelesse patience would releeue me;
+But if thou liue to see like right bereft,
+This foole-beg'd patience in thee will be left
+
+   Luci. Well, I will marry one day but to trie:
+Heere comes your man, now is your husband nie.
+
+Enter Dromio Eph.
+
+  Adr. Say, is your tardie master now at hand?
+  E.Dro. Nay, hee's at too hands with mee, and that my
+two eares can witnesse
+
+   Adr. Say, didst thou speake with him? knowst thou
+his minde?
+  E.Dro. I, I, he told his minde vpon mine eare,
+Beshrew his hand, I scarce could vnderstand it
+
+   Luc. Spake hee so doubtfully, thou couldst not feele
+his meaning
+
+   E.Dro. Nay, hee strooke so plainly, I could too well
+feele his blowes; and withall so doubtfully, that I could
+scarce vnderstand them
+
+   Adri. But say, I prethee, is he comming home?
+It seemes he hath great care to please his wife
+
+   E.Dro. Why Mistresse, sure my Master is horne mad
+
+   Adri. Horne mad, thou villaine?
+  E.Dro. I meane not Cuckold mad,
+But sure he is starke mad:
+When I desir'd him to come home to dinner,
+He ask'd me for a hundred markes in gold:
+'Tis dinner time, quoth I: my gold, quoth he:
+Your meat doth burne, quoth I: my gold quoth he:
+Will you come, quoth I: my gold, quoth he;
+Where is the thousand markes I gaue thee villaine?
+The Pigge quoth I, is burn'd: my gold, quoth he:
+My mistresse, sir, quoth I: hang vp thy Mistresse:
+I know not thy mistresse, out on thy mistresse
+
+   Luci. Quoth who?
+  E.Dr. Quoth my Master, I know quoth he, no house,
+no wife, no mistresse: so that my arrant due vnto my
+tongue, I thanke him, I bare home vpon my shoulders:
+for in conclusion, he did beat me there
+
+   Adri. Go back againe, thou slaue, & fetch him home
+
+   Dro. Goe backe againe, and be new beaten home?
+For Gods sake send some other messenger
+
+   Adri. Backe slaue, or I will breake thy pate a-crosse
+
+   Dro. And he will blesse y crosse with other beating:
+Betweene you, I shall haue a holy head
+
+   Adri. Hence prating pesant, fetch thy Master home
+
+   Dro. Am I so round with you, as you with me,
+That like a foot-ball you doe spurne me thus:
+You spurne me hence, and he will spurne me hither,
+If I last in this seruice, you must case me in leather
+
+   Luci. Fie how impatience lowreth in your face
+
+   Adri. His company must do his minions grace,
+Whil'st I at home starue for a merrie looke:
+Hath homelie age th' alluring beauty tooke
+From my poore cheeke? then he hath wasted it.
+Are my discourses dull? Barren my wit,
+If voluble and sharpe discourse be mar'd,
+Vnkindnesse blunts it more then marble hard.
+Doe their gay vestments his affections baite?
+That's not my fault, hee's master of my state.
+What ruines are in me that can be found,
+By him not ruin'd? Then is he the ground
+Of my defeatures. My decayed faire,
+A sunnie looke of his, would soone repaire.
+But, too vnruly Deere, he breakes the pale,
+And feedes from home; poore I am but his stale
+
+   Luci. Selfe-harming Iealousie; fie beat it hence
+
+   Ad. Vnfeeling fools can with such wrongs dispence:
+I know his eye doth homage other-where,
+Or else, what lets it but he would be here?
+Sister, you know he promis'd me a chaine,
+Would that alone, a loue he would detaine,
+So he would keepe faire quarter with his bed:
+I see the Iewell best enamaled
+Will loose his beautie: yet the gold bides still
+That others touch, and often touching will,
+Where gold and no man that hath a name,
+By falshood and corruption doth it shame:
+Since that my beautie cannot please his eie,
+Ile weepe (what's left away) and weeping die
+
+   Luci. How manie fond fooles serue mad Ielousie?
+
+Enter.
+
+Enter Antipholis Errotis.
+
+  Ant. The gold I gaue to Dromio is laid vp
+Safe at the Centaur, and the heedfull slaue
+Is wandred forth in care to seeke me out
+By computation and mine hosts report.
+I could not speake with Dromio, since at first
+I sent him from the Mart? see here he comes.
+
+Enter Dromio Siracusia.
+
+How now sir, is your merrie humor alter'd?
+As you loue stroakes, so iest with me againe:
+You know no Centaur? you receiu'd no gold?
+Your Mistresse sent to haue me home to dinner?
+My house was at the Phoenix? Wast thou mad,
+That thus so madlie thou did didst answere me?
+  S.Dro. What answer sir? when spake I such a word?
+  E.Ant. Euen now, euen here, not halfe an howre since
+
+   S.Dro. I did not see you since you sent me hence
+Home to the Centaur with the gold you gaue me
+
+   Ant. Villaine, thou didst denie the golds receit,
+And toldst me of a Mistresse, and a dinner,
+For which I hope thou feltst I was displeas'd
+
+   S.Dro. I am glad to see you in this merrie vaine,
+What meanes this iest, I pray you Master tell me?
+  Ant. Yea, dost thou ieere & flowt me in the teeth?
+Thinkst y I iest? hold, take thou that, & that.
+
+Beats Dro.
+
+  S.Dr. Hold sir, for Gods sake, now your iest is earnest,
+Vpon what bargaine do you giue it me?
+  Antiph. Because that I familiarlie sometimes
+Doe vse you for my foole, and chat with you,
+Your sawcinesse will iest vpon my loue,
+And make a Common of my serious howres,
+When the sunne shines, let foolish gnats make sport,
+But creepe in crannies, when he hides his beames:
+If you will iest with me, know my aspect,
+And fashion your demeanor to my lookes,
+Or I will beat this method in your sconce
+
+   S.Dro. Sconce call you it? so you would leaue battering,
+I had rather haue it a head, and you vse these blows
+long, I must get a sconce for my head, and Insconce it
+to, or else I shall seek my wit in my shoulders, but I pray
+sir, why am I beaten?
+  Ant. Dost thou not know?
+  S.Dro. Nothing sir, but that I am beaten
+
+   Ant. Shall I tell you why?
+  S.Dro. I sir, and wherefore; for they say, euery why
+hath a wherefore
+
+   Ant. Why first for flowting me, and then wherefore,
+for vrging it the second time to me
+
+   S.Dro. Was there euer anie man thus beaten out of
+season, when in the why and the wherefore, is neither
+rime nor reason. Well sir, I thanke you
+
+   Ant. Thanke me sir, for what?
+  S.Dro. Marry sir, for this something that you gaue me
+for nothing
+
+   Ant. Ile make you amends next, to giue you nothing
+for something. But say sir, is it dinner time?
+  S.Dro. No sir, I thinke the meat wants that I haue
+
+   Ant. In good time sir: what's that?
+  S.Dro. Basting
+
+   Ant. Well sir, then 'twill be drie
+
+   S.Dro. If it be sir, I pray you eat none of it
+
+   Ant. Your reason?
+  S.Dro. Lest it make you chollericke, and purchase me
+another drie basting
+
+   Ant. Well sir, learne to iest in good time, there's a
+time for all things
+
+   S.Dro. I durst haue denied that before you were so
+chollericke
+
+   Anti. By what rule sir?
+  S.Dro. Marry sir, by a rule as plaine as the plaine bald
+pate of Father time himselfe
+
+   Ant. Let's heare it
+
+   S.Dro. There's no time for a man to recouer his haire
+that growes bald by nature
+
+   Ant. May he not doe it by fine and recouerie?
+  S.Dro. Yes, to pay a fine for a perewig, and recouer
+the lost haire of another man
+
+   Ant. Why, is Time such a niggard of haire, being (as
+it is) so plentifull an excrement?
+  S.Dro. Because it is a blessing that hee bestowes on
+beasts, and what he hath scanted them in haire, hee hath
+giuen them in wit
+
+   Ant. Why, but theres manie a man hath more haire
+then wit
+
+   S.Dro. Not a man of those but he hath the wit to lose
+his haire
+
+   Ant. Why thou didst conclude hairy men plain dealers
+without wit
+
+   S.Dro. The plainer dealer, the sooner lost; yet he looseth
+it in a kinde of iollitie
+
+   An. For what reason
+
+   S.Dro. For two, and sound ones to
+
+   An. Nay not sound I pray you
+
+   S.Dro. Sure ones then
+
+   An. Nay, not sure in a thing falsing
+
+   S.Dro. Certaine ones then
+
+   An. Name them
+
+   S.Dro. The one to saue the money that he spends in
+trying: the other, that at dinner they should not drop in
+his porrage
+
+   An. You would all this time haue prou'd, there is no
+time for all things
+
+   S.Dro. Marry and did sir: namely, in no time to recouer
+haire lost by Nature
+
+   An. But your reason was not substantiall, why there
+is no time to recouer
+
+   S.Dro. Thus I mend it: Time himselfe is bald, and
+therefore to the worlds end, will haue bald followers
+
+   An. I knew 'twould be a bald conclusion: but soft,
+who wafts vs yonder.
+
+Enter Adriana and Luciana.
+
+  Adri. I, I, Antipholus, looke strange and frowne,
+Some other Mistresse hath thy sweet aspects:
+I am not Adriana, nor thy wife.
+The time was once, when thou vn-vrg'd wouldst vow,
+That neuer words were musicke to thine eare,
+That neuer obiect pleasing in thine eye,
+That neuer touch well welcome to thy hand,
+That neuer meat sweet-sauour'd in thy taste,
+Vnlesse I spake, or look'd, or touch'd, or caru'd to thee.
+How comes it now, my Husband, oh how comes it,
+That thou art then estranged from thy selfe?
+Thy selfe I call it, being strange to me:
+That vndiuidable Incorporate
+Am better then thy deere selfes better part.
+Ah doe not teare away thy selfe from me;
+For know my loue: as easie maist thou fall
+A drop of water in the breaking gulfe,
+And take vnmingled thence that drop againe
+Without addition or diminishing,
+As take from me thy selfe, and not me too.
+How deerely would it touch thee to the quicke,
+Shouldst thou but heare I were licencious?
+And that this body consecrate to thee,
+By Ruffian Lust should be contaminate?
+Wouldst thou not spit at me, and spurne at me,
+And hurle the name of husband in my face,
+And teare the stain'd skin of my Harlot brow,
+And from my false hand cut the wedding ring,
+And breake it with a deepe-diuorcing vow?
+I know thou canst, and therefore see thou doe it.
+I am possest with an adulterate blot,
+My bloud is mingled with the crime of lust:
+For if we two be one, and thou play false,
+I doe digest the poison of thy flesh,
+Being strumpeted by thy contagion:
+Keepe then faire league and truce with thy true bed,
+I liue distain'd, thou vndishonoured
+
+   Antip. Plead you to me faire dame? I know you not:
+In Ephesus I am but two houres old,
+As strange vnto your towne, as to your talke,
+Who euery word by all my wit being scan'd,
+Wants wit in all, one word to vnderstand
+
+   Luci. Fie brother, how the world is chang'd with you:
+When were you wont to vse my sister thus?
+She sent for you by Dromio home to dinner
+
+   Ant. By Dromio?
+  Drom. By me
+
+   Adr. By thee, and this thou didst returne from him.
+That he did buffet thee, and in his blowes,
+Denied my house for his, me for his wife
+
+   Ant. Did you conuerse sir with this gentlewoman:
+What is the course and drift of your compact?
+  S.Dro. I sir? I neuer saw her till this time
+
+   Ant. Villaine thou liest, for euen her verie words,
+Didst thou deliuer to me on the Mart
+
+   S.Dro. I neuer spake with her in all my life
+
+   Ant. How can she thus then call vs by our names?
+Vnlesse it be by inspiration
+
+   Adri. How ill agrees it with your grauitie,
+To counterfeit thus grosely with your slaue,
+Abetting him to thwart me in my moode;
+Be it my wrong, you are from me exempt,
+But wrong not that wrong with a more contempt.
+Come I will fasten on this sleeue of thine:
+Thou art an Elme my husband, I a Vine:
+Whose weaknesse married to thy stranger state,
+Makes me with thy strength to communicate:
+If ought possesse thee from me, it is drosse,
+Vsurping Iuie, Brier, or idle Mosse,
+Who all for want of pruning, with intrusion,
+Infect thy sap, and liue on thy confusion
+
+   Ant. To mee shee speakes, shee moues mee for her
+theame;
+What, was I married to her in my dreame?
+Or sleepe I now, and thinke I heare all this?
+What error driues our eies and eares amisse?
+Vntill I know this sure vncertaintie,
+Ile entertaine the free'd fallacie
+
+   Luc. Dromio, goe bid the seruants spred for dinner
+
+   S.Dro. Oh for my beads, I crosse me for a sinner.
+This is the Fairie land, oh spight of spights,
+We talke with Goblins, Owles and Sprights;
+If we obay them not, this will insue:
+They'll sucke our breath, or pinch vs blacke and blew
+
+   Luc. Why prat'st thou to thy selfe, and answer'st not?
+Dromio, thou Dromio, thou snaile, thou slug, thou sot
+
+   S.Dro. I am transformed Master, am I not?
+  Ant. I thinke thou art in minde, and so am I
+
+   S.Dro. Nay Master, both in minde, and in my shape
+
+   Ant. Thou hast thine owne forme
+
+   S.Dro. No, I am an Ape
+
+   Luc. If thou art chang'd to ought, 'tis to an Asse
+
+   S.Dro. 'Tis true she rides me, and I long for grasse.
+'Tis so, I am an Asse, else it could neuer be,
+But I should know her as well as she knowes me
+
+   Adr. Come, come, no longer will I be a foole,
+To put the finger in the eie and weepe;
+Whil'st man and Master laughes my woes to scorne:
+Come sir to dinner, Dromio keepe the gate:
+Husband Ile dine aboue with you to day,
+And shriue you of a thousand idle prankes:
+Sirra, if any aske you for your Master,
+Say he dines forth, and let no creature enter:
+Come sister, Dromio play the Porter well
+
+   Ant. Am I in earth, in heauen, or in hell?
+Sleeping or waking, mad or well aduisde:
+Knowne vnto these, and to my selfe disguisde:
+Ile say as they say, and perseuer so:
+And in this mist at all aduentures go
+
+   S.Dro. Master, shall I be Porter at the gate?
+  Adr. I, and let none enter, least I breake your pate
+
+   Luc. Come, come, Antipholus, we dine to late.
+
+Actus Tertius. Scena Prima.
+
+Enter Antipholus of Ephesus, his man Dromio, Angelo the
+Goldsmith, and
+Balthaser the Merchant.
+
+  E.Anti. Good signior Angelo you must excuse vs all,
+My wife is shrewish when I keepe not howres;
+Say that I lingerd with you at your shop
+To see the making of her Carkanet,
+And that to morrow you will bring it home.
+But here's a villaine that would face me downe
+He met me on the Mart, and that I beat him,
+And charg'd him with a thousand markes in gold,
+And that I did denie my wife and house;
+Thou drunkard thou, what didst thou meane by this?
+  E.Dro. Say what you wil sir, but I know what I know,
+That you beat me at the Mart I haue your hand to show;
+If y skin were parchment, & y blows you gaue were ink,
+Your owne hand-writing would tell you what I thinke
+
+   E.Ant. I thinke thou art an asse
+
+   E.Dro. Marry so it doth appeare
+By the wrongs I suffer, and the blowes I beare,
+I should kicke being kickt, and being at that passe,
+You would keepe from my heeles, and beware of an asse
+
+   E.An. Y'are sad signior Balthazar, pray God our cheer
+May answer my good will, and your good welcom here
+
+   Bal. I hold your dainties cheap sir, & your welcom deer
+
+   E.An. Oh signior Balthazar, either at flesh or fish,
+A table full of welcome, makes scarce one dainty dish
+
+   Bal. Good meat sir is co[m]mon that euery churle affords
+
+   Anti. And welcome more common, for thats nothing
+but words
+
+   Bal. Small cheere and great welcome, makes a merrie
+feast
+
+   Anti. I, to a niggardly Host, and more sparing guest:
+But though my cates be meane, take them in good part,
+Better cheere may you haue, but not with better hart.
+But soft, my doore is lockt; goe bid them let vs in
+
+   E.Dro. Maud, Briget, Marian, Cisley, Gillian, Ginn
+
+   S.Dro. Mome, Malthorse, Capon, Coxcombe, Idiot,
+Patch,
+Either get thee from the dore, or sit downe at the hatch:
+Dost thou coniure for wenches, that y calst for such store,
+When one is one too many, goe get thee from the dore
+
+   E.Dro. What patch is made our Porter? my Master
+stayes in the street
+
+   S.Dro. Let him walke from whence he came, lest hee
+catch cold on's feet
+
+   E.Ant. Who talks within there? hoa, open the dore
+
+   S.Dro. Right sir, Ile tell you when, and you'll tell
+me wherefore
+
+   Ant. Wherefore? for my dinner: I haue not din'd to
+day
+
+   S.Dro. Nor to day here you must not come againe
+when you may
+
+   Anti. What art thou that keep'st mee out from the
+howse I owe?
+  S.Dro. The Porter for this time Sir, and my name is
+Dromio
+
+   E.Dro. O villaine, thou hast stolne both mine office
+and my name,
+The one nere got me credit, the other mickle blame:
+If thou hadst beene Dromio to day in my place,
+Thou wouldst haue chang'd thy face for a name, or thy
+name for an asse.
+
+Enter Luce.
+
+  Luce. What a coile is there Dromio? who are those
+at the gate?
+  E.Dro. Let my Master in Luce
+
+   Luce. Faith no, hee comes too late, and so tell your
+Master
+
+   E.Dro. O Lord I must laugh, haue at you with a Prouerbe,
+Shall I set in my staffe
+
+   Luce. Haue at you with another, that's when? can
+you tell?
+  S.Dro. If thy name be called Luce, Luce thou hast answer'd
+him well
+
+   Anti. Doe you heare you minion, you'll let vs in I
+hope?
+  Luce. I thought to haue askt you
+
+   S.Dro. And you said no
+
+   E.Dro. So come helpe, well strooke, there was blow
+for blow
+
+   Anti. Thou baggage let me in
+
+   Luce. Can you tell for whose sake?
+  E.Drom. Master, knocke the doore hard
+
+   Luce. Let him knocke till it ake
+
+   Anti. You'll crie for this minion, if I beat the doore
+downe
+
+   Luce. What needs all that, and a paire of stocks in the
+towne?
+
+Enter Adriana.
+
+  Adr. Who is that at the doore y keeps all this noise?
+  S.Dro. By my troth your towne is troubled with vnruly
+boies
+
+   Anti. Are you there Wife? you might haue come
+before
+
+   Adri. Your wife sir knaue? go get you from the dore
+
+   E.Dro. If you went in paine Master, this knaue wold
+goe sore
+
+   Angelo. Heere is neither cheere sir, nor welcome, we
+would faine haue either
+
+   Baltz. In debating which was best, wee shall part
+with neither
+
+   E.Dro. They stand at the doore, Master, bid them
+welcome hither
+
+   Anti. There is something in the winde, that we cannot
+get in
+
+   E.Dro. You would say so Master, if your garments
+were thin.
+Your cake here is warme within: you stand here in the
+cold.
+It would make a man mad as a Bucke to be so bought
+and sold
+
+   Ant. Go fetch me something, Ile break ope the gate
+
+   S.Dro. Breake any breaking here, and Ile breake your
+knaues pate
+
+   E.Dro. A man may breake a word with your sir, and
+words are but winde:
+I and breake it in your face, so he break it not behinde
+
+   S.Dro. It seemes thou want'st breaking, out vpon thee
+hinde
+
+   E.Dro. Here's too much out vpon thee, I pray thee let
+me in
+
+   S.Dro. I, when fowles haue no feathers, and fish haue
+no fin
+
+   Ant. Well, Ile breake in: go borrow me a crow
+
+   E.Dro. A crow without feather, Master meane you so;
+For a fish without a finne, ther's a fowle without a fether,
+If a crow help vs in sirra, wee'll plucke a crow together
+
+   Ant. Go, get thee gon, fetch me an iron Crow
+
+   Balth. Haue patience sir, oh let it not be so,
+Heerein you warre against your reputation,
+And draw within the compasse of suspect
+Th' vnuiolated honor of your wife.
+Once this your long experience of your wisedome,
+Her sober vertue, yeares, and modestie,
+Plead on your part some cause to you vnknowne;
+And doubt not sir, but she will well excuse
+Why at this time the dores are made against you.
+Be rul'd by me, depart in patience,
+And let vs to the Tyger all to dinner,
+And about euening come your selfe alone,
+To know the reason of this strange restraint:
+If by strong hand you offer to breake in
+Now in the stirring passage of the day,
+A vulgar comment will be made of it;
+And that supposed by the common rowt
+Against your yet vngalled estimation,
+That may with foule intrusion enter in,
+And dwell vpon your graue when you are dead;
+For slander liues vpon succession:
+For euer hows'd, where it gets possession
+
+   Anti. You haue preuail'd, I will depart in quiet,
+And in despight of mirth meane to be merrie:
+I know a wench of excellent discourse,
+Prettie and wittie; wilde, and yet too gentle;
+There will we dine: this woman that I meane
+My wife (but I protest without desert)
+Hath oftentimes vpbraided me withall:
+To her will we to dinner, get you home
+And fetch the chaine, by this I know 'tis made,
+Bring it I pray you to the Porpentine,
+For there's the house: That chaine will I bestow
+(Be it for nothing but to spight my wife)
+Vpon mine hostesse there, good sir make haste:
+Since mine owne doores refuse to entertaine me,
+Ile knocke else-where, to see if they'll disdaine me
+
+   Ang. Ile meet you at that place some houre hence
+
+   Anti. Do so, this iest shall cost me some expence.
+
+Exeunt.
+
+Enter Iuliana, with Antipholus of Siracusia.
+
+  Iulia. And may it be that you haue quite forgot
+A husbands office? shall Antipholus
+Euen in the spring of Loue, thy Loue-springs rot?
+Shall loue in buildings grow so ruinate?
+If you did wed my sister for her wealth,
+Then for her wealths-sake vse her with more kindnesse:
+Or if you like else-where doe it by stealth,
+Muffle your false loue with some shew of blindnesse:
+Let not my sister read it in your eye:
+Be not thy tongue thy owne shames Orator:
+Looke sweet, speake faire, become disloyaltie:
+Apparell vice like vertues harbenger:
+Beare a faire presence, though your heart be tainted,
+Teach sinne the carriage of a holy Saint,
+Be secret false: what need she be acquainted?
+What simple thiefe brags of his owne attaine?
+'Tis double wrong to truant with your bed,
+And let her read it in thy lookes at boord:
+Shame hath a bastard fame, well managed,
+Ill deeds is doubled with an euill word:
+Alas poore women, make vs not beleeue
+(Being compact of credit) that you loue vs,
+Though others haue the arme, shew vs the sleeue:
+We in your motion turne, and you may moue vs.
+Then gentle brother get you in againe;
+Comfort my sister, cheere her, call her wise;
+'Tis holy sport to be a little vaine,
+When the sweet breath of flatterie conquers strife
+
+   S.Anti. Sweete Mistris, what your name is else I
+know not;
+Nor by what wonder you do hit of mine:
+Lesse in your knowledge, and your grace you show not,
+Then our earths wonder, more then earth diuine.
+Teach me deere creature how to thinke and speake:
+Lay open to my earthie grosse conceit:
+Smothred in errors, feeble, shallow, weake,
+The foulded meaning of your words deceit:
+Against my soules pure truth, why labour you,
+To make it wander in an vnknowne field?
+Are you a god? would you create me new?
+Transforme me then, and to your powre Ile yeeld.
+But if that I am I, then well I know,
+Your weeping sister is no wife of mine,
+Nor to her bed no homage doe I owe:
+Farre more, farre more, to you doe I decline:
+Oh traine me not sweet Mermaide with thy note,
+To drowne me in thy sister floud of teares:
+Sing Siren for thy selfe, and I will dote:
+Spread ore the siluer waues thy golden haires;
+And as a bud Ile take thee, and there lie:
+And in that glorious supposition thinke,
+He gaines by death, that hath such meanes to die:
+Let Loue, being light, be drowned if she sinke
+
+   Luc. What are you mad, that you doe reason so?
+  Ant. Not mad, but mated, how I doe not know
+
+   Luc. It is a fault that springeth from your eie
+
+   Ant. For gazing on your beames faire sun being by
+
+   Luc. Gaze when you should, and that will cleere
+your sight
+
+   Ant. As good to winke sweet loue, as looke on night
+
+   Luc. Why call you me loue? Call my sister so
+
+   Ant. Thy sisters sister
+
+   Luc. That's my sister
+
+   Ant. No: it is thy selfe, mine owne selfes better part:
+Mine eies cleere eie, my deere hearts deerer heart;
+My foode, my fortune, and my sweet hopes aime;
+My sole earths heauen, and my heauens claime
+
+   Luc. All this my sister is, or else should be
+
+   Ant. Call thy selfe sister sweet, for I am thee:
+Thee will I loue, and with thee lead my life;
+Thou hast no husband yet, nor I no wife:
+Giue me thy hand
+
+   Luc. Oh soft sir, hold you still:
+Ile fetch my sister to get her good will.
+
+Enter.
+
+Enter Dromio, Siracusia.
+
+  Ant. Why how now Dromio, where run'st thou so
+fast?
+  S.Dro. Doe you know me sir? Am I Dromio? Am I
+your man? Am I my selfe?
+  Ant. Thou art Dromio, thou art my man, thou art
+thy selfe
+
+   Dro. I am an asse, I am a womans man, and besides
+my selfe
+
+   Ant. What womans man? and how besides thy
+selfe?
+  Dro. Marrie sir, besides my selfe, I am due to a woman:
+One that claimes me, one that haunts me, one that will
+haue me
+
+   Anti. What claime laies she to thee?
+  Dro. Marry sir, such claime as you would lay to your
+horse, and she would haue me as a beast, not that I beeing
+a beast she would haue me, but that she being a verie
+beastly creature layes claime to me
+
+   Anti. What is she?
+  Dro. A very reuerent body: I such a one, as a man
+may not speake of, without he say sir reuerence, I haue
+but leane lucke in the match, and yet is she a wondrous
+fat marriage
+
+   Anti. How dost thou meane a fat marriage?
+  Dro. Marry sir, she's the Kitchin wench, & al grease,
+and I know not what vse to put her too, but to make a
+Lampe of her, and run from her by her owne light. I
+warrant, her ragges and the Tallow in them, will burne
+a Poland Winter: If she liues till doomesday, she'l burne
+a weeke longer then the whole World
+
+   Anti. What complexion is she of?
+  Dro. Swart like my shoo, but her face nothing like
+so cleane kept: for why? she sweats a man may goe ouer-shooes
+in the grime of it
+
+   Anti. That's a fault that water will mend
+
+   Dro. No sir, 'tis in graine, Noahs flood could not
+do it
+
+   Anti. What's her name?
+  Dro. Nell Sir: but her name is three quarters, that's
+an Ell and three quarters, will not measure her from hip
+to hip
+
+   Anti. Then she beares some bredth?
+  Dro. No longer from head to foot, then from hippe
+to hippe: she is sphericall, like a globe: I could find out
+Countries in her
+
+   Anti. In what part of her body stands Ireland?
+  Dro. Marry sir in her buttockes, I found it out by
+the bogges
+
+   Ant. Where Scotland?
+  Dro. I found it by the barrennesse, hard in the palme
+of the hand
+
+   Ant. Where France?
+  Dro. In her forhead, arm'd and reuerted, making
+warre against her heire
+
+   Ant. Where England?
+  Dro. I look'd for the chalkle Cliffes, but I could find
+no whitenesse in them. But I guesse, it stood in her chin
+by the salt rheume that ranne betweene France, and it
+
+   Ant. Where Spaine?
+  Dro. Faith I saw it not: but I felt it hot in her breth
+
+   Ant. Where America, the Indies?
+  Dro. Oh sir, vpon her nose, all ore embellished with
+Rubies, Carbuncles, Saphires, declining their rich Aspect
+to the hot breath of Spaine, who sent whole Armadoes
+of Carrects to be ballast at her nose
+
+   Anti. Where stood Belgia, the Netherlands?
+  Dro. Oh sir, I did not looke so low. To conclude,
+this drudge or Diuiner layd claime to mee, call'd mee
+Dromio, swore I was assur'd to her, told me what priuie
+markes I had about mee, as the marke of my shoulder,
+the Mole in my necke, the great Wart on my left arme,
+that I amaz'd ranne from her as a witch. And I thinke, if
+my brest had not beene made of faith, and my heart of
+steele, she had transform'd me to a Curtull dog, & made
+me turne i'th wheele
+
+   Anti. Go hie thee presently, post to the rode,
+And if the winde blow any way from shore,
+I will not harbour in this Towne to night.
+If any Barke put forth, come to the Mart,
+Where I will walke till thou returne to me:
+If euerie one knowes vs, and we know none,
+'Tis time I thinke to trudge, packe, and be gone
+
+   Dro. As from a Beare a man would run for life,
+So flie I from her that would be my wife.
+
+Exit
+
+  Anti. There's none but Witches do inhabite heere,
+And therefore 'tis hie time that I were hence:
+She that doth call me husband, euen my soule
+Doth for a wife abhorre. But her faire sister
+Possest with such a gentle soueraigne grace,
+Of such inchanting presence and discourse,
+Hath almost made me Traitor to my selfe:
+But least my selfe be guilty to selfe wrong,
+Ile stop mine eares against the Mermaids song.
+
+Enter Angelo with the Chaine.
+
+  Ang. Mr Antipholus
+
+   Anti. I that's my name
+
+   Ang. I know it well sir, loe here's the chaine,
+I thought to haue tane you at the Porpentine,
+The chaine vnfinish'd made me stay thus long
+
+   Anti. What is your will that I shal do with this?
+  Ang. What please your selfe sir: I haue made it for
+you
+
+   Anti. Made it for me sir, I bespoke it not
+
+   Ang. Not once, nor twice, but twentie times you
+haue:
+Go home with it, and please your Wife withall,
+And soone at supper time Ile visit you,
+And then receiue my money for the chaine
+
+   Anti. I pray you sir receiue the money now.
+For feare you ne're see chaine, nor mony more
+
+   Ang. You are a merry man sir, fare you well.
+
+Enter.
+
+  Ant. What I should thinke of this, I cannot tell:
+But this I thinke, there's no man is so vaine,
+That would refuse so faire an offer'd Chaine.
+I see a man heere needs not liue by shifts,
+When in the streets he meetes such Golden gifts:
+Ile to the Mart, and there for Dromio stay,
+If any ship put out, then straight away.
+
+Enter.
+
+
+Actus Quartus. Scoena Prima.
+
+Enter a Merchant, Goldsmith, and an Officer.
+
+  Mar. You know since Pentecost the sum is due,
+And since I haue not much importun'd you,
+Nor now I had not, but that I am bound
+To Persia, and want Gilders for my voyage:
+Therefore make present satisfaction,
+Or Ile attach you by this Officer
+
+   Gold. Euen iust the sum that I do owe to you,
+Is growing to me by Antipholus,
+And in the instant that I met with you,
+He had of me a Chaine, at fiue a clocke
+I shall receiue the money for the same:
+Pleaseth you walke with me downe to his house,
+I will discharge my bond, and thanke you too.
+
+Enter Antipholus Ephes.Dromio from the Courtizans.
+
+  Offi. That labour may you saue: See where he comes
+
+   Ant. While I go to the Goldsmiths house, go thou
+And buy a ropes end, that will I bestow
+Among my wife, and their confederates,
+For locking me out of my doores by day:
+But soft I see the Goldsmith; get thee gone,
+Buy thou a rope, and bring it home to me
+
+   Dro. I buy a thousand pound a yeare, I buy a rope.
+
+Exit Dromio
+
+  Eph.Ant. A man is well holpe vp that trusts to you,
+I promised your presence, and the Chaine,
+But neither Chaine nor Goldsmith came to me:
+Belike you thought our loue would last too long
+If it were chain'd together: and therefore came not
+
+   Gold. Sauing your merrie humor: here's the note
+How much your Chaine weighs to the vtmost charect,
+The finenesse of the Gold, and chargefull fashion,
+Which doth amount to three odde Duckets more
+Then I stand debted to this Gentleman,
+I pray you see him presently discharg'd,
+For he is bound to Sea, and stayes but for it
+
+   Anti. I am not furnish'd with the present monie:
+Besides I haue some businesse in the towne,
+Good Signior take the stranger to my house,
+And with you take the Chaine, and bid my wife
+Disburse the summe, on the receit thereof,
+Perchance I will be there as soone as you
+
+   Gold. Then you will bring the Chaine to her your
+selfe
+
+   Anti. No beare it with you, least I come not time enough
+
+   Gold. Well sir, I will? Haue you the Chaine about
+you?
+  Ant. And if I haue not sir, I hope you haue:
+Or else you may returne without your money
+
+   Gold. Nay come I pray you sir, giue me the Chaine:
+Both winde and tide stayes for this Gentleman,
+And I too blame haue held him heere too long
+
+   Anti. Good Lord, you vse this dalliance to excuse
+Your breach of promise to the Porpentine,
+I should haue chid you for not bringing it,
+But like a shrew you first begin to brawle
+
+   Mar. The houre steales on, I pray you sir dispatch
+
+   Gold. You heare how he importunes me, the Chaine
+
+   Ant. Why giue it to my wife, and fetch your mony
+
+   Gold. Come, come, you know I gaue it you euen now.
+Either send the Chaine, or send me by some token
+
+   Ant. Fie, now you run this humor out of breath,
+Come where's the Chaine, I pray you let me see it
+
+   Mar. My businesse cannot brooke this dalliance,
+Good sir say, whe'r you'l answer me, or no:
+If not, Ile leaue him to the Officer
+
+   Ant. I answer you? What should I answer you
+
+   Gold. The monie that you owe me for the Chaine
+
+   Ant. I owe you none, till I receiue the Chaine
+
+   Gold. You know I gaue it you halfe an houre since
+
+   Ant. You gaue me none, you wrong mee much to
+say so
+
+   Gold. You wrong me more sir in denying it.
+Consider how it stands vpon my credit
+
+   Mar. Well Officer, arrest him at my suite
+
+   Offi. I do, and charge you in the Dukes name to obey
+me
+
+   Gold. This touches me in reputation.
+Either consent to pay this sum for me,
+Or I attach you by this Officer
+
+   Ant. Consent to pay thee that I neuer had:
+Arrest me foolish fellow if thou dar'st
+
+   Gold. Heere is thy fee, arrest him Officer.
+I would not spare my brother in this case,
+If he should scorne me so apparantly
+
+   Offic. I do arrest you sir, you heare the suite
+
+   Ant. I do obey thee, till I giue thee baile.
+But sirrah, you shall buy this sport as deere,
+As all the mettall in your shop will answer
+
+   Gold. Sir, sir, I shall haue Law in Ephesus,
+To your notorious shame, I doubt it not.
+
+Enter Dromio Sira. from the Bay.
+
+  Dro. Master, there's a Barke of Epidamium,
+That staies but till her Owner comes aboord,
+And then sir she beares away. Our fraughtage sir,
+I haue conuei'd aboord, and I haue bought
+The Oyle, the Balsamum, and Aqua-vitae.
+The ship is in her trim, the merrie winde
+Blowes faire from land: they stay for nought at all,
+But for their Owner, Master, and your selfe
+
+   An. How now? a Madman? Why thou peeuish sheep
+What ship of Epidamium staies for me
+
+   S.Dro. A ship you sent me too, to hier waftage
+
+   Ant. Thou drunken slaue, I sent thee for a rope,
+And told thee to what purpose, and what end
+
+   S.Dro. You sent me for a ropes end as soone,
+You sent me to the Bay sir, for a Barke
+
+   Ant. I will debate this matter at more leisure
+And teach your eares to list me with more heede:
+To Adriana Villaine hie thee straight:
+Giue her this key, and tell her in the Deske
+That's couer'd o're with Turkish Tapistrie,
+There is a purse of Duckets, let her send it:
+Tell her, I am arrested in the streete,
+And that shall baile me: hie thee slaue, be gone,
+On Officer to prison, till it come.
+
+Exeunt.
+
+  S.Dromio. To Adriana, that is where we din'd,
+Where Dowsabell did claime me for her husband,
+She is too bigge I hope for me to compasse,
+Thither I must, although against my will:
+For seruants must their Masters mindes fulfill.
+
+Exit
+
+Enter Adriana and Luciana.
+
+  Adr. Ah Luciana, did he tempt thee so?
+Might'st thou perceiue austeerely in his eie,
+That he did plead in earnest, yea or no:
+Look'd he or red or pale, or sad or merrily?
+What obseruation mad'st thou in this case?
+Oh, his hearts Meteors tilting in his face
+
+   Luc. First he deni'de you had in him no right
+
+   Adr. He meant he did me none: the more my spight
+  Luc. Then swore he that he was a stranger heere
+
+   Adr. And true he swore, though yet forsworne hee
+were
+
+   Luc. Then pleaded I for you
+
+   Adr. And what said he?
+  Luc. That loue I begg'd for you, he begg'd of me
+
+   Adr. With what perswasion did he tempt thy loue?
+  Luc. With words, that in an honest suit might moue.
+First, he did praise my beautie, then my speech
+
+   Adr. Did'st speake him faire?
+  Luc. Haue patience I beseech
+
+   Adr. I cannot, nor I will not hold me still.
+My tongue, though not my heart, shall haue his will.
+He is deformed, crooked, old, and sere,
+Ill-fac'd, worse bodied, shapelesse euery where:
+Vicious, vngentle, foolish, blunt, vnkinde,
+Stigmaticall in making worse in minde
+
+   Luc. Who would be iealous then of such a one?
+No euill lost is wail'd, when it is gone
+
+   Adr. Ah but I thinke him better then I say:
+And yet would herein others eies were worse:
+Farre from her nest the Lapwing cries away;
+My heart praies for him, though my tongue doe curse.
+
+Enter S.Dromio.
+
+  Dro. Here goe: the deske, the purse, sweet now make
+haste
+
+   Luc. How hast thou lost thy breath?
+  S.Dro. By running fast
+
+   Adr. Where is thy Master Dromio? Is he well?
+  S.Dro. No, he's in Tartar limbo, worse then hell:
+A diuell in an euerlasting garment hath him;
+On whose hard heart is button'd vp with steele:
+A Feind, a Fairie, pittilesse and ruffe:
+A Wolfe, nay worse, a fellow all in buffe:
+A back friend, a shoulder-clapper, one that counterma[n]ds
+The passages of allies, creekes, and narrow lands:
+A hound that runs Counter, and yet draws drifoot well,
+One that before the Iudgme[n]t carries poore soules to hel
+
+   Adr. Why man, what is the matter?
+  S.Dro. I doe not know the matter, hee is rested on
+the case
+
+   Adr. What is he arrested? tell me at whose suite?
+  S.Dro. I know not at whose suite he is arested well;
+but is in a suite of buffe which rested him, that can I tell,
+will you send him Mistris redemption, the monie in
+his deske
+
+   Adr. Go fetch it Sister: this I wonder at.
+
+Exit Luciana.
+
+Thus he vnknowne to me should be in debt:
+Tell me, was he arested on a band?
+  S.Dro. Not on a band, but on a stronger thing:
+A chaine, a chaine, doe you not here it ring
+
+   Adria. What, the chaine?
+  S.Dro. No, no, the bell, 'tis time that I were gone:
+It was two ere I left him, and now the clocke strikes one
+
+   Adr. The houres come backe, that did I neuer here
+
+   S.Dro. Oh yes, if any houre meete a Serieant, a turnes
+backe for verie feare
+
+   Adri. As if time were in debt: how fondly do'st thou
+reason?
+  S.Dro. Time is a verie bankerout, and owes more then
+he's worth to season.
+Nay, he's a theefe too: haue you not heard men say,
+That time comes stealing on by night and day?
+If I be in debt and theft, and a Serieant in the way,
+Hath he not reason to turne backe an houre in a day?
+
+Enter Luciana.
+
+  Adr. Go Dromio, there's the monie, beare it straight,
+And bring thy Master home imediately.
+Come sister, I am prest downe with conceit:
+Conceit, my comfort and my iniurie.
+
+Enter.
+
+Enter Antipholus Siracusia.
+
+There's not a man I meete but doth salute me
+As if I were their well acquainted friend,
+And euerie one doth call me by my name:
+Some tender monie to me, some inuite me;
+Some other giue me thankes for kindnesses;
+Some offer me Commodities to buy.
+Euen now a tailor cal'd me in his shop,
+And show'd me Silkes that he had bought for me,
+And therewithall tooke measure of my body.
+Sure these are but imaginarie wiles,
+And lapland Sorcerers inhabite here.
+
+Enter Dromio. Sir.
+
+  S.Dro. Master, here's the gold you sent me for: what
+haue you got the picture of old Adam new apparel'd?
+  Ant. What gold is this? What Adam do'st thou
+meane?
+  S.Dro. Not that Adam that kept the Paradise: but
+that Adam that keepes the prison; hee that goes in the
+calues-skin, that was kil'd for the Prodigall: hee that
+came behinde you sir, like an euill angel, and bid you forsake
+your libertie
+
+   Ant. I vnderstand thee not
+
+   S.Dro. No? why 'tis a plaine case: he that went like
+a Base-Viole in a case of leather; the man sir, that when
+gentlemen are tired giues them a sob, and rests them:
+he sir, that takes pittie on decaied men, and giues them
+suites of durance: he that sets vp his rest to doe more exploits
+with his Mace, then a Moris Pike
+
+   Ant. What thou mean'st an officer?
+  S.Dro. I sir, the Serieant of the Band: he that brings
+any man to answer it that breakes his Band: one that
+thinkes a man alwaies going to bed, and saies, God giue
+you good rest
+
+   Ant. Well sir, there rest in your foolerie:
+Is there any ships puts forth to night? may we be gone?
+  S.Dro. Why sir, I brought you word an houre since,
+that the Barke Expedition put forth to night, and then
+were you hindred by the Serieant to tarry for the Hoy
+Delay: Here are the angels that you sent for to deliuer
+you
+
+   Ant. The fellow is distract, and so am I,
+And here we wander in illusions:
+Some blessed power deliuer vs from hence.
+
+Enter a Curtizan.
+
+  Cur. Well met, well met, Master Antipholus:
+I see sir you haue found the Gold-smith now:
+Is that the chaine you promis'd me to day
+
+   Ant. Sathan auoide, I charge thee tempt me not
+
+   S.Dro. Master, is this Mistris Sathan?
+  Ant. It is the diuell
+
+   S.Dro. Nay, she is worse, she is the diuels dam:
+And here she comes in the habit of a light wench, and
+thereof comes, that the wenches say God dam me, That's
+as much to say, God make me a light wench: It is written,
+they appeare to men like angels of light, light is an
+effect of fire, and fire will burne: ergo, light wenches will
+burne, come not neere her
+
+   Cur. Your man and you are maruailous merrie sir.
+Will you goe with me, wee'll mend our dinner here?
+  S.Dro. Master, if do expect spoon-meate, or bespeake
+a long spoone
+
+   Ant. Why Dromio?
+  S.Dro. Marrie he must haue a long spoone that must
+eate with the diuell
+
+   Ant. Auoid then fiend, what tel'st thou me of supping?
+Thou art, as you are all a sorceresse:
+I coniure thee to leaue me, and be gon
+
+   Cur. Giue me the ring of mine you had at dinner,
+Or for my Diamond the Chaine you promis'd,
+And Ile be gone sir, and not trouble you
+
+   S.Dro. Some diuels aske but the parings of ones naile,
+a rush, a haire, a drop of blood, a pin, a nut, a cherriestone:
+but she more couetous, wold haue a chaine: Master
+be wise, and if you giue it her, the diuell will shake
+her Chaine, and fright vs with it
+
+   Cur. I pray you sir my Ring, or else the Chaine,
+I hope you do not meane to cheate me so?
+  Ant. Auant thou witch: Come Dromio let vs go
+
+   S.Dro. Flie pride saies the Pea-cocke, Mistris that
+you know.
+
+Enter.
+
+  Cur. Now out of doubt Antipholus is mad,
+Else would he neuer so demeane himselfe,
+A Ring he hath of mine worth fortie Duckets,
+And for the same he promis'd me a Chaine,
+Both one and other he denies me now:
+The reason that I gather he is mad,
+Besides this present instance of his rage,
+Is a mad tale he told to day at dinner,
+Of his owne doores being shut against his entrance.
+Belike his wife acquainted with his fits,
+On purpose shut the doores against his way:
+My way is now to hie home to his house,
+And tell his wife, that being Lunaticke,
+He rush'd into my house, and tooke perforce
+My Ring away. This course I fittest choose,
+For fortie Duckets is too much to loose.
+
+Enter Antipholus Ephes. with a Iailor.
+
+  An. Feare me not man, I will not breake away,
+Ile giue thee ere I leaue thee so much money
+To warrant thee as I am rested for.
+My wife is in a wayward moode to day,
+And will not lightly trust the Messenger,
+That I should be attach'd in Ephesus,
+I tell you 'twill sound harshly in her eares.
+
+Enter Dromio Eph. with a ropes end.
+
+Heere comes my Man, I thinke he brings the monie.
+How now sir? Haue you that I sent you for?
+  E.Dro. Here's that I warrant you will pay them all
+
+   Anti. But where's the Money?
+  E.Dro. Why sir, I gaue the Monie for the Rope
+
+   Ant. Fiue hundred Duckets villaine for a rope?
+  E.Dro. Ile serue you sir fiue hundred at the rate
+
+   Ant. To what end did I bid thee hie thee home?
+  E.Dro. To a ropes end sir, and to that end am I return'd
+
+   Ant. And to that end sir, I will welcome you
+
+   Offi. Good sir be patient
+
+   E.Dro. Nay 'tis for me to be patient, I am in aduersitie
+
+   Offi. Good now hold thy tongue
+
+   E.Dro. Nay, rather perswade him to hold his hands
+
+   Anti. Thou whoreson senselesse Villaine
+
+   E.Dro. I would I were senselesse sir, that I might
+not feele your blowes
+
+   Anti. Thou art sensible in nothing but blowes, and
+so is an Asse
+
+   E.Dro. I am an Asse indeede, you may prooue it by
+my long eares. I haue serued him from the houre of my
+Natiuitie to this instant, and haue nothing at his hands
+for my seruice but blowes. When I am cold, he heates
+me with beating: when I am warme, he cooles me with
+beating: I am wak'd with it when I sleepe, rais'd with
+it when I sit, driuen out of doores with it when I goe
+from home, welcom'd home with it when I returne, nay
+I beare it on my shoulders, as a begger woont her brat:
+and I thinke when he hath lam'd me, I shall begge with
+it from doore to doore.
+
+Enter Adriana, Luciana, Courtizan, and a Schoolemaster, call'd
+Pinch.
+
+  Ant. Come goe along, my wife is comming yonder
+
+   E.Dro. Mistris respice finem, respect your end, or rather
+the prophesie like the Parrat, beware the ropes end
+
+   Anti. Wilt thou still talke?
+
+Beats Dro.
+
+  Curt. How say you now? Is not your husband mad?
+  Adri. His inciuility confirmes no lesse:
+Good Doctor Pinch, you are a Coniurer,
+Establish him in his true sence againe,
+And I will please you what you will demand
+
+   Luc. Alas how fiery, and how sharpe he lookes
+
+   Cur. Marke, how he trembles in his extasie
+
+   Pinch. Giue me your hand, and let mee feele your
+pulse
+
+   Ant. There is my hand, and let it feele your eare
+
+   Pinch. I charge thee Sathan, hous'd within this man,
+To yeeld possession to my holie praiers,
+And to thy state of darknesse hie thee straight,
+I coniure thee by all the Saints in heauen
+
+   Anti. Peace doting wizard, peace; I am not mad
+
+   Adr. Oh that thou wer't not, poore distressed soule
+
+   Anti. You Minion you, are these your Customers?
+Did this Companion with the saffron face
+Reuell and feast it at my house to day,
+Whil'st vpon me the guiltie doores were shut,
+And I denied to enter in my house
+
+   Adr. O husband, God doth know you din'd at home
+Where would you had remain'd vntill this time,
+Free from these slanders, and this open shame
+
+   Anti. Din'd at home? Thou Villaine, what sayest
+thou?
+  Dro. Sir sooth to say, you did not dine at home
+
+   Ant. Were not my doores lockt vp, and I shut out?
+  Dro. Perdie, your doores were lockt, and you shut
+out
+
+   Anti. And did not she her selfe reuile me there?
+  Dro. Sans Fable, she her selfe reuil'd you there
+
+   Anti. Did not her Kitchen maide raile, taunt, and
+scorne me?
+  Dro. Certis she did, the kitchin vestall scorn'd you
+
+   Ant. And did not I in rage depart from thence?
+  Dro. In veritie you did, my bones beares witnesse,
+That since haue felt the vigor of his rage
+
+   Adr. Is't good to sooth him in these contraries?
+  Pinch. It is no shame, the fellow finds his vaine,
+And yeelding to him, humors well his frensie
+
+   Ant. Thou hast subborn'd the Goldsmith to arrest
+mee
+
+   Adr. Alas, I sent you Monie to redeeme you,
+By Dromio heere, who came in hast for it
+
+   Dro. Monie by me? Heart and good will you might,
+But surely Master not a ragge of Monie
+
+   Ant. Wentst not thou to her for a purse of Duckets
+
+   Adri. He came to me, and I deliuer'd it
+
+   Luci. And I am witnesse with her that she did:
+  Dro. God and the Rope-maker beare me witnesse,
+That I was sent for nothing but a rope
+
+   Pinch. Mistris, both Man and Master is possest,
+I know it by their pale and deadly lookes,
+They must be bound and laide in some darke roome
+
+   Ant. Say wherefore didst thou locke me forth to day,
+And why dost thou denie the bagge of gold?
+  Adr. I did not gentle husband locke thee forth
+
+   Dro. And gentle Mr I receiu'd no gold:
+But I confesse sir, that we were lock'd out
+
+   Adr. Dissembling Villain, thou speak'st false in both
+  Ant. Dissembling harlot, thou art false in all,
+And art confederate with a damned packe,
+To make a loathsome abiect scorne of me:
+But with these nailes, Ile plucke out these false eyes,
+That would behold in me this shamefull sport.
+
+Enter three or foure, and offer to binde him: Hee striues.
+
+  Adr. Oh binde him, binde him, let him not come
+neere me
+
+   Pinch. More company, the fiend is strong within him
+  Luc. Aye me poore man, how pale and wan he looks
+
+   Ant. What will you murther me, thou Iailor thou?
+I am thy prisoner, wilt thou suffer them to make a rescue?
+  Offi. Masters let him go: he is my prisoner, and you
+shall not haue him
+
+   Pinch. Go binde this man, for he is franticke too
+
+   Adr. What wilt thou do, thou peeuish Officer?
+Hast thou delight to see a wretched man
+Do outrage and displeasure to himselfe?
+  Offi. He is my prisoner, if I let him go,
+The debt he owes will be requir'd of me
+
+   Adr. I will discharge thee ere I go from thee,
+Beare me forthwith vnto his Creditor,
+And knowing how the debt growes I will pay it.
+Good Master Doctor see him safe conuey'd
+Home to my house, oh most vnhappy day
+
+   Ant. Oh most vnhappie strumpet
+
+   Dro. Master, I am heere entred in bond for you
+
+   Ant. Out on thee Villaine, wherefore dost thou mad
+mee?
+  Dro. Will you be bound for nothing, be mad good
+Master, cry the diuell
+
+   Luc. God helpe poore soules, how idlely doe they
+talke
+
+   Adr. Go beare him hence, sister go you with me:
+Say now, whose suite is he arrested at?
+
+Exeunt. Manet Offic. Adri. Luci. Courtizan
+
+  Off. One Angelo a Goldsmith, do you know him?
+  Adr. I know the man: what is the summe he owes?
+  Off. Two hundred Duckets
+
+   Adr. Say, how growes it due
+
+   Off. Due for a Chaine your husband had of him
+
+   Adr. He did bespeake a Chain for me, but had it not
+
+   Cur. When as your husband all in rage to day
+Came to my house, and tooke away my Ring,
+The Ring I saw vpon his finger now,
+Straight after did I meete him with a Chaine
+
+   Adr. It may be so, but I did neuer see it.
+Come Iailor, bring me where the Goldsmith is,
+I long to know the truth heereof at large.
+
+Enter Antipholus Siracusia with his Rapier drawne, and Dromio
+Sirac.
+
+  Luc. God for thy mercy, they are loose againe
+
+   Adr. And come with naked swords,
+Let's call more helpe to haue them bound againe.
+
+Runne all out.
+
+  Off. Away, they'l kill vs.
+
+Exeunt. omnes, as fast as may be, frighted.
+
+  S.Ant. I see these Witches are affraid of swords
+
+   S.Dro. She that would be your wife, now ran from
+you
+
+   Ant. Come to the Centaur, fetch our stuffe from
+thence:
+I long that we were safe and sound aboord
+
+   Dro. Faith stay heere this night, they will surely do
+vs no harme: you saw they speake vs faire, giue vs gold:
+me thinkes they are such a gentle Nation, that but for
+the Mountaine of mad flesh that claimes mariage of me,
+I could finde in my heart to stay heere still, and turne
+Witch
+
+   Ant. I will not stay to night for all the Towne,
+Therefore away, to get our stuffe aboord.
+
+Exeunt.
+
+Actus Quintus. Scoena Prima.
+
+Enter the Merchant and the Goldsmith.
+
+  Gold. I am sorry Sir that I haue hindred you,
+But I protest he had the Chaine of me,
+Though most dishonestly he doth denie it
+
+   Mar. How is the man esteem'd heere in the Citie?
+  Gold. Of very reuerent reputation sir,
+Of credit infinite, highly belou'd,
+Second to none that liues heere in the Citie:
+His word might beare my wealth at any time
+
+   Mar. Speake softly, yonder as I thinke he walkes.
+
+Enter Antipholus and Dromio againe.
+
+  Gold. 'Tis so: and that selfe chaine about his necke,
+Which he forswore most monstrously to haue.
+Good sir draw neere to me, Ile speake to him:
+Signior Antipholus, I wonder much
+That you would put me to this shame and trouble,
+And not without some scandall to your selfe,
+With circumstance and oaths, so to denie
+This Chaine, which now you weare so openly.
+Beside the charge, the shame, imprisonment,
+You haue done wrong to this my honest friend,
+Who but for staying on our Controuersie,
+Had hoisted saile, and put to sea to day:
+This Chaine you had of me, can you deny it?
+  Ant. I thinke I had, I neuer did deny it
+
+   Mar. Yes that you did sir, and forswore it too
+
+   Ant. Who heard me to denie it or forsweare it?
+  Mar. These eares of mine thou knowst did hear thee:
+Fie on thee wretch, 'tis pitty that thou liu'st
+To walke where any honest men resort
+
+   Ant. Thou art a Villaine to impeach me thus,
+Ile proue mine honor, and mine honestie
+Against thee presently, if thou dar'st stand:
+  Mar. I dare and do defie thee for a villaine.
+
+They draw. Enter Adriana, Luciana, Courtezan, & others.
+
+  Adr. Hold, hurt him not for God sake, he is mad,
+Some get within him, take his sword away:
+Binde Dromio too, and beare them to my house
+
+   S.Dro. Runne master run, for Gods sake take a house,
+This is some Priorie, in, or we are spoyl'd.
+
+Exeunt. to the Priorie.
+
+Enter Ladie Abbesse.
+
+  Ab. Be quiet people, wherefore throng you hither?
+  Adr. To fetch my poore distracted husband hence,
+Let vs come in, that we may binde him fast,
+And beare him home for his recouerie
+
+   Gold. I knew he was not in his perfect wits
+
+   Mar. I am sorry now that I did draw on him
+
+   Ab. How long hath this possession held the man
+
+   Adr. This weeke he hath beene heauie, sower sad,
+And much different from the man he was:
+But till this afternoone his passion
+Ne're brake into extremity of rage
+
+   Ab. Hath he not lost much wealth by wrack of sea,
+Buried some deere friend, hath not else his eye
+Stray'd his affection in vnlawfull loue,
+A sinne preuailing much in youthfull men,
+Who giue their eies the liberty of gazing.
+Which of these sorrowes is he subiect too?
+  Adr. To none of these, except it be the last,
+Namely, some loue that drew him oft from home
+
+   Ab. You should for that haue reprehended him
+
+   Adr. Why so I did
+
+   Ab. I but not rough enough
+
+   Adr. As roughly as my modestie would let me
+
+   Ab. Haply in priuate
+
+   Adr. And in assemblies too
+
+   Ab. I, but not enough
+
+   Adr. It was the copie of our Conference.
+In bed he slept not for my vrging it,
+At boord he fed not for my vrging it:
+Alone, it was the subiect of my Theame:
+In company I often glanced it:
+Still did I tell him, it was vilde and bad
+
+   Ab. And thereof came it, that the man was mad.
+The venome clamors of a iealous woman,
+Poisons more deadly then a mad dogges tooth.
+It seemes his sleepes were hindred by thy railing,
+And thereof comes it that his head is light.
+Thou saist his meate was sawc'd with thy vpbraidings,
+Vnquiet meales make ill digestions,
+Thereof the raging fire of feauer bred,
+And what's a Feauer, but a fit of madnesse?
+Thou sayest his sports were hindred by thy bralles.
+Sweet recreation barr'd, what doth ensue
+But moodie and dull melancholly,
+Kinsman to grim and comfortlesse dispaire,
+And at her heeles a huge infectious troope
+Of pale distemperatures, and foes to life?
+In food, in sport, and life-preseruing rest
+To be disturb'd, would mad or man, or beast:
+The consequence is then, thy iealous fits
+Hath scar'd thy husband from the vse of wits
+
+   Luc. She neuer reprehended him but mildely,
+When he demean'd himselfe, rough, rude, and wildly,
+Why beare you these rebukes, and answer not?
+  Adri. She did betray me to my owne reproofe,
+Good people enter, and lay hold on him
+
+   Ab. No, not a creature enters in my house
+
+   Ad. Then let your seruants bring my husband forth
+  Ab. Neither: he tooke this place for sanctuary,
+And it shall priuiledge him from your hands,
+Till I haue brought him to his wits againe,
+Or loose my labour in assaying it
+
+   Adr. I will attend my husband, be his nurse,
+Diet his sicknesse, for it is my Office,
+And will haue no atturney but my selfe,
+And therefore let me haue him home with me
+
+   Ab. Be patient, for I will not let him stirre,
+Till I haue vs'd the approoued meanes I haue,
+With wholsome sirrups, drugges, and holy prayers
+To make of him a formall man againe:
+It is a branch and parcell of mine oath,
+A charitable dutie of my order,
+Therefore depart, and leaue him heere with me
+
+   Adr. I will not hence, and leaue my husband heere:
+And ill it doth beseeme your holinesse
+To separate the husband and the wife
+
+   Ab. Be quiet and depart, thou shalt not haue him
+
+   Luc. Complaine vnto the Duke of this indignity
+
+   Adr. Come go, I will fall prostrate at his feete,
+And neuer rise vntill my teares and prayers
+Haue won his grace to come in person hither,
+And take perforce my husband from the Abbesse
+
+   Mar. By this I thinke the Diall points at fiue:
+Anon I'me sure the Duke himselfe in person
+Comes this way to the melancholly vale;
+The place of depth, and sorrie execution,
+Behinde the ditches of the Abbey heere
+
+   Gold. Vpon what cause?
+  Mar. To see a reuerent Siracusian Merchant,
+Who put vnluckily into this Bay
+Against the Lawes and Statutes of this Towne,
+Beheaded publikely for his offence
+
+   Gold. See where they come, we wil behold his death
+  Luc. Kneele to the Duke before he passe the Abbey.
+
+Enter the Duke of Ephesus, and the Merchant of Siracuse bare
+head, with
+the Headsman, & other Officers.
+
+  Duke. Yet once againe proclaime it publikely,
+If any friend will pay the summe for him,
+He shall not die, so much we tender him
+
+   Adr. Iustice most sacred Duke against the Abbesse
+
+   Duke. She is a vertuous and a reuerend Lady,
+It cannot be that she hath done thee wrong
+
+   Adr. May it please your Grace, Antipholus my husba[n]d,
+Who I made Lord of me, and all I had,
+At your important Letters this ill day,
+A most outragious fit of madnesse tooke him:
+That desp'rately he hurried through the streete,
+With him his bondman, all as mad as he,
+Doing displeasure to the Citizens,
+By rushing in their houses: bearing thence
+Rings, Iewels, any thing his rage did like.
+Once did I get him bound, and sent him home,
+Whil'st to take order for the wrongs I went,
+That heere and there his furie had committed,
+Anon I wot not, by what strong escape
+He broke from those that had the guard of him,
+And with his mad attendant and himselfe,
+Each one with irefull passion, with drawne swords
+Met vs againe, and madly bent on vs
+Chac'd vs away: till raising of more aide
+We came againe to binde them: then they fled
+Into this Abbey, whether we pursu'd them,
+And heere the Abbesse shuts the gates on vs,
+And will not suffer vs to fetch him out,
+Nor send him forth, that we may beare him hence.
+Therefore most gracious Duke with thy command,
+Let him be brought forth, and borne hence for helpe
+
+   Duke. Long since thy husband seru'd me in my wars
+And I to thee ingag'd a Princes word,
+When thou didst make him Master of thy bed,
+To do him all the grace and good I could.
+Go some of you, knocke at the Abbey gate,
+And bid the Lady Abbesse come to me:
+I will determine this before I stirre.
+
+Enter a Messenger.
+
+Oh Mistris, Mistris, shift and saue your selfe,
+My Master and his man are both broke loose,
+Beaten the Maids a-row, and bound the Doctor,
+Whose beard they haue sindg'd off with brands of fire,
+And euer as it blaz'd, they threw on him
+Great pailes of puddled myre to quench the haire;
+My Mr preaches patience to him, and the while
+His man with Cizers nickes him like a foole:
+And sure (vnlesse you send some present helpe)
+Betweene them they will kill the Coniurer
+
+   Adr. Peace foole, thy Master and his man are here,
+And that is false thou dost report to vs
+
+   Mess. Mistris, vpon my life I tel you true,
+I haue not breath'd almost since I did see it.
+He cries for you, and vowes if he can take you,
+To scorch your face, and to disfigure you:
+
+Cry within.
+
+Harke, harke, I heare him Mistris: flie, be gone
+
+   Duke. Come stand by me, feare nothing: guard with
+Halberds
+
+   Adr. Ay me, it is my husband: witnesse you,
+That he is borne about inuisible,
+Euen now we hous'd him in the Abbey heere.
+And now he's there, past thought of humane reason.
+
+Enter Antipholus, and E.Dromio of Ephesus.
+
+  E.Ant. Iustice most gracious Duke, oh grant me iustice,
+Euen for the seruice that long since I did thee,
+When I bestrid thee in the warres, and tooke
+Deepe scarres to saue thy life; euen for the blood
+That then I lost for thee, now grant me iustice
+
+   Mar.Fat. Vnlesse the feare of death doth make me
+dote, I see my sonne Antipholus and Dromio
+
+   E.Ant. Iustice (sweet Prince) against y Woman there:
+She whom thou gau'st to me to be my wife;
+That hath abused and dishonored me,
+Euen in the strength and height of iniurie:
+Beyond imagination is the wrong
+That she this day hath shamelesse throwne on me
+
+   Duke. Discouer how, and thou shalt finde me iust
+
+   E.Ant. This day (great Duke) she shut the doores
+vpon me,
+While she with Harlots feasted in my house
+
+   Duke. A greeuous fault: say woman, didst thou so?
+  Adr. No my good Lord. My selfe, he, and my sister,
+To day did dine together: so befall my soule,
+As this is false he burthens me withall
+
+   Luc. Nere may I looke on day, nor sleepe on night,
+But she tels to your Highnesse simple truth
+
+   Gold. O periur'd woman! They are both forsworne,
+In this the Madman iustly chargeth them
+
+   E.Ant. My Liege, I am aduised what I say,
+Neither disturbed with the effect of Wine,
+Nor headie-rash prouoak'd with raging ire,
+Albeit my wrongs might make one wiser mad.
+This woman lock'd me out this day from dinner;
+That Goldsmith there, were he not pack'd with her,
+Could witnesse it: for he was with me then,
+Who parted with me to go fetch a Chaine,
+Promising to bring it to the Porpentine,
+Where Balthasar and I did dine together.
+Our dinner done, and he not comming thither,
+I went to seeke him. In the street I met him,
+And in his companie that Gentleman.
+There did this periur'd Goldsmith sweare me downe,
+That I this day of him receiu'd the Chaine,
+Which God he knowes, I saw not. For the which,
+He did arrest me with an Officer.
+I did obey, and sent my Pesant home
+For certaine Duckets: he with none return'd.
+Then fairely I bespoke the Officer
+To go in person with me to my house.
+By'th' way, we met my wife, her sister, and a rabble more
+Of vilde Confederates: Along with them
+They brought one Pinch, a hungry leane-fac'd Villaine;
+A meere Anatomie, a Mountebanke,
+A thred-bare Iugler, and a Fortune-teller,
+A needy-hollow-ey'd-sharpe-looking-wretch;
+A liuing dead man. This pernicious slaue,
+Forsooth tooke on him as a Coniurer:
+And gazing in mine eyes, feeling my pulse,
+And with no-face (as 'twere) out-facing me,
+Cries out, I was possest. Then altogether
+They fell vpon me, bound me, bore me thence,
+And in a darke and dankish vault at home
+There left me and my man, both bound together,
+Till gnawing with my teeth my bonds in sunder,
+I gain'd my freedome; and immediately
+Ran hether to your Grace, whom I beseech
+To giue me ample satisfaction
+For these deepe shames, and great indignities
+
+   Gold. My Lord, in truth, thus far I witnes with him:
+That he din'd not at home, but was lock'd out
+
+   Duke. But had he such a Chaine of thee, or no?
+  Gold. He had my Lord, and when he ran in heere,
+These people saw the Chaine about his necke
+
+   Mar. Besides, I will be sworne these eares of mine,
+Heard you confesse you had the Chaine of him,
+After you first forswore it on the Mart,
+And thereupon I drew my sword on you:
+And then you fled into this Abbey heere,
+From whence I thinke you are come by Miracle
+
+   E.Ant. I neuer came within these Abbey wals,
+Nor euer didst thou draw thy sword on me:
+I neuer saw the Chaine, so helpe me heauen:
+And this is false you burthen me withall
+
+   Duke. Why what an intricate impeach is this?
+I thinke you all haue drunke of Circes cup:
+If heere you hous'd him, heere he would haue bin.
+If he were mad, he would not pleade so coldly:
+You say he din'd at home, the Goldsmith heere
+Denies that saying. Sirra, what say you?
+  E.Dro. Sir he din'de with her there, at the Porpentine
+
+   Cur. He did, and from my finger snacht that Ring
+
+   E.Anti. Tis true (my Liege) this Ring I had of her
+
+   Duke. Saw'st thou him enter at the Abbey heere?
+  Curt. As sure (my Liege) as I do see your Grace
+
+   Duke. Why this is straunge: Go call the Abbesse hither.
+I thinke you are all mated, or starke mad.
+
+Exit one to the Abbesse.
+
+  Fa. Most mighty Duke, vouchsafe me speak a word:
+Haply I see a friend will saue my life,
+And pay the sum that may deliuer me
+
+   Duke. Speake freely Siracusian what thou wilt
+
+   Fath. Is not your name sir call'd Antipholus?
+And is not that your bondman Dromio?
+  E.Dro. Within this houre I was his bondman sir,
+But he I thanke him gnaw'd in two my cords,
+Now am I Dromio, and his man, vnbound
+
+   Fath. I am sure you both of you remember me
+
+   Dro. Our selues we do remember sir by you:
+For lately we were bound as you are now.
+You are not Pinches patient, are you sir?
+  Father. Why looke you strange on me? you know
+me well
+
+   E.Ant. I neuer saw you in my life till now
+
+   Fa. Oh! griefe hath chang'd me since you saw me last,
+And carefull houres with times deformed hand,
+Haue written strange defeatures in my face:
+But tell me yet, dost thou not know my voice?
+  Ant. Neither
+
+   Fat. Dromio, nor thou?
+  Dro. No trust me sir, nor I
+
+   Fa. I am sure thou dost?
+  E.Dromio. I sir, but I am sure I do not, and whatsoeuer
+a man denies, you are now bound to beleeue him
+
+   Fath. Not know my voice, oh times extremity
+Hast thou so crack'd and splitted my poore tongue
+In seuen short yeares, that heere my onely sonne
+Knowes not my feeble key of vntun'd cares?
+Though now this grained face of mine be hid
+In sap-consuming Winters drizled snow,
+And all the Conduits of my blood froze vp:
+Yet hath my night of life some memorie:
+My wasting lampes some fading glimmer left;
+My dull deafe eares a little vse to heare:
+All these old witnesses, I cannot erre.
+Tell me, thou art my sonne Antipholus
+
+   Ant. I neuer saw my Father in my life
+
+   Fa. But seuen yeares since, in Siracusa boy
+Thou know'st we parted, but perhaps my sonne,
+Thou sham'st to acknowledge me in miserie
+
+   Ant. The Duke, and all that know me in the City,
+Can witnesse with me that it is not so.
+I ne're saw Siracusa in my life
+
+   Duke. I tell thee Siracusian, twentie yeares
+Haue I bin Patron to Antipholus,
+During which time, he ne're saw Siracusa:
+I see thy age and dangers make thee dote.
+
+Enter the Abbesse with Antipholus Siracusa, and Dromio Sir.
+
+  Abbesse. Most mightie Duke, behold a man much
+wrong'd.
+
+All gather to see them.
+
+  Adr. I see two husbands, or mine eyes deceiue me
+
+   Duke. One of these men is genius to the other:
+And so of these, which is the naturall man,
+And which the spirit? Who deciphers them?
+  S.Dromio. I Sir am Dromio, command him away
+
+   E.Dro. I Sir am Dromio, pray let me stay
+
+   S.Ant. Egeon art thou not? or else his ghost
+
+   S.Drom. Oh my olde Master, who hath bound him
+heere?
+  Abb. Who euer bound him, I will lose his bonds,
+And gaine a husband by his libertie:
+Speake olde Egeon, if thou bee'st the man
+That hadst a wife once call'd Aemilia,
+That bore thee at a burthen two faire sonnes?
+Oh if thou bee'st the same Egeon, speake:
+And speake vnto the same Aemilia
+
+   Duke. Why heere begins his Morning storie right:
+These two Antipholus, these two so like,
+And these two Dromio's, one in semblance:
+Besides her vrging of her wracke at sea,
+These are the parents to these children,
+Which accidentally are met together
+
+   Fa. If I dreame not, thou art Aemilia,
+If thou art she, tell me, where is that sonne
+That floated with thee on the fatall rafte
+
+   Abb. By men of Epidamium, he, and I,
+And the twin Dromio, all were taken vp;
+But by and by, rude Fishermen of Corinth
+By force tooke Dromio, and my sonne from them,
+And me they left with those of Epidamium.
+What then became of them, I cannot tell:
+I, to this fortune that you see mee in
+
+   Duke. Antipholus thou cam'st from Corinth first
+
+   S.Ant. No sir, not I, I came from Siracuse
+
+   Duke. Stay, stand apart, I know not which is which
+
+   E.Ant. I came from Corinth my most gracious Lord
+  E.Dro. And I with him
+
+   E.Ant. Brought to this Town by that most famous
+Warriour,
+Duke Menaphon your most renowned Vnckle
+
+   Adr. Which of you two did dine with me to day?
+  S.Ant. I, gentle Mistris
+
+   Adr. And are not you my husband?
+  E.Ant. No, I say nay to that
+
+   S.Ant. And so do I, yet did she call me so:
+And this faire Gentlewoman her sister heere
+Did call me brother. What I told you then,
+I hope I shall haue leisure to make good,
+If this be not a dreame I see and heare
+
+   Goldsmith. That is the Chaine sir, which you had of
+mee
+
+   S.Ant. I thinke it be sir, I denie it not
+
+   E.Ant. And you sir for this Chaine arrested me
+
+   Gold. I thinke I did sir, I deny it not
+
+   Adr. I sent you monie sir to be your baile
+By Dromio, but I thinke he brought it not
+
+   E.Dro. No, none by me
+
+   S.Ant. This purse of Duckets I receiu'd from you,
+And Dromio my man did bring them me:
+I see we still did meete each others man,
+And I was tane for him, and he for me,
+And thereupon these errors are arose
+
+   E.Ant. These Duckets pawne I for my father heere
+
+   Duke. It shall not neede, thy father hath his life
+
+   Cur. Sir I must haue that Diamond from you
+
+   E.Ant. There take it, and much thanks for my good
+cheere
+
+   Abb. Renowned Duke, vouchsafe to take the paines
+To go with vs into the Abbey heere,
+And heare at large discoursed all our fortunes,
+And all that are assembled in this place:
+That by this simpathized one daies error
+Haue suffer'd wrong. Goe, keepe vs companie,
+And we shall make full satisfaction.
+Thirtie three yeares haue I but gone in trauaile
+Of you my sonnes, and till this present houre
+My heauie burthen are deliuered:
+The Duke my husband, and my children both,
+And you the Kalenders of their Natiuity,
+Go to a Gossips feast, and go with mee,
+After so long greefe such Natiuitie
+
+   Duke. With all my heart, Ile Gossip at this feast.
+
+Exeunt. omnes. Manet the two Dromio's and two Brothers.
+
+  S.Dro. Mast[er]. shall I fetch your stuffe from shipbord?
+  E.An. Dromio, what stuffe of mine hast thou imbarkt
+  S.Dro. Your goods that lay at host sir in the Centaur
+
+   S.Ant. He speakes to me, I am your master Dromio.
+Come go with vs, wee'l looke to that anon,
+Embrace thy brother there, reioyce with him.
+
+Exit
+
+  S.Dro. There is a fat friend at your masters house,
+That kitchin'd me for you to day at dinner:
+She now shall be my sister, not my wife,
+  E.D. Me thinks you are my glasse, & not my brother:
+I see by you, I am a sweet-fac'd youth,
+Will you walke in to see their gossipping?
+  S.Dro. Not I sir, you are my elder
+
+   E.Dro. That's a question, how shall we trie it
+
+   S.Dro. Wee'l draw Cuts for the Signior, till then,
+lead thou first
+
+   E.Dro. Nay then thus:
+We came into the world like brother and brother:
+And now let's go hand in hand, not one before another.
+
+Exeunt.
+
+FINIS. The Comedie of Errors.

@@ -1,0 +1,4213 @@
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+***********************Loues Labour's lost**********************
+
+This is our 3rd edition of most of these plays.  See the index.
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Loues Labour's lost
+
+by William Shakespeare
+
+July, 2000  [Etext #2241]
+
+
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+***********************Loues Labour's lost**********************
+
+*****This file should be named 0ws1210.txt or 0ws1210.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 0ws1211.txt
+VERSIONS based on separate sources get new LETTER, 0ws1210a.txt
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Project Gutenberg's Etext of Shakespeare's The first Part of 
+Henry the Sixt
+
+
+
+
+Executive Director's Notes:
+
+In addition to the notes below, and so you will *NOT* think all
+the spelling errors introduced by the printers of the time have
+been corrected, here are the first few lines of Hamlet, as they
+are presented herein:
+
+  Barnardo. Who's there?
+  Fran. Nay answer me: Stand & vnfold
+your selfe
+
+   Bar. Long liue the King
+
+***
+
+As I understand it, the printers often ran out of certain words
+or letters they had often packed into a "cliche". . .this is the
+original meaning of the term cliche. . .and thus, being unwilling
+to unpack the cliches, and thus you will see some substitutions
+that look very odd. . .such as the exchanges of u for v, v for u,
+above. . .and you may wonder why they did it this way, presuming
+Shakespeare did not actually write the play in this manner. . . .
+
+The answer is that they MAY have packed "liue" into a cliche at a
+time when they were out of "v"'s. . .possibly having used "vv" in
+place of some "w"'s, etc.  This was a common practice of the day,
+as print was still quite expensive, and they didn't want to spend
+more on a wider selection of characters than they had to.
+
+You will find a lot of these kinds of "errors" in this text, as I
+have mentioned in other times and places, many "scholars" have an
+extreme attachment to these errors, and many have accorded them a
+very high place in the "canon" of Shakespeare.  My father read an
+assortment of these made available to him by Cambridge University
+in England for several months in a glass room constructed for the
+purpose.  To the best of my knowledge he read ALL those available
+. . .in great detail. . .and determined from the various changes,
+that Shakespeare most likely did not write in nearly as many of a
+variety of errors we credit him for, even though he was in/famous
+for signing his name with several different spellings.
+
+So, please take this into account when reading the comments below
+made by our volunteer who prepared this file:  you may see errors
+that are "not" errors. . . .
+
+So. . .with this caveat. . .we have NOT changed the canon errors,
+here is the Project Gutenberg Etext of Shakespeare's The first 
+Part of Henry the Sixt.
+
+Michael S. Hart
+Project Gutenberg
+Executive Director
+
+
+***
+
+
+Scanner's Notes: What this is and isn't.  This was taken from
+a copy of Shakespeare's first folio and it is as close as I can
+come in ASCII to the printed text.
+
+The elongated S's have been changed to small s's and the
+conjoined ae have been changed to ae.  I have left the spelling,
+punctuation, capitalization as close as possible to the
+printed text.  I have corrected some spelling mistakes (I have put
+together a spelling dictionary devised from the spellings of the
+Geneva Bible and Shakespeare's First Folio and have unified
+spellings according to this template), typo's and expanded
+abbreviations as I have come across them.  Everything within
+brackets [] is what I have added.  So if you don't like that
+you can delete everything within the brackets if you want a
+purer Shakespeare.
+
+Another thing that you should be aware of is that there are textual
+differences between various copies of the first folio.  So there may
+be differences (other than what I have mentioned above) between
+this and other first folio editions.  This is due to the printer's
+habit of setting the type and running off a number of copies and
+then proofing the printed copy and correcting the type and then
+continuing the printing run.  The proof run wasn't thrown away but
+incorporated into the printed copies.  This is just the way it is.
+The text I have used was a composite of more than 30 different
+First Folio editions' best pages.
+
+If you find any scanning errors, out and out typos, punctuation
+errors, or if you disagree with my spelling choices please feel
+free to email me those errors.  I wish to make this the best
+etext possible.  My email address for right now are haradda@aol.com
+and davidr@inconnect.com.  I hope that you enjoy this.
+
+David Reed
+
+Loues Labour's lost
+
+Actus primus.
+
+Enter Ferdinand King of Nauarre, Berowne, Longauill, and
+Dumane.
+
+  Ferdinand. Let Fame, that all hunt after in their liues,
+Liue registred vpon our brazen Tombes,
+And then grace vs in the disgrace of death:
+when spight of cormorant deuouring Time,
+Th' endeuour of this present breath may buy:
+That honour which shall bate his sythes keene edge,
+And make vs heyres of all eternitie.
+Therefore braue Conquerours, for so you are,
+That warre against your owne affections,
+And the huge Armie of the worlds desires.
+Our late edict shall strongly stand in force,
+Nauar shall be the wonder of the world.
+Our Court shall be a little Achademe,
+Still and contemplatiue in liuing Art.
+You three, Berowne, Dumaine, and Longauill,
+Haue sworne for three yeeres terme, to liue with me:
+My fellow Schollers, and to keepe those statutes
+That are recorded in this scedule heere.
+Your oathes are past, and now subscribe your names:
+That his owne hand may strike his honour downe,
+That violates the smallest branch heerein:
+If you are arm'd to doe, as sworne to do,
+Subscribe to your deepe oathes, and keepe it to
+
+   Longauill. I am resolu'd, 'tis but a three yeeres fast:
+The minde shall banquet, though the body pine,
+Fat paunches haue leane pates: and dainty bits,
+Make rich the ribs, but bankerout the wits
+
+   Dumane. My louing Lord, Dumane is mortified,
+The grosser manner of these worlds delights,
+He throwes vpon the grosse worlds baser slaues:
+To loue, to wealth, to pompe, I pine and die,
+With all these liuing in Philosophie
+
+   Berowne. I can but say their protestation ouer,
+So much, deare Liege, I haue already sworne,
+That is, to liue and study heere three yeeres.
+But there are other strict obseruances:
+As not to see a woman in that terme,
+Which I hope well is not enrolled there.
+And one day in a weeke to touch no foode:
+And but one meale on euery day beside:
+The which I hope is not enrolled there.
+And then to sleepe but three houres in the night,
+And not be seene to winke of all the day.
+When I was wont to thinke no harme all night,
+And make a darke night too of halfe the day:
+Which I hope well is not enrolled there.
+O, these are barren taskes, too hard to keepe,
+Not to see Ladies, study, fast, not sleepe
+
+   Ferd. Your oath is past, to passe away from these
+
+   Berow. Let me say no my Liedge, and if you please,
+I onely swore to study with your grace,
+And stay heere in your Court for three yeeres space
+
+   Longa. You swore to that Berowne, and to the rest
+
+   Berow. By yea and nay sir, than I swore in iest.
+What is the end of study, let me know?
+  Fer. Why that to know which else wee should not
+know
+
+   Ber. Things hid & bard (you meane) fro[m] co[m]mon sense
+
+   Ferd. I, that is studies god-like recompence
+
+   Bero. Come on then, I will sweare to studie so,
+To know the thing I am forbid to know:
+As thus, to study where I well may dine,
+When I to fast expressely am forbid.
+Or studie where to meete some Mistresse fine,
+When Mistresses from common sense are hid.
+Or hauing sworne too hard a keeping oath,
+Studie to breake it, and not breake my troth.
+If studies gaine be thus, and this be so,
+Studie knowes that which yet it doth not know,
+Sweare me to this, and I will nere say no
+
+   Ferd. These be the stops that hinder studie quite,
+And traine our intellects to vaine delight
+
+   Ber. Why? all delights are vaine, and that most vaine
+Which with paine purchas'd, doth inherit paine,
+As painefully to poare vpon a Booke,
+To seeke the light of truth, while truth the while
+Doth falsely blinde the eye-sight of his looke:
+Light seeking light, doth light of light beguile:
+So ere you finde where light in darkenesse lies,
+Your light growes darke by losing of your eyes.
+Studie me how to please the eye indeede,
+By fixing it vpon a fairer eye,
+Who dazling so, that eye shall be his heed,
+And giue him light that it was blinded by.
+Studie is like the heauens glorious Sunne,
+That will not be deepe search'd with sawcy lookes:
+Small haue continuall plodders euer wonne,
+Saue base authoritie from others Bookes.
+These earthly Godfathers of heauens lights,
+That giue a name to euery fixed Starre,
+Haue no more profit of their shining nights,
+Then those that walke and wot not what they are.
+Too much to know, is to know nought but fame:
+And euery Godfather can giue a name
+
+   Fer. How well hee's read, to reason against reading
+
+   Dum. Proceeded well, to stop all good proceeding
+
+   Lon. Hee weedes the corne, and still lets grow the
+weeding
+
+   Ber. The Spring is neare when greene geesse are a
+breeding
+
+   Dum. How followes that?
+  Ber. Fit in his place and time
+
+   Dum. In reason nothing
+
+   Ber. Something then in rime
+
+   Ferd. Berowne is like an enuious sneaping Frost,
+That bites the first borne infants of the Spring
+
+   Ber. Wel, say I am, why should proud Summer boast,
+Before the Birds haue any cause to sing?
+Why should I ioy in any abortiue birth?
+At Christmas I no more desire a Rose,
+Then wish a Snow in Mayes new fangled showes:
+But like of each thing that in season growes.
+So you to studie now it is too late,
+That were to clymbe ore the house to vnlocke the gate
+
+   Fer. Well, sit you out: go home Berowne: adue
+
+   Ber. No my good Lord, I haue sworn to stay with you.
+And though I haue for barbarisme spoke more,
+Then for that Angell knowledge you can say,
+Yet confident Ile keepe what I haue sworne,
+And bide the pennance of each three yeares day.
+Giue me the paper, let me reade the same,
+And to the strictest decrees Ile write my name
+
+   Fer. How well this yeelding rescues thee from shame
+
+   Ber. Item. That no woman shall come within a mile
+of my Court.
+Hath this bin proclaimed?
+  Lon. Foure dayes agoe
+
+   Ber. Let's see the penaltie.
+On paine of loosing her tongue.
+Who deuis'd this penaltie?
+  Lon. Marry that did I
+
+   Ber. Sweete Lord, and why?
+  Lon. To fright them hence with that dread penaltie,
+A dangerous law against gentilitie.
+Item, If any man be seene to talke with a woman within
+the tearme of three yeares, hee shall indure such
+publique shame as the rest of the Court shall possibly
+deuise
+
+   Ber. This Article my Liedge your selfe must breake,
+For well you know here comes in Embassie
+The French Kings daughter, with your selfe to speake:
+A Maide of grace and compleate maiestie,
+About surrender vp of Aquitaine:
+To her decrepit, sicke, and bed-rid Father.
+Therefore this Article is made in vaine,
+Or vainly comes th' admired Princesse hither
+
+   Fer. What say you Lords?
+Why, this was quite forgot
+
+   Ber. So Studie euermore is ouershot,
+While it doth study to haue what it would,
+It doth forget to doe the thing it should:
+And when it hath the thing it hunteth most,
+'Tis won as townes with fire, so won, so lost
+
+   Fer. We must of force dispence with this Decree,
+She must lye here on meere necessitie
+
+   Ber. Necessity will make vs all forsworne
+Three thousand times within this three yeeres space:
+For euery man with his affects is borne,
+Not by might mastred, but by speciall grace.
+If I breake faith, this word shall breake for me,
+I am forsworne on meere necessitie.
+So to the Lawes at large I write my name,
+And he that breakes them in the least degree,
+Stands in attainder of eternall shame.
+Suggestions are to others as to me:
+But I beleeue although I seeme so loth,
+I am the last that will last keepe his oth.
+But is there no quicke recreation granted?
+  Fer. I that there is, our Court you know is hanted
+With a refined trauailer of Spaine,
+A man in all the worlds new fashion planted,
+That hath a mint of phrases in his braine:
+One, who the musicke of his owne vaine tongue,
+Doth rauish like inchanting harmonie:
+A man of complements whom right and wrong
+Haue chose as vmpire of their mutinie.
+This childe of fancie that Armado hight,
+For interim to our studies shall relate,
+In high-borne words the worth of many a Knight:
+From tawnie Spaine lost in the worlds debate.
+How you delight my Lords, I know not I,
+But I protest I loue to heare him lie,
+And I will vse him for my Minstrelsie
+
+   Bero. Armado is a most illustrious wight,
+A man of fire, new words, fashions owne Knight
+
+   Lon. Costard the swaine and he, shall be our sport,
+And so to studie, three yeeres is but short.
+Enter a Constable with Costard with a Letter.
+
+  Const. Which is the Dukes owne person
+
+   Ber. This fellow, What would'st?
+  Con. I my selfe reprehend his owne person, for I am
+his graces Tharborough: But I would see his own person
+in flesh and blood
+
+   Ber. This is he
+
+   Con. Signeor Arme, Arme commends you:
+Ther's villanie abroad, this letter will tell you more
+
+   Clow. Sir the Contempts thereof are as touching
+mee
+
+   Fer. A letter from the magnificent Armado
+
+   Ber. How low soeuer the matter, I hope in God for
+high words
+
+   Lon. A high hope for a low heauen, God grant vs patience
+
+   Ber. To heare, or forbeare hearing
+
+   Lon. To heare meekely sir, and to laugh moderately,
+or to forbeare both
+
+   Ber. Well sir, be it as the stile shall giue vs cause to
+clime in the merrinesse
+
+   Clo. The matter is to me sir, as concerning Iaquenetta.
+The manner of it is, I was taken with the manner
+
+   Ber. In what manner?
+  Clo. In manner and forme following sir all those three.
+I was seene with her in the Mannor house, sitting with
+her vpon the Forme, and taken following her into the
+Parke: which put to gether, is in manner and forme
+following. Now sir for the manner; It is the manner
+of a man to speake to a woman, for the forme in some
+forme
+
+   Ber. For the following sir
+
+   Clo. As it shall follow in my correction, and God defend
+the right
+
+   Fer. Will you heare this Letter with attention?
+  Ber. As we would heare an Oracle
+
+   Clo. Such is the simplicitie of man to harken after the
+flesh
+
+   Ferdinand. Great Deputie, the Welkins Vicegerent, and sole
+dominator
+of Nauar, my soules earths God, and bodies fostring
+patrone:
+  Cost. Not a word of Costard yet
+
+   Ferd. So it is
+
+   Cost. It may be so: but if he say it is so, he is in telling
+true: but so
+
+   Ferd. Peace,
+  Clow. Be to me, and euery man that dares not fight
+
+   Ferd. No words,
+  Clow. Of other mens secrets I beseech you
+
+   Ferd. So it is besieged with sable coloured melancholie, I
+did commend the blacke oppressing humour to the most
+wholesome
+Physicke of thy health-giuing ayre: And as I am a Gentleman,
+betooke my selfe to walke: the time When? about the
+sixt houre, When beasts most grase, birds best pecke, and men
+sit downe to that nourishment which is called supper: So much
+for the time When. Now for the ground Which? which I
+meane I walkt vpon, it is ycliped, Thy Parke. Then for the
+place Where? where I meane I did encounter that obscene and
+most preposterous euent that draweth from my snow-white pen
+the ebon coloured Inke, which heere thou viewest, beholdest:
+suruayest, or seest. But to the place Where? It standeth
+North North-east and by East from the West corner of thy
+curious knotted garden; There did I see that low spirited
+Swaine, that base Minow of thy myrth,
+  Clown. Mee?
+  Ferd. that vnletered small knowing soule,
+  Clow Me?
+  Ferd. that shallow
+vassall
+  Clow. Still mee?)
+  Ferd. which as I remember, hight Costard,
+  Clow. O me)
+  Ferd. sorted and consorted contrary to thy established
+proclaymed Edict and Continent, Cannon: Which
+with, o with, but with this I passion to say wherewith:
+  Clo. With a Wench
+
+   Ferd. With a childe of our Grandmother Eue, a female;
+or for thy more sweet understanding a woman: him, I (as my
+euer esteemed dutie prickes me on) haue sent to thee, to receiue
+the meed of punishment by the sweet Graces Officer Anthony
+Dull, a man of good repute, carriage, bearing, & estimation
+
+   Anth. Me, an't shall please you? I am Anthony Dull
+
+   Ferd. For Iaquenetta (so is the weaker vessell called)
+which I apprehended with the aforesaid Swaine, I keepe her
+as a vessell of thy Lawes furie, and shall at the least of thy
+sweet notice, bring her to triall. Thine in all complements of
+deuoted and heart-burning heat of dutie.
+Don Adriana de Armado
+
+   Ber. This is not so well as I looked for, but the best
+that euer I heard
+
+   Fer. I the best, for the worst. But sirra, What say you
+to this?
+  Clo. Sir I confesse the Wench
+
+   Fer. Did you heare the Proclamation?
+  Clo. I doe confesse much of the hearing it, but little
+of the marking of it
+
+   Fer. It was proclaimed a yeeres imprisonment to bee
+taken with a Wench
+
+   Clow. I was taken with none sir, I was taken with a
+Damosell
+
+   Fer. Well, it was proclaimed Damosell
+
+   Clo. This was no Damosell neyther sir, shee was a
+Virgin
+
+   Fer. It is so varried to, for it was proclaimed Virgin
+
+   Clo. If it were, I denie her Virginitie: I was taken
+with a Maide
+
+   Fer. This Maid will not serue your turne sir
+
+   Clo. This Maide will serue my turne sir
+
+   Kin. Sir I will pronounce your sentence: You shall
+fast a Weeke with Branne and water
+
+   Clo. I had rather pray a Moneth with Mutton and
+Porridge
+
+   Kin. And Don Armado shall be your keeper.
+My Lord Berowne, see him deliuer'd ore,
+And goe we Lords to put in practice that,
+Which each to other hath so strongly sworne
+
+   Bero. Ile lay my head to any good mans hat,
+These oathes and lawes will proue an idle scorne.
+Sirra, come on
+
+   Clo. I suffer for the truth sir: for true it is, I was taken
+with Iaquenetta, and Iaquenetta is a true girle, and
+therefore welcome the sowre cup of prosperitie, affliction
+may one day smile againe, and vntill then sit downe
+sorrow.
+Enter.
+
+Enter Armado and Moth his Page.
+
+  Arma. Boy, What signe is it when a man of great
+spirit growes melancholy?
+  Boy. A great signe sir, that he will looke sad
+
+   Brag. Why? sadnesse is one and the selfe-same thing
+deare impe
+
+   Boy. No no, O Lord sir no
+
+   Brag. How canst thou part sadnesse and melancholy
+my tender Iuuenall?
+  Boy. By a familiar demonstration of the working, my
+tough signeur
+
+   Brag. Why tough signeur? Why tough signeur?
+  Boy. Why tender Iuuenall? Why tender Iuuenall?
+  Brag. I spoke it tender Iuuenall, as a congruent apathaton,
+appertaining to thy young daies, which we may
+nominate tender
+
+   Boy. And I tough signeur, as an appertinent title to
+your olde time, which we may name tough
+
+   Brag. Pretty and apt
+
+   Boy. How meane you sir, I pretty, and my saying apt?
+or I apt, and my saying prettie?
+  Brag. Thou pretty because little
+
+   Boy. Little pretty, because little: wherefore apt?
+  Brag. And therefore apt, because quicke
+
+   Boy. Speake you this in my praise Master?
+  Brag. In thy condigne praise
+
+   Boy. I will praise an Eele with the same praise
+
+   Brag. What? that an Eele is ingenuous
+
+   Boy. That an Eele is quicke
+
+   Brag. I doe say thou art quicke in answeres. Thou
+heat'st my bloud
+
+   Boy. I am answer'd sir
+
+   Brag. I loue not to be crost
+
+   Boy. He speakes the meere contrary, crosses loue not him
+
+   Br. I haue promis'd to study iij. yeres with the Duke
+
+   Boy. You may doe it in an houre sir
+
+   Brag. Impossible
+
+   Boy. How many is one thrice told?
+  Bra. I am ill at reckning, it fits the spirit of a Tapster
+
+   Boy. You are a gentleman and a gamester sir
+
+   Brag. I confesse both, they are both the varnish of a
+compleat man
+
+   Boy. Then I am sure you know how much the grosse
+summe of deus-ace amounts to
+
+   Brag. It doth amount to one more then two
+
+   Boy. Which the base vulgar call three
+
+   Br. True
+
+   Boy. Why sir is this such a peece of study?
+Now here's three studied, ere you'll thrice wink, & how
+easie it is to put yeres to the word three, and study three
+yeeres in two words, the dancing horse will tell you
+
+   Brag. A most fine Figure
+
+   Boy. To proue you a Cypher
+
+   Brag. I will heereupon confesse I am in loue: and as
+it is base for a Souldier to loue; so am I in loue with a
+base wench. If drawing my sword against the humour
+of affection, would deliuer mee from the reprobate
+thought of it, I would take Desire prisoner, and ransome
+him to any French Courtier for a new deuis'd curtsie. I
+thinke scorne to sigh, me thinkes I should out-sweare
+Cupid. Comfort me Boy, What great men haue beene
+in loue?
+  Boy. Hercules Master
+
+   Brag. Most sweete Hercules: more authority deare
+Boy, name more; and sweet my childe let them be men
+of good repute and carriage
+
+   Boy. Sampson Master, he was a man of good carriage,
+great carriage: for hee carried the Towne-gates on his
+backe like a Porter: and he was in loue
+
+   Brag. O well-knit Sampson, strong ioynted Sampson;
+I doe excell thee in my rapier, as much as thou didst mee
+in carrying gates. I am in loue too. Who was Sampsons
+loue my deare Moth?
+  Boy. A Woman, Master
+
+   Brag. Of what complexion?
+  Boy. Of all the foure, or the three, or the two, or one
+of the foure
+
+   Brag. Tell me precisely of what complexion?
+  Boy. Of the sea-water Greene sir
+
+   Brag. Is that one of the foure complexions?
+  Boy. As I haue read sir, and the best of them too
+
+   Brag. Greene indeed is the colour of Louers: but to
+haue a Loue of that colour, methinkes Sampson had small
+reason for it. He surely affected her for her wit
+
+   Boy. It was so sir, for she had a greene wit
+
+   Brag. My Loue is most immaculate white and red
+
+   Boy. Most immaculate thoughts Master, are mask'd
+vnder such colours
+
+   Brag. Define, define, well educated infant
+
+   Boy. My fathers witte, and my mothers tongue assist
+mee
+
+   Brag. Sweet inuocation of a childe, most pretty and
+patheticall
+
+   Boy. If shee be made of white and red,
+Her faults will nere be knowne:
+For blushin cheekes by faults are bred,
+And feares by pale white showne:
+Then if she feare, or be to blame,
+By this you shall not know,
+For still her cheekes possesse the same,
+Which natiue she doth owe:
+A dangerous rime master against the reason of white
+and redde
+
+   Brag. Is there not a ballet Boy, of the King and the
+Begger?
+  Boy. The world was very guilty of such a Ballet some
+three ages since, but I thinke now 'tis not to be found: or
+if it were, it would neither serue for the writing, nor the
+tune
+
+   Brag. I will haue that subiect newly writ ore, that I
+may example my digression by some mighty president.
+Boy, I doe loue that Countrey girle that I tooke in
+the Parke with the rationall hinde Costard: she deserues
+well
+
+   Boy. To bee whip'd: and yet a better loue then my
+Master
+
+   Brag. Sing Boy, my spirit grows heauy in loue
+
+   Boy. And that's great maruell, louing a light wench
+
+   Brag. I say sing
+
+   Boy. Forbeare till this company be past.
+Enter Clowne, Constable, and Wench.
+
+  Const. Sir, the Dukes pleasure, is that you keepe Costard
+safe, and you must let him take no delight, nor no
+penance, but hee must fast three daies a weeke: for this
+Damsell, I must keepe her at the Parke, shee is alowd for
+the Day-woman. Fare you well.
+Enter.
+
+  Brag. I do betray my selfe with blushing: Maide
+
+   Maid. Man
+
+   Brag. I wil visit thee at the Lodge
+
+   Maid. That's here by
+
+   Brag. I know where it is situate
+
+   Mai. Lord how wise you are!
+  Brag. I will tell thee wonders
+
+   Ma. With what face?
+  Brag. I loue thee
+
+   Mai. So I heard you say
+
+   Brag. And so farewell
+
+   Mai. Faire weather after you
+
+   Clo. Come Iaquenetta, away.
+
+Exeunt.
+
+  Brag. Villaine, thou shalt fast for thy offences ere
+thou be pardoned
+
+   Clo. Well sir, I hope when I doe it, I shall doe it on a
+full stomacke
+
+   Brag. Thou shalt be heauily punished
+
+   Clo. I am more bound to you then your fellowes, for
+they are but lightly rewarded
+
+   Clo. Take away this villaine, shut him vp
+
+   Boy. Come you transgressing slaue, away
+
+   Clow. Let mee not bee pent vp sir, I will fast being
+loose
+
+   Boy. No sir, that were fast and loose: thou shalt to
+prison
+
+   Clow. Well, if euer I do see the merry dayes of desolation
+that I haue seene, some shall see
+
+   Boy. What shall some see?
+  Clow. Nay nothing, Master Moth, but what they
+looke vpon. It is not for prisoners to be silent in their
+words, and therefore I will say nothing: I thanke God, I
+haue as little patience as another man, and therefore I
+can be quiet.
+Enter.
+
+  Brag. I doe affect the very ground (which is base)
+where her shooe (which is baser) guided by her foote
+(which is basest) doth tread. I shall be forsworn (which
+is a great argument of falshood) if I loue. And how can
+that be true loue, which is falsly attempted? Loue is a familiar,
+Loue is a Diuell. There is no euill Angell but
+Loue, yet Sampson was so tempted, and he had an excellent
+strength: Yet was Salomon so seduced, and hee had
+a very good witte. Cupids Butshaft is too hard for Hercules
+Clubbe, and therefore too much ods for a Spaniards
+Rapier: The first and second cause will not serue
+my turne: the Passado hee respects not, the Duello he
+regards not; his disgrace is to be called Boy, but his
+glorie is to subdue men. Adue Valour, rust Rapier, bee
+still Drum, for your manager is in loue; yea hee loueth.
+Assist me some extemporall god of Rime, for I am sure I
+shall turne Sonnet. Deuise Wit, write Pen, for I am for
+whole volumes in folio.
+
+Enter.
+
+
+Finis Actus Primus.
+
+
+Actus Secunda.
+
+Enter the Princesse of France, with three attending Ladies, and
+three
+Lords
+
+   Boyet. Now Madam summon vp your dearest spirits,
+Consider who the King your father sends:
+To whom he sends, and what's his Embassie.
+Your selfe, held precious in the worlds esteeme,
+To parlee with the sole inheritour
+Of all perfections that a man may owe,
+Matchlesse Nauarre, the plea of no lesse weight
+Then Aquitaine, a Dowrie for a Queene,
+Be now as prodigall of all deare grace,
+As Nature was in making Graces deare,
+When she did starue the generall world beside,
+And prodigally gaue them all to you
+
+   Queen. Good L[ord]. Boyet, my beauty though but mean,
+Needs not the painted flourish of your praise:
+Beauty is bought by iudgement of the eye,
+Not vttred by base sale of chapmens tongues:
+I am lesse proud to heare you tell my worth,
+Then you much willing to be counted wise,
+In spending your wit in the praise of mine.
+But now to taske the tasker, good Boyet
+
+   Prin. You are not ignorant all-telling fame
+Doth noyse abroad Nauar hath made a vow,
+Till painefull studie shall out-weare three yeares,
+No woman may approach his silent Court:
+Therefore to's seemeth it a needfull course,
+Before we enter his forbidden gates,
+To know his pleasure, and in that behalfe
+Bold of your worthinesse, we single you,
+As our best mouing faire soliciter:
+Tell him, the daughter of the King of France,
+On serious businesse crauing quicke dispatch,
+Importunes personall conference with his grace.
+Haste, signifie so much while we attend,
+Like humble visag'd suters his high will
+
+   Boy. Proud of imployment, willingly I goe.
+Enter.
+
+  Prin. All pride is willing pride, and yours is so:
+Who are the Votaries my Louing Lords, that are vow-fellowes
+with this vertuous Duke?
+  Lor. Longauill is one
+
+   Princ. Know you the man?
+  1 Lady. I know him Madame at a marriage feast,
+Betweene L[ord]. Perigort and the beautious heire
+Of Iaques Fauconbridge solemnized.
+In Normandie saw I this Longauill,
+A man of soueraigne parts he is esteem'd:
+Well fitted in Arts, glorious in Armes:
+Nothing becomes him ill that he would well.
+The onely soyle of his faire vertues glosse,
+If vertues glosse will staine with any soile,
+Is a sharp wit match'd with too blunt a Will:
+Whose edge hath power to cut whose will still wills,
+It should none spare that come within his power
+
+   Prin. Some merry mocking Lord belike, ist so?
+  Lad.1. They say so most, that most his humors know
+
+   Prin. such short liu'd wits do wither as they grow.
+Who are the rest?
+  2.Lad. The yong Dumaine, a well accomplisht youth,
+Of all that Vertue loue, for Vertue loued.
+Most power to doe most harme, least knowing ill:
+For he hath wit to make an ill shape good,
+And shape to win grace though she had no wit.
+I saw him at the Duke Alansoes once,
+And much too little of that good I saw,
+Is my report to his great worthinesse
+
+   Rossa. Another of these Students at that time,
+Was there with him, as I haue heard a truth.
+Berowne they call him, but a merrier man,
+Within the limit of becomming mirth,
+I neuer spent an houres talke withall.
+His eye begets occasion for his wit,
+For euery obiect that the one doth catch,
+The other turnes to a mirth-mouing iest.
+Which his faire tongue (conceits expositor)
+Deliuers in such apt and gracious words,
+That aged eares play treuant at his tales,
+And yonger hearings are quite rauished.
+So sweet and voluble is his discourse
+
+   Prin. God blesse my Ladies, are they all in loue?
+That euery one her owne hath garnished,
+With such bedecking ornaments of praise
+
+   Ma. Heere comes Boyet.
+Enter Boyet.
+
+  Prin. Now, what admittance Lord?
+  Boyet. Nauar had notice of your faire approach;
+And he and his competitors in oath,
+Were all addrest to meete you gentle Lady
+Before I came: Marrie thus much I haue learnt,
+He rather meanes to lodge you in the field,
+Like one that comes heere to besiege his Court,
+Then seeke a dispensation for his oath:
+To let you enter his vnpeopled house.
+Enter Nauar, Longauill, Dumaine, and Berowne.
+
+Heere comes Nauar
+
+   Nau. Faire Princesse, welcom to the Court of Nauar
+
+   Prin. Faire I giue you backe againe, and welcome I
+haue not yet: the roofe of this Court is too high to bee
+yours, and welcome to the wide fields, too base to be
+mine
+
+   Nau. You shall be welcome Madam to my Court
+
+   Prin. I wil be welcome then, Conduct me thither
+
+   Nau. Heare me deare Lady, I haue sworne an oath
+
+   Prin. Our Lady helpe my Lord, he'll be forsworne
+
+   Nau. Not for the world faire Madam, by my will
+
+   Prin. Why, will shall breake it will, and nothing els
+
+   Nau. Your Ladiship is ignorant what it is
+
+   Prin. Were my Lord so, his ignorance were wise,
+Where now his knowledge must proue ignorance.
+I heare your grace hath sworne out House-keeping:
+'Tis deadly sinne to keepe that oath my Lord,
+And sinne to breake it:
+But pardon me, I am too sodaine bold,
+To teach a Teacher ill beseemeth me.
+Vouchsafe to read the purpose of my comming,
+And sodainly resolue me in my suite
+
+   Nau. Madam, I will, if sodainly I may
+
+   Prin. You will the sooner that I were away,
+For you'll proue periur'd if you make me stay
+
+   Berow. Did not I dance with you in Brabant once?
+  Rosa. Did not I dance with you in Brabant once?
+  Ber. I know you did
+
+   Rosa. How needlesse was it then to ask the question?
+  Ber. You must not be so quicke
+
+   Rosa. 'Tis long of you y spur me with such questions
+
+   Ber. Your wit's too hot, it speeds too fast, 'twill tire
+
+   Rosa. Not till it leaue the Rider in the mire
+
+   Ber. What time a day?
+  Rosa. The howre that fooles should aske
+
+   Ber. Now faire befall your maske
+
+   Rosa. Faire fall the face it couers
+
+   Ber. And send you many louers
+
+   Rosa. Amen, so you be none
+
+   Ber. Nay then will I be gone
+
+   Kin. Madame, your father heere doth intimate,
+The paiment of a hundred thousand Crownes,
+Being but th' one halfe, of an intire summe,
+Disbursed by my father in his warres.
+But say that he, or we, as neither haue
+Receiu'd that summe; yet there remaines vnpaid
+A hundred thousand more: in surety of the which,
+One part of Aquitaine is bound to vs,
+Although not valued to the moneys worth.
+If then the King your father will restore
+But that one halfe which is vnsatisfied,
+We will giue vp our right in Aquitaine,
+And hold faire friendship with his Maiestie:
+But that it seemes he little purposeth,
+For here he doth demand to haue repaie,
+An hundred thousand Crownes, and not demands
+One paiment of a hundred thousand Crownes,
+To haue his title liue in Aquitaine.
+Which we much rather had depart withall,
+And haue the money by our father lent,
+Then Aquitane, so guelded as it is.
+Deare Princesse, were not his requests so farre
+From reasons yeelding, your faire selfe should make
+A yeelding 'gainst some reason in my brest,
+And goe well satisfied to France againe
+
+   Prin. You doe the King my Father too much wrong,
+And wrong the reputation of your name,
+In so vnseeming to confesse receyt
+Of that which hath so faithfully beene paid
+
+   Kin. I doe protest I neuer heard of it,
+And if you proue it, Ile repay it backe,
+Or yeeld vp Aquitaine
+
+   Prin. We arrest your word:
+Boyet, you can produce acquittances
+For such a summe, from speciall Officers,
+Of Charles his Father
+
+   Kin. Satisfie me so
+
+   Boyet. So please your Grace, the packet is not come
+Where that and other specialties are bound,
+To morrow you shall haue a sight of them
+
+   Kin. It shall suffice me; at which enterview,
+All liberall reason would I yeeld vnto:
+Meane time, receiue such welcome at my hand,
+As honour, without breach of Honour may
+Make tender of, to thy true worthinesse.
+You may not come faire Princesse in my gates,
+But heere without you shall be so receiu'd,
+As you shall deeme your selfe lodg'd in my heart,
+Though so deni'd farther harbour in my house:
+Your owne good thoughts excuse me, and farewell,
+To morrow we shall visit you againe
+
+   Prin. Sweet health & faire desires consort your grace
+
+   Kin. Thy own wish wish I thee, in euery place.
+Enter.
+
+  Boy. Lady, I will commend you to my owne heart
+
+   La.Ro. Pray you doe my commendations,
+I would be glad to see it
+
+   Boy. I would you heard it grone
+
+   La.Ro. Is the soule sicke?
+  Boy. Sicke at the heart
+
+   La.Ro. Alacke, let it bloud
+
+   Boy. Would that doe it good?
+  La.Ro. My Phisicke saies I
+
+   Boy. Will you prick't with your eye
+
+   La.Ro. No poynt, with my knife
+
+   Boy. Now God saue thy life
+
+   La.Ro. And yours from long liuing
+
+   Ber. I cannot stay thanks-giuing.
+Enter.
+
+Enter Dumane.
+
+  Dum. Sir, I pray you a word: What Lady is that same?
+  Boy. The heire of Alanson, Rosalin her name
+
+   Dum. A gallant Lady, Mounsier fare you well
+
+   Long. I beseech you a word: what is she in the white?
+  Boy. A woman somtimes, if you saw her in the light
+
+   Long. Perchance light in the light: I desire her name
+
+   Boy. Shee hath but one for her selfe,
+To desire that were a shame
+
+   Long. Pray you sir, whose daughter?
+  Boy. Her Mothers, I haue heard
+
+   Long. Gods blessing a your beard
+
+   Boy. Good sir be not offended,
+Shee is an heyre of Faulconbridge
+
+   Long. Nay, my choller is ended:
+Shee is a most sweet Lady.
+
+Exit. Long.
+
+  Boy. Not vnlike sir, that may be.
+Enter Beroune.
+
+  Ber. What's her name in the cap
+
+   Boy. Katherine by good hap
+
+   Ber. Is she wedded, or no
+
+   Boy. To her will sir, or so,
+  Ber. You are welcome sir, adiew
+
+   Boy. Fare well to me sir, and welcome to you.
+Enter.
+
+  La.Ma. That last is Beroune, the mery mad-cap Lord.
+Not a word with him, but a iest
+
+   Boy. And euery iest but a word
+
+   Pri. It was well done of you to take him at his word
+
+   Boy. I was as willing to grapple, as he was to boord
+
+   La.Ma. Two hot Sheepes marie:
+And wherefore not Ships?
+  Boy. No Sheepe (sweet Lamb) vnlesse we feed on your lips
+
+   La. You Sheepe & I pasture: shall that finish the iest?
+  Boy. So you grant pasture for me
+
+   La. Not so gentle beast.
+My lips are no Common, though seuerall they be
+
+   Bo. Belonging to whom?
+  La. To my fortunes and me
+
+   Prin. Good wits wil be iangling, but gentles agree.
+This ciuill warre of wits were much better vsed
+On Nauar and his bookemen, for heere 'tis abus'd
+
+   Bo. If my obseruation (which very seldome lies
+By the hearts still rhetoricke, disclosed with eyes)
+Deceiue me not now, Nauar is infected
+
+   Prin. With what?
+  Bo. With that which we Louers intitle affected
+
+   Prin. Your reason
+
+   Bo. Why all his behauiours doe make their retire,
+To the court of his eye, peeping thorough desire.
+His hart like an Agot with your print impressed,
+Proud with his forme, in his eie pride expressed.
+His tongue all impatient to speake and not see,
+Did stumble with haste in his eie-sight to be,
+All sences to that sence did make their repaire,
+To feele onely looking on fairest of faire:
+Me thought all his sences were lockt in his eye,
+As Iewels in Christall for some Prince to Buy.
+Who tendring their own worth from whence they were glast,
+Did point out to buy them along as you past.
+His faces owne margent did coate such amazes,
+That all eyes saw his eies inchanted with gazes.
+Ile giue you Aquitaine, and all that is his,
+And you giue him for my sake, but one louing Kisse
+
+   Prin. Come to our Pauillion, Boyet is disposde
+
+   Bro. But to speak that in words, which his eie hath disclos'd.
+I onelie haue made a mouth of his eie,
+By adding a tongue, which I know will not lie
+
+   Lad.Ro. Thou art an old Loue-monger, and speakest
+skilfully
+
+   Lad.Ma. He is Cupids Grandfather, and learnes news
+of him
+
+   Lad.2. Then was Venus like her mother, for her father
+is but grim
+
+   Boy. Do you heare my mad wenches?
+  La.1. No
+
+   Boy. What then, do you see?
+  Lad.2. I, our way to be gone
+
+   Boy. You are too hard for me.
+
+Exeunt. omnes.
+
+
+Actus Tertius.
+
+Enter Braggart and Boy.
+
+Song.
+
+  Bra. Warble childe, make passionate my sense of hearing
+
+   Boy. Concolinel
+
+   Brag. Sweete Ayer, go tendernesse of yeares: take
+this Key, giue enlargement to the swaine, bring him festinatly
+hither: I must imploy him in a letter to my
+Loue
+
+   Boy. Will you win your loue with a French braule?
+  Bra. How meanest thou, brauling in French?
+  Boy. No my compleat master, but to Iigge off a tune
+at the tongues end, canarie to it with the feete, humour
+it with turning vp your eie: sigh a note and sing a note,
+sometime through the throate: if you swallowed loue
+with singing, loue sometime through: nose as if you
+snuft vp loue by smelling loue with your hat penthouselike
+ore the shop of your eies, with your armes crost on
+your thinbellie doublet, like a Rabbet on a spit, or your
+hands in your pocket, like a man after the old painting,
+and keepe not too long in one tune, but a snip and away:
+these are complements, these are humours, these betraie
+nice wenches that would be betraied without these, and
+make them men of note: do you note men that most are
+affected to these?
+  Brag. How hast thou purchased this experience?
+  Boy. By my penne of obseruation
+
+   Brag. But O, but O
+
+   Boy. The Hobbie-horse is forgot
+
+   Bra. Cal'st thou my loue Hobbi-horse
+
+   Boy. No Master, the Hobbie-horse is but a Colt, and
+and your Loue perhaps, a Hacknie:
+but haue you forgot your Loue?
+  Brag. Almost I had
+
+   Boy. Negligent student, learne her by heart
+
+   Brag. By heart, and in heart Boy
+
+   Boy. And out of heart Master: all those three I will
+proue
+
+   Brag. What wilt thou proue?
+  Boy. A man, if I liue (and this) by, in, and without, vpon
+the instant: by heart you loue her, because your heart
+cannot come by her: in heart you loue her, because your
+heart is in loue with her: and out of heart you loue her,
+being out of heart that you cannot enioy her
+
+   Brag. I am all these three
+
+   Boy. And three times as much more, and yet nothing
+at all
+
+   Brag. Fetch hither the Swaine, he must carrie mee a
+letter
+
+   Boy. A message well simpathis'd, a Horse to be embassadour
+for an Asse
+
+   Brag. Ha, ha, What saiest thou?
+  Boy. Marrie sir, you must send the Asse vpon the Horse
+for he is verie slow gated: but I goe
+
+   Brag. The way is but short, away
+
+   Boy. As swift as Lead sir
+
+   Brag. Thy meaning prettie ingenious, is not Lead a
+mettall heauie, dull, and slow?
+  Boy. Minnime honest Master, or rather Master no
+
+   Brag. I say Lead is slow
+
+   Boy. You are too swift sir to say so.
+Is that Lead slow which is fir'd from a Gunne?
+  Brag. Sweete smoke of Rhetorike,
+He reputes me a Cannon, and the Bullet that's he:
+I shoote thee at the Swaine
+
+   Boy. Thump then, and I flee
+
+   Bra. A most acute Iuuenall, voluble and free of grace,
+By thy fauour sweet Welkin, I must sigh in thy face.
+Most rude melancholie, Valour giues thee place.
+My Herald is return'd.
+Enter Page and Clowne.
+
+  Pag. A wonder Master, here's a Costard broken in a
+shin
+
+   Ar. Some enigma, some riddle, come, thy Lenuoy
+begin
+
+   Clo. No egma, no riddle, no lenuoy, no salue, in thee
+male sir. Or sir, Plantan, a plaine Plantan: no lenuoy, no
+lenuoy, no Salue sir, but a Plantan
+
+   Ar. By vertue, thou inforcest laughter, thy sillie
+thought, my spleene, the heauing of my lunges prouokes
+me to rediculous smyling: O pardon me my stars, doth
+the inconsiderate take salue for lenuoy, and the word lenuoy
+for a salue?
+  Pag. Doe the wise thinke them other, is not lenuoy a
+salue?
+  Ar. No Page, it is an epilogue or discourse to make plaine,
+Some obscure precedence that hath tofore bin faine.
+Now will I begin your morrall, and do you follow with
+my lenuoy.
+The Foxe, the Ape, and the Humble-Bee,
+Were still at oddes, being but three
+
+   Arm. Vntill the Goose came out of doore,
+Staying the oddes by adding foure
+
+   Pag. A good Lenuoy, ending in the Goose: would you
+desire more?
+  Clo. The Boy hath sold him a bargaine, a Goose, that's flat.
+Sir, your penny-worth is good, and your Goose be fat.
+To sell a bargaine well is as cunning as fast and loose:
+Let me see a fat Lenuoy, I that's a fat Goose
+
+   Ar. Come hither, come hither:
+How did this argument begin?
+  Boy. By saying that a Costard was broken in a shin.
+Then cal'd you for the Lenuoy
+
+   Clow. True, and I for a Plantan:
+Thus came your argument in:
+Then the Boyes fat Lenuoy, the Goose that you bought,
+And he ended the market
+
+   Ar. But tell me: How was there a Costard broken in
+a shin?
+  Pag. I will tell you sencibly
+
+   Clow. Thou hast no feeling of it Moth,
+I will speake that Lenuoy.
+I Costard running out, that was safely within,
+Fell ouer the threshold, and broke my shin
+
+   Arm. We will talke no more of this matter
+
+   Clow. Till there be more matter in the shin
+
+   Arm. Sirra Costard, I will infranchise thee
+
+   Clow. O, marrie me to one Francis, I smell some Lenuoy,
+some Goose in this
+
+   Arm. By my sweete soule, I meane, setting thee at libertie.
+Enfreedoming thy person: thou wert emured,
+restrained, captiuated, bound
+
+   Clow. True, true, and now you will be my purgation,
+and let me loose
+
+   Arm. I giue thee thy libertie, set thee from durance,
+and in lieu thereof, impose on thee nothing but this:
+Beare this significant to the countrey Maide Iaquenetta:
+there is remuneration, for the best ward of mine honours
+is rewarding my dependants. Moth, follow
+
+   Pag. Like the sequell I.
+Signeur Costard adew.
+Enter.
+
+  Clow. My sweete ounce of mans flesh, my inconie
+Iew: Now will I looke to his remuneration.
+Remuneration, O, that's the Latine word for three-farthings:
+Three-farthings remuneration, What's the price
+of this yncle? i.d. no, Ile giue you a remuneration: Why?
+It carries it remuneration: Why? It is a fairer name then
+a French-Crowne. I will neuer buy and sell out of this
+word.
+Enter Berowne.
+
+  Ber. O my good knaue Costard, exceedingly well met
+
+   Clow. Pray you sir, How much Carnation Ribbon
+may a man buy for a remuneration?
+  Ber. What is a remuneration?
+  Cost. Marrie sir, halfe pennie farthing
+
+   Ber. O, Why then threefarthings worth of Silke
+
+   Cost. I thanke your worship, God be wy you
+
+   Ber. O stay slaue, I must employ thee:
+As thou wilt win my fauour, good my knaue,
+Doe one thing for me that I shall intreate
+
+   Clow. When would you haue it done sir?
+  Ber. O this after-noone
+
+   Clo. Well, I will doe it sir: Fare you well
+
+   Ber. O thou knowest not what it is
+
+   Clo. I shall know sir, when I haue done it
+
+   Ber. Why villaine thou must know first
+
+   Clo. I wil come to your worship to morrow morning
+
+   Ber. It must be done this after-noone,
+Harke slaue, it is but this:
+The Princesse comes to hunt here in the Parke,
+And in her traine there is a gentle Ladie:
+When tongues speak sweetly, then they name her name,
+And Rosaline they call her, aske for her:
+And to her white hand see thou do commend
+This seal'd-vp counsaile. Ther's thy guerdon: goe
+
+   Clo. Gardon, O sweete gardon, better then remuneration,
+a leuenpence-farthing better: most sweete gardon.
+I will doe it sir in print: gardon, remuneration.
+Enter.
+
+  Ber. O, and I forsooth in loue,
+I that haue beene loues whip?
+A verie Beadle to a humerous sigh: A Criticke,
+Nay, a night-watch Constable.
+A domineering pedant ore the Boy,
+Then whom no mortall so magnificent,
+This wimpled, whyning, purblinde waiward Boy,
+This signior Iunios gyant dwarfe, don Cupid,
+Regent of Loue-rimes, Lord of folded armes,
+Th' annointed soueraigne of sighes and groanes:
+Liedge of all loyterers and malecontents:
+Dread Prince of Placcats, King of Codpeeces.
+Sole Emperator and great generall
+Of trotting Parrators (O my little heart.)
+And I to be a Corporall of his field,
+And weare his colours like a Tumblers hoope.
+What? I loue, I sue, I seeke a wife,
+A woman that is like a Germane Cloake,
+Still a repairing: euer out of frame,
+And neuer going a right, being a Watch:
+But being watcht, that it may still goe right.
+Nay, to be periurde, which is worst of all:
+And among three, to loue the worst of all,
+A whitly wanton, with a veluet brow.
+With two pitch bals stucke in her face for eyes.
+I, and by heauen, one that will doe the deede,
+Though Argus were her Eunuch and her garde.
+And I to sigh for her, to watch for her,
+To pray for her, go to: it is a plague
+That Cupid will impose for my neglect,
+Of his almighty dreadfull little might.
+Well, I will loue, write, sigh, pray, shue, grone,
+Some men must loue my Lady, and some Ione.
+
+Actus Quartus.
+
+Enter the Princesse, a Forrester, her Ladies, and her Lords.
+
+  Qu. Was that the King that spurd his horse so hard,
+Against the steepe vprising of the hill?
+  Boy. I know not, but I thinke it was not he
+
+   Qu. Who ere a was, a shew'd a mounting minde:
+Well Lords, to day we shall haue our dispatch,
+On Saterday we will returne to France.
+Then Forrester my friend, Where is the Bush
+That we must stand and play the murtherer in?
+  For. Hereby vpon the edge of yonder Coppice,
+A stand where you may make the fairest shoote
+
+   Qu. I thanke my beautie, I am faire that shoote,
+And thereupon thou speak'st the fairest shoote
+
+   For. Pardon me Madam, for I meant not so
+
+   Qu. What, what? First praise me, & then again say no.
+O short liu'd pride. Not faire? alacke for woe
+
+   For. Yes Madam faire
+
+   Qu. Nay, neuer paint me now,
+Where faire is not, praise cannot mend the brow.
+Here (good my glasse) take this for telling true:
+Faire paiment for foule words, is more then due
+
+   For. Nothing but faire is that which you inherit
+
+   Qu. See, see, my beautie will be sau'd by merit.
+O heresie in faire, fit for these dayes,
+A giuing hand, though foule, shall haue faire praise.
+But come, the Bow: Now Mercie goes to kill,
+And shooting well, is then accounted ill:
+Thus will I saue my credit in the shoote,
+Not wounding, pittie would not let me do't:
+If wounding, then it was to shew my skill,
+That more for praise, then purpose meant to kill.
+And out of question, so it is sometimes:
+Glory growes guiltie of detested crimes,
+When for Fames sake, for praise an outward part,
+We bend to that, the working of the hart.
+As I for praise alone now seeke to spill
+The poore Deeres blood, that my heart meanes no ill
+
+   Boy. Do not curst wiues hold that selfe-soueraigntie
+Onely for praise sake, when they striue to be
+Lords ore their Lords?
+  Qu. Onely for praise, and praise we may afford,
+To any Lady that subdewes a Lord.
+Enter Clowne.
+
+  Boy. Here comes a member of the common-wealth
+
+   Clo. God dig-you-den all, pray you which is the head
+Lady?
+  Qu. Thou shalt know her fellow, by the rest that haue
+no heads
+
+   Clo. Which is the greatest Lady, the highest?
+  Qu. The thickest, and the tallest
+
+   Clo. The thickest, & the tallest: it is so, truth is truth.
+And your waste Mistris, were as slender as my wit,
+One a these Maides girdles for your waste should be fit.
+Are not you the chiefe woma[n]? You are the thickest here?
+  Qu. What's your will sir? What's your will?
+  Clo. I haue a Letter from Monsier Berowne,
+To one Lady Rosaline
+
+   Qu. O thy letter, thy letter: He's a good friend of mine.
+Stand a side good bearer.
+Boyet, you can carue,
+Breake vp this Capon
+
+   Boyet. I am bound to serue.
+This Letter is mistooke: it importeth none here:
+It is writ to Iaquenetta
+
+   Qu. We will read it, I sweare.
+Breake the necke of the Waxe, and euery one giue eare
+
+   Boyet reades. By heauen, that thou art faire, is most infallible:
+true
+that thou art beauteous, truth it selfe that thou art
+louely: more fairer then faire, beautifull then beautious,
+truer then truth it selfe: haue comiseration on thy heroicall
+Vassall. The magnanimous and most illustrate King
+Cophetua set eie vpon the pernicious and indubitate Begger
+Zenelophon: and he it was that might rightly say, Veni,
+vidi, vici: Which to annothanize in the vulgar, O
+base and obscure vulgar; videliset, He came, See, and ouercame:
+hee came one; see, two; ouercame three:
+Who came? the King. Why did he come? to see. Why
+did he see? to ouercome. To whom came he? to the
+Begger. What saw he? the Begger. Who ouercame
+he? the Begger. The conclusion is victorie: On whose
+side? the King: the captiue is inricht: On whose side?
+the Beggers. The catastrophe is a Nuptiall: on whose
+side? the Kings: no, on both in one, or one in both. I am
+the King (for so stands the comparison) thou the Begger,
+for so witnesseth thy lowlinesse. Shall I command
+thy loue? I may. Shall I enforce thy loue? I could.
+Shall I entreate thy loue? I will. What, shalt thou exchange
+for ragges, roabes: for tittles titles, for thy selfe
+mee. Thus expecting thy reply, I prophane my lips on
+thy foote, my eyes on thy picture, and my heart on thy
+euerie part.
+Thine in the dearest designe of industrie,
+Don Adriana de Armatho.
+Thus dost thou heare the Nemean Lion roare,
+Gainst thee thou Lambe, that standest as his pray:
+Submissiue fall his princely feete before,
+And he from forrage will incline to play.
+But if thou striue (poore soule) what art thou then?
+Foode for his rage, repasture for his den
+
+   Qu. What plume of feathers is hee that indited this
+Letter? What veine? What Wethercocke? Did you
+euer heare better?
+  Boy. I am much deceiued, but I remember the stile
+
+   Qu. Else your memorie is bad, going ore it erewhile
+
+   Boy. This Armado is a Spaniard that keeps here in court
+A Phantasime, a Monarcho, and one that makes sport
+To the Prince and his Booke-mates
+
+   Qu. Thou fellow, a word.
+Who gaue thee this Letter?
+  Clow. I told you, my Lord
+
+   Qu. To whom should'st thou giue it?
+  Clo. From my Lord to my Lady
+
+   Qu. From which Lord, to which Lady?
+  Clo. From my Lord Berowne, a good master of mine,
+To a Lady of France, that he call'd Rosaline
+
+   Qu. Thou hast mistaken his letter. Come Lords away.
+Here sweete, put vp this, 'twill be thine another day.
+
+Exeunt.
+
+  Boy. Who is the shooter? Who is the shooter?
+  Rosa. Shall I teach you to know
+
+   Boy. I my continent of beautie
+
+   Rosa. Why she that beares the Bow. Finely put off
+
+   Boy. My Lady goes to kill hornes, but if thou marrie,
+Hang me by the necke, if hornes that yeare miscarrie.
+Finely put on
+
+   Rosa. Well then, I am the shooter
+
+   Boy. And who is your Deare?
+  Rosa. If we choose by the hornes, your selfe come not
+neare. Finely put on indeede
+
+   Maria. You still wrangle with her Boyet, and shee
+strikes at the brow
+
+   Boyet. But she her selfe is hit lower:
+Haue I hit her now
+
+   Rosa. Shall I come vpon thee with an old saying, that
+was a man when King Pippin of France was a little boy, as
+touching the hit it
+
+   Boyet. So I may answere thee with one as old that
+was a woman when Queene Guinouer of Brittaine was a
+little wench, as touching the hit it
+
+   Rosa. Thou canst not hit it, hit it, hit it,
+Thou canst not hit it my good man
+
+   Boy. I cannot, cannot, cannot:
+And I cannot, another can.
+Enter.
+
+  Clo. By my troth most pleasant, how both did fit it
+
+   Mar. A marke marueilous well shot, for they both
+did hit
+
+   Boy. A mark, O marke but that marke: a marke saies
+my Lady.
+Let the mark haue a pricke in't, to meat at, if it may be
+
+   Mar. Wide a'th bow hand, yfaith your hand is out
+
+   Clo. Indeede a' must shoote nearer, or heele ne're hit
+the clout
+
+   Boy. And if my hand be out, then belike your hand
+is in
+
+   Clo. Then will shee get the vpshoot by cleauing the
+is in
+
+   Ma. Come, come, you talke greasely, your lips grow
+foule
+
+   Clo. She's too hard for you at pricks, sir challenge her
+to boule
+
+   Boy. I feare too much rubbing: good night my good
+Oule
+
+   Clo. By my soule a Swaine, a most simple Clowne.
+Lord, Lord, how the Ladies and I haue put him downe.
+O my troth most sweete iests, most inconie vulgar wit,
+When it comes so smoothly off, so obscenely, as it were,
+so fit.
+Armathor ath to the side, O a most dainty man.
+To see him walke before a Lady, and to beare her Fan.
+To see him kisse his hand, and how most sweetly a will
+sweare:
+And his Page atother side, that handfull of wit,
+Ah heauens, it is most patheticall nit.
+Sowla, sowla.
+
+Exeunt. Shoote within.
+
+Enter Dull, Holofernes, the Pedant and Nathaniel.
+
+  Nat. Very reuerent sport truely, and done in the testimony
+of a good conscience
+
+   Ped. The Deare was (as you know) sanguis in blood,
+ripe as a Pomwater who now hangeth like a Iewell in
+the eare of Celo the skie; the welken the heauen, and anon
+falleth like a Crab on the face of Terra, the soyle, the
+land, the earth
+
+   Curat.Nath. Truely M[aster]. Holofernes, the epythithes are
+sweetly varied like a scholler at the least: but sir I assure
+ye, it was a Bucke of the first head
+
+   Hol. Sir Nathaniel, haud credo
+
+   Dul. 'Twas not a haud credo, 'twas a Pricket
+
+   Hol. Most barbarous intimation: yet a kinde of insinuation,
+as it were in via, in way of explication facere: as
+it were replication, or rather ostentare, to show as it were
+his inclination after his vndressed, vnpolished, vneducated,
+vnpruned, vntrained, or rather vnlettered, or ratherest
+vnconfirmed fashion, to insert againe my haud credo
+for a Deare
+
+   Dul. I said the Deare was not a haud credo, 'twas a
+Pricket
+
+   Hol. Twice sod simplicitie, bis coctus, O thou monster
+Ignorance, how deformed doost thou looke
+
+   Nath. Sir hee hath neuer fed of the dainties that are
+bred in a booke.
+He hath not eate paper as it were:
+He hath not drunke inke.
+His intellect is not replenished, hee is onely an animall,
+onely sensible in the duller parts: and such barren plants
+are set before vs, that we thankfull should be: which we
+taste and feeling, are for those parts that doe fructifie in
+vs more then he.
+For as it would ill become me to be vaine, indiscreet, or
+a foole;
+So were there a patch set on Learning, to see him in a
+Schoole.
+But omne bene say I, being of an old Fathers minde,
+Many can brooke the weather, that loue not the winde
+
+   Dul. You two are book-men: Can you tell by your
+wit, What was a month old at Cains birth, that's not fiue
+weekes old as yet?
+  Hol. Dictisima goodman Dull, dictisima goodman
+Dull
+
+   Dul. What is dictima?
+  Nath. A title to Phebe, to Luna, to the Moone
+
+   Hol. The Moone was a month old when Adam was
+no more.
+And wrought not to fiue-weekes when he came to fiuescore.
+Th' allusion holds in the Exchange
+
+   Dul. 'Tis true indeede, the Collusion holds in the
+Exchange
+
+   Hol. God comfort thy capacity, I say th' allusion holds
+in the Exchange
+
+   Dul. And I say the polusion holds in the Exchange:
+for the Moone is neuer but a month old: and I say beside
+that, 'twas a Pricket that the Princesse kill'd
+
+   Hol. Sir Nathaniel, will you heare an extemporall
+Epytaph on the death of the Deare, and to humour
+the ignorant call'd the Deare, the Princesse kill'd a
+Pricket
+
+   Nath. Perge, good M[aster]. Holofernes, perge, so it shall
+please you to abrogate scurilitie
+
+   Hol. I will something affect a letter, for it argues
+facilitie.
+The prayfull Princesse pearst and prickt
+a prettie pleasing Pricket,
+Some say a Sore, but not a sore,
+till now made sore with shooting.
+The Dogges did yell, put ell to Sore,
+then Sorrell iumps from thicket:
+Or Pricket-sore, or else Sorell,
+the people fall a hooting.
+If Sore be sore, than ell to Sore,
+makes fiftie sores O sorell:
+Of one sore I an hundred make
+by adding but one more L
+
+   Nath. A rare talent
+
+   Dul. If a talent be a claw, looke how he clawes him
+with a talent
+
+   Nath. This is a gift that I haue simple: simple, a foolish
+extrauagant spirit, full of formes, figures, shapes, obiects,
+Ideas, apprehensions, motions, reuolutions. These
+are begot in the ventricle of memorie, nourisht in the
+wombe of primater, and deliuered vpon the mellowing
+of occasion: but the gift is good in those in whom it is
+acute, and I am thankfull for it
+
+   Hol. Sir, I praise the Lord for you, and so may my
+parishioners, for their Sonnes are well tutor'd by you,
+and their Daughters profit very greatly vnder you: you
+are a good member of the common-wealth
+
+   Nath. Me hercle, If their Sonnes be ingenuous, they
+shall want no instruction: If their Daughters be capable,
+I will put it to them. But Vir sapis qui pauca loquitur, a
+soule Feminine saluteth vs.
+Enter Iaquenetta and the Clowne.
+
+  Iaqu. God giue you good morrow M[aster]. Person
+
+   Nath. Master Person, quasi Person? And if one should
+be perst, Which is the one?
+  Clo. Marry M[aster]. Schoolemaster, hee that is likest to a
+hogshead
+
+   Nath. Of persing a Hogshead, a good luster of conceit
+in a turph of Earth, Fire enough for a Flint, Pearle
+enough for a Swine: 'tis prettie, it is well
+
+   Iaqu. Good Master Parson be so good as reade mee
+this Letter, it was giuen mee by Costard, and sent mee
+from Don Armatho: I beseech you read it
+
+   Nath. Facile precor gellida, quando pecas omnia sub vmbra
+ruminat, and so forth. Ah good old Mantuan, I
+may speake of thee as the traueiler doth of Venice, vemchie,
+vencha, que non te vnde, que non te perreche. Old Mantuan,
+old Mantuan. Who vnderstandeth thee not, vt re
+sol la mi fa: Vnder pardon sir, What are the contents? or
+rather as Horrace sayes in his, What my soule verses
+
+   Hol. I sir, and very learned
+
+   Nath. Let me heare a staffe, a stanze, a verse, Lege domine.
+If Loue make me forsworne, how shall I sweare to loue?
+Ah neuer faith could hold, if not to beautie vowed.
+Though to my selfe forsworn, to thee Ile faithfull proue.
+Those thoughts to mee were Okes, to thee like Osiers
+bowed.
+Studie his byas leaues, and makes his booke thine eyes.
+Where all those pleasures liue, that Art would comprehend.
+If knowledge be the marke, to know thee shall suffice.
+Well learned is that tongue, that well can thee co[m]mend.
+All ignorant that soule, that sees thee without wonder.
+Which is to me some praise, that I thy parts admire;
+Thy eye Ioues lightning beares, thy voyce his dreadfull
+thunder.
+Which not to anger bent, is musique, and sweete fire.
+Celestiall as thou art, Oh pardon loue this wrong,
+That sings heauens praise, with such an earthly tongue
+
+   Ped. You finde not the apostraphas, and so misse the
+accent. Let me superuise the cangenet
+
+   Nath. Here are onely numbers ratified, but for the
+elegancy, facility, & golden cadence of poesie caret: Ouiddius
+Naso was the man. And why in deed Naso, but
+for smelling out the odoriferous flowers of fancy? the
+ierkes of inuention imitarie is nothing: So doth the
+Hound his master, the Ape his keeper, the tyred Horse
+his rider: But Damosella virgin, Was this directed to
+you?
+  Iaq. I sir from one mounsier Berowne, one of the
+strange Queenes Lords
+
+   Nath. I will ouerglance the superscript.
+To the snow-white hand of the most beautious Lady Rosaline.
+I will looke againe on the intellect of the Letter, for
+the nomination of the partie written to the person written
+vnto.
+Your Ladiships in all desired imployment, Berowne
+
+   Ped. Sir Holofernes, this Berowne is one of the Votaries
+with the King, and here he hath framed a Letter to a sequent
+of the stranger Queens: which accidentally, or
+by the way of progression, hath miscarried. Trip and
+goe my sweete, deliuer this Paper into the hand of the
+King, it may concerne much: stay not thy complement, I
+forgiue thy duetie, adue
+
+   Maid. Good Costard go with me:
+Sir God saue your life
+
+   Cost. Haue with thee my girle.
+Enter.
+
+  Hol. Sir you haue done this in the feare of God very
+religiously: and as a certaine Father saith
+  Ped. Sir tell not me of the Father, I do feare colourable
+colours. But to returne to the Verses, Did they please
+you sir Nathaniel?
+  Nath. Marueilous well for the pen
+
+   Peda. I do dine to day at the fathers of a certaine Pupill
+of mine, where if (being repast) it shall please you to
+gratifie the table with a Grace, I will on my priuiledge I
+haue with the parents of the foresaid Childe or Pupill,
+vndertake your bien venuto, where I will proue those
+Verses to be very vnlearned, neither sauouring of
+Poetrie, Wit, nor Inuention. I beseech your Societie
+
+   Nat. And thanke you to: for societie (saith the text)
+is the happinesse of life
+
+   Peda. And certes the text most infallibly concludes it.
+Sir I do inuite you too, you shall not say me nay: pauca
+verba.
+Away, the gentles are at their game, and we will to our
+recreation.
+
+Exeunt.
+
+Enter Berowne with a Paper in his hand, alone.
+
+  Bero. The King he is hunting the Deare,
+I am coursing my selfe.
+They haue pitcht a Toyle, I am toyling in a pytch,
+pitch that defiles; defile, a foule word: Well, set thee
+downe sorrow; for so they say the foole said, and so say
+I, and I the foole: Well proued wit. By the Lord this
+Loue is as mad as Aiax, it kils sheepe, it kils mee, I a
+sheepe: Well proued againe a my side. I will not loue;
+if I do hang me: yfaith I will not. O but her eye: by
+this light, but for her eye, I would not loue her; yes, for
+her two eyes. Well, I doe nothing in the world but lye,
+and lye in my throate. By heauen I doe loue, and it hath
+taught mee to Rime, and to be mallicholie: and here is
+part of my Rime, and heere my mallicholie. Well, she
+hath one a'my Sonnets already, the Clowne bore it, the
+Foole sent it, and the Lady hath it: sweet Clowne, sweeter
+Foole, sweetest Lady. By the world, I would not care
+a pin, if the other three were in. Here comes one with a
+paper, God giue him grace to grone.
+
+He stands aside. The King entreth.
+
+  Kin. Ay mee!
+  Ber. Shot by heauen: proceede sweet Cupid, thou hast
+thumpt him with thy Birdbolt vnder the left pap: in faith
+secrets
+
+   King. So sweete a kisse the golden Sunne giues not,
+To those fresh morning drops vpon the Rose,
+As thy eye beames, when their fresh rayse haue smot.
+The night of dew that on my cheekes downe flowes.
+Nor shines the siluer Moone one halfe so bright,
+Through the transparent bosome of the deepe,
+As doth thy face through teares of mine giue light:
+Thou shin'st in euery teare that I doe weepe,
+No drop, but as a Coach doth carry thee:
+So ridest thou triumphing in my woe.
+Do but behold the teares that swell in me,
+And they thy glory through my griefe will show:
+But doe not loue thy selfe, then thou wilt keepe
+My teares for glasses, and still make me weepe.
+O Queene of Queenes, how farre dost thou excell,
+No thought can thinke, nor tongue of mortall tell.
+How shall she know my griefes? Ile drop the paper.
+Sweete leaues shade folly. Who is he comes heere?
+Enter Longauile. The King steps aside.
+
+What Longauill, and reading: listen eare
+
+   Ber. Now in thy likenesse, one more foole appeare
+
+   Long. Ay me, I am forsworne
+
+   Ber. Why he comes in like a periure, wearing papers
+
+   Long. In loue I hope, sweet fellowship in shame
+
+   Ber. One drunkard loues another of the name
+
+   Lon. Am I the first y haue been periur'd so?
+  Ber. I could put thee in comfort, not by two that I know,
+Thou makest the triumphery, the corner cap of societie,
+The shape of Loues Tiburne, that hangs vp simplicitie
+
+   Lon. I feare these stubborn lines lack power to moue.
+O sweet Maria, Empresse of my Loue,
+These numbers will I teare, and write in prose
+
+   Ber. O Rimes are gards on wanton Cupids hose,
+Disfigure not his Shop
+
+   Lon. This same shall goe.
+
+He reades the Sonnet.
+
+Did not the heauenly Rhetoricke of thine eye,
+'Gainst whom the world cannot hold argument,
+Perswade my heart to this false periurie?
+Vowes for thee broke deserue not punishment.
+A Woman I forswore, but I will proue,
+Thou being a Goddesse, I forswore not thee.
+My Vow was earthly, thou a heauenly Loue.
+Thy grace being gain'd, cures all disgrace in me.
+Vowes are but breath, and breath a vapour is.
+Then thou faire Sun, which on my earth doest shine,
+Exhalest this vapor-vow, in thee it is:
+If broken then, it is no fault of mine:
+If by me broke, What foole is not so wise,
+To loose an oath, to win a Paradise?
+  Ber. This is the liuer veine, which makes flesh a deity.
+A greene Goose, a Goddesse, pure pure Idolatry.
+God amend vs, God amend, we are much out o'th' way.
+Enter Dumaine.
+
+  Lon. By whom shall I send this (company?) Stay
+
+   Bero. All hid, all hid, an old infant play,
+Like a demie God, here sit I in the skie,
+And wretched fooles secrets heedfully ore-eye.
+More Sacks to the myll. O heauens I haue my wish,
+Dumaine transform'd, foure Woodcocks in a dish
+
+   Dum. O most diuine Kate
+
+   Bero. O most prophane coxcombe
+
+   Dum. By heauen the wonder of a mortall eye
+
+   Bero. By earth she is not, corporall, there you lye
+
+   Dum. Her Amber haires for foule hath amber coted
+
+   Ber. An Amber coloured Rauen was well noted
+
+   Dum. As vpright as the Cedar
+
+   Ber. Stoope I say, her shoulder is with-child
+
+   Dum. As faire as day
+
+   Ber. I as some daies, but then no sunne must shine
+
+   Dum. O that I had my wish?
+  Lon. And I had mine
+
+   Kin. And mine too good Lord
+
+   Ber. Amen, so I had mine: Is not that a good word?
+  Dum. I would forget her, but a Feuer she
+Raignes in my bloud, and will remembred be
+
+   Ber. A Feuer in your bloud, why then incision
+Would let her out in Sawcers, sweet misprision
+
+   Dum. Once more Ile read the Ode that I haue writ
+
+   Ber. Once more Ile marke how Loue can varry Wit.
+
+Dumane reades his Sonnet.
+
+On a day, alack the day:
+Loue, whose Month is euery May,
+Spied a blossome passing faire,
+Playing in the wanton ayre:
+Through the Veluet, leaues the winde,
+All vnseene, can passage finde.
+That the Louer sicke to death,
+Wish himselfe the heauens breath.
+Ayre (quoth he) thy cheekes may blowe,
+Ayre, would I might triumph so.
+But alacke my hand is sworne,
+Nere to plucke thee from thy throne:
+Vow alacke for youth vnmeete,
+youth so apt to plucke a sweet.
+Doe not call it sinne in me,
+That I am forsworne for thee.
+Thou for whom Ioue would sweare,
+Iuno but an aethiop were,
+And denie himselfe for Ioue.
+Turning mortall for thy Loue.
+This will I send, and something else more plaine.
+That shall expresse my true-loues fasting paine.
+O would the King, Berowne and Longauill,
+Were Louers too, ill to example ill,
+Would from my forehead wipe a periur'd note:
+For none offend, where all alike doe dote
+
+   Lon. Dumaine, thy Loue is farre from charitie,
+That in Loues griefe desir'st societie:
+You may looke pale, but I should blush I know,
+To be ore-heard, and taken napping so
+
+   Kin. Come sir, you blush: as his, your case is such,
+You chide at him, offending twice as much.
+You doe not loue Maria? Longauile,
+Did neuer Sonnet for her sake compile;
+Nor neuer lay his wreathed armes athwart
+His louing bosome, to keepe downe his heart.
+I haue beene closely shrowded in this bush,
+And markt you both, and for you both did blush.
+I heard your guilty Rimes, obseru'd your fashion:
+Saw sighes reeke from you, noted well your passion.
+Aye me, sayes one! O Ioue, the other cries!
+On her haires were Gold, Christall the others eyes.
+You would for Paradise breake Faith and troth,
+And Ioue for your Loue would infringe an oath.
+What will Berowne say when that he shall heare
+Faith infringed, which such zeale did sweare.
+How will he scorne? how will he spend his wit?
+How will he triumph, leape, and laugh at it?
+For all the wealth that euer I did see,
+I would not haue him know so much by me
+
+   Bero. Now step I forth to whip hypocrisie.
+Ah good my Liedge, I pray thee pardon me.
+Good heart, What grace hast thou thus to reproue
+These wormes for louing, that art most in loue?
+Your eyes doe make no couches in your teares.
+There is no certaine Princesse that appeares.
+You'll not be periur'd, 'tis a hatefull thing:
+Tush, none but Minstrels like of Sonnetting.
+But are you not asham'd? nay, are you not
+All three of you, to be thus much ore'shot?
+You found his Moth, the King your Moth did see:
+But I a Beame doe finde in each of three.
+O what a Scene of fool'ry haue I seene.
+Of sighes, of grones, of sorrow, and of teene:
+O me, with what strict patience haue I sat,
+To see a King transformed to a Gnat?
+To see great Hercules whipping a Gigge,
+And profound Salomon tuning a Iygge?
+And Nestor play at push-pin with the boyes,
+And Critticke Tymon laugh at idle toyes.
+Where lies thy griefe? O tell me good Dumaine;
+And gentle Longauill, where lies thy paine?
+And where my Liedges? all about the brest:
+A Candle hoa!
+  Kin. Too bitter is thy iest.
+Are wee betrayed thus to thy ouer-view?
+  Ber. Not you by me, but I betrayed to you.
+I that am honest, I that hold it sinne
+To breake the vow I am ingaged in.
+I am betrayed by keeping company
+With men, like men of inconstancie.
+When shall you see me write a thing in rime?
+Or grone for Ioane? or spend a minutes time,
+In pruning mee, when shall you heare that I will praise a
+hand, a foot, a face, an eye: a gate, a state, a brow, a brest,
+a waste, a legge, a limme
+
+   Kin. Soft, Whither away so fast?
+A true man, or a theefe, that gallops so
+
+   Ber. I post from Loue, good Louer let me go.
+Enter Iaquenetta and Clowne.
+
+  Iaqu. God blesse the King
+
+   Kin. What Present hast thou there?
+  Clo. Some certaine treason
+
+   Kin. What makes treason heere?
+  Clo. Nay it makes nothing sir
+
+   Kin. If it marre nothing neither,
+The treason and you goe in peace away together
+
+   Iaqu. I beseech your Grace let this Letter be read,
+Our person mis-doubts it: it was treason he said
+
+   Kin. Berowne, read it ouer.
+
+He reades the Letter.
+
+  Kin. Where hadst thou it?
+  Iaqu. Of Costard
+
+   King. Where hadst thou it?
+  Cost. Of Dun Adramadio, Dun Adramadio
+
+   Kin. How now, what is in you? why dost thou tear it?
+  Ber. A toy my Liedge, a toy: your grace needes not
+feare it
+
+   Long. It did moue him to passion, and therefore let's
+heare it
+
+   Dum. It is Berowns writing, and heere is his name
+
+   Ber. Ah you whoreson loggerhead, you were borne
+to doe me shame.
+Guilty my Lord, guilty: I confesse, I confesse
+
+   Kin. What?
+  Ber. That you three fooles, lackt mee foole, to make
+vp the messe.
+He, he, and you: and you my Liedge, and I,
+Are picke-purses in Loue, and we deserue to die.
+O dismisse this audience, and I shall tell you more
+
+   Dum. Now the number is euen
+
+   Berow. True true, we are fowre: will these Turtles
+be gone?
+  Kin. Hence sirs, away
+
+   Clo. Walk aside the true folke, & let the traytors stay
+
+   Ber. Sweet Lords, sweet Louers, O let vs imbrace,
+As true we are as flesh and bloud can be,
+The Sea will ebbe and flow, heauen will shew his face:
+Young bloud doth not obey an old decree.
+We cannot crosse the cause why we are borne:
+Therefore of all hands must we be forsworne
+
+   King. What, did these rent lines shew some loue of
+thine?
+  Ber. Did they, quoth you? Who sees the heauenly Rosaline,
+That (like a rude and sauage man of Inde.)
+At the first opening of the gorgeous East,
+Bowes not his vassall head, and strooken blinde,
+Kisses the base ground with obedient breast?
+What peremptory Eagle-sighted eye
+Dares looke vpon the heauen of her brow,
+That is not blinded by her maiestie?
+  Kin. What zeale, what furie, hath inspir'd thee now?
+My Loue (her Mistres) is a gracious Moone,
+Shee (an attending Starre) scarce seene a light
+
+   Ber. My eyes are then no eyes, nor I Berowne.
+O, but for my Loue, day would turne to night,
+Of all complexions the cul'd soueraignty,
+Doe meet as at a faire in her faire cheeke,
+Where seuerall Worthies make one dignity,
+Where nothing wants, that want it selfe doth seeke.
+Lend me the flourish of all gentle tongues,
+Fie painted Rethoricke, O she needs it not,
+To things of sale, a sellers praise belongs:
+She passes prayse, then prayse too short doth blot.
+A withered Hermite, fiuescore winters worne,
+Might shake off fiftie, looking in her eye:
+Beauty doth varnish Age, as if new borne,
+And giues the Crutch the Cradles infancie.
+O 'tis the Sunne that maketh all things shine
+
+   King. By heauen, thy Loue is blacke as Ebonie
+
+   Berow. Is Ebonie like her? O word diuine?
+A wife of such wood were felicite.
+O who can giue an oth? Where is a booke?
+That I may sweare Beauty doth beauty lacke,
+If that she learne not of her eye to looke:
+No face is faire that is not full so blacke
+
+   Kin. O paradoxe, Blacke is the badge of hell,
+The hue of dungeons, and the Schoole of night:
+And beauties crest becomes the heauens well
+
+   Ber. Diuels soonest tempt resembling spirits of light.
+O if in blacke my Ladies browes be deckt,
+It mournes, that painting vsurping haire
+Should rauish doters with a false aspect:
+And therfore is she borne to make blacke, faire.
+Her fauour turnes the fashion of the dayes,
+For natiue bloud is counted painting now:
+And therefore red that would auoyd dispraise,
+Paints it selfe blacke, to imitate her brow
+
+   Dum. To look like her are Chimny-sweepers blacke
+
+
+   Lon. And since her time, are Colliers counted bright
+
+   King. And Aethiops of their sweet complexion crake
+
+   Dum. Dark needs no Candles now, for dark is light
+
+   Ber. Your mistresses dare neuer come in raine,
+For feare their colours should be washt away
+
+   Kin. 'Twere good yours did: for sir to tell you plaine,
+Ile finde a fairer face not washt to day
+
+   Ber. Ile proue her faire, or talke till dooms-day here
+
+   Kin. No Diuell will fright thee then so much as shee
+
+   Duma. I neuer knew man hold vile stuffe so deere
+
+   Lon. Looke, heer's thy loue, my foot and her face see
+
+   Ber. O if the streets were paued with thine eyes,
+Her feet were much too dainty for such tread
+
+   Duma. O vile, then as she goes what vpward lyes?
+The street should see as she walk'd ouer head
+
+   Kin. But what of this, are we not all in loue?
+  Ber. O nothing so sure, and thereby all forsworne
+
+   Kin. Then leaue this chat, & good Berown now proue
+Our louing lawfull, and our fayth not torne
+
+   Dum. I marie there, some flattery for this euill
+
+   Long. O some authority how to proceed,
+Some tricks, some quillets, how to cheat the diuell
+
+   Dum. Some salue for periurie,
+  Ber. O 'tis more then neede.
+Haue at you then affections men at armes,
+Consider what you first did sweare vnto:
+To fast, to study, and to see no woman:
+Flat treason against the Kingly state of youth.
+Say, Can you fast? your stomacks are too young:
+And abstinence ingenders maladies.
+And where that you haue vow'd to studie (Lords)
+In that each of you haue forsworne his Booke.
+Can you still dreame and pore, and thereon looke.
+For when would you my Lord, or you, or you,
+Haue found the ground of studies excellence,
+Without the beauty of a womans face;
+From womens eyes this doctrine I deriue,
+They are the Ground, the Bookes, the Achadems,
+From whence doth spring the true Promethean fire.
+Why, vniuersall plodding poysons vp
+The nimble spirits in the arteries,
+As motion and long during action tyres
+The sinnowy vigour of the trauailer.
+Now for not looking on a womans face,
+You haue in that forsworne the vse of eyes:
+And studie too, the causer of your vow.
+For where is any Author in the world,
+Teaches such beauty as a womans eye:
+Learning is but an adiunct to our selfe,
+And where we are, our Learning likewise is.
+Then when our selues we see in Ladies eyes,
+With our selues.
+Doe we not likewise see our learning there?
+O we haue made a Vow to studie, Lords,
+And in that vow we haue forsworne our Bookes:
+For when would you (my Leege) or you, or you?
+In leaden contemplation haue found out
+Such fiery Numbers as the prompting eyes,
+Of beauties tutors haue inrich'd you with:
+Other slow Arts intirely keepe the braine:
+And therefore finding barraine practizers,
+Scarce shew a haruest of their heauy toyle.
+But Loue first learned in a Ladies eyes,
+Liues not alone emured in the braine:
+But with the motion of all elements,
+Courses as swift as thought in euery power,
+And giues to euery power a double power,
+Aboue their functions and their offices.
+It addes a precious seeing to the eye:
+A Louers eyes will gaze an Eagle blinde.
+A Louers eare will heare the lowest sound.
+When the suspicious head of theft is stopt.
+Loues feeling is more soft and sensible,
+Then are the tender hornes of Cockle Snayles.
+Loues tongue proues dainty, Bachus grosse in taste,
+For Valour, is not Loue a Hercules?
+Still climing trees in the Hesperides.
+Subtill as Sphinx, as sweet and musicall,
+As bright Apollo's Lute, strung with his haire.
+And when Loue speakes, the voyce of all the Gods,
+Make heauen drowsie with the harmonie.
+Neuer durst Poet touch a pen to write,
+Vntill his Inke were tempred with Loues sighes:
+O then his lines would rauish sauage eares,
+And plant in Tyrants milde humilitie.
+From womens eyes this doctrine I deriue.
+They sparcle still the right promethean fire,
+They are the Bookes, the Arts, the Achademes,
+That shew, containe, and nourish all the world.
+Else none at all in ought proues excellent.
+Then fooles you were these women to forsweare:
+Or keeping what is sworne, you will proue fooles,
+For Wisedomes sake, a word that all men loue:
+Or for Loues sake, a word that loues all men.
+Or for Mens sake, the author of these Women:
+Or Womens sake, by whom we men are Men.
+Let's once loose our oathes to finde our selues,
+Or else we loose our selues, to keepe our oathes:
+It is religion to be thus forsworne.
+For Charity it selfe fulfills the Law:
+And who can seuer loue from Charity
+
+   Kin. Saint Cupid then, and Souldiers to the field
+
+   Ber. Aduance your standards, & vpon them Lords,
+Pell, mell, downe with them: but be first aduis'd,
+In conflict that you get the Sunne of them
+
+   Long. Now to plaine dealing, Lay these glozes by,
+Shall we resolue to woe these girles of France?
+  Kin. And winne them too, therefore let vs deuise,
+Some entertainment for them in their Tents
+
+   Ber. First from the Park let vs conduct them thither,
+Then homeward euery man attach the hand
+Of his faire Mistresse, in the afternoone
+We will with some strange pastime solace them:
+Such as the shortnesse of the time can shape,
+For Reuels, Dances, Maskes, and merry houres,
+Fore-runne faire Loue, strewing her way with flowres
+
+   Kin. Away, away, no time shall be omitted,
+That will be time, and may by vs be fitted
+
+   Ber. Alone, alone sowed Cockell, reap'd no Corne,
+And Iustice alwaies whirles in equall measure:
+Light Wenches may proue plagues to men forsworne,
+If so, our Copper buyes no better treasure.
+
+Exeunt.
+
+
+Actus Quartus.
+
+Enter the Pedant, Curate and Dull.
+
+  Pedant. Satis quid sufficit
+
+   Curat. I praise God for you sir, your reasons at dinner
+haue beene sharpe & sententious: pleasant without scurrillity,
+witty without affection, audacious without impudency,
+learned without opinion, and strange without
+heresie: I did conuerse this quondam day with a companion
+of the Kings, who is intituled, nominated, or called,
+Don Adriano de Armatho
+
+   Ped. Noui hominum tanquam te, His humour is lofty,
+his discourse peremptorie: his tongue filed, his eye
+ambitious, his gate maiesticall, and his generall behauiour
+vaine, ridiculous, and thrasonicall. He is too picked,
+too spruce, too affected, too odde, as it were, too peregrinat,
+as I may call it
+
+   Curat. A most singular and choise Epithat,
+
+Draw out his Table-booke.
+
+  Peda. He draweth out the thred of his verbositie, finer
+then the staple of his argument. I abhor such phanaticall
+phantasims, such insociable and poynt deuise
+companions, such rackers of ortagriphie, as to speake
+dout fine, when he should say doubt; det, when he shold
+pronounce debt; debt, not det: he clepeth a Calf, Caufe:
+halfe, haufe: neighbour vocatur nebour; neigh abreuiated
+ne: this is abhominable, which he would call abhominable
+it insinuateth me of infamie: ne inteligis domine, to
+make franticke, lunaticke?
+  Cura. Laus deo, bene intelligo
+
+   Peda. Bome boon for boon prescian, a little scratcht, 'twil
+serue.
+Enter Bragart, Boy.
+
+  Curat. Vides ne quis venit?
+  Peda. Video, & gaudio
+
+   Brag. Chirra
+
+   Peda. Quari Chirra, not Sirra?
+  Brag. Men of peace well incountred
+
+   Ped. Most millitarie sir salutation
+
+   Boy. They haue beene at a great feast of Languages,
+and stolne the scraps
+
+   Clow. O they haue liu'd long on the almes-basket of
+words. I maruell thy M[aster]. hath not eaten thee for a word,
+for thou art not so long by the head as
+honorificabilitu%dinitatibus:
+Thou art easier swallowed then a flapdragon
+
+   Page. Peace, the peale begins
+
+   Brag. Mounsier, are you not lettred?
+  Page. Yes, yes, he teaches boyes the Horne-booke:
+What is Ab speld backward with the horn on his head?
+  Peda. Ba, puericia with a horne added
+
+   Pag. Ba most seely Sheepe, with a horne: you heare
+his learning
+
+   Peda. Quis quis, thou Consonant?
+  Pag. The last of the fiue Vowels if You repeat them,
+or the fift if I
+
+   Peda. I will repeat them: a e I
+
+   Pag. The Sheepe, the other two concludes it o u
+
+   Brag. Now by the salt waue of the mediteranium, a
+sweet tutch, a quicke venewe of wit, snip snap, quick &
+home, it reioyceth my intellect, true wit
+
+   Page. Offered by a childe to an olde man: which is
+wit-old
+
+   Peda. What is the figure? What is the figure?
+  Page. Hornes
+
+   Peda. Thou disputes like an Infant: goe whip thy
+Gigge
+
+   Pag. Lend me your Horne to make one, and I will
+whip about your Infamie vnum cita a gigge of a Cuckolds
+horne
+
+   Clow. And I had but one penny in the world, thou
+shouldst haue it to buy Ginger bread: Hold, there is the
+very Remuneration I had of thy Maister, thou halfpenny
+purse of wit, thou Pidgeon-egge of discretion. O & the
+heauens were so pleased, that thou wert but my Bastard;
+What a ioyfull father wouldst thou make mee? Goe to,
+thou hast it ad dungil, at the fingers ends, as they say
+
+   Peda. Oh I smell false Latine, dunghel for vnguem
+
+   Brag. Arts-man preambulat, we will bee singled from
+the barbarous. Do you not educate youth at the Charghouse
+on the top of the Mountaine?
+  Peda. Or Mons the hill
+
+   Brag. At your sweet pleasure, for the Mountaine
+
+   Peda. I doe sans question
+
+   Bra. Sir, it is the Kings most sweet pleasure and affection,
+to congratulate the Princesse at her Pauilion, in
+the posteriors of this day, which the rude multitude call
+the after-noone
+
+   Ped. The posterior of the day, most generous sir, is liable,
+congruent, and measurable for the after-noone: the
+word is well culd, chose, sweet, and apt I doe assure you
+sir, I doe assure
+
+   Brag. Sir, the King is a noble Gentleman, and my familiar,
+I doe assure ye very good friend: for what is inward
+betweene vs, let it passe. I doe beseech thee remember
+thy curtesie. I beseech thee apparell thy head:
+and among other importunate & most serious designes,
+and of great import indeed too: but let that passe, for I
+must tell thee it will please his Grace (by the world)
+sometime to leane vpon my poore shoulder, and with
+his royall finger thus dallie with my excrement, with my
+mustachio: but sweet heart let that passe. By the world
+I recount no fable, some certaine speciall honours it
+pleaseth his greatnesse to impart to Armado a Souldier,
+a man of trauell, that hath seene the world: but let that
+passe; the very all of all is: but sweet heart I do implore
+secrecie, that the King would haue mee present the
+Princesse (sweet chucke) with some delightfull ostentation,
+or show, or pageant, or anticke, or fire-worke:
+Now, vnderstanding that the Curate and your sweet self
+are good at such eruptions, and sodaine breaking out of
+myrth (as it were) I haue acquainted you withall, to
+the end to craue your assistance
+
+   Peda. Sir, you shall present before her the Nine Worthies.
+Sir Holofernes, as concerning some entertainment
+of time, some show in the posterior of this day, to bee
+rendred by our assistants the Kings command: and this
+most gallant, illustrate and learned Gentleman, before
+the Princesse: I say none so fit as to present the Nine
+Worthies
+
+   Curat. Where will you finde men worthy enough to
+present them?
+  Peda. Iosua, your selfe: my selfe, and this gallant gentleman
+Iudas Machabeus; this Swaine (because of his
+great limme or ioynt) shall passe Pompey the great, the
+Page Hercules
+
+   Brag. Pardon sir, error: He is not quantitie enough
+for that Worthies thumb, hee is not so big as the end of
+his Club
+
+   Peda. Shall I haue audience: he shall present Hercules
+in minoritie: his enter and exit shall bee strangling a
+Snake; and I will haue an Apologie for that purpose
+
+   Pag. An excellent deuice: so if any of the audience
+hisse, you may cry, Well done Hercules, now thou crushest
+the Snake; that is the way to make an offence gracious,
+though few haue the grace to doe it
+
+   Brag. For the rest of the Worthies?
+  Peda. I will play three my selfe
+
+   Pag. Thrice worthy Gentleman
+
+   Brag. Shall I tell you a thing?
+  Peda. We attend
+
+   Brag. We will haue, if this fadge not, an Antique. I
+beseech you follow
+
+   Ped. Via good-man Dull, thou hast spoken no word
+all this while
+
+   Dull. Nor vnderstood none neither sir
+
+   Ped. Alone, we will employ thee
+
+   Dull. Ile make one in a dance, or so: or I will play
+on the taber to the Worthies, & let them dance the hey
+
+   Ped. Most Dull, honest Dull, to our sport away.
+Enter.
+
+Enter Ladies.
+
+  Qu. Sweet hearts we shall be rich ere we depart,
+If fairings come thus plentifully in.
+A Lady wal'd about with Diamonds: Look you, what I
+haue from the louing King
+
+   Rosa. Madam, came nothing else along with that?
+  Qu. Nothing but this: yes as much loue in Rime,
+As would be cram'd vp in a sheet of paper
+Writ on both sides the leafe, margent and all,
+That he was faine to seale on Cupids name
+
+   Rosa. That was the way to make his god-head wax:
+For he hath beene fiue thousand yeeres a Boy
+
+   Kath. I, and a shrewd vnhappy gallowes too
+
+   Ros. You'll nere be friends with him, a kild your sister
+
+   Kath. He made her melancholy, sad, and heauy, and
+so she died: had she beene Light like you, of such a merrie
+nimble stirring spirit, she might a bin a Grandam ere
+she died. And so may you: For a light heart liues long
+
+   Ros. What's your darke meaning mouse, of this light
+word?
+  Kat. A light condition in a beauty darke
+
+   Ros. We need more light to finde your meaning out
+
+   Kat. You'll marre the light by taking it in snuffe:
+Therefore Ile darkely end the argument
+
+   Ros. Look what you doe, you doe it stil i'th darke
+
+   Kat. So do not you, for you are a light Wench
+
+   Ros. Indeed I waigh not you, and therefore light
+
+   Ka. You waigh me not, O that's you care not for me
+
+   Ros. Great reason: for past care, is still past cure
+
+   Qu. Well bandied both, a set of Wit well played.
+But Rosaline, you haue a Fauour too?
+Who sent it? and what is it?
+  Ros. I would you knew.
+And if my face were but as faire as yours,
+My Fauour were as great, be witnesse this.
+Nay, I haue Verses too, I thanke Berowne,
+The numbers true, and were the numbring too.
+I were the fairest goddesse on the ground.
+I am compar'd to twenty thousand fairs.
+O he hath drawne my picture in his letter
+
+   Qu. Any thing like?
+  Ros. Much in the letters, nothing in the praise
+
+   Qu. Beauteous as Incke: a good conclusion
+
+   Kat. Faire as a text B. in a Coppie booke
+
+   Ros. Ware pensals. How? Let me not die your debtor,
+My red Dominicall, my golden letter.
+O that your face were full of Oes
+
+   Qu. A Pox of that iest, and I beshrew all Shrowes:
+But Katherine, what was sent to you
+From faire Dumaine?
+  Kat. Madame, this Gloue
+
+   Qu. Did he not send you twaine?
+  Kat. Yes Madame: and moreouer,
+Some thousand Verses of a faithfull Louer.
+A huge translation of hypocrisie,
+Vildly compiled, profound simplicitie
+
+   Mar. This, and these Pearls, to me sent Longauile.
+The Letter is too long by halfe a mile
+
+   Qu. I thinke no lesse: Dost thou wish in heart
+The Chaine were longer, and the Letter short
+
+   Mar. I, or I would these hands might neuer part
+
+   Quee. We are wise girles to mocke our Louers so
+
+   Ros. They are worse fooles to purchase mocking so.
+That same Berowne ile torture ere I goe.
+O that I knew he were but in by th' weeke,
+How I would make him fawne, and begge, and seeke,
+And wait the season, and obserue the times,
+And spend his prodigall wits in booteles rimes,
+And shape his seruice wholly to my deuice,
+And make him proud to make me proud that iests.
+So pertaunt like would I o'resway his state,
+That he shold be my foole, and I his fate
+
+   Qu. None are so surely caught, when they are catcht,
+As Wit turn'd foole, follie in Wisedome hatch'd:
+Hath wisedoms warrant, and the helpe of Schoole,
+And Wits owne grace to grace a learned Foole?
+  Ros. The bloud of youth burns not with such excesse,
+As grauities reuolt to wantons be
+
+   Mar. Follie in Fooles beares not so strong a note,
+As fool'ry in the Wise, when Wit doth dote:
+Since all the power thereof it doth apply,
+To proue by Wit, worth in simplicitie.
+Enter Boyet.
+
+  Qu. Heere comes Boyet, and mirth in his face
+
+   Boy. O I am stab'd with laughter, Wher's her Grace?
+  Qu. Thy newes Boyet?
+  Boy. Prepare Madame, prepare.
+Arme Wenches arme, incounters mounted are,
+Against your Peace, Loue doth approach, disguis'd:
+Armed in arguments, you'll be surpriz'd.
+Muster your Wits, stand in your owne defence,
+Or hide your heads like Cowards, and flie hence
+
+   Qu. Saint Dennis to S[aint]. Cupid: What are they,
+That charge their breath against vs? Say scout say
+
+   Boy. Vnder the coole shade of a Siccamore,
+I thought to close mine eyes some halfe an houre:
+When lo to interrupt my purpos'd rest,
+Toward that shade I might behold addrest,
+The King and his companions: warely
+I stole into a neighbour thicket by,
+And ouer-heard, what you shall ouer-heare:
+That by and by disguis'd they will be heere.
+Their Herald is a pretty knauish Page:
+That well by heart hath con'd his embassage,
+Action and accent did they teach him there.
+Thus must thou speake, and thus thy body beare.
+And euer and anon they made a doubt,
+Presence maiesticall would put him out:
+For quoth the King, an Angell shalt thou see:
+Yet feare not thou, but speake audaciously.
+The Boy reply'd, An Angell is not euill:
+I should haue fear'd her, had she beene a deuill.
+With that all laugh'd, and clap'd him on the shoulder,
+Making the bold wagg by their praises bolder.
+One rub'd his elboe thus, and fleer'd, and swore,
+A better speech was neuer spoke before.
+Another with his finger and his thumb,
+Cry'd via, we will doo't, come what will come.
+The third he caper'd and cried, All goes well.
+The fourth turn'd on the toe, and downe he fell:
+With that they all did tumble on the ground,
+With such a zelous laughter so profound,
+That in this spleene ridiculous appeares,
+To checke their folly passions solemne teares
+
+   Que. But what, but what, come they to visit vs?
+  Boy. They do, they do; and are apparel'd thus,
+Like Muscouites; or Russians, as I gesse.
+Their purpose is to parlee, to court, and dance,
+And euery one his Loue-feat will aduance,
+Vnto his seuerall mistresse: which they'll know
+By fauours seuerall, which they did bestow
+
+   Queen. And will they so? the Gallants shall be taskt:
+For Ladies; we will euery one be maskt,
+And not a man of them shall haue the grace
+Despight of sute, to see a Ladies face.
+Hold Rosaline, this Fauour thou shalt weare,
+And then the King will court thee for his Deare:
+Hold, take thou this my sweet, and giue me thine,
+So shall Berowne take me for Rosaline.
+And change your Fauours too, so shall your Loues
+Woo contrary, deceiu'd by these remoues
+
+   Rosa. Come on then, weare the fauours most in sight
+
+   Kath. But in this changing, What is your intent?
+  Queen. The effect of my intent is to crosse theirs:
+They doe it but in mocking merriment,
+And mocke for mocke is onely my intent.
+Their seuerall counsels they vnbosome shall,
+To Loues mistooke, and so be mockt withall.
+Vpon the next occasion that we meete,
+With Visages displayd to talke and greete
+
+   Ros. But shall we dance, if they desire vs too't?
+  Quee. No, to the death we will not moue a foot,
+Nor to their pen'd speech render we no grace:
+But while 'tis spoke, each turne away his face
+
+   Boy. Why that contempt will kill the keepers heart,
+And quite diuorce his memory from his part
+
+   Quee. Therefore I doe it, and I make no doubt,
+The rest will ere come in, if he be out.
+Theres no such sport, as sport by sport orethrowne:
+To make theirs ours, and ours none but our owne.
+So shall we stay mocking entended game,
+And they well mockt, depart away with shame.
+
+Sound.
+
+  Boy. The Trompet sounds, be maskt, the maskers
+come.
+Enter Black moores with musicke, the Boy with a speech, and the
+rest of
+the Lords disguised.
+
+  Page. All haile, the richest Beauties on the earth
+
+   Ber. Beauties no richer then rich Taffata
+
+   Pag. A holy parcell of the fairest dames that euer turn'd
+their backes to mortall viewes.
+
+The Ladies turne their backes to him.
+
+  Ber. Their eyes villaine, their eyes
+
+   Pag. That euer turn'd their eyes to mortall viewes.
+Out
+  Boy. True, out indeed
+
+   Pag. Out of your fauours heauenly spirits vouchsafe
+Not to beholde
+
+   Ber. Once to behold, rogue
+
+   Pag. Once to behold with your Sunne beamed eyes,
+With your Sunne beamed eyes
+
+   Boy. They will not answer to that Epythite,
+you were best call it Daughter beamed eyes
+
+   Pag. They do not marke me, and that brings me out
+
+   Bero. Is this your perfectnesse? be gon you rogue
+
+   Rosa. What would these strangers?
+Know their mindes Boyet.
+If they doe speake our language, 'tis our will
+That some plaine man recount their purposes.
+Know what they would?
+  Boyet. What would you with the Princes?
+  Ber. Nothing but peace, and gentle visitation
+
+   Ros. What would they, say they?
+  Boy. Nothing but peace, and gentle visitation
+
+   Rosa. Why that they haue, and bid them so be gon
+
+   Boy. She saies you haue it, and you may be gon
+
+   Kin. Say to her we haue measur'd many miles,
+To tread a Measure with you on the grasse
+
+   Boy. They say that they haue measur'd many a mile,
+To tread a Measure with you on this grasse
+
+   Rosa. It is not so. Aske them how many inches
+Is in one mile? If they haue measur'd manie,
+The measure then of one is easlie told
+
+   Boy. If to come hither, you haue measur'd miles,
+And many miles: the Princesse bids you tell,
+How many inches doth fill vp one mile?
+  Ber. Tell her we measure them by weary steps
+
+   Boy. She heares her selfe
+
+   Rosa. How manie wearie steps,
+Of many wearie miles you haue ore-gone,
+Are numbred in the trauell of one mile?
+  Bero. We number nothing that we spend for you,
+Our dutie is so rich, so infinite,
+That we may doe it still without accompt.
+Vouchsafe to shew the sunshine of your face,
+That we (like sauages) may worship it
+
+   Rosa. My face is but a Moone and clouded too
+
+   Kin. Blessed are clouds, to doe as such clouds do.
+Vouchsafe bright Moone, and these thy stars to shine,
+(Those clouds remooued) vpon our waterie eyne
+
+   Rosa. O vaine peticioner, beg a greater matter,
+Thou now requests but Mooneshine in the water
+
+   Kin. Then in our measure, vouchsafe but one change.
+Thou bidst me begge, this begging is not strange
+
+   Rosa. Play musicke then: nay you must doe it soone.
+Not yet no dance: thus change I like the Moone
+
+   Kin. Will you not dance? How come you thus estranged?
+  Rosa. You tooke the Moone at full, but now shee's
+changed?
+  Kin. Yet still she is the Moone, and I the Man
+
+   Rosa. The musick playes, vouchsafe some motion to
+it: Our eares vouchsafe it
+
+   Kin. But your legges should doe it
+
+   Ros. Since you are strangers, & come here by chance,
+Wee'll not be nice, take hands, we will not dance
+
+   Kin. Why take you hands then?
+  Rosa. Onelie to part friends.
+Curtsie sweet hearts, and so the Measure ends
+
+   Kin. More measure of this measure, be not nice
+
+   Rosa. We can afford no more at such a price
+
+   Kin. Prise your selues: What buyes your companie?
+  Rosa. Your absence onelie
+
+   Kin. That can neuer be
+
+   Rosa. Then cannot we be bought: and so adue,
+Twice to your Visore, and halfe once to you
+
+   Kin. If you denie to dance, let's hold more chat
+
+   Ros. In priuate then
+
+   Kin. I am best pleas'd with that
+
+   Be. White handed Mistris, one sweet word with thee
+
+   Qu. Hony, and Milke, and Suger: there is three
+
+   Ber. Nay then two treyes, an if you grow so nice
+Methegline, Wort, and Malmsey; well runne dice:
+There's halfe a dozen sweets
+
+   Qu. Seuenth sweet adue, since you can cogg,
+Ile play no more with you
+
+   Ber. One word in secret
+
+   Qu. Let it not be sweet
+
+   Ber. Thou greeu'st my gall
+
+   Qu. Gall, bitter
+
+   Ber. Therefore meete
+
+   Du. Will you vouchsafe with me to change a word?
+  Mar. Name it
+
+   Dum. Faire Ladie:
+  Mar. Say you so? Faire Lord:
+Take you that for your faire Lady
+
+   Du. Please it you,
+As much in priuate, and Ile bid adieu
+
+   Mar. What, was your vizard made without a tong?
+  Long. I know the reason Ladie why you aske
+
+   Mar. O for your reason, quickly sir, I long
+
+   Long. You haue a double tongue within your mask,
+And would affoord my speechlesse vizard halfe
+
+   Mar. Veale quoth the Dutch-man: is not Veale a
+Calfe?
+  Long. A Calfe faire Ladie?
+  Mar. No, a faire Lord Calfe
+
+   Long. Let's part the word
+
+   Mar. No, Ile not be your halfe:
+Take all and weane it, it may proue an Oxe
+
+   Long. Looke how you but your selfe in these sharpe
+mockes.
+Will you giue hornes chast Ladie? Do not so
+
+   Mar. Then die a Calfe before your horns do grow
+
+   Lon. One word in priuate with you ere I die
+
+   Mar. Bleat softly then, the Butcher heares you cry
+
+   Boyet. The tongues of mocking wenches are as keen
+As is the Razors edge, inuisible:
+Cutting a smaller haire then may be seene,
+Aboue the sense of sence so sensible:
+Seemeth their conference, their conceits haue wings,
+Fleeter then arrows, bullets wind, thoght, swifter things
+  Rosa. Not one word more my maides, breake off,
+breake off
+
+   Ber. By heauen, all drie beaten with pure scoffe
+
+   King. Farewell madde Wenches, you haue simple
+wits.
+
+Exeunt.
+
+  Qu. Twentie adieus my frozen Muscouits.
+Are these the breed of wits so wondred at?
+  Boyet. Tapers they are, with your sweete breathes
+puft out
+
+   Rosa. Wel-liking wits they haue, grosse, grosse, fat, fat
+
+   Qu. O pouertie in wit, Kingly poore flout.
+Will they not (thinke you) hang themselues to night?
+Or euer but in vizards shew their faces:
+This pert Berowne was out of count'nance quite
+
+   Rosa. They were all in lamentable cases.
+The King was weeping ripe for a good word
+
+   Qu. Berowne did sweare himselfe out of all suite
+
+   Mar. Dumaine was at my seruice, and his sword:
+No point (quoth I:) my seruant straight was mute
+
+   Ka. Lord Longauill said I came ore his hart:
+And trow you what he call'd me?
+  Qu. Qualme perhaps
+
+   Kat. Yes in good faith
+
+   Qu. Go sicknesse as thou art
+
+   Ros. Well, better wits haue worne plain statute caps,
+But will you heare; the King is my loue sworne
+
+   Qu. And quicke Berowne hath plighted faith to me
+
+   Kat. And Longauill was for my seruice borne
+
+   Mar. Dumaine is mine as sure as barke on tree
+
+   Boyet. Madam, and prettie mistresses giue eare,
+Immediately they will againe be heere
+In their owne shapes: for it can neuer be,
+They will digest this harsh indignitie
+
+   Qu. Will they returne?
+  Boy. They will they will, God knowes,
+And leape for ioy, though they are lame with blowes:
+Therefore change Fauours, and when they repaire,
+Blow like sweet Roses, in this summer aire
+
+   Qu. How blow? how blow? Speake to bee vnderstood
+
+   Boy. Faire Ladies maskt, are Roses in their bud:
+Dismaskt, their damaske sweet commixture showne,
+Are Angels vailing clouds, or Roses blowne
+
+   Qu. Auant perplexitie: What shall we do,
+If they returne in their owne shapes to wo?
+  Rosa. Good Madam, if by me you'l be aduis'd.
+Let's mocke them still as well knowne as disguis'd:
+Let vs complaine to them what fooles were heare,
+Disguis'd like Muscouites in shapelesse geare:
+And wonder what they were, and to what end
+Their shallow showes, and Prologue vildely pen'd:
+And their rough carriage so ridiculous,
+Should be presented at our Tent to vs
+
+   Boyet. Ladies, withdraw: the gallants are at hand
+
+   Quee. Whip to our Tents, as Roes runnes ore Land.
+
+Exeunt.
+
+Enter the King and the rest.
+
+  King. Faire sir, God saue you. Wher's the Princesse?
+  Boy. Gone to her Tent.
+Please it your Maiestie command me any seruice to her?
+  King. That she vouchsafe me audience for one word
+
+   Boy. I will, and so will she, I know my Lord.
+Enter.
+
+  Ber. This fellow pickes vp wit as Pigeons pease,
+And vtters it againe, when Ioue doth please.
+He is Wits Pedler, and retailes his Wares,
+At Wakes, and Wassels, Meetings, Markets, Faires.
+And we that sell by grosse, the Lord doth know,
+Haue not the grace to grace it with such show.
+This Gallant pins the Wenches on his sleeue.
+Had he bin Adam, he had tempted Eue.
+He can carue too, and lispe: Why this is he,
+That kist away his hand in courtesie.
+This is the Ape of Forme, Monsieur the nice,
+That when he plaies at Tables, chides the Dice
+In honorable tearmes: Nay he can sing
+A meane most meanly, and in Vshering
+Mend him who can: the Ladies call him sweete.
+The staires as he treads on them kisse his feete.
+This is the flower that smiles on euerie one,
+To shew his teeth as white as Whales bone.
+And consciences that wil not die in debt,
+Pay him the dutie of honie-tongued Boyet
+
+   King. A blister on his sweet tongue with my hart,
+That put Armathoes Page out of his part.
+Enter the Ladies.
+
+  Ber. See where it comes. Behauiour what wer't thou,
+Till this madman shew'd thee? And what art thou now?
+  King. All haile sweet Madame, and faire time of day
+
+   Qu. Faire in all Haile is foule, as I conceiue
+
+   King. Construe my speeches better, if you may
+
+   Qu. Then wish me better, I wil giue you leaue
+
+   King. We came to visit you, and purpose now
+To leade you to our Court, vouchsafe it then
+
+   Qu. This field shal hold me, and so hold your vow:
+Nor God, nor I, delights in periur'd men
+
+   King. Rebuke me not for that which you prouoke:
+The vertue of your eie must breake my oth
+
+   Q. You nickname vertue: vice you should haue spoke:
+For vertues office neuer breakes men troth.
+Now by my maiden honor, yet as pure
+As the vnsallied Lilly, I protest,
+A world of torments though I should endure,
+I would not yeeld to be your houses guest:
+So much I hate a breaking cause to be
+Of heauenly oaths, vow'd with integritie
+
+   Kin. O you haue liu'd in desolation heere,
+Vnseene, vnuisited, much to our shame
+
+   Qu. Not so my Lord, it is not so I sweare,
+We haue had pastimes heere, and pleasant game,
+A messe of Russians left vs but of late
+
+   Kin. How Madam? Russians?
+  Qu. I in truth, my Lord.
+Trim gallants, full of Courtship and of state
+
+   Rosa. Madam speake true. It is not so my Lord:
+My Ladie (to the manner of the daies)
+In curtesie giues vndeseruing praise.
+We foure indeed confronted were with foure
+In Russia habit: Heere they stayed an houre,
+And talk'd apace: and in that houre (my Lord)
+They did not blesse vs with one happy word.
+I dare not call them fooles; but this I thinke,
+When they are thirstie, fooles would faine haue drinke
+
+   Ber. This iest is drie to me. Gentle sweete,
+Your wits makes wise things foolish when we greete
+With eies best seeing, heauens fierie eie:
+By light we loose light; your capacitie
+Is of that nature, that to your huge stoore,
+Wise things seeme foolish, and rich things but poore
+
+   Ros. This proues you wise and rich: for in my eie
+  Ber. I am a foole, and full of pouertie
+
+   Ros. But that you take what doth to you belong,
+It were a fault to snatch words from my tongue
+
+   Ber. O, I am yours, and all that I possesse
+
+   Ros. All the foole mine
+
+   Ber. I cannot giue you lesse
+
+   Ros. Which of the Vizards what it that you wore?
+  Ber. Where? when? What Vizard?
+Why demand you this?
+  Ros. There, then, that vizard, that superfluous case,
+That hid the worse, and shew'd the better face
+
+   Kin. We are discried,
+They'l mocke vs now downeright
+
+   Du. Let vs confesse, and turne it to a iest
+
+   Que. Amaz'd my Lord? Why lookes your Highnes
+sadde?
+  Rosa. Helpe hold his browes, hee'l sound: why looke
+you pale?
+Sea-sicke I thinke comming from Muscouie
+
+   Ber. Thus poure the stars down plagues for periury.
+Can any face of brasse hold longer out?
+Heere stand I, Ladie dart thy skill at me,
+Bruise me with scorne, confound me with a flout.
+Thrust thy sharpe wit quite through my ignorance.
+Cut me to peeces with thy keene conceit:
+And I will wish thee neuer more to dance,
+Nor neuer more in Russian habit waite.
+O! neuer will I trust to speeches pen'd,
+Nor to the motion of a Schoole-boies tongue.
+Nor neuer come in vizard to my friend,
+Nor woo in rime like a blind-harpers songue,
+Taffata phrases, silken tearmes precise,
+Three-pil'd Hyperboles, spruce affection;
+Figures pedanticall, these summer flies,
+Haue blowne me full of maggot ostentation.
+I do forsweare them, and I heere protest,
+By this white Gloue (how white the hand God knows)
+Henceforth my woing minde shall be exprest
+In russet yeas, and honest kersie noes.
+And to begin Wench, so God helpe me law,
+My loue to thee is sound, sans cracke or flaw,
+  Rosa. Sans, sans, I pray you
+
+   Ber. Yet I haue a tricke
+Of the old rage: beare with me, I am sicke.
+Ile leaue it by degrees: soft, let vs see,
+Write Lord haue mercie on vs, on those three,
+They are infected, in their hearts it lies:
+They haue the plague, and caught it of your eyes:
+These Lords are visited, you are not free:
+For the Lords tokens on you do I see
+
+   Qu. No, they are free that gaue these tokens to vs
+
+   Ber. Our states are forfeit, seeke not to vndo vs
+
+   Ros. It is not so; for how can this be true,
+That you stand forfeit, being those that sue
+
+   Ber. Peace, for I will not haue to do with you
+
+   Ros. Nor shall not, if I do as I intend
+
+   Ber. Speake for your selues, my wit is at an end
+
+   King. Teach vs sweete Madame, for our rude transgression,
+some faire excuse
+
+   Qu. The fairest is confession.
+Were you not heere but euen now, disguis'd?
+  Kin. Madam, I was
+
+   Qu. And were you well aduis'd?
+  Kin. I was faire Madam
+
+   Qu. When you then were heere,
+What did you whisper in your Ladies eare?
+  King. That more then all the world I did respect her
+  Qu. When shee shall challenge this, you will reiect
+her
+
+   King. Vpon mine Honor no
+
+   Qu. Peace, peace, forbeare:
+Your oath once broke, you force not to forsweare
+
+   King. Despise me when I breake this oath of mine
+
+   Qu. I will, and therefore keepe it. Rosaline,
+What did the Russian whisper in your eare?
+  Ros. Madam, he swore that he did hold me deare
+As precious eye-sight, and did value me
+Aboue this World: adding thereto moreouer,
+That he would Wed me, or else die my Louer
+
+   Qu. God giue thee ioy of him: the Noble Lord
+Most honorably doth vphold his word
+
+   King. What meane you Madame?
+By my life, my troth
+I neuer swore this Ladie such an oth
+
+   Ros. By heauen you did; and to confirme it plaine,
+You gaue me this: But take it sir againe
+
+   King. My faith and this, the Princesse I did giue,
+I knew her by this Iewell on her sleeue
+
+   Qu. Pardon me sir, this Iewell did she weare.
+And Lord Berowne (I thanke him) is my deare.
+What? Will you haue me, or your Pearle againe?
+  Ber. Neither of either, I remit both twaine.
+I see the tricke on't: Heere was a consent,
+Knowing aforehand of our merriment,
+To dash it like a Christmas Comedie.
+Some carry-tale, some please-man, some slight Zanie,
+Some mumble-newes, some trencher-knight, som Dick
+That smiles his cheeke in yeares, and knowes the trick
+To make my Lady laugh, when she's dispos'd;
+Told our intents before: which once disclos'd,
+The Ladies did change Fauours; and then we
+Following the signes, woo'd but the signe of she.
+Now to our periurie, to adde more terror,
+We are againe forsworne in will and error.
+Much vpon this tis: and might not you
+Forestall our sport, to make vs thus vntrue?
+Do not you know my Ladies foot by'th squier?
+And laugh vpon the apple of her eie?
+And stand betweene her backe sir, and the fire,
+Holding a trencher, iesting merrilie?
+You put our Page out: go, you are alowd.
+Die when you will, a smocke shall be your shrowd.
+You leere vpon me, do you? There's an eie
+Wounds like a Leaden sword
+
+   Boy. Full merrily hath this braue manager, this carreere
+bene run
+
+   Ber. Loe, he is tilting straight. Peace, I haue don.
+Enter Clowne.
+
+Welcome pure wit, thou part'st a faire fray
+
+   Clo. O Lord sir, they would kno,
+Whether the three worthies shall come in, or no
+
+   Ber. What, are there but three?
+  Clo. No sir, but it is vara fine,
+For euerie one pursents three
+
+   Ber. And three times thrice is nine
+
+   Clo. Not so sir, vnder correction sir, I hope it is not so.
+You cannot beg vs sir, I can assure you sir, we know what
+we know: I hope sir three times thrice sir
+
+   Ber. Is not nine
+
+   Clo. Vnder correction sir, wee know where-vntill it
+doth amount
+
+   Ber. By Ioue, I alwaies tooke three threes for nine
+
+   Clow. O Lord sir, it were pittie you should get your
+liuing by reckning sir
+
+   Ber. How much is it?
+  Clo. O Lord sir, the parties themselues, the actors sir
+will shew where-vntill it doth amount: for mine owne
+part, I am (as they say, but to perfect one man in one
+poore man) Pompion the great sir
+
+   Ber. Art thou one of the Worthies?
+  Clo. It pleased them to thinke me worthie of Pompey
+the great: for mine owne part, I know not the degree of
+the Worthie, but I am to stand for him
+
+   Ber. Go, bid them prepare.
+Enter.
+
+  Clo. We will turne it finely off sir, we wil take some
+care
+
+   King. Berowne, they will shame vs:
+Let them not approach
+
+   Ber. We are shame-proofe my Lord: and 'tis some
+policie, to haue one shew worse then the Kings and his
+companie
+
+   Kin. I say they shall not come
+
+   Qu. Nay my good Lord, let me ore-rule you now;
+That sport best pleases, that doth least know how.
+Where Zeale striues to content, and the contents
+Dies in the Zeale of that which it presents:
+Their forme confounded, makes most forme in mirth,
+When great things labouring perish in their birth
+
+   Ber. A right description of our sport my Lord.
+Enter Braggart.
+
+  Brag. Annointed, I implore so much expence of thy
+royall sweet breath, as will vtter a brace of words
+
+   Qu. Doth this man serue God?
+  Ber. Why aske you?
+  Qu. He speak's not like a man of God's making
+
+   Brag. That's all one my faire sweet honie Monarch:
+For I protest, the Schoolmaster is exceeding fantasticall:
+Too too vaine, too too vaine. But we wil put it (as they
+say) to Fortuna delaguar, I wish you the peace of minde
+most royall cupplement
+
+   King. Here is like to be a good presence of Worthies;
+He presents Hector of Troy, the Swaine Pompey y great,
+the Parish Curate Alexander, Armadoes Page Hercules,
+the Pedant Iudas Machabeus: and if these foure Worthies
+in their first shew thriue, these foure will change
+habites, and present the other fiue
+
+   Ber. There is fiue in the first shew
+
+   Kin. You are deceiued, tis not so
+
+   Ber. The Pedant, the Braggart, the Hedge-Priest, the
+Foole, and the Boy,
+Abate throw at Novum, and the whole world againe,
+Cannot pricke out fiue such, take each one in's vaine
+
+   Kin. The ship is vnder saile, and here she coms amain.
+Enter Pompey.
+
+  Clo. I Pompey am
+
+   Ber. You lie, you are not he
+
+   Clo. I Pompey am
+
+   Boy. With Libbards head on knee
+
+   Ber. Well said old mocker,
+I must needs be friends with thee
+
+   Clo. I Pompey am, Pompey surnam'd the big
+
+   Du. The great
+
+   Clo. It is great sir: Pompey surnam'd the great:
+That oft in field, with Targe and Shield,
+did make my foe to sweat:
+And trauailing along this coast, I heere am come by chance,
+And lay my Armes before the legs of this sweet Lasse of
+France.
+If your Ladiship would say thankes Pompey, I had done
+
+   La. Great thankes great Pompey
+
+   Clo. Tis not so much worth: but I hope I was perfect.
+I made a little fault in great
+
+   Ber. My hat to a halfe-penie, Pompey prooues the
+best Worthie.
+Enter Curate for Alexander.
+
+  Curat. When in the world I liu'd, I was the worldes Commander:
+By East, West, North, & South, I spred my conquering might
+My Scutcheon plaine declares that I am Alisander
+
+   Boiet. Your nose saies no, you are not:
+For it stands too right
+
+   Ber. Your nose smells no, in this most tender smelling
+Knight
+
+   Qu. The Conqueror is dismaid:
+Proceede good Alexander
+
+   Cur. When in the world I liued, I was the worldes Commander
+
+   Boiet. Most true, 'tis right; you were so Alisander
+
+   Ber. Pompey the great
+
+   Clo. your seruant and Costard
+
+   Ber. Take away the Conqueror, take away Alisander
+  Clo. O sir, you haue ouerthrowne Alisander the conqueror:
+you will be scrap'd out of the painted cloth for
+this: your Lion that holds his Pollax sitting on a close
+stoole, will be giuen to Aiax. He will be the ninth worthie.
+A Conqueror, and affraid to speake? Runne away
+for shame Alisander. There an't shall please you: a foolish
+milde man, an honest man, looke you, & soon dasht.
+He is a maruellous good neighbour insooth, and a verie
+good Bowler: but for Alisander, alas you see, how 'tis a
+little ore-parted. But there are Worthies a comming,
+will speake their minde in some other sort.
+
+Exit Cu.
+
+  Qu. Stand aside good Pompey.
+Enter Pedant for Iudas, and the Boy for Hercules.
+
+  Ped. Great Hercules is presented by this Impe,
+Whose Club kil'd Cerberus that three-headed Canus,
+And when he was a babe, a childe, a shrimpe,
+Thus did he strangle Serpents in his Manus:
+Quoniam, he seemeth in minoritie,
+Ergo, I come with this Apologie.
+Keepe some state in thy exit, and vanish.
+
+Exit Boy
+
+  Ped. Iudas I am
+
+   Dum. A Iudas?
+  Ped. Not Iscariot sir.
+Iudas I am, ycliped Machabeus
+
+   Dum. Iudas Machabeus clipt, is plaine Iudas
+
+   Ber. A kissing traitor. How art thou prou'd Iudas?
+  Ped. Iudas I am
+
+   Dum. The more shame for you Iudas
+
+   Ped. What meane you sir?
+  Boi. To make Iudas hang himselfe
+
+   Ped. Begin sir, you are my elder
+
+   Ber. Well follow'd, Iudas was hang'd on an Elder
+
+   Ped. I will not be put out of countenance
+
+   Ber. Because thou hast no face
+
+   Ped. What is this?
+  Boi. A Citterne head
+
+   Dum. The head of a bodkin
+
+   Ber. A deaths face in a ring
+
+   Lon. The face of an old Roman coine, scarce seene
+
+   Boi. The pummell of Cæsars Faulchion
+
+   Dum. The caru'd-bone face on a Flaske
+
+   Ber. S[aint]. Georges halfe cheeke in a brooch
+
+   Dum. I, and in a brooch of Lead
+
+   Ber. I, and worne in the cap of a Tooth-drawer.
+And now forward, for we haue put thee in countenance
+  Ped. You haue put me out of countenance
+
+   Ber. False, we haue giuen thee faces
+
+   Ped. But you haue out-fac'd them all
+
+   Ber. And thou wer't a Lion, we would do so
+
+   Boy. Therefore as he is, an Asse, let him go:
+And so adieu sweet Iude. Nay, why dost thou stay?
+  Dum. For the latter end of his name
+
+   Ber. For the Asse to the Iude: giue it him. Iudas away
+
+   Ped. This is not generous, not gentle, not humble
+
+   Boy. A light for monsieur Iudas, it growes darke, he
+may stumble
+
+   Que. Alas poore Machabeus, how hath hee beene
+baited.
+Enter Braggart.
+
+  Ber. Hide thy head Achilles, heere comes Hector in
+Armes
+
+   Dum. Though my mockes come home by me, I will
+now be merrie
+
+   King. Hector was but a Troyan in respect of this
+
+   Boi. But is this Hector?
+  Kin. I thinke Hector was not so cleane timber'd
+
+   Lon. His legge is too big for Hector
+
+   Dum. More Calfe certaine
+
+   Boi. No, he is best indued in the small
+
+   Ber. This cannot be Hector
+
+   Dum. He's a God or a Painter, for he makes faces
+
+   Brag. The Armipotent Mars, of Launces the almighty,
+gaue Hector a gift
+
+   Dum. A gilt Nutmegge
+
+   Ber. A Lemmon
+
+   Lon. Stucke with Cloues
+
+   Dum. No clouen
+
+   Brag. The Armipotent Mars of Launces the almighty,
+Gaue Hector a gift, the heire of Illion;
+A man so breathed, that certaine he would fight: yea
+From morne till night, out of his Pauillion.
+I am that Flower
+
+   Dum. That Mint
+
+   Long. That Cullambine
+
+   Brag. Sweet Lord Longauill reine thy tongue
+
+   Lon. I must rather giue it the reine: for it runnes against
+Hector
+
+   Dum. I, and Hector's a Grey-hound
+
+   Brag. The sweet War-man is dead and rotten,
+Sweet chuckes, beat not the bones of the buried:
+But I will forward with my deuice;
+Sweete Royaltie bestow on me the sence of hearing.
+
+Berowne steppes forth.
+
+  Qu. Speake braue Hector, we are much delighted
+
+   Brag. i do adore thy sweet Graces slipper
+
+   Boy. Loues her by the foot
+
+   Dum. He may not by the yard
+
+   Brag. This Hector farre surmounted Hanniball.
+The partie is gone
+
+   Clo. Fellow Hector, she is gone; she is two moneths
+on her way
+
+   Brag. What meanest thou?
+  Clo. Faith vnlesse you play the honest Troyan, the
+poore Wench is cast away: she's quick, the child brags
+in her belly alreadie: tis yours
+
+   Brag. Dost thou infamonize me among Potentates?
+Thou shalt die
+
+   Clo. Then shall Hector be whipt for Iaquenetta that
+is quicke by him, and hang'd for Pompey, that is dead by
+him
+
+   Dum. Most rare Pompey
+
+   Boi. Renowned Pompey
+
+   Ber. Greater then great, great, great, great Pompey:
+Pompey the huge
+
+   Dum. Hector trembles
+
+   Ber. Pompey is moued, more Atees more Atees stirre
+them, or stirre them on
+
+   Dum. Hector will challenge him
+
+   Ber. I, if a'haue no more mans blood in's belly, then
+will sup a Flea
+
+   Brag. By the North-pole I do challenge thee
+
+   Clo. I wil not fight with a pole like a Northern man;
+Ile slash, Ile do it by the sword: I pray you let mee borrow
+my Armes againe
+
+   Dum. Roome for the incensed Worthies
+
+   Clo. Ile do it in my shirt
+
+   Dum. Most resolute Pompey
+
+   Page. Master, let me take you a button hole lower:
+Do you not see Pompey is vncasing for the combat: what
+meane you? you will lose your reputation
+
+   Brag. Gentlemen and Souldiers pardon me, I will
+not combat in my shirt
+
+   Du. You may not denie it, Pompey hath made the
+challenge
+
+   Brag. Sweet bloods, I both may, and will
+
+   Ber. What reason haue you for't?
+  Brag. The naked truth of it is, I haue no shirt,
+I go woolward for penance
+
+   Boy. True, and it was inioyned him in Rome for want
+of Linnen: since when, Ile be sworne he wore none, but
+a dishclout of Iaquenettas, and that hee weares next his
+heart for a fauour.
+Enter a Messenger, Monsieur Marcade.
+
+  Mar. God saue you Madame
+
+   Qu. Welcome Marcade, but that thou interruptest
+our merriment
+
+   Marc. I am sorrie Madam, for the newes I bring is
+heauie in my tongue. The King your father
+  Qu. Dead for my life
+
+   Mar. Euen so: My tale is told
+
+   Ber. Worthies away, the Scene begins to cloud
+
+   Brag. For mine owne part, I breath free breath: I
+haue seene the day of wrong, through the little hole of
+discretion, and I will right my selfe like a Souldier.
+
+Exeunt. Worthies
+
+  Kin. How fare's your Maiestie?
+  Qu. Boyet prepare, I will away to night
+
+   Kin. Madame not so, I do beseech you stay
+
+   Qu. Prepare I say. I thanke you gracious Lords
+For all your faire endeuours and entreats:
+Out of a new sad-soule, that you vouchsafe,
+In your rich wisedome to excuse, or hide,
+The liberall opposition of our spirits,
+If ouer-boldly we haue borne our selues,
+In the conuerse of breath (your gentlenesse
+Was guiltie of it.) Farewell worthie Lord:
+A heauie heart beares not a humble tongue.
+Excuse me so, comming so short of thankes,
+For my great suite, so easily obtain'd
+
+   Kin. The extreme parts of time, extremelie formes
+All causes to the purpose of his speed:
+And often at his verie loose decides
+That, which long processe could not arbitrate.
+And though the mourning brow of progenie
+Forbid the smiling curtesie of Loue:
+The holy suite which faine it would conuince,
+Yet since loues argument was first on foote,
+Let not the cloud of sorrow iustle it
+From what it purpos'd: since to waile friends lost,
+Is not by much so wholsome profitable,
+As to reioyce at friends but newly found
+
+   Qu. I vnderstand you not, my greefes are double
+
+   Ber. Honest plain words, best pierce the ears of griefe
+And by these badges vnderstand the King,
+For your faire sakes haue we neglected time,
+Plaid foule play with our oaths: your beautie Ladies
+Hath much deformed vs, fashioning our humors
+Euen to the opposed end of our intents.
+And what in vs hath seem'd ridiculous:
+As Loue is full of vnbefitting straines,
+All wanton as a childe, skipping and vaine.
+Form'd by the eie, and therefore like the eie.
+Full of straying shapes, of habits, and of formes
+Varying in subiects as the eie doth roule,
+To euerie varied obiect in his glance:
+Which partie-coated presence of loose loue
+Put on by vs, if in your heauenly eies,
+Haue misbecom'd our oathes and grauities.
+Those heauenlie eies that looke into these faults,
+Suggested vs to make: therefore Ladies
+Our loue being yours, the error that Loue makes
+Is likewise yours. We to our selues proue false,
+By being once false, for euer to be true
+To those that make vs both, faire Ladies you.
+And euen that falshood in it selfe a sinne,
+Thus purifies it selfe, and turnes to grace
+
+   Qu. We haue receiu'd your Letters, full of Loue:
+Your Fauours, the Ambassadors of Loue.
+And in our maiden counsaile rated them,
+At courtship, pleasant iest, and curtesie,
+As bumbast and as lining to the time:
+But more deuout then these are our respects
+Haue we not bene, and therefore met your loues
+In their owne fashion, like a merriment
+
+   Du. Our letters Madam, shew'd much more then iest
+
+   Lon. So did our lookes
+
+   Rosa. We did not coat them so
+
+   Kin. Now at the latest minute of the houre,
+Grant vs your loues
+
+   Qu. A time me thinkes too short,
+To make a world-without-end bargaine in:
+No, no my Lord, your Grace is periur'd much,
+Full of deare guiltinesse, and therefore this:
+If for my Loue (as there is no such cause)
+You will do ought, this shall you do for me.
+Your oth I will not trust: but go with speed
+To some forlorne and naked Hermitage,
+Remote from all the pleasures of the world:
+There stay, vntill the twelue Celestiall Signes
+Haue brought about their annuall reckoning.
+If this austere insociable life,
+Change not your offer made in heate of blood:
+If frosts, and fasts, hard lodging, and thin weeds
+Nip not the gaudie blossomes of your Loue,
+But that it beare this triall, and last loue:
+Then at the expiration of the yeare,
+Come challenge me, challenge me by these deserts,
+And by this Virgin palme, now kissing thine,
+I will be thine: and till that instant shut
+My wofull selfe vp in a mourning house,
+Raining the teares of lamentation,
+For the remembrance of my Fathers death.
+If this thou do denie, let our hands part,
+Neither intitled in the others hart
+
+   Kin. If this, or more then this, I would denie,
+To flatter vp these powers of mine with rest,
+The sodaine hand of death close vp mine eie.
+Hence euer then, my heart is in thy brest
+
+   Ber. And what to me my Loue? and what to me?
+  Ros. You must be purged too, your sins are rack'd.
+You are attaint with faults and periurie:
+Therefore if you my fauor meane to get,
+A tweluemonth shall you spend, and neuer rest,
+But seeke the wearie beds of people sicke
+
+   Du. But what to me my loue? but what to me?
+  Kat. A wife? a beard, faire health, and honestie,
+With three-fold loue, I wish you all these three
+
+   Du. O shall I say, I thanke you gentle wife?
+  Kat. Not so my Lord, a tweluemonth and a day,
+Ile marke no words that smoothfac'd wooers say.
+Come when the King doth to my Ladie come:
+Then if I haue much loue, Ile giue you some
+
+   Dum. Ile serue thee true and faithfully till then
+
+   Kath. Yet sweare not, least ye be forsworne agen
+
+   Lon. What saies Maria?
+  Mari. At the tweluemonths end,
+Ile change my blacke Gowne, for a faithfull friend
+
+   Lon. Ile stay with patience: but the time is long
+
+   Mari. The liker you, few taller are so yong
+
+   Ber. Studies my Ladie? Mistresse, looke on me,
+Behold the window of my heart, mine eie:
+What humble suite attends thy answer there,
+Impose some seruice on me for my loue
+
+   Ros. Oft haue I heard of you my Lord Berowne,
+Before I saw you: and the worlds large tongue
+Proclaimes you for a man repleate with mockes,
+Full of comparisons, and wounding floutes:
+Which you on all estates will execute,
+That lie within the mercie of your wit.
+To weed this Wormewood from your fruitfull braine,
+And therewithall to win me, if you please,
+Without the which I am not to be won:
+You shall this tweluemonth terme from day to day,
+Visit the speechlesse sicke, and still conuerse
+With groaning wretches: and your taske shall be,
+With all the fierce endeuour of your wit,
+To enforce the pained impotent to smile
+
+   Ber. To moue wilde laughter in the throate of death?
+It cannot be, it is impossible.
+Mirth cannot moue a soule in agonie
+
+   Ros. Why that's the way to choke a gibing spirit,
+Whose influence is begot of that loose grace,
+Which shallow laughing hearers giue to fooles:
+A iests prosperitie, lies in the eare
+Of him that heares it, neuer in the tongue
+Of him that makes it: then, if sickly eares,
+Deaft with the clamors of their owne deare grones,
+Will heare your idle scornes; continue then,
+And I will haue you, and that fault withall.
+But if they will not, throw away that spirit,
+And I shal finde you emptie of that fault,
+Right ioyfull of your reformation
+
+   Ber. A tweluemonth? Well: befall what will befall,
+Ile iest a tweluemonth in an Hospitall
+
+   Qu. I sweet my Lord, and so I take my leaue
+
+   King. No Madam, we will bring you on your way
+
+   Ber. Our woing doth not end like an old Play:
+Iacke hath not Gill: these Ladies courtesie
+Might wel haue made our sport a Comedie
+
+   Kin. Come sir, it wants a tweluemonth and a day,
+And then 'twil end
+
+   Ber. That's too long for a play.
+Enter Braggart.
+
+  Brag. Sweet Maiesty vouchsafe me
+
+   Qu. Was not that Hector?
+  Dum. The worthie Knight of Troy
+
+   Brag. I wil kisse thy royal finger, and take leaue.
+I am a Votarie, I haue vow'd to Iaquenetta to holde the
+Plough for her sweet loue three yeares. But most esteemed
+greatnesse, wil you heare the Dialogue that the two
+Learned men haue compiled, in praise of the Owle and
+the Cuckow? It should haue followed in the end of our
+shew
+
+   Kin. Call them forth quickely, we will do so
+
+   Brag. Holla, Approach.
+Enter all.
+
+This side is Hiems, Winter.
+This Ver, the Spring: the one maintained by the Owle,
+Th' other by the Cuckow.
+Ver, begin.
+
+The Song.
+
+When Dasies pied, and Violets blew,
+And Cuckow-buds of yellow hew:
+And Ladie-smockes all siluer white,
+Do paint the Medowes with delight.
+The Cuckow then on euerie tree,
+Mockes married men, for thus sings he,
+Cuckow.
+Cuckow, Cuckow: O word of feare,
+Vnpleasing to a married eare.
+When Shepheards pipe on Oaten strawes,
+And merrie Larkes are Ploughmens clockes:
+When Turtles tread, and Rookes and Dawes,
+And Maidens bleach their summer smockes:
+The Cuckow then on euerie tree
+Mockes married men; for thus sings he,
+Cuckow.
+Cuckow, Cuckow: O word of feare,
+Vnpleasing to a married eare
+
+   Winter. When Isicles hang by the wall,
+And Dicke the Shepheard blowes his naile;
+And Tom beares Logges into the hall,
+And Milke comes frozen home in paile:
+When blood is nipt, and waies be fowle,
+Then nightly sings the staring Owle
+Tuwhit towho.
+A merrie note,
+While greasie Ione doth keele the pot.
+When all aloud the winde doth blow,
+And coffing drownes the Parsons saw:
+And birds sit brooding in the snow,
+And Marrians nose lookes red and raw:
+When roasted Crabs hisse in the bowle,
+Then nightly sings the staring Owle,
+Tuwhit towho:
+A merrie note,
+While greasie Ione doth keele the pot
+
+   Brag. The Words of Mercurie,
+Are harsh after the songs of Apollo:
+You that way; we this way.
+
+Exeunt. omnes.
+
+FINIS. Loues Labour's lost.

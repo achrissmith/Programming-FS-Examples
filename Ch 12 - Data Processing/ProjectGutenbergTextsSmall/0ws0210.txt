@@ -1,0 +1,4577 @@
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+***************The second Part of Henry the Sixt***************
+
+This is our 3rd edition of most of these plays.  See the index.
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+The second Part of Henry the Sixt
+
+by William Shakespeare
+
+July, 2000  [Etext #2255]
+
+
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+***************The second Part of Henry the Sixt***************
+
+*****This file should be named 0ws0210.txt or 0ws0210.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 0ws0211.txt
+VERSIONS based on separate sources get new LETTER, 0ws0210a.txt
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Project Gutenberg's Etext of Shakespeare's The second Part of 
+Henry the Sixt
+
+
+
+
+Executive Director's Notes:
+
+In addition to the notes below, and so you will *NOT* think all
+the spelling errors introduced by the printers of the time have
+been corrected, here are the first few lines of Hamlet, as they
+are presented herein:
+
+  Barnardo. Who's there?
+  Fran. Nay answer me: Stand & vnfold
+your selfe
+
+   Bar. Long liue the King
+
+***
+
+As I understand it, the printers often ran out of certain words
+or letters they had often packed into a "cliche". . .this is the
+original meaning of the term cliche. . .and thus, being unwilling
+to unpack the cliches, and thus you will see some substitutions
+that look very odd. . .such as the exchanges of u for v, v for u,
+above. . .and you may wonder why they did it this way, presuming
+Shakespeare did not actually write the play in this manner. . . .
+
+The answer is that they MAY have packed "liue" into a cliche at a
+time when they were out of "v"'s. . .possibly having used "vv" in
+place of some "w"'s, etc.  This was a common practice of the day,
+as print was still quite expensive, and they didn't want to spend
+more on a wider selection of characters than they had to.
+
+You will find a lot of these kinds of "errors" in this text, as I
+have mentioned in other times and places, many "scholars" have an
+extreme attachment to these errors, and many have accorded them a
+very high place in the "canon" of Shakespeare.  My father read an
+assortment of these made available to him by Cambridge University
+in England for several months in a glass room constructed for the
+purpose.  To the best of my knowledge he read ALL those available
+. . .in great detail. . .and determined from the various changes,
+that Shakespeare most likely did not write in nearly as many of a
+variety of errors we credit him for, even though he was in/famous
+for signing his name with several different spellings.
+
+So, please take this into account when reading the comments below
+made by our volunteer who prepared this file:  you may see errors
+that are "not" errors. . . .
+
+So. . .with this caveat. . .we have NOT changed the canon errors,
+here is the Project Gutenberg Etext of Shakespeare's The second 
+Part of Henry the Sixt.
+
+Michael S. Hart
+Project Gutenberg
+Executive Director
+
+
+***
+
+
+Scanner's Notes: What this is and isn't.  This was taken from
+a copy of Shakespeare's first folio and it is as close as I can
+come in ASCII to the printed text.
+
+The elongated S's have been changed to small s's and the
+conjoined ae have been changed to ae.  I have left the spelling,
+punctuation, capitalization as close as possible to the
+printed text.  I have corrected some spelling mistakes (I have put
+together a spelling dictionary devised from the spellings of the
+Geneva Bible and Shakespeare's First Folio and have unified
+spellings according to this template), typo's and expanded
+abbreviations as I have come across them.  Everything within
+brackets [] is what I have added.  So if you don't like that
+you can delete everything within the brackets if you want a
+purer Shakespeare.
+
+Another thing that you should be aware of is that there are textual
+differences between various copies of the first folio.  So there may
+be differences (other than what I have mentioned above) between
+this and other first folio editions.  This is due to the printer's
+habit of setting the type and running off a number of copies and
+then proofing the printed copy and correcting the type and then
+continuing the printing run.  The proof run wasn't thrown away but
+incorporated into the printed copies.  This is just the way it is.
+The text I have used was a composite of more than 30 different
+First Folio editions' best pages.
+
+If you find any scanning errors, out and out typos, punctuation
+errors, or if you disagree with my spelling choices please feel
+free to email me those errors.  I wish to make this the best
+etext possible.  My email address for right now are haradda@aol.com
+and davidr@inconnect.com.  I hope that you enjoy this.
+
+David Reed
+
+The second Part of Henry the Sixt
+
+with the death of the Good Duke Hvmfrey
+
+Actus Primus. Scoena Prima.
+
+
+Flourish of Trumpets: Then Hoboyes.
+
+Enter King, Duke Humfrey, Salisbury, Warwicke, and Beauford on
+the one
+side. The Queene, Suffolke, Yorke, Somerset, and Buckingham, on
+the other.
+
+
+  Suffolke. As by your high Imperiall Maiesty,
+I had in charge at my depart for France,
+As Procurator to your Excellence,
+To marry Princes Margaret for your Grace;
+So in the Famous Ancient City, Toures,
+In presence of the Kings of France, and Sicill,
+The Dukes of Orleance, Calaber, Britaigne, and Alanson,
+Seuen Earles, twelue Barons, & twenty reuerend Bishops
+I haue perform'd my Taske, and was espous'd,
+And humbly now vpon my bended knee,
+In sight of England, and her Lordly Peeres,
+Deliuer vp my Title in the Queene
+To your most gracious hands, that are the Substance
+Of that great Shadow I did represent:
+The happiest Gift, that euer Marquesse gaue,
+The Fairest Queene, that euer King receiu'd
+
+   King. Suffolke arise. Welcome Queene Margaret,
+I can expresse no kinder signe of Loue
+Then this kinde kisse: O Lord, that lends me life,
+Lend me a heart repleate with thankfulnesse:
+For thou hast giuen me in this beauteous Face
+A world of earthly blessings to my soule,
+If Simpathy of Loue vnite our thoughts
+
+   Queen. Great King of England, & my gracious Lord,
+The mutuall conference that my minde hath had,
+By day, by night; waking, and in my dreames,
+In Courtly company, or at my Beades,
+With you mine Alder liefest Soueraigne,
+Makes me the bolder to salute my King,
+With ruder termes, such as my wit affoords,
+And ouer ioy of heart doth minister
+
+   King. Her sight did rauish, but her grace in Speech,
+Her words yclad with wisedomes Maiesty,
+Makes me from Wondring, fall to Weeping ioyes,
+Such is the Fulnesse of my hearts content.
+Lords, with one cheerefull voice, Welcome my Loue
+
+   All kneel. Long liue Qu[eene]. Margaret, Englands happines
+
+   Queene. We thanke you all.
+
+Florish
+
+  Suf. My Lord Protector, so it please your Grace,
+Heere are the Articles of contracted peace,
+Betweene our Soueraigne, and the French King Charles,
+For eighteene moneths concluded by consent
+
+   Glo. Reads. Inprimis, It is agreed betweene the French K[ing].
+Charles, and William de la Pole Marquesse of Suffolke,
+Ambassador
+for Henry King of England, That the said Henry shal
+espouse the Lady Margaret, daughter vnto Reignier King of
+Naples, Sicillia, and Ierusalem, and Crowne her Queene of
+England, ere the thirtieth of May next ensuing.
+Item, That the Dutchy of Aniou, and the County of Main,
+shall be released and deliuered to the King her father
+
+   King. Vnkle, how now?
+  Glo. Pardon me gracious Lord,
+Some sodaine qualme hath strucke me at the heart,
+And dim'd mine eyes, that I can reade no further
+
+   King. Vnckle of Winchester, I pray read on
+
+   Win. Item, It is further agreed betweene them, That the
+Dutchesse of Aniou and Maine, shall be released and deliuered
+ouer to the King her Father, and shee sent ouer of the King of
+Englands owne proper Cost and Charges, without hauing any
+Dowry
+
+   King. They please vs well. Lord Marques kneel down,
+We heere create thee the first Duke of Suffolke,
+And girt thee with the Sword. Cosin of Yorke,
+We heere discharge your Grace from being Regent
+I'th parts of France, till terme of eighteene Moneths
+Be full expyr'd. Thankes Vncle Winchester,
+Gloster, Yorke, Buckingham, Somerset,
+Salisburie, and Warwicke.
+We thanke you all for this great fauour done,
+In entertainment to my Princely Queene.
+Come, let vs in, and with all speede prouide
+To see her Coronation be perform'd.
+
+Exit King, Queene, and Suffolke.
+
+Manet the rest.
+
+  Glo. Braue Peeres of England, Pillars of the State,
+To you Duke Humfrey must vnload his greefe:
+Your greefe, the common greefe of all the Land.
+What? did my brother Henry spend his youth,
+His valour, coine, and people in the warres?
+Did he so often lodge in open field:
+In Winters cold, and Summers parching heate,
+To conquer France, his true inheritance?
+And did my brother Bedford toyle his wits,
+To keepe by policy what Henrie got:
+Haue you your selues, Somerset, Buckingham,
+Braue Yorke, Salisbury, and victorious Warwicke,
+Receiud deepe scarres in France and Normandie:
+Or hath mine Vnckle Beauford, and my selfe,
+With all the Learned Counsell of the Realme,
+Studied so long, sat in the Councell house,
+Early and late, debating too and fro
+How France and Frenchmen might be kept in awe,
+And hath his Highnesse in his infancie,
+Crowned in Paris in despight of foes,
+And shall these Labours, and these Honours dye?
+Shall Henries Conquest, Bedfords vigilance,
+Your Deeds of Warre, and all our Counsell dye?
+O Peeres of England, shamefull is this League,
+Fatall this Marriage, cancelling your Fame,
+Blotting your names from Bookes of memory,
+Racing the Charracters of your Renowne,
+Defacing Monuments of Conquer'd France,
+Vndoing all as all had neuer bin
+
+   Car. Nephew, what meanes this passionate discourse?
+This preroration with such circumstance:
+For France, 'tis ours; and we will keepe it still
+
+   Glo. I Vnckle, we will keepe it, if we can:
+But now it is impossible we should.
+Suffolke, the new made Duke that rules the rost,
+Hath giuen the Dutchy of Aniou and Mayne,
+Vnto the poore King Reignier, whose large style
+Agrees not with the leannesse of his purse
+
+   Sal. Now by the death of him that dyed for all,
+These Counties were the Keyes of Normandie:
+But wherefore weepes Warwicke, my valiant sonne?
+  War. For greefe that they are past recouerie.
+For were there hope to conquer them againe,
+My sword should shed hot blood, mine eyes no teares.
+Aniou and Maine? My selfe did win them both:
+Those Prouinces, these Armes of mine did conquer,
+And are the Citties that I got with wounds,
+Deliuer'd vp againe with peacefull words?
+Mort Dieu
+
+   Yorke. For Suffolkes Duke, may he be suffocate,
+That dims the Honor of this Warlike Isle:
+France should haue torne and rent my very hart,
+Before I would haue yeelded to this League.
+I neuer read but Englands Kings haue had
+Large summes of Gold, and Dowries with their wiues,
+And our King Henry giues away his owne,
+To match with her that brings no vantages
+
+   Hum. A proper iest, and neuer heard before,
+That Suffolke should demand a whole Fifteenth,
+For Costs and Charges in transporting her:
+She should haue staid in France, and steru'd in France
+Before -
+  Car. My Lord of Gloster, now ye grow too hot,
+It was the pleasure of my Lord the King
+
+   Hum. My Lord of Winchester I know your minde.
+'Tis not my speeches that you do mislike:
+But 'tis my presence that doth trouble ye,
+Rancour will out, proud Prelate, in thy face
+I see thy furie: If I longer stay,
+We shall begin our ancient bickerings:
+Lordings farewell, and say when I am gone,
+I prophesied, France will be lost ere long.
+
+Exit Humfrey.
+
+  Car. So, there goes our Protector in a rage:
+'Tis knowne to you he is mine enemy:
+Nay more, an enemy vnto you all,
+And no great friend, I feare me to the King;
+Consider Lords, he is the next of blood,
+And heyre apparant to the English Crowne:
+Had Henrie got an Empire by his marriage,
+And all the wealthy Kingdomes of the West,
+There's reason he should be displeas'd at it:
+Looke to it Lords, let not his smoothing words
+Bewitch your hearts, be wise and circumspect.
+What though the common people fauour him,
+Calling him, Humfrey the good Duke of Gloster,
+Clapping their hands, and crying with loud voyce,
+Iesu maintaine your Royall Excellence,
+With God preserue the good Duke Humfrey:
+I feare me Lords, for all this flattering glosse,
+He will be found a dangerous Protector
+
+   Buc. Why should he then protect our Soueraigne?
+He being of age to gouerne of himselfe.
+Cosin of Somerset, ioyne you with me,
+And altogether with the Duke of Suffolke,
+Wee'l quickly hoyse Duke Humfrey from his seat
+
+   Car. This weighty businesse will not brooke delay,
+Ile to the Duke of Suffolke presently.
+
+Exit Cardinall.
+
+  Som. Cosin of Buckingham, though Humfries pride
+And greatnesse of his place be greefe to vs,
+Yet let vs watch the haughtie Cardinall,
+His insolence is more intollerable
+Then all the Princes in the Land beside,
+If Gloster be displac'd, hee'l be Protector
+
+   Buc. Or thou, or I Somerset will be Protectors,
+Despite Duke Humfrey, or the Cardinall.
+
+Exit Buckingham, and Somerset.
+
+  Sal. Pride went before, Ambition followes him.
+While these do labour for their owne preferment,
+Behooues it vs to labor for the Realme.
+I neuer saw but Humfrey Duke of Gloster,
+Did beare him like a Noble Gentleman:
+Oft haue I seene the haughty Cardinall,
+More like a Souldier then a man o'th' Church,
+As stout and proud as he were Lord of all,
+Sweare like a Ruffian, and demeane himselfe
+Vnlike the Ruler of a Common-weale.
+Warwicke my sonne, the comfort of my age,
+Thy deeds, thy plainnesse, and thy house-keeping,
+Hath wonne the greatest fauour of the Commons,
+Excepting none but good Duke Humfrey.
+And Brother Yorke, thy Acts in Ireland,
+In bringing them to ciuill Discipline:
+Thy late exploits done in the heart of France,
+When thou wert Regent for our Soueraigne,
+Haue made thee fear'd and honor'd of the people,
+Ioyne we together for the publike good,
+In what we can, to bridle and suppresse
+The pride of Suffolke, and the Cardinall,
+With Somersets and Buckinghams Ambition,
+And as we may, cherish Duke Humfries deeds,
+While they do tend the profit of the Land
+
+   War. So God helpe Warwicke, as he loues the Land,
+And common profit of his Countrey
+
+   Yor. And so sayes Yorke,
+For he hath greatest cause
+
+   Salisbury. Then lets make hast away,
+And looke vnto the maine
+
+   Warwicke. Vnto the maine?
+Oh Father, Maine is lost,
+That Maine, which by maine force Warwicke did winne,
+And would haue kept, so long as breath did last:
+Main-chance father you meant, but I meant Maine,
+Which I will win from France, or else be slaine.
+
+Exit Warwicke, and Salisbury. Manet Yorke.
+
+  Yorke. Aniou and Maine are giuen to the French,
+Paris is lost, the state of Normandie
+Stands on a tickle point, now they are gone:
+Suffolke concluded on the Articles,
+The Peeres agreed, and Henry was well pleas'd,
+To change two Dukedomes for a Dukes faire daughter.
+I cannot blame them all, what is't to them?
+'Tis thine they giue away, and not their owne.
+Pirates may make cheape penyworths of their pillage,
+And purchase Friends, and giue to Curtezans,
+Still reuelling like Lords till all be gone,
+While as the silly Owner of the goods
+Weepes ouer them, and wrings his haplesse hands,
+And shakes his head, and trembling stands aloofe,
+While all is shar'd, and all is borne away,
+Ready to sterue, and dare not touch his owne.
+So Yorke must sit, and fret, and bite his tongue,
+While his owne Lands are bargain'd for, and sold:
+Me thinkes the Realmes of England, France, & Ireland,
+Beare that proportion to my flesh and blood,
+As did the fatall brand Althaea burnt,
+Vnto the Princes heart of Calidon:
+Aniou and Maine both giuen vnto the French?
+Cold newes for me: for I had hope of France,
+Euen as I haue of fertile Englands soile.
+A day will come, when Yorke shall claime his owne,
+And therefore I will take the Neuils parts,
+And make a shew of loue to proud Duke Humfrey,
+And when I spy aduantage, claime the Crowne,
+For that's the Golden marke I seeke to hit:
+Nor shall proud Lancaster vsurpe my right,
+Nor hold the Scepter in his childish Fist,
+Nor weare the Diadem vpon his head,
+Whose Church-like humors fits not for a Crowne.
+Then Yorke be still a-while, till time do serue:
+Watch thou, and wake when others be asleepe,
+To prie into the secrets of the State,
+Till Henrie surfetting in ioyes of loue,
+With his new Bride, & Englands deere bought Queen,
+And Humfrey with the Peeres be falne at iarres:
+Then will I raise aloft the Milke-white-Rose,
+With whose sweet smell the Ayre shall be perfum'd,
+And in my Standard beare the Armes of Yorke,
+To grapple with the house of Lancaster,
+And force perforce Ile make him yeeld the Crowne,
+Whose bookish Rule, hath pull'd faire England downe.
+
+Exit Yorke.
+
+Enter Duke Humfrey and his wife Elianor.
+
+  Elia. Why droopes my Lord like ouer-ripen'd Corn,
+Hanging the head at Ceres plenteous load?
+Why doth the Great Duke Humfrey knit his browes,
+As frowning at the Fauours of the world?
+Why are thine eyes fixt to the sullen earth,
+Gazing on that which seemes to dimme thy sight?
+What seest thou there? King Henries Diadem,
+Inchac'd with all the Honors of the world?
+If so, Gaze on, and grouell on thy face,
+Vntill thy head be circled with the same.
+Put forth thy hand, reach at the glorious Gold.
+What, is't too short? Ile lengthen it with mine,
+And hauing both together heau'd it vp,
+Wee'l both together lift our heads to heauen,
+And neuer more abase our sight so low,
+As to vouchsafe one glance vnto the ground
+
+   Hum. O Nell, sweet Nell, if thou dost loue thy Lord,
+Banish the Canker of ambitious thoughts:
+And may that thought, when I imagine ill
+Against my King and Nephew, vertuous Henry,
+Be my last breathing in this mortall world.
+My troublous dreames this night, doth make me sad
+
+   Eli. What dream'd my Lord, tell me, and Ile requite it
+With sweet rehearsall of my mornings dreame?
+  Hum. Me thought this staffe mine Office-badge in
+Court
+Was broke in twaine: by whom, I haue forgot,
+But as I thinke, it was by'th Cardinall,
+And on the peeces of the broken Wand
+Were plac'd the heads of Edmond Duke of Somerset,
+And William de la Pole first Duke of Suffolke.
+This was my dreame, what it doth bode God knowes
+
+   Eli. Tut, this was nothing but an argument,
+That he that breakes a sticke of Glosters groue,
+Shall loose his head for his presumption.
+But list to me my Humfrey, my sweete Duke:
+Me thought I sate in Seate of Maiesty,
+In the Cathedrall Church of Westminster,
+And in that Chaire where Kings & Queens wer crownd,
+Where Henrie and Dame Margaret kneel'd to me,
+And on my head did set the Diadem
+
+   Hum. Nay Elinor, then must I chide outright:
+Presumptuous Dame, ill-nurter'd Elianor,
+Art thou not second Woman in the Realme?
+And the Protectors wife belou'd of him?
+Hast thou not worldly pleasure at command,
+Aboue the reach or compasse of thy thought?
+And wilt thou still be hammering Treachery,
+To tumble downe thy husband, and thy selfe,
+From top of Honor, to Disgraces feete?
+Away from me, and let me heare no more
+
+   Elia. What, what, my Lord? Are you so chollericke
+With Elianor, for telling but her dreame?
+Next time Ile keepe my dreames vnto my selfe,
+And not be check'd
+
+   Hum. Nay be not angry, I am pleas'd againe.
+Enter Messenger.
+
+  Mess. My Lord Protector, 'tis his Highnes pleasure,
+You do prepare to ride vnto S[aint]. Albons,
+Where as the King and Queene do meane to Hawke
+
+   Hu. I go. Come Nel thou wilt ride with vs?
+
+Ex[it]. Hum[frey]
+
+  Eli. Yes my good Lord, Ile follow presently.
+Follow I must, I cannot go before,
+While Gloster beares this base and humble minde.
+Were I a Man, a Duke, and next of blood,
+I would remoue these tedious stumbling blockes,
+And smooth my way vpon their headlesse neckes.
+And being a woman, I will not be slacke
+To play my part in Fortunes Pageant.
+Where are you there? Sir Iohn; nay feare not man,
+We are alone, here's none but thee, & I.
+Enter Hume.
+
+  Hume. Iesus preserue your Royall Maiesty
+
+   Elia. What saist thou? Maiesty: I am but Grace
+
+   Hume. But by the grace of God, and Humes aduice,
+Your Graces Title shall be multiplied
+
+   Elia. What saist thou man? Hast thou as yet confer'd
+With Margerie Iordane the cunning Witch,
+With Roger Bollingbrooke the Coniurer?
+And will they vndertake to do me good?
+  Hume. This they haue promised to shew your Highnes
+A Spirit rais'd from depth of vnder ground,
+That shall make answere to such Questions,
+As by your Grace shall be propounded him
+
+   Elianor. It is enough, Ile thinke vpon the Questions:
+When from Saint Albones we doe make returne,
+Wee'le see these things effected to the full.
+Here Hume, take this reward, make merry man
+With thy Confederates in this weightie cause.
+
+Exit Elianor
+
+   Hume. Hume must make merry with the Duchesse Gold:
+Marry and shall: but how now, Sir Iohn Hume?
+Seale vp your Lips, and giue no words but Mum,
+The businesse asketh silent secrecie.
+Dame Elianor giues Gold, to bring the Witch:
+Gold cannot come amisse, were she a Deuill.
+Yet haue I Gold flyes from another Coast:
+I dare not say, from the rich Cardinall,
+And from the great and new-made Duke of Suffolke;
+Yet I doe finde it so: for to be plaine,
+They (knowing Dame Elianors aspiring humor)
+Haue hyred me to vnder-mine the Duchesse,
+And buzze these Coniurations in her brayne.
+They say, A craftie Knaue do's need no Broker,
+Yet am I Suffolke and the Cardinalls Broker.
+Hume, if you take not heed, you shall goe neere
+To call them both a payre of craftie Knaues.
+Well, so it stands: and thus I feare at last,
+Humes Knauerie will be the Duchesse Wracke,
+And her Attainture, will be Humphreyes fall:
+Sort how it will, I shall haue Gold for all.
+Enter.
+
+Enter three or foure Petitioners, the Armorers Man being one.
+
+  1.Pet. My Masters, let's stand close, my Lord Protector
+will come this way by and by, and then wee may
+deliuer our Supplications in the Quill
+
+   2.Pet. Marry the Lord protect him, for hee's a good
+man, Iesu blesse him.
+Enter Suffolke, and Queene.
+
+  Peter. Here a comes me thinkes, and the Queene with
+him: Ile be the first sure
+
+   2.Pet. Come backe foole, this is the Duke of Suffolk,
+and not my Lord Protector
+
+   Suff. How now fellow: would'st any thing with me?
+  1.Pet. I pray my Lord pardon me, I tooke ye for my
+Lord Protector
+
+   Queene. To my Lord Protector? Are your Supplications
+to his Lordship? Let me see them: what is thine?
+  1.Pet. Mine is, and't please your Grace, against Iohn
+Goodman, my Lord Cardinals Man, for keeping my House,
+and Lands, and Wife and all, from me
+
+   Suff. Thy Wife too? that's some Wrong indeede.
+What's yours? What's heere? Against the Duke of
+Suffolke, for enclosing the Commons of Melforde. How
+now, Sir Knaue?
+  2.Pet. Alas Sir, I am but a poore Petitioner of our
+whole Towneship
+
+   Peter. Against my Master Thomas Horner, for saying,
+That the Duke of Yorke was rightfull Heire to the
+Crowne
+
+   Queene. What say'st thou? Did the Duke of Yorke
+say, hee was rightfull Heire to the Crowne?
+  Peter. That my Mistresse was? No forsooth: my Master
+said, That he was, and that the King was an Vsurper
+
+   Suff. Who is there?
+Enter Seruant.
+
+Take this fellow in, and send for his Master with a Purseuant
+presently: wee'le heare more of your matter before
+the King.
+
+Enter.
+
+  Queene. And as for you that loue to be protected
+Vnder the Wings of our Protectors Grace,
+Begin your Suites anew, and sue to him.
+
+Teare the Supplication.
+
+Away, base Cullions: Suffolke let them goe
+
+   All. Come, let's be gone.
+Enter.
+
+  Queene. My Lord of Suffolke, say, is this the guise?
+Is this the Fashions in the Court of England?
+Is this the Gouernment of Britaines Ile?
+And this the Royaltie of Albions King?
+What, shall King Henry be a Pupill still,
+Vnder the surly Glosters Gouernance?
+Am I a Queene in Title and in Stile,
+And must be made a Subiect to a Duke?
+I tell thee Poole, when in the Citie Tours
+Thou ran'st a-tilt in honor of my Loue,
+And stol'st away the Ladies hearts of France;
+I thought King Henry had resembled thee,
+In Courage, Courtship, and Proportion:
+But all his minde is bent to Holinesse,
+To number Aue-Maries on his Beades:
+His Champions, are the Prophets and Apostles,
+His Weapons, holy Sawes of sacred Writ,
+His Studie is his Tilt-yard, and his Loues
+Are brazen Images of Canonized Saints.
+I would the Colledge of the Cardinalls
+Would chuse him Pope, and carry him to Rome,
+And set the Triple Crowne vpon his Head;
+That were a State fit for his Holinesse
+
+   Suff. Madame be patient: as I was cause
+Your Highnesse came to England, so will I
+In England worke your Graces full content
+
+   Queene. Beside the haughtie Protector, haue we Beauford
+The imperious Churchman; Somerset, Buckingham,
+And grumbling Yorke: and not the least of these,
+But can doe more in England then the King
+
+   Suff. And he of these, that can doe most of all,
+Cannot doe more in England then the Neuils:
+Salisbury and Warwick are no simple Peeres
+
+   Queene. Not all these Lords do vex me halfe so much,
+As that prowd Dame, the Lord Protectors Wife:
+She sweepes it through the Court with troups of Ladies,
+More like an Empresse, then Duke Humphreyes Wife:
+Strangers in Court, doe take her for the Queene:
+She beares a Dukes Reuenewes on her backe,
+And in her heart she scornes our Pouertie:
+Shall I not liue to be aueng'd on her?
+Contemptuous base-borne Callot as she is,
+She vaunted 'mongst her Minions t' other day,
+The very trayne of her worst wearing Gowne,
+Was better worth then all my Fathers Lands,
+Till Suffolke gaue two Dukedomes for his Daughter
+
+   Suff. Madame, my selfe haue lym'd a Bush for her,
+And plac't a Quier of such enticing Birds,
+That she will light to listen to the Layes,
+And neuer mount to trouble you againe.
+So let her rest: and Madame list to me,
+For I am bold to counsaile you in this;
+Although we fancie not the Cardinall,
+Yet must we ioyne with him and with the Lords,
+Till we haue brought Duke Humphrey in disgrace.
+As for the Duke of Yorke, this late Complaint
+Will make but little for his benefit:
+So one by one wee'le weed them all at last,
+And you your selfe shall steere the happy Helme.
+Enter.
+
+Sound a Sennet.
+
+Enter the King, Duke Humfrey, Cardinall, Buckingham, Yorke,
+Salisbury,
+Warwicke, and the Duchesse.
+
+  King. For my part, Noble Lords, I care not which,
+Or Somerset, or Yorke, all's one to me
+
+   Yorke. If Yorke haue ill demean'd himselfe in France,
+Then let him be denay'd the Regentship
+
+   Som. If Somerset be vnworthy of the Place,
+Let Yorke be Regent, I will yeeld to him
+
+   Warw. Whether your Grace be worthy, yea or no,
+Dispute not that, Yorke is the worthyer
+
+   Card. Ambitious Warwicke, let thy betters speake
+
+   Warw. The Cardinall's not my better in the field
+
+   Buck. All in this presence are thy betters, Warwicke
+
+   Warw. Warwicke may liue to be the best of all
+
+   Salisb. Peace Sonne, and shew some reason Buckingham
+Why Somerset should be preferr'd in this?
+  Queene. Because the King forsooth will haue it so
+
+   Humf. Madame, the King is old enough himselfe
+To giue his Censure: These are no Womens matters
+
+   Queene. If he be old enough, what needs your Grace
+To be Protector of his Excellence?
+  Humf. Madame, I am Protector of the Realme,
+And at his pleasure will resigne my Place
+
+   Suff. Resigne it then, and leaue thine insolence.
+Since thou wert King; as who is King, but thou?
+The Common-wealth hath dayly run to wrack,
+The Dolphin hath preuayl'd beyond the Seas,
+And all the Peeres and Nobles of the Realme
+Haue beene as Bond-men to thy Soueraigntie
+
+   Card. The Commons hast thou rackt, the Clergies Bags
+Are lanke and leane with thy Extortions
+
+   Som. Thy sumptuous Buildings, and thy Wiues Attyre
+Haue cost a masse of publique Treasurie
+
+   Buck. Thy Crueltie in execution
+Vpon Offendors, hath exceeded Law,
+And left thee to the mercy of the Law
+
+   Queene. Thy sale of Offices and Townes in France,
+If they were knowne, as the suspect is great,
+Would make thee quickly hop without thy Head.
+
+Exit Humfrey.
+
+Giue me my Fanne: what, Mynion, can ye not?
+
+She giues the Duchesse a box on the eare.
+
+I cry you mercy, Madame: was it you?
+  Duch. Was't I? yea, I it was, prowd French-woman:
+Could I come neere your Beautie with my Nayles,
+I could set my ten Commandements in your face
+
+   King. Sweet Aunt be quiet, 'twas against her will
+
+   Duch. Against her will, good King? looke to't in time,
+Shee'le hamper thee, and dandle thee like a Baby:
+Though in this place most Master weare no Breeches,
+She shall not strike Dame Elianor vnreueng'd.
+
+Exit Elianor.
+
+  Buck. Lord Cardinall, I will follow Elianor,
+And listen after Humfrey, how he proceedes:
+Shee's tickled now, her Fume needs no spurres,
+Shee'le gallop farre enough to her destruction.
+
+Exit Buckingham.
+
+Enter Humfrey.
+
+  Humf. Now Lords, my Choller being ouer-blowne,
+With walking once about the Quadrangle,
+I come to talke of Common-wealth Affayres.
+As for your spightfull false Obiections,
+Proue them, and I lye open to the Law:
+But God in mercie so deale with my Soule,
+As I in dutie loue my King and Countrey.
+But to the matter that we haue in hand:
+I say, my Soueraigne, Yorke is meetest man
+To be your Regent in the Realme of France
+
+   Suff. Before we make election, giue me leaue
+To shew some reason, of no little force,
+That Yorke is most vnmeet of any man
+
+   Yorke. Ile tell thee, Suffolke, why I am vnmeet.
+First, for I cannot flatter thee in Pride:
+Next, if I be appointed for the Place,
+My Lord of Somerset will keepe me here,
+Without Discharge, Money, or Furniture,
+Till France be wonne into the Dolphins hands:
+Last time I danc't attendance on his will,
+Till Paris was besieg'd, famisht, and lost
+
+   Warw. That can I witnesse, and a fouler fact
+Did neuer Traytor in the Land commit
+
+   Suff. Peace head-strong Warwicke
+
+   Warw. Image of Pride, why should I hold my peace?
+Enter Armorer and his Man.
+
+  Suff. Because here is a man accused of Treason,
+Pray God the Duke of Yorke excuse himselfe
+
+   Yorke. Doth any one accuse Yorke for a Traytor?
+  King. What mean'st thou, Suffolke? tell me, what are
+these?
+  Suff. Please it your Maiestie, this is the man
+That doth accuse his Master of High Treason;
+His words were these: That Richard, Duke of Yorke,
+Was rightfull Heire vnto the English Crowne,
+And that your Maiestie was an Vsurper
+
+   King. Say man, were these thy words?
+  Armorer. And't shall please your Maiestie, I neuer sayd
+nor thought any such matter: God is my witnesse, I am
+falsely accus'd by the Villaine
+
+   Peter. By these tenne bones, my Lords, hee did speake
+them to me in the Garret one Night, as wee were scowring
+my Lord of Yorkes Armor
+
+   Yorke. Base Dunghill Villaine, and Mechanicall,
+Ile haue thy Head for this thy Traytors speech:
+I doe beseech your Royall Maiestie,
+Let him haue all the rigor of the Law
+
+   Armorer. Alas, my Lord, hang me if euer I spake the
+words: my accuser is my Prentice, and when I did correct
+him for his fault the other day, he did vow vpon his
+knees he would be euen with me: I haue good witnesse
+of this; therefore I beseech your Maiestie, doe not cast
+away an honest man for a Villaines accusation
+
+   King. Vnckle, what shall we say to this in law?
+  Humf. This doome, my Lord, if I may iudge:
+Let Somerset be Regent o're the French,
+Because in Yorke this breedes suspition;
+And let these haue a day appointed them
+For single Combat, in conuenient place,
+For he hath witnesse of his seruants malice:
+This is the Law, and this Duke Humfreyes doome
+
+   Som. I humbly thanke your Royall Maiestie
+
+   Armorer. And I accept the Combat willingly
+
+   Peter. Alas, my Lord, I cannot fight; for Gods sake
+pitty my case: the spight of man preuayleth against me.
+O Lord haue mercy vpon me, I shall neuer be able to
+fight a blow: O Lord my heart
+
+   Humf. Sirrha, or you must fight, or else be hang'd
+
+   King. Away with them to Prison: and the day of
+Combat, shall be the last of the next moneth. Come
+Somerset, wee'le see thee sent away.
+
+Flourish. Exeunt.
+
+Enter the Witch, the two Priests, and Bullingbrooke.
+
+  Hume. Come my Masters, the Duchesse I tell you expects
+performance of your promises
+
+   Bulling. Master Hume, we are therefore prouided: will
+her Ladyship behold and heare our Exorcismes?
+  Hume. I, what else? feare you not her courage
+
+   Bulling. I haue heard her reported to be a Woman of
+an inuincible spirit: but it shall be conuenient, Master
+Hume, that you be by her aloft, while wee be busie below;
+and so I pray you goe in Gods Name, and leaue vs.
+
+Exit Hume.
+
+Mother Iordan, be you prostrate, and grouell on the
+Earth; Iohn Southwell reade you, and let vs to our worke.
+Enter Elianor aloft.
+
+  Elianor. Well said my Masters, and welcome all: To
+this geere, the sooner the better
+
+   Bullin. Patience, good Lady, Wizards know their times:
+Deepe Night, darke Night, the silent of the Night,
+The time of Night when Troy was set on fire,
+The time when Screech-owles cry, and Bandogs howle,
+And Spirits walke, and Ghosts breake vp their Graues;
+That time best fits the worke we haue in hand.
+Madame, sit you, and feare not: whom wee rayse,
+Wee will make fast within a hallow'd Verge.
+
+Here doe the Ceremonies belonging, and make the Circle,
+Bullingbrooke or
+Southwell reades, Coniuro te, &c. It Thunders and Lightens
+terribly: then
+the Spirit riseth.
+
+  Spirit. Ad sum
+
+   Witch. Asmath, by the eternall God,
+Whose name and power thou tremblest at,
+Answere that I shall aske: for till thou speake,
+Thou shalt not passe from hence
+
+   Spirit. Aske what thou wilt; that I had sayd, and
+done
+
+   Bulling. First of the King: What shall of him become?
+  Spirit. The Duke yet liues, that Henry shall depose:
+But him out-liue, and dye a violent death
+
+   Bulling. What fates await the Duke of Suffolke?
+  Spirit. By Water shall he dye, and take his end
+
+   Bulling. What shall befall the Duke of Somerset?
+  Spirit. Let him shun Castles,
+Safer shall he be vpon the sandie Plaines,
+Then where Castles mounted stand.
+Haue done, for more I hardly can endure
+
+   Bulling. Discend to Darknesse, and the burning Lake:
+False Fiend auoide.
+
+Thunder and Lightning. Exit Spirit.
+
+Enter the Duke of Yorke and the Duke of Buckingham with their
+Guard, and
+breake in.
+
+  Yorke. Lay hands vpon these Traytors, and their trash:
+Beldam I thinke we watcht you at an ynch.
+What Madame, are you there? the King & Commonweale
+Are deepely indebted for this peece of paines;
+My Lord Protector will, I doubt it not,
+See you well guerdon'd for these good deserts
+
+   Elianor. Not halfe so bad as thine to Englands King,
+Iniurious Duke, that threatest where's no cause
+
+   Buck. True Madame, none at all: what call you this?
+Away with them, let them be clapt vp close,
+And kept asunder: you Madame shall with vs.
+Stafford take her to thee.
+Wee'le see your Trinkets here all forth-comming.
+All away.
+Enter.
+
+  Yorke. Lord Buckingham, me thinks you watcht her well:
+A pretty Plot, well chosen to build vpon.
+Now pray my Lord, let's see the Deuils Writ.
+What haue we here?
+
+Reades.
+
+The Duke yet liues, that Henry shall depose:
+But him out-liue, and dye a violent death.
+Why this is iust, Aio aeacida Romanos vincere posso.
+Well, to the rest:
+Tell me what fate awaits the Duke of Suffolke?
+By Water shall he dye, and take his end.
+What shall betide the Duke of Somerset?
+Let him shunne Castles,
+Safer shall he be vpon the sandie Plaines,
+Then where Castles mounted stand.
+Come, come, my Lords,
+These Oracles are hardly attain'd,
+And hardly vnderstood.
+The King is now in progresse towards Saint Albones,
+With him, the Husband of this louely Lady:
+Thither goes these Newes,
+As fast as Horse can carry them:
+A sorry Breakfast for my Lord Protector
+
+   Buck. Your Grace shal giue me leaue, my Lord of York,
+To be the Poste, in hope of his reward
+
+   Yorke. At your pleasure, my good Lord.
+Who's within there, hoe?
+Enter a Seruingman.
+
+Inuite my Lords of Salisbury and Warwick
+To suppe with me to morrow Night. Away.
+
+Exeunt.
+
+Enter the King, Queene, Protector, Cardinall, and Suffolke, with
+Faulkners
+hallowing.
+
+  Queene. Beleeue me Lords, for flying at the Brooke,
+I saw not better sport these seuen yeeres day:
+Yet by your leaue, the Winde was very high,
+And ten to one, old Ioane had not gone out
+
+   King. But what a point, my Lord, your Faulcon made,
+And what a pytch she flew aboue the rest:
+To see how God in all his Creatures workes,
+Yea Man and Birds are fayne of climbing high
+
+   Suff. No maruell, and it like your Maiestie,
+My Lord Protectors Hawkes doe towre so well,
+They know their Master loues to be aloft,
+And beares his thoughts aboue his Faulcons Pitch
+
+   Glost. My Lord, 'tis but a base ignoble minde,
+That mounts no higher then a Bird can sore:
+  Card. I thought as much, hee would be aboue the
+Clouds
+
+   Glost. I my Lord Cardinall, how thinke you by that?
+Were it not good your Grace could flye to Heauen?
+  King. The Treasurie of euerlasting Ioy
+
+   Card. Thy Heauen is on Earth, thine Eyes & Thoughts
+Beat on a Crowne, the Treasure of thy Heart,
+Pernitious Protector, dangerous Peere,
+That smooth'st it so with King and Common-weale
+
+   Glost. What, Cardinall?
+Is your Priest-hood growne peremptorie?
+Tantæne animis Coelestibus iræ, Church-men so hot?
+Good Vnckle hide such mallice:
+With such Holynesse can you doe it?
+  Suff. No mallice Sir, no more then well becomes
+So good a Quarrell, and so bad a Peere
+
+   Glost. As who, my Lord?
+  Suff. Why, as you, my Lord,
+An't like your Lordly Lords Protectorship
+
+   Glost. Why Suffolke, England knowes thine insolence
+
+   Queene. And thy Ambition, Gloster
+
+   King. I prythee peace, good Queene,
+And whet not on these furious Peeres,
+For blessed are the Peace-makers on Earth
+
+   Card. Let me be blessed for the Peace I make
+Against this prowd Protector with my Sword
+
+   Glost. Faith holy Vnckle, would't were come to that
+
+   Card. Marry, when thou dar'st
+
+   Glost. Make vp no factious numbers for the matter,
+In thine owne person answere thy abuse
+
+   Card. I, where thou dar'st not peepe:
+And if thou dar'st, this Euening,
+On the East side of the Groue
+
+   King. How now, my Lords?
+  Card. Beleeue me, Cousin Gloster,
+Had not your man put vp the Fowle so suddenly,
+We had had more sport.
+Come with thy two-hand Sword
+
+   Glost. True Vnckle, are ye aduis'd?
+The East side of the Groue:
+Cardinall, I am with you
+
+   King. Why how now, Vnckle Gloster?
+  Glost. Talking of Hawking; nothing else, my Lord.
+Now by Gods Mother, Priest,
+Ile shaue your Crowne for this,
+Or all my Fence shall fayle
+
+   Card. Medice teipsum, Protector see to't well, protect
+your selfe
+
+   King. The Windes grow high,
+So doe your Stomacks, Lords:
+How irkesome is this Musick to my heart?
+When such Strings iarre, what hope of Harmony?
+I pray my Lords let me compound this strife.
+Enter one crying a Miracle
+
+   Glost. What meanes this noyse?
+Fellow, what Miracle do'st thou proclayme?
+  One. A Miracle, a Miracle
+
+   Suffolke. Come to the King, and tell him what Miracle
+
+   One. Forsooth, a blinde man at Saint Albones Shrine,
+Within this halfe houre hath receiu'd his sight,
+A man that ne're saw in his life before
+
+   King. Now God be prays'd, that to beleeuing Soules
+Giues Light in Darknesse, Comfort in Despaire.
+Enter the Maior of Saint Albones, and his Brethren, bearing the
+man
+betweene two in a Chayre.
+
+  Card. Here comes the Townes-men, on Procession,
+To present your Highnesse with the man
+
+   King. Great is his comfort in this Earthly Vale,
+Although by his sight his sinne be multiplyed
+
+   Glost. Stand by, my Masters, bring him neere the King,
+His Highnesse pleasure is to talke with him
+
+   King. Good-fellow, tell vs here the circumstance,
+That we for thee may glorifie the Lord.
+What, hast thou beene long blinde, and now restor'd?
+  Simpc. Borne blinde, and't please your Grace
+
+   Wife. I indeede was he
+
+   Suff. What Woman is this?
+  Wife. His Wife, and't like your Worship
+
+   Glost. Hadst thou been his Mother, thou could'st haue
+better told
+
+   King. Where wert thou borne?
+  Simpc. At Barwick in the North, and't like your
+Grace
+
+   King. Poore Soule,
+Gods goodnesse hath beene great to thee:
+Let neuer Day nor Night vnhallowed passe,
+But still remember what the Lord hath done
+
+   Queene. Tell me, good-fellow,
+Cam'st thou here by Chance, or of Deuotion,
+To this holy Shrine?
+  Simpc. God knowes of pure Deuotion,
+Being call'd a hundred times, and oftner,
+In my sleepe, by good Saint Albon:
+Who said; Symon, come; come offer at my Shrine,
+And I will helpe thee
+
+   Wife. Most true, forsooth:
+And many time and oft my selfe haue heard a Voyce,
+To call him so
+
+   Card. What, art thou lame?
+  Simpc. I, God Almightie helpe me
+
+   Suff. How cam'st thou so?
+  Simpc. A fall off of a Tree
+
+   Wife. A Plum-tree, Master
+
+   Glost. How long hast thou beene blinde?
+  Simpc. O borne so, Master
+
+   Glost. What, and would'st climbe a Tree?
+  Simpc. But that in all my life, when I was a youth
+
+   Wife. Too true, and bought his climbing very deare
+
+   Glost. 'Masse, thou lou'dst Plummes well, that would'st
+venture so
+
+   Simpc. Alas, good Master, my Wife desired some
+Damsons, and made me climbe, with danger of my
+Life
+
+   Glost. A subtill Knaue, but yet it shall not serue:
+Let me see thine Eyes; winck now, now open them,
+In my opinion, yet thou seest not well
+
+   Simpc. Yes Master, cleare as day, I thanke God and
+Saint Albones
+
+   Glost. Say'st thou me so: what Colour is this Cloake
+of?
+  Simpc. Red Master, Red as Blood
+
+   Glost. Why that's well said: What Colour is my
+Gowne of?
+  Simpc. Black forsooth, Coale-Black, as Iet
+
+   King. Why then, thou know'st what Colour Iet is
+of?
+  Suff. And yet I thinke, Iet did he neuer see
+
+   Glost. But Cloakes and Gownes, before this day, a
+many
+
+   Wife. Neuer before this day, in all his life
+
+   Glost. Tell me Sirrha, what's my Name?
+  Simpc. Alas Master, I know not
+
+   Glost. What's his Name?
+  Simpc. I know not
+
+   Glost. Nor his?
+  Simpc. No indeede, Master
+
+   Glost. What's thine owne Name?
+  Simpc. Saunder Simpcoxe, and if it please you, Master
+
+   Glost. Then Saunder, sit there,
+The lying'st Knaue in Christendome.
+If thou hadst beene borne blinde,
+Thou might'st as well haue knowne all our Names,
+As thus to name the seuerall Colours we doe weare.
+Sight may distinguish of Colours:
+But suddenly to nominate them all,
+It is impossible.
+My Lords, Saint Albone here hath done a Miracle:
+And would ye not thinke it, Cunning to be great,
+That could restore this Cripple to his Legges againe
+
+   Simpc. O Master, that you could?
+  Glost. My Masters of Saint Albones,
+Haue you not Beadles in your Towne,
+And Things call'd Whippes?
+  Maior. Yes, my Lord, if it please your Grace
+
+   Glost. Then send for one presently
+
+   Maior. Sirrha, goe fetch the Beadle hither straight.
+Enter.
+
+  Glost. Now fetch me a Stoole hither by and by.
+Now Sirrha, if you meane to saue your selfe from Whipping,
+leape me ouer this Stoole, and runne away
+
+   Simpc. Alas Master, I am not able to stand alone:
+You goe about to torture me in vaine.
+Enter a Beadle with Whippes.
+
+  Glost. Well Sir, we must haue you finde your Legges.
+Sirrha Beadle, whippe him till he leape ouer that same
+Stoole
+
+   Beadle. I will, my Lord.
+Come on Sirrha, off with your Doublet, quickly
+
+   Simpc. Alas Master, what shall I doe? I am not able to
+stand.
+
+After the Beadle hath hit him once, he leapes ouer the Stoole, and
+runnes
+away: and they follow, and cry, A Miracle.
+
+  King. O God, seest thou this, and bearest so long?
+  Queene. It made me laugh, to see the Villaine runne
+
+   Glost. Follow the Knaue, and take this Drab away
+
+   Wife. Alas Sir, we did it for pure need
+
+   Glost. Let the[m] be whipt through euery Market Towne,
+Till they come to Barwick, from whence they came.
+Enter.
+
+  Card. Duke Humfrey ha's done a Miracle to day
+
+   Suff. True: made the Lame to leape and flye away
+
+   Glost. But you haue done more Miracles then I:
+You made in a day, my Lord, whole Townes to flye.
+Enter Buckingham.
+
+  King. What Tidings with our Cousin Buckingham?
+  Buck. Such as my heart doth tremble to vnfold:
+A sort of naughtie persons, lewdly bent,
+Vnder the Countenance and Confederacie
+Of Lady Elianor, the Protectors Wife,
+The Ring-leader and Head of all this Rout,
+Haue practis'd dangerously against your State,
+Dealing with Witches and with Coniurers,
+Whom we haue apprehended in the Fact,
+Raysing vp wicked Spirits from vnder ground,
+Demanding of King Henries Life and Death,
+And other of your Highnesse Priuie Councell,
+As more at large your Grace shall vnderstand
+
+   Card. And so my Lord Protector, by this meanes
+Your Lady is forth-comming, yet at London.
+This Newes I thinke hath turn'd your Weapons edge;
+'Tis like, my Lord, you will not keepe your houre
+
+   Glost. Ambitious Church-man, leaue to afflict my heart:
+Sorrow and griefe haue vanquisht all my powers;
+And vanquisht as I am, I yeeld to thee,
+Or to the meanest Groome
+
+   King. O God, what mischiefes work the wicked ones?
+Heaping confusion on their owne heads thereby
+
+   Queene. Gloster, see here the Taincture of thy Nest,
+And looke thy selfe be faultlesse, thou wert best
+
+   Glost. Madame, for my selfe, to Heauen I doe appeale,
+How I haue lou'd my King, and Common-weale:
+And for my Wife, I know not how it stands,
+Sorry I am to heare what I haue heard,
+Noble shee is: but if shee haue forgot
+Honor and Vertue, and conuers't with such,
+As like to Pytch, defile Nobilitie;
+I banish her my Bed, and Companie,
+And giue her as a Prey to Law and Shame,
+That hath dis-honored Glosters honest Name
+
+   King. Well, for this Night we will repose vs here:
+To morrow toward London, back againe,
+To looke into this Businesse thorowly,
+And call these foule Offendors to their Answeres;
+And poyse the Cause in Iustice equall Scales,
+Whose Beame stands sure, whose rightful cause preuailes.
+
+Flourish. Exeunt.
+
+Enter Yorke, Salisbury, and Warwick.
+
+  Yorke. Now my good Lords of Salisbury & Warwick,
+Our simple Supper ended, giue me leaue,
+In this close Walke, to satisfie my selfe,
+In crauing your opinion of my Title,
+Which is infallible, to Englands Crowne
+
+   Salisb. My Lord, I long to heare it at full
+
+   Warw. Sweet Yorke begin: and if thy clayme be good,
+The Neuills are thy Subiects to command
+
+   Yorke. Then thus:
+Edward the third, my Lords, had seuen Sonnes:
+The first, Edward the Black-Prince, Prince of Wales;
+The second, William of Hatfield; and the third,
+Lionel, Duke of Clarence; next to whom,
+Was Iohn of Gaunt, the Duke of Lancaster;
+The fift, was Edmond Langley, Duke of Yorke;
+The sixt, was Thomas of Woodstock, Duke of Gloster;
+William of Windsor was the seuenth, and last.
+Edward the Black-Prince dyed before his Father,
+And left behinde him Richard, his onely Sonne,
+Who after Edward the third's death, raign'd as King,
+Till Henry Bullingbrooke, Duke of Lancaster,
+The eldest Sonne and Heire of Iohn of Gaunt,
+Crown'd by the Name of Henry the fourth,
+Seiz'd on the Realme, depos'd the rightfull King,
+Sent his poore Queene to France, from whence she came,
+And him to Pumfret; where, as all you know,
+Harmelesse Richard was murthered traiterously
+
+   Warw. Father, the Duke hath told the truth;
+Thus got the House of Lancaster the Crowne
+
+   Yorke. Which now they hold by force, and not by right:
+For Richard, the first Sonnes Heire, being dead,
+The Issue of the next Sonne should haue reign'd
+
+   Salisb. But William of Hatfield dyed without an
+Heire
+
+   Yorke. The third Sonne, Duke of Clarence,
+From whose Line I clayme the Crowne,
+Had Issue Phillip, a Daughter,
+Who marryed Edmond Mortimer, Earle of March:
+Edmond had Issue, Roger, Earle of March;
+Roger had Issue, Edmond, Anne, and Elianor
+
+   Salisb. This Edmond, in the Reigne of Bullingbrooke,
+As I haue read, layd clayme vnto the Crowne,
+And but for Owen Glendour, had beene King;
+Who kept him in Captiuitie, till he dyed.
+But, to the rest
+
+   Yorke. His eldest Sister, Anne,
+My Mother, being Heire vnto the Crowne,
+Marryed Richard, Earle of Cambridge,
+Who was to Edmond Langley,
+Edward the thirds fift Sonnes Sonne;
+By her I clayme the Kingdome:
+She was Heire to Roger, Earle of March,
+Who was the Sonne of Edmond Mortimer,
+Who marryed Phillip, sole Daughter
+Vnto Lionel, Duke of Clarence.
+So, if the Issue of the elder Sonne
+Succeed before the younger, I am King
+
+   Warw. What plaine proceedings is more plain then this?
+Henry doth clayme the Crowne from Iohn of Gaunt,
+The fourth Sonne, Yorke claymes it from the third:
+Till Lionels Issue fayles, his should not reigne.
+It fayles not yet, but flourishes in thee,
+And in thy Sonnes, faire slippes of such a Stock.
+Then Father Salisbury, kneele we together,
+And in this priuate Plot be we the first,
+That shall salute our rightfull Soueraigne
+With honor of his Birth-right to the Crowne
+
+   Both. Long liue our Soueraigne Richard, Englands
+King
+
+   Yorke. We thanke you Lords:
+But I am not your King, till I be Crown'd,
+And that my Sword be stayn'd
+With heart-blood of the House of Lancaster:
+And that's not suddenly to be perform'd,
+But with aduice and silent secrecie.
+Doe you as I doe in these dangerous dayes,
+Winke at the Duke of Suffolkes insolence,
+At Beaufords Pride, at Somersets Ambition,
+At Buckingham, and all the Crew of them,
+Till they haue snar'd the Shepheard of the Flock,
+That vertuous Prince, the good Duke Humfrey:
+'Tis that they seeke; and they, in seeking that,
+Shall finde their deaths, if Yorke can prophecie
+
+   Salisb. My Lord, breake we off; we know your minde
+at full
+
+   Warw. My heart assures me, that the Earle of Warwick
+Shall one day make the Duke of Yorke a King
+
+   Yorke. And Neuill, this I doe assure my selfe,
+  Richard shall liue to make the Earle of Warwick
+The greatest man in England, but the King.
+
+Exeunt.
+
+Sound Trumpets. Enter the King and State, with Guard, to banish
+the
+Duchesse.
+
+  King. Stand forth Dame Elianor Cobham,
+Glosters Wife:
+In sight of God, and vs, your guilt is great,
+Receiue the Sentence of the Law for sinne,
+Such as by Gods Booke are adiudg'd to death.
+You foure from hence to Prison, back againe;
+From thence, vnto the place of Execution:
+The Witch in Smithfield shall be burnt to ashes,
+And you three shall be strangled on the Gallowes.
+You Madame, for you are more Nobly borne,
+Despoyled of your Honor in your Life,
+Shall, after three dayes open Penance done,
+Liue in your Countrey here, in Banishment,
+With Sir Iohn Stanly, in the Ile of Man
+
+   Elianor. Welcome is Banishment, welcome were my
+Death
+
+   Glost. Elianor, the Law thou seest hath iudged thee,
+I cannot iustifie whom the Law condemnes:
+Mine eyes are full of teares, my heart of griefe.
+Ah Humfrey, this dishonor in thine age,
+Will bring thy head with sorrow to the ground.
+I beseech your Maiestie giue me leaue to goe;
+Sorrow would sollace, and mine Age would ease
+
+   King. Stay Humfrey, Duke of Gloster,
+Ere thou goe, giue vp thy Staffe,
+Henry will to himselfe Protector be,
+And God shall be my hope, my stay, my guide,
+And Lanthorne to my feete:
+And goe in peace, Humfrey, no lesse belou'd,
+Then when thou wert Protector to thy King
+
+   Queene. I see no reason, why a King of yeeres
+Should be to be protected like a Child,
+God and King Henry gouerne Englands Realme:
+Giue vp your Staffe, Sir, and the King his Realme
+
+   Glost. My Staffe? Here, Noble Henry, is my Staffe:
+As willingly doe I the same resigne,
+As ere thy Father Henry made it mine;
+And euen as willingly at thy feete I leaue it,
+As others would ambitiously receiue it.
+Farewell good King: when I am dead, and gone,
+May honorable Peace attend thy Throne.
+
+Exit Gloster.
+
+  Queene. Why now is Henry King, and Margaret Queen,
+And Humfrey, Duke of Gloster, scarce himselfe,
+That beares so shrewd a mayme: two Pulls at once;
+His Lady banisht, and a Limbe lopt off.
+This Staffe of Honor raught, there let it stand,
+Where it best fits to be, in Henries hand
+
+   Suff. Thus droupes this loftie Pyne, & hangs his sprayes,
+Thus Elianors Pride dyes in her youngest dayes
+
+   Yorke. Lords, let him goe. Please it your Maiestie,
+This is the day appointed for the Combat,
+And ready are the Appellant and Defendant,
+The Armorer and his Man, to enter the Lists,
+So please your Highnesse to behold the fight
+
+   Queene. I, good my Lord: for purposely therefore
+Left I the Court, to see this Quarrell try'de
+
+   King. A Gods Name see the Lysts and all things fit,
+Here let them end it, and God defend the right
+
+   Yorke. I neuer saw a fellow worse bestead,
+Or more afraid to fight, then is the Appellant,
+The seruant of this Armorer, my Lords.
+Enter at one Doore the Armorer and his Neighbors, drinking to
+him so
+much, that hee is drunke; and he enters with a Drumme before
+him, and his
+Staffe, with a Sand-bagge fastened to it: and at the other Doore his
+Man,
+with a Drumme and Sand-bagge, and Prentices drinking to him.
+
+  1.Neighbor. Here Neighbour Horner, I drinke to you
+in a Cup of Sack; and feare not Neighbor, you shall doe
+well enough
+
+   2.Neighbor. And here Neighbour, here's a Cuppe of
+Charneco
+
+   3.Neighbor. And here's a Pot of good Double-Beere
+Neighbor: drinke, and feare not your Man
+
+   Armorer. Let it come yfaith, and Ile pledge you all,
+and a figge for Peter
+
+   1.Prent. Here Peter, I drinke to thee, and be not afraid
+
+   2.Prent. Be merry Peter, and feare not thy Master,
+Fight for credit of the Prentices
+
+   Peter. I thanke you all: drinke, and pray for me, I pray
+you, for I thinke I haue taken my last Draught in this
+World. Here Robin, and if I dye, I giue thee my Aporne;
+and Will, thou shalt haue my Hammer: and here Tom,
+take all the Money that I haue. O Lord blesse me, I pray
+God, for I am neuer able to deale with my Master, hee
+hath learnt so much fence already
+
+   Salisb. Come, leaue your drinking, and fall to blowes.
+Sirrha, what's thy Name?
+  Peter. Peter forsooth
+
+   Salisb. Peter? what more?
+  Peter. Thumpe
+
+   Salisb. Thumpe? Then see thou thumpe thy Master
+well
+
+   Armorer. Masters, I am come hither as it were vpon
+my Mans instigation, to proue him a Knaue, and my selfe
+an honest man: and touching the Duke of Yorke, I will
+take my death, I neuer meant him any ill, nor the King,
+nor the Queene: and therefore Peter haue at thee with a
+downe-right blow
+
+   Yorke. Dispatch, this Knaues tongue begins to double.
+Sound Trumpets, Alarum to the Combattants.
+
+They fight, and Peter strikes him downe.
+
+  Armorer. Hold Peter, hold, I confesse, I confesse Treason
+
+   Yorke. Take away his Weapon: Fellow thanke God,
+and the good Wine in thy Masters way
+
+   Peter. O God, haue I ouercome mine Enemies in this
+presence? O Peter, thou hast preuayl'd in right
+
+   King. Goe, take hence that Traytor from our sight,
+For by his death we doe perceiue his guilt,
+And God in Iustice hath reueal'd to vs
+The truth and innocence of this poore fellow,
+Which he had thought to haue murther'd wrongfully.
+Come fellow, follow vs for thy Reward.
+
+Sound a flourish. Exeunt.
+
+Enter Duke Humfrey and his Men in Mourning Cloakes.
+
+  Glost. Thus sometimes hath the brightest day a Cloud:
+And after Summer, euermore succeedes
+Barren Winter, with his wrathfull nipping Cold;
+So Cares and Ioyes abound, as Seasons fleet.
+Sirs, what's a Clock?
+  Seru. Tenne, my Lord
+
+   Glost. Tenne is the houre that was appointed me,
+To watch the comming of my punisht Duchesse:
+Vnneath may shee endure the Flintie Streets,
+To treade them with her tender-feeling feet.
+Sweet Nell, ill can thy Noble Minde abrooke
+The abiect People, gazing on thy face,
+With enuious Lookes laughing at thy shame,
+That erst did follow thy prowd Chariot-Wheeles,
+When thou didst ride in triumph through the streets.
+But soft, I thinke she comes, and Ile prepare
+My teare-stayn'd eyes, to see her Miseries.
+Enter the Duchesse in a white Sheet, and a Taper burning in her
+hand, with
+the Sherife and Officers.
+
+  Seru. So please your Grace, wee'le take her from the
+Sherife
+
+   Gloster. No, stirre not for your liues, let her passe
+by
+
+   Elianor. Come you, my Lord, to see my open shame?
+Now thou do'st Penance too. Looke how they gaze,
+See how the giddy multitude doe point,
+And nodde their heads, and throw their eyes on thee.
+Ah Gloster, hide thee from their hatefull lookes,
+And in thy Closet pent vp, rue my shame,
+And banne thine Enemies, both mine and thine
+
+   Glost. Be patient, gentle Nell, forget this griefe
+
+   Elianor. Ah Gloster, teach me to forget my selfe:
+For whilest I thinke I am thy married Wife,
+And thou a Prince, Protector of this Land;
+Me thinkes I should not thus be led along,
+Mayl'd vp in shame, with Papers on my back,
+And follow'd with a Rabble, that reioyce
+To see my teares, and heare my deepe-fet groanes.
+The ruthlesse Flint doth cut my tender feet,
+And when I start, the enuious people laugh,
+And bid me be aduised how I treade.
+Ah Humfrey, can I beare this shamefull yoake?
+Trowest thou, that ere Ile looke vpon the World,
+Or count them happy, that enioyes the Sunne?
+No: Darke shall be my Light, and Night my Day.
+To thinke vpon my Pompe, shall be my Hell.
+Sometime Ile say, I am Duke Humfreyes Wife,
+And he a Prince, and Ruler of the Land:
+Yet so he rul'd, and such a Prince he was,
+As he stood by, whilest I, his forlorne Duchesse,
+Was made a wonder, and a pointing stock
+To euery idle Rascall follower.
+But be thou milde, and blush not at my shame,
+Nor stirre at nothing, till the Axe of Death
+Hang ouer thee, as sure it shortly will.
+For Suffolke, he that can doe all in all
+With her, that hateth thee and hates vs all,
+And Yorke, and impious Beauford, that false Priest,
+Haue all lym'd Bushes to betray thy Wings,
+And flye thou how thou canst, they'le tangle thee.
+But feare not thou, vntill thy foot be snar'd,
+Nor neuer seeke preuention of thy foes
+
+   Glost. Ah Nell, forbeare: thou aymest all awry.
+I must offend, before I be attainted:
+And had I twentie times so many foes,
+And each of them had twentie times their power,
+All these could not procure me any scathe,
+So long as I am loyall, true, and crimelesse.
+Would'st haue me rescue thee from this reproach?
+Why yet thy scandall were not wipt away,
+But I in danger for the breach of Law.
+Thy greatest helpe is quiet, gentle Nell:
+I pray thee sort thy heart to patience,
+These few dayes wonder will be quickly worne.
+Enter a Herald.
+
+  Her. I summon your Grace to his Maiesties Parliament,
+Holden at Bury, the first of this next Moneth
+
+   Glost. And my consent ne're ask'd herein before?
+This is close dealing. Well, I will be there.
+My Nell, I take my leaue: and Master Sherife,
+Let not her Penance exceede the Kings Commission
+
+   Sh. And't please your Grace, here my Commission stayes:
+And Sir Iohn Stanly is appointed now,
+To take her with him to the Ile of Man
+
+   Glost. Must you, Sir Iohn, protect my Lady here?
+  Stanly. So am I giuen in charge, may't please your
+Grace
+
+   Glost. Entreat her not the worse, in that I pray
+You vse her well: the World may laugh againe,
+And I may liue to doe you kindnesse, if you doe it her.
+And so Sir Iohn, farewell
+
+   Elianor. What, gone my Lord, and bid me not farewell?
+  Glost. Witnesse my teares, I cannot stay to speake.
+
+Exit Gloster.
+
+  Elianor. Art thou gone to? all comfort goe with thee,
+For none abides with me: my Ioy, is Death;
+Death, at whose Name I oft haue beene afear'd,
+Because I wish'd this Worlds eternitie.
+Stanley, I prethee goe, and take me hence,
+I care not whither, for I begge no fauor;
+Onely conuey me where thou art commanded
+
+   Stanley. Why, Madame, that is to the Ile of Man,
+There to be vs'd according to your State
+
+   Elianor. That's bad enough, for I am but reproach:
+And shall I then be vs'd reproachfully?
+  Stanley. Like to a Duchesse, and Duke Humfreyes Lady,
+According to that State you shall be vs'd
+
+   Elianor. Sherife farewell, and better then I fare,
+Although thou hast beene Conduct of my shame
+
+   Sherife. It is my Office, and Madame pardon me
+
+   Elianor. I, I, farewell, thy Office is discharg'd:
+Come Stanley, shall we goe?
+  Stanley. Madame, your Penance done,
+Throw off this Sheet,
+And goe we to attyre you for our Iourney
+
+   Elianor. My shame will not be shifted with my Sheet:
+No, it will hang vpon my richest Robes,
+And shew it selfe, attyre me how I can.
+Goe, leade the way, I long to see my Prison.
+
+Exeunt.
+
+Sound a Senet. Enter King, Queene, Cardinall, Suffolke, Yorke,
+Buckingham,
+Salisbury, and Warwicke, to the Parliament.
+
+  King. I muse my Lord of Gloster is not come:
+'Tis not his wont to be the hindmost man,
+What e're occasion keepes him from vs now
+
+   Queene. Can you not see? or will ye not obserue
+The strangenesse of his alter'd Countenance?
+With what a Maiestie he beares himselfe,
+How insolent of late he is become,
+How prowd, how peremptorie, and vnlike himselfe.
+We know the time since he was milde and affable,
+And if we did but glance a farre-off Looke,
+Immediately he was vpon his Knee,
+That all the Court admir'd him for submission.
+But meet him now, and be it in the Morne,
+When euery one will giue the time of day,
+He knits his Brow, and shewes an angry Eye,
+And passeth by with stiffe vnbowed Knee,
+Disdaining dutie that to vs belongs.
+Small Curres are not regarded when they grynne,
+But great men tremble when the Lyon rores,
+And Humfrey is no little Man in England.
+First note, that he is neere you in discent,
+And should you fall, he is the next will mount.
+Me seemeth then, it is no Pollicie,
+Respecting what a rancorous minde he beares,
+And his aduantage following your decease,
+That he should come about your Royall Person,
+Or be admitted to your Highnesse Councell.
+By flatterie hath he wonne the Commons hearts:
+And when he please to make Commotion,
+'Tis to be fear'd they all will follow him.
+Now 'tis the Spring, and Weeds are shallow-rooted,
+Suffer them now, and they'le o're-grow the Garden,
+And choake the Herbes for want of Husbandry.
+The reuerent care I beare vnto my Lord,
+Made me collect these dangers in the Duke.
+If it be fond, call it a Womans feare:
+Which feare, if better Reasons can supplant,
+I will subscribe, and say I wrong'd the Duke.
+My Lord of Suffolke, Buckingham, and Yorke,
+Reproue my allegation, if you can,
+Or else conclude my words effectuall
+
+   Suff. Well hath your Highnesse seene into this Duke:
+And had I first beene put to speake my minde,
+I thinke I should haue told your Graces Tale.
+The Duchesse, by his subornation,
+Vpon my Life began her diuellish practises:
+Or if he were not priuie to those Faults,
+Yet by reputing of his high discent,
+As next the King, he was successiue Heire,
+And such high vaunts of his Nobilitie,
+Did instigate the Bedlam braine-sick Duchesse,
+By wicked meanes to frame our Soueraignes fall.
+Smooth runnes the Water, where the Brooke is deepe,
+And in his simple shew he harbours Treason.
+The Fox barkes not, when he would steale the Lambe.
+No, no, my Soueraigne, Glouster is a man
+Vnsounded yet, and full of deepe deceit
+
+   Card. Did he not, contrary to forme of Law,
+Deuise strange deaths, for small offences done?
+  Yorke. And did he not, in his Protectorship,
+Leuie great summes of Money through the Realme,
+For Souldiers pay in France, and neuer sent it?
+By meanes whereof, the Townes each day reuolted
+
+   Buck. Tut, these are petty faults to faults vnknowne,
+Which time will bring to light in smooth Duke Humfrey
+
+   King. My Lords at once: the care you haue of vs,
+To mowe downe Thornes that would annoy our Foot,
+Is worthy prayse: but shall I speake my conscience,
+Our Kinsman Gloster is as innocent,
+From meaning Treason to our Royall Person,
+As is the sucking Lambe, or harmelesse Doue:
+The Duke is vertuous, milde, and too well giuen,
+To dreame on euill, or to worke my downefall
+
+   Qu. Ah what's more dangerous, then this fond affiance?
+Seemes he a Doue? his feathers are but borrow'd,
+For hee's disposed as the hatefull Rauen.
+Is he a Lambe? his Skinne is surely lent him,
+For hee's enclin'd as is the rauenous Wolues.
+Who cannot steale a shape, that meanes deceit?
+Take heed, my Lord, the welfare of vs all,
+Hangs on the cutting short that fraudfull man.
+Enter Somerset
+
+   Som. All health vnto my gracious Soueraigne
+
+   King. Welcome Lord Somerset: What Newes from
+France?
+  Som. That all your Interest in those Territories,
+Is vtterly bereft you: all is lost
+
+   King. Cold Newes, Lord Somerset: but Gods will be
+done
+
+   Yorke. Cold Newes for me: for I had hope of France,
+As firmely as I hope for fertile England.
+Thus are my Blossomes blasted in the Bud,
+And Caterpillers eate my Leaues away:
+But I will remedie this geare ere long,
+Or sell my Title for a glorious Graue.
+Enter Gloucester.
+
+  Glost. All happinesse vnto my Lord the King:
+Pardon, my Liege, that I haue stay'd so long
+
+   Suff. Nay Gloster, know that thou art come too soone,
+Vnlesse thou wert more loyall then thou art:
+I doe arrest thee of High Treason here
+
+   Glost. Well Suffolke, thou shalt not see me blush,
+Nor change my Countenance for this Arrest:
+A Heart vnspotted, is not easily daunted.
+The purest Spring is not so free from mudde,
+As I am cleare from Treason to my Soueraigne.
+Who can accuse me? wherein am I guiltie?
+  Yorke. 'Tis thought, my Lord,
+That you tooke Bribes of France,
+And being Protector, stay'd the Souldiers pay,
+By meanes whereof, his Highnesse hath lost France
+
+   Glost. Is it but thought so?
+What are they that thinke it?
+I neuer rob'd the Souldiers of their pay,
+Nor euer had one penny Bribe from France.
+So helpe me God, as I haue watcht the Night,
+I, Night by Night, in studying good for England.
+That Doyt that ere I wrested from the King,
+Or any Groat I hoorded to my vse,
+Be brought against me at my Tryall day.
+No: many a Pound of mine owne proper store,
+Because I would not taxe the needie Commons,
+Haue I dis-pursed to the Garrisons,
+And neuer ask'd for restitution
+
+   Card. It serues you well, my Lord, to say so much
+
+   Glost. I say no more then truth, so helpe me God
+
+   Yorke. In your Protectorship, you did deuise
+Strange Tortures for Offendors, neuer heard of,
+That England was defam'd by Tyrannie
+
+   Glost. Why 'tis well known, that whiles I was Protector,
+Pittie was all the fault that was in me:
+For I should melt at an Offendors teares,
+And lowly words were Ransome for their fault:
+Vnlesse it were a bloody Murtherer,
+Or foule felonious Theefe, that fleec'd poore passengers,
+I neuer gaue them condigne punishment.
+Murther indeede, that bloodie sinne, I tortur'd
+Aboue the Felon, or what Trespas else
+
+   Suff. My Lord, these faults are easie, quickly answer'd:
+But mightier Crimes are lay'd vnto your charge,
+Whereof you cannot easily purge your selfe.
+I doe arrest you in his Highnesse Name,
+And here commit you to my Lord Cardinall
+To keepe, vntill your further time of Tryall
+
+   King. My Lord of Gloster, 'tis my speciall hope,
+That you will cleare your selfe from all suspence,
+My Conscience tells me you are innocent
+
+   Glost. Ah gracious Lord, these dayes are dangerous:
+Vertue is choakt with foule Ambition,
+And Charitie chas'd hence by Rancours hand;
+Foule Subornation is predominant,
+And Equitie exil'd your Highnesse Land.
+I know, their Complot is to haue my Life:
+And if my death might make this Iland happy,
+And proue the Period of their Tyrannie,
+I would expend it with all willingnesse.
+But mine is made the Prologue to their Play:
+For thousands more, that yet suspect no perill,
+Will not conclude their plotted Tragedie.
+Beaufords red sparkling eyes blab his hearts mallice,
+And Suffolks cloudie Brow his stormie hate;
+Sharpe Buckingham vnburthens with his tongue,
+The enuious Load that lyes vpon his heart:
+And dogged Yorke, that reaches at the Moone,
+Whose ouer-weening Arme I haue pluckt back,
+By false accuse doth leuell at my Life.
+And you, my Soueraigne Lady, with the rest,
+Causelesse haue lay'd disgraces on my head,
+And with your best endeuour haue stirr'd vp
+My liefest Liege to be mine Enemie:
+I, all of you haue lay'd your heads together,
+My selfe had notice of your Conuenticles,
+And all to make away my guiltlesse Life.
+I shall not want false Witnesse, to condemne me,
+Nor store of Treasons, to augment my guilt:
+The ancient Prouerbe will be well effected,
+A Staffe is quickly found to beat a Dogge
+
+   Card. My Liege, his rayling is intollerable.
+If those that care to keepe your Royall Person
+From Treasons secret Knife, and Traytors Rage,
+Be thus vpbrayded, chid, and rated at,
+And the Offendor graunted scope of speech,
+'Twill make them coole in zeale vnto your Grace
+
+   Suff. Hath he not twit our Soueraigne Lady here
+With ignominious words, though Clarkely coucht?
+As if she had suborned some to sweare
+False allegations, to o'rethrow his state
+
+   Qu. But I can giue the loser leaue to chide
+
+   Glost. Farre truer spoke then meant: I lose indeede,
+Beshrew the winners, for they play'd me false,
+And well such losers may haue leaue to speake
+
+   Buck. Hee'le wrest the sence, and hold vs here all day.
+Lord Cardinall, he is your Prisoner
+
+   Card. Sirs, take away the Duke, and guard him sure
+
+   Glost. Ah, thus King Henry throwes away his Crutch,
+Before his Legges be firme to beare his Body.
+Thus is the Shepheard beaten from thy side,
+And Wolues are gnarling, who shall gnaw thee first.
+Ah that my feare were false, ah that it were;
+For good King Henry, thy decay I feare.
+
+Exit Gloster.
+
+  King. My Lords, what to your wisdomes seemeth best,
+Doe, or vndoe, as if our selfe were here
+
+   Queene. What, will your Highnesse leaue the Parliament?
+  King. I Margaret: my heart is drown'd with griefe,
+Whose floud begins to flowe within mine eyes;
+My Body round engyrt with miserie:
+For what's more miserable then Discontent?
+Ah Vnckle Humfrey, in thy face I see
+The Map of Honor, Truth, and Loyaltie:
+And yet, good Humfrey, is the houre to come,
+That ere I prou'd thee false, or fear'd thy faith.
+What lowring Starre now enuies thy estate?
+That these great Lords, and Margaret our Queene,
+Doe seeke subuersion of thy harmelesse Life.
+Thou neuer didst them wrong, nor no man wrong:
+And as the Butcher takes away the Calfe,
+And binds the Wretch, and beats it when it strayes,
+Bearing it to the bloody Slaughter-house;
+Euen so remorselesse haue they borne him hence:
+And as the Damme runnes lowing vp and downe,
+Looking the way her harmelesse young one went,
+And can doe naught but wayle her Darlings losse;
+Euen so my selfe bewayles good Glosters case
+With sad vnhelpefull teares, and with dimn'd eyes;
+Looke after him, and cannot doe him good:
+So mightie are his vowed Enemies.
+His fortunes I will weepe, and 'twixt each groane,
+Say, who's a Traytor? Gloster he is none.
+Enter.
+
+  Queene. Free Lords:
+Cold Snow melts with the Sunnes hot Beames:
+Henry, my Lord, is cold in great Affaires,
+Too full of foolish pittie: and Glosters shew
+Beguiles him, as the mournefull Crocodile
+With sorrow snares relenting passengers;
+Or as the Snake, roll'd in a flowring Banke,
+With shining checker'd slough doth sting a Child,
+That for the beautie thinkes it excellent.
+Beleeue me Lords, were none more wise then I,
+And yet herein I iudge mine owne Wit good;
+This Gloster should be quickly rid the World,
+To rid vs from the feare we haue of him
+
+   Card. That he should dye, is worthie pollicie,
+But yet we want a Colour for his death:
+'Tis meet he be condemn'd by course of Law
+
+   Suff. But in my minde, that were no pollicie:
+The King will labour still to saue his Life,
+The Commons haply rise, to saue his Life;
+And yet we haue but triuiall argument,
+More then mistrust, that shewes him worthy death
+
+   Yorke. So that by this, you would not haue him dye
+
+   Suff. Ah Yorke, no man aliue, so faine as I
+
+   Yorke. 'Tis Yorke that hath more reason for his death.
+But my Lord Cardinall, and you my Lord of Suffolke,
+Say as you thinke, and speake it from your Soules:
+Wer't not all one, an emptie Eagle were set,
+To guard the Chicken from a hungry Kyte,
+As place Duke Humfrey for the Kings Protector?
+  Queene. So the poore Chicken should be sure of death
+
+   Suff. Madame 'tis true: and wer't not madnesse then,
+To make the Fox surueyor of the Fold?
+Who being accus'd a craftie Murtherer,
+His guilt should be but idly posted ouer,
+Because his purpose is not executed.
+No: let him dye, in that he is a Fox,
+By nature prou'd an Enemie to the Flock,
+Before his Chaps be stayn'd with Crimson blood,
+As Humfrey prou'd by Reasons to my Liege.
+And doe not stand on Quillets how to slay him:
+Be it by Gynnes, by Snares, by Subtletie,
+Sleeping, or Waking, 'tis no matter how,
+So he be dead; for that is good deceit,
+Which mates him first, that first intends deceit
+
+   Queene. Thrice Noble Suffolke, 'tis resolutely spoke
+
+   Suff. Not resolute, except so much were done,
+For things are often spoke, and seldome meant,
+But that my heart accordeth with my tongue,
+
+Seeing the deed is meritorious,
+And to preserue my Soueraigne from his Foe,
+Say but the word, and I will be his Priest
+
+   Card. But I would haue him dead, my Lord of Suffolke,
+Ere you can take due Orders for a Priest:
+Say you consent, and censure well the deed,
+And Ile prouide his Executioner,
+I tender so the safetie of my Liege
+
+   Suff. Here is my Hand, the deed is worthy doing
+
+   Queene. And so say I
+
+   Yorke. And I: and now we three haue spoke it,
+It skills not greatly who impugnes our doome.
+Enter a Poste.
+
+  Post. Great Lords, from Ireland am I come amaine,
+To signifie, that Rebels there are vp,
+And put the Englishmen vnto the Sword.
+Send Succours (Lords) and stop the Rage betime,
+Before the Wound doe grow vncurable;
+For being greene, there is great hope of helpe
+
+   Card. A Breach that craues a quick expedient stoppe.
+What counsaile giue you in this weightie cause?
+  Yorke. That Somerset be sent as Regent thither:
+'Tis meet that luckie Ruler be imploy'd,
+Witnesse the fortune he hath had in France
+
+   Som. If Yorke, with all his farre-fet pollicie,
+Had beene the Regent there, in stead of me,
+He neuer would haue stay'd in France so long
+
+   Yorke. No, not to lose it all, as thou hast done.
+I rather would haue lost my Life betimes,
+Then bring a burthen of dis-honour home,
+By staying there so long, till all were lost.
+Shew me one skarre, character'd on thy Skinne,
+Mens flesh preseru'd so whole, doe seldome winne
+
+   Qu. Nay then, this sparke will proue a raging fire,
+If Wind and Fuell be brought, to feed it with:
+No more, good Yorke; sweet Somerset be still.
+Thy fortune, Yorke, hadst thou beene Regent there,
+Might happily haue prou'd farre worse then his
+
+   Yorke. What, worse then naught? nay, then a shame
+take all
+
+   Somerset. And in the number, thee, that wishest
+shame
+
+   Card. My Lord of Yorke, trie what your fortune is:
+Th' vnciuill Kernes of Ireland are in Armes,
+And temper Clay with blood of Englishmen.
+To Ireland will you leade a Band of men,
+Collected choycely, from each Countie some,
+And trie your hap against the Irishmen?
+  Yorke. I will, my Lord, so please his Maiestie
+
+   Suff. Why, our Authoritie is his consent,
+And what we doe establish, he confirmes:
+Then, Noble Yorke, take thou this Taske in hand
+
+   Yorke. I am content: Prouide me Souldiers, Lords,
+Whiles I take order for mine owne affaires
+
+   Suff. A charge, Lord Yorke, that I will see perform'd.
+But now returne we to the false Duke Humfrey
+
+   Card. No more of him: for I will deale with him,
+That henceforth he shall trouble vs no more:
+And so breake off, the day is almost spent,
+Lord Suffolke, you and I must talke of that euent
+
+   Yorke. My Lord of Suffolke, within foureteene dayes
+At Bristow I expect my Souldiers,
+For there Ile shippe them all for Ireland
+
+   Suff. Ile see it truly done, my Lord of Yorke.
+
+Exeunt.
+
+Manet Yorke.
+
+  Yorke. Now Yorke, or neuer, steele thy fearfull thoughts,
+And change misdoubt to resolution;
+Be that thou hop'st to be, or what thou art;
+Resigne to death, it is not worth th' enioying:
+Let pale-fac't feare keepe with the meane-borne man,
+And finde no harbor in a Royall heart.
+Faster the[n] Spring-time showres, comes thoght on thoght,
+And not a thought, but thinkes on Dignitie.
+My Brayne, more busie then the laboring Spider,
+Weaues tedious Snares to trap mine Enemies.
+Well Nobles, well: 'tis politikely done,
+To send me packing with an Hoast of men:
+I feare me, you but warme the starued Snake,
+Who cherisht in your breasts, will sting your hearts.
+'Twas men I lackt, and you will giue them me;
+I take it kindly: yet be well assur'd,
+You put sharpe Weapons in a mad-mans hands.
+Whiles I in Ireland nourish a mightie Band,
+I will stirre vp in England some black Storme,
+Shall blowe ten thousand Soules to Heauen, or Hell:
+And this fell Tempest shall not cease to rage,
+Vntill the Golden Circuit on my Head,
+Like to the glorious Sunnes transparant Beames,
+Doe calme the furie of this mad-bred Flawe.
+And for a minister of my intent,
+I haue seduc'd a head-strong Kentishman,
+Iohn Cade of Ashford,
+To make Commotion, as full well he can,
+Vnder the title of Iohn Mortimer.
+In Ireland haue I seene this stubborne Cade
+Oppose himselfe against a Troupe of Kernes,
+And fought so long, till that his thighes with Darts
+Were almost like a sharpe-quill'd Porpentine:
+And in the end being rescued, I haue seene
+Him capre vpright, like a wilde Morisco,
+Shaking the bloody Darts, as he his Bells.
+Full often, like a shag-hayr'd craftie Kerne,
+Hath he conuersed with the Enemie,
+And vndiscouer'd, come to me againe,
+And giuen me notice of their Villanies.
+This Deuill here shall be my substitute;
+For that Iohn Mortimer, which now is dead,
+In face, in gate, in speech he doth resemble.
+By this, I shall perceiue the Commons minde,
+How they affect the House and Clayme of Yorke.
+Say he be taken, rackt, and tortured;
+I know, no paine they can inflict vpon him,
+Will make him say, I mou'd him to those Armes.
+Say that he thriue, as 'tis great like he will,
+Why then from Ireland come I with my strength,
+And reape the Haruest which that Rascall sow'd.
+For Humfrey; being dead, as he shall be,
+And Henry put apart: the next for me.
+Enter.
+
+Enter two or three running ouer the Stage, from the Murther of
+Duke
+Humfrey.
+
+  1. Runne to my Lord of Suffolke: let him know
+We haue dispatcht the Duke, as he commanded
+
+   2. Oh, that it were to doe: what haue we done?
+Didst euer heare a man so penitent?
+Enter Suffolke.
+
+  1. Here comes my Lord
+
+   Suff. Now Sirs, haue you dispatcht this thing?
+  1. I, my good Lord, hee's dead
+
+   Suff. Why that's well said. Goe, get you to my House,
+I will reward you for this venturous deed:
+The King and all the Peeres are here at hand.
+Haue you layd faire the Bed? Is all things well,
+According as I gaue directions?
+  1. 'Tis, my good Lord
+
+   Suff. Away, be gone.
+
+Exeunt.
+
+Sound Trumpets. Enter the King, the Queene, Cardinall, Suffolke,
+Somerset,
+with Attendants.
+
+  King. Goe call our Vnckle to our presence straight:
+Say, we intend to try his Grace to day,
+If he be guiltie, as 'tis published
+
+   Suff. Ile call him presently, my Noble Lord.
+Enter
+
+   King. Lords take your places: and I pray you all
+Proceed no straiter 'gainst our Vnckle Gloster,
+Then from true euidence, of good esteeme,
+He be approu'd in practise culpable
+
+   Queene. God forbid any Malice should preuayle,
+That faultlesse may condemne a Noble man:
+Pray God he may acquit him of suspition
+
+   King. I thanke thee Nell, these wordes content mee
+much.
+Enter Suffolke.
+
+How now? why look'st thou pale? why tremblest thou?
+Where is our Vnckle? what's the matter, Suffolke?
+  Suff. Dead in his Bed, my Lord: Gloster is dead
+
+   Queene. Marry God forfend
+
+   Card. Gods secret Iudgement: I did dreame to Night,
+The Duke was dumbe, and could not speake a word.
+
+King sounds.
+
+  Qu. How fares my Lord? Helpe Lords, the King is
+dead
+
+   Som. Rere vp his Body, wring him by the Nose
+
+   Qu. Runne, goe, helpe, helpe: Oh Henry ope thine eyes
+
+   Suff. He doth reuiue againe, Madame be patient
+
+   King. Oh Heauenly God
+
+   Qu. How fares my gracious Lord?
+  Suff. Comfort my Soueraigne, gracious Henry comfort
+
+   King. What, doth my Lord of Suffolke comfort me?
+Came he right now to sing a Rauens Note,
+Whose dismall tune bereft my Vitall powres:
+And thinkes he, that the chirping of a Wren,
+By crying comfort from a hollow breast,
+Can chase away the first-conceiued sound?
+Hide not thy poyson with such sugred words,
+Lay not thy hands on me: forbeare I say,
+Their touch affrights me as a Serpents sting.
+Thou balefull Messenger, out of my sight:
+Vpon thy eye-balls, murderous Tyrannie
+Sits in grim Maiestie, to fright the World.
+Looke not vpon me, for thine eyes are wounding;
+Yet doe not goe away: come Basiliske,
+And kill the innocent gazer with thy sight:
+For in the shade of death, I shall finde ioy;
+In life, but double death, now Gloster's dead
+
+   Queene. Why do you rate my Lord of Suffolke thus?
+Although the Duke was enemie to him,
+Yet he most Christian-like laments his death:
+And for my selfe, Foe as he was to me,
+Might liquid teares, or heart-offending groanes,
+Or blood-consuming sighes recall his Life;
+I would be blinde with weeping, sicke with grones,
+Looke pale as Prim-rose with blood-drinking sighes,
+And all to haue the Noble Duke aliue.
+What know I how the world may deeme of me?
+For it is knowne we were but hollow Friends:
+It may be iudg'd I made the Duke away,
+So shall my name with Slanders tongue be wounded,
+And Princes Courts be fill'd with my reproach:
+This get I by his death: Aye me vnhappie,
+To be a Queene, and Crown'd with infamie
+
+   King. Ah woe is me for Gloster, wretched man
+
+   Queen. Be woe for me, more wretched then he is.
+What, Dost thou turne away, and hide thy face?
+I am no loathsome Leaper, looke on me.
+What? Art thou like the Adder waxen deafe?
+Be poysonous too, and kill thy forlorne Queene.
+Is all thy comfort shut in Glosters Tombe?
+Why then Dame Elianor was neere thy ioy.
+Erect his Statue, and worship it,
+And make my Image but an Ale-house signe.
+Was I for this nye wrack'd vpon the Sea,
+And twice by aukward winde from Englands banke
+Droue backe againe vnto my Natiue Clime.
+What boaded this? but well fore-warning winde
+Did seeme to say, seeke not a Scorpions Nest,
+Nor set no footing on this vnkinde Shore.
+What did I then? But curst the gentle gusts,
+And he that loos'd them forth their Brazen Caues,
+And bid them blow towards Englands blessed shore,
+Or turne our Sterne vpon a dreadfull Rocke:
+Yet aeolus would not be a murtherer,
+But left that hatefull office vnto thee.
+The pretty vaulting Sea refus'd to drowne me,
+Knowing that thou wouldst haue me drown'd on shore
+With teares as salt as Sea, through thy vnkindnesse.
+The splitting Rockes cowr'd in the sinking sands,
+And would not dash me with their ragged sides,
+Because thy flinty heart more hard then they,
+Might in thy Pallace, perish Elianor.
+As farre as I could ken thy Chalky Cliffes,
+When from thy Shore, the Tempest beate vs backe,
+I stood vpon the Hatches in the storme:
+And when the duskie sky, began to rob
+My earnest-gaping-sight of thy Lands view,
+I tooke a costly Iewell from my necke,
+A Hart it was bound in with Diamonds,
+And threw it towards thy Land: The Sea receiu'd it,
+And so I wish'd thy body might my Heart:
+And euen with this, I lost faire Englands view,
+And bid mine eyes be packing with my Heart,
+And call'd them blinde and duskie Spectacles,
+For loosing ken of Albions wished Coast.
+How often haue I tempted Suffolkes tongue
+(The agent of thy foule inconstancie)
+To sit and watch me as Ascanius did,
+When he to madding Dido would vnfold
+His Fathers Acts, commenc'd in burning Troy.
+Am I not witcht like her? Or thou not false like him?
+Aye me, I can no more: Dye Elinor,
+For Henry weepes, that thou dost liue so long.
+
+Noyse within. Enter Warwicke, and many Commons.
+
+  War. It is reported, mighty Soueraigne,
+That good Duke Humfrey Traiterously is murdred
+By Suffolke, and the Cardinall Beaufords meanes:
+The Commons like an angry Hiue of Bees
+That want their Leader, scatter vp and downe,
+And care not who they sting in his reuenge.
+My selfe haue calm'd their spleenfull mutinie,
+Vntill they heare the order of his death
+
+   King. That he is dead good Warwick, 'tis too true,
+But how he dyed, God knowes, not Henry:
+Enter his Chamber, view his breathlesse Corpes,
+And comment then vpon his sodaine death
+
+   War. That shall I do my Liege; Stay Salsburie
+With the rude multitude, till I returne
+
+   King. O thou that iudgest all things, stay my thoghts:
+My thoughts, that labour to perswade my soule,
+Some violent hands were laid on Humfries life:
+If my suspect be false, forgiue me God,
+For iudgement onely doth belong to thee:
+Faine would I go to chafe his palie lips,
+With twenty thousand kisses, and to draine
+Vpon his face an Ocean of salt teares,
+To tell my loue vnto his dumbe deafe trunke,
+And with my fingers feele his hand, vnfeeling:
+But all in vaine are these meane Obsequies,
+
+Bed put forth.
+
+And to suruey his dead and earthy Image:
+What were it but to make my sorrow greater?
+  Warw. Come hither gracious Soueraigne, view this
+body
+
+   King. That is to see how deepe my graue is made,
+For with his soule fled all my worldly solace:
+For seeing him, I see my life in death
+
+   War. As surely as my soule intends to liue
+With that dread King that tooke our state vpon him,
+To free vs from his Fathers wrathfull curse,
+I do beleeue that violent hands were laid
+Vpon the life of this thrice-famed Duke
+
+   Suf. A dreadfull Oath, sworne with a solemn tongue:
+What instance giues Lord Warwicke for his vow
+
+   War. See how the blood is setled in his face.
+Oft haue I seene a timely-parted Ghost,
+Of ashy semblance, meager, pale, and bloodlesse,
+Being all descended to the labouring heart,
+Who in the Conflict that it holds with death,
+Attracts the same for aydance 'gainst the enemy,
+Which with the heart there cooles, and ne're returneth,
+To blush and beautifie the Cheeke againe.
+But see, his face is blacke, and full of blood:
+His eye-balles further out, than when he liued,
+Staring full gastly, like a strangled man:
+His hayre vprear'd, his nostrils stretcht with strugling:
+His hands abroad display'd, as one that graspt
+And tugg'd for Life, and was by strength subdude.
+Looke on the sheets his haire (you see) is sticking,
+His well proportion'd Beard, made ruffe and rugged,
+Like to the Summers Corne by Tempest lodged:
+It cannot be but he was murdred heere,
+The least of all these signes were probable
+
+   Suf. Why Warwicke, who should do the D[uke]. to death?
+My selfe and Beauford had him in protection,
+And we I hope sir, are no murtherers
+
+   War. But both of you were vowed D[uke]. Humfries foes,
+And you (forsooth) had the good Duke to keepe:
+Tis like you would not feast him like a friend,
+And 'tis well seene, he found an enemy
+
+   Queen. Than you belike suspect these Noblemen,
+As guilty of Duke Humfries timelesse death
+
+   Warw. Who finds the Heyfer dead, and bleeding fresh,
+And sees fast-by, a Butcher with an Axe,
+But will suspect, 'twas he that made the slaughter?
+Who finds the Partridge in the Puttocks Nest,
+But may imagine how the Bird was dead,
+Although the Kyte soare with vnbloudied Beake?
+Euen so suspitious is this Tragedie
+
+   Qu. Are you the Butcher, Suffolk? where's your Knife?
+Is Beauford tearm'd a Kyte? where are his Tallons?
+  Suff. I weare no Knife, to slaughter sleeping men,
+But here's a vengefull Sword, rusted with ease,
+That shall be scowred in his rancorous heart,
+That slanders me with Murthers Crimson Badge.
+Say, if thou dar'st, prowd Lord of Warwickshire,
+That I am faultie in Duke Humfreyes death
+
+   Warw. What dares not Warwick, if false Suffolke dare
+him?
+  Qu. He dares not calme his contumelious Spirit,
+Nor cease to be an arrogant Controller,
+Though Suffolke dare him twentie thousand times
+
+   Warw. Madame be still: with reuerence may I say,
+For euery word you speake in his behalfe,
+Is slander to your Royall Dignitie
+
+   Suff. Blunt-witted Lord, ignoble in demeanor,
+If euer Lady wrong'd her Lord so much,
+Thy Mother tooke into her blamefull Bed
+Some sterne vntutur'd Churle; and Noble Stock
+Was graft with Crab-tree slippe, whose Fruit thou art,
+And neuer of the Neuils Noble Race
+
+   Warw. But that the guilt of Murther bucklers thee,
+And I should rob the Deaths-man of his Fee,
+Quitting thee thereby of ten thousand shames,
+And that my Soueraignes presence makes me milde,
+I would, false murd'rous Coward, on thy Knee
+Make thee begge pardon for thy passed speech,
+And say, it was thy Mother that thou meant'st,
+That thou thy selfe wast borne in Bastardie;
+And after all this fearefull Homage done,
+Giue thee thy hyre, and send thy Soule to Hell,
+Pernicious blood-sucker of sleeping men
+
+   Suff. Thou shalt be waking, while I shed thy blood,
+If from this presence thou dar'st goe with me
+
+   Warw. Away euen now, or I will drag thee hence:
+Vnworthy though thou art, Ile cope with thee,
+And doe some seruice to Duke Humfreyes Ghost.
+
+Exeunt.
+
+  King. What stronger Brest-plate then a heart vntainted?
+Thrice is he arm'd, that hath his Quarrell iust;
+And he but naked, though lockt vp in Steele,
+Whose Conscience with Iniustice is corrupted.
+
+A noyse within.
+
+  Queene. What noyse is this?
+Enter Suffolke and Warwicke, with their Weapons drawne.
+
+  King. Why how now Lords?
+Your wrathfull Weapons drawne,
+Here in our presence? Dare you be so bold?
+Why what tumultuous clamor haue we here?
+  Suff. The trayt'rous Warwick, with the men of Bury,
+Set all vpon me, mightie Soueraigne.
+Enter Salisbury.
+
+  Salisb. Sirs stand apart, the King shall know your
+minde.
+Dread Lord, the Commons send you word by me,
+Vnlesse Lord Suffolke straight be done to death,
+Or banished faire Englands Territories,
+They will by violence teare him from your Pallace,
+And torture him with grieuous lingring death.
+They say, by him the good Duke Humfrey dy'de:
+They say, in him they feare your Highnesse death;
+And meere instinct of Loue and Loyaltie,
+Free from a stubborne opposite intent,
+As being thought to contradict your liking,
+Makes them thus forward in his Banishment.
+They say, in care of your most Royall Person,
+That if your Highnesse should intend to sleepe,
+And charge, that no man should disturbe your rest,
+In paine of your dislike, or paine of death;
+Yet not withstanding such a strait Edict,
+Were there a Serpent seene, with forked Tongue,
+That slyly glyded towards your Maiestie,
+It were but necessarie you were wak't:
+Least being suffer'd in that harmefull slumber,
+The mortall Worme might make the sleepe eternall.
+And therefore doe they cry, though you forbid,
+That they will guard you, where you will, or no,
+From such fell Serpents as false Suffolke is;
+With whose inuenomed and fatall sting,
+Your louing Vnckle, twentie times his worth,
+They say is shamefully bereft of life
+
+   Commons within. An answer from the King, my Lord
+of Salisbury
+
+   Suff. 'Tis like the Commons, rude vnpolisht Hindes,
+Could send such Message to their Soueraigne:
+But you, my Lord, were glad to be imploy'd,
+To shew how queint an Orator you are.
+But all the Honor Salisbury hath wonne,
+Is, that he was the Lord Embassador,
+Sent from a sort of Tinkers to the King
+
+   Within. An answer from the King, or wee will all
+breake in
+
+   King. Goe Salisbury, and tell them all from me,
+I thanke them for their tender louing care;
+And had I not beene cited so by them,
+Yet did I purpose as they doe entreat:
+For sure, my thoughts doe hourely prophecie,
+Mischance vnto my State by Suffolkes meanes.
+And therefore by his Maiestie I sweare,
+Whose farre-vnworthie Deputie I am,
+He shall not breathe infection in this ayre,
+But three dayes longer, on the paine of death
+
+   Qu. Oh Henry, let me pleade for gentle Suffolke
+
+   King. Vngentle Queene, to call him gentle Suffolke.
+No more I say: if thou do'st pleade for him,
+Thou wilt but adde encrease vnto my Wrath.
+Had I but sayd, I would haue kept my Word;
+But when I sweare, it is irreuocable:
+If after three dayes space thou here bee'st found,
+On any ground that I am Ruler of,
+The World shall not be Ransome for thy Life.
+Come Warwicke, come good Warwicke, goe with mee,
+I haue great matters to impart to thee.
+Enter.
+
+  Qu. Mischance and Sorrow goe along with you,
+Hearts Discontent, and sowre Affliction,
+Be play-fellowes to keepe you companie:
+There's two of you, the Deuill make a third,
+And three-fold Vengeance tend vpon your steps
+
+   Suff. Cease, gentle Queene, these Execrations,
+And let thy Suffolke take his heauie leaue
+
+   Queen. Fye Coward woman, and soft harted wretch,
+Hast thou not spirit to curse thine enemy
+
+   Suf. A plague vpon them: wherefore should I cursse
+them?
+Would curses kill, as doth the Mandrakes grone,
+I would inuent as bitter searching termes,
+As curst, as harsh, and horrible to heare,
+Deliuer'd strongly through my fixed teeth,
+With full as many signes of deadly hate,
+As leane-fac'd enuy in her loathsome caue.
+My tongue should stumble in mine earnest words,
+Mine eyes should sparkle like the beaten Flint,
+Mine haire be fixt an end, as one distract:
+I, euery ioynt should seeme to curse and ban,
+And euen now my burthen'd heart would breake
+Should I not curse them. Poyson be their drinke.
+Gall, worse then Gall, the daintiest that they taste:
+Their sweetest shade, a groue of Cypresse Trees:
+Their cheefest Prospect, murd'ring Basiliskes:
+Their softest Touch, as smart as Lyzards stings:
+Their Musicke, frightfull as the Serpents hisse,
+And boading Screech-Owles, make the Consort full.
+All the foule terrors in darke seated hell -
+  Q. Enough sweet Suffolke, thou torment'st thy selfe,
+And these dread curses like the Sunne 'gainst glasse,
+Or like an ouer-charged Gun, recoile,
+And turnes the force of them vpon thy selfe
+
+   Suf. You bad me ban, and will you bid me leaue?
+Now by the ground that I am banish'd from,
+Well could I curse away a Winters night,
+Though standing naked on a Mountaine top,
+Where byting cold would neuer let grasse grow,
+And thinke it but a minute spent in sport
+
+   Qu. Oh, let me intreat thee cease, giue me thy hand,
+That I may dew it with my mournfull teares:
+Nor let the raine of heauen wet this place,
+To wash away my wofull Monuments.
+Oh, could this kisse be printed in thy hand,
+That thou might'st thinke vpon these by the Seale,
+Through whom a thousand sighes are breath'd for thee.
+So get thee gone, that I may know my greefe,
+'Tis but surmiz'd, whiles thou art standing by,
+As one that surfets, thinking on a want:
+I will repeale thee, or be well assur'd,
+Aduenture to be banished my selfe:
+And banished I am, if but from thee.
+Go, speake not to me; euen now be gone.
+Oh go not yet. Euen thus, two Friends condemn'd,
+Embrace, and kisse, and take ten thousand leaues,
+Loather a hundred times to part then dye;
+Yet now farewell, and farewell Life with thee
+
+   Suf. Thus is poore Suffolke ten times banished,
+Once by the King, and three times thrice by thee.
+'Tis not the Land I care for, wer't thou thence,
+A Wildernesse is populous enough,
+So Suffolke had thy heauenly company:
+For where thou art, there is the World it selfe,
+With euery seuerall pleasure in the World:
+And where thou art not, Desolation.
+I can no more: Liue thou to ioy thy life;
+My selfe no ioy in nought, but that thou liu'st.
+Enter Vaux.
+
+  Queene. Whether goes Vaux so fast? What newes I
+prethee?
+  Vaux. To signifie vnto his Maiesty,
+That Cardinal Beauford is at point of death:
+For sodainly a greeuous sicknesse tooke him,
+That makes him gaspe, and stare, and catch the aire,
+Blaspheming God, and cursing men on earth.
+Sometime he talkes, as if Duke Humfries Ghost
+Were by his side: Sometime, he calles the King,
+And whispers to his pillow, as to him,
+The secrets of his ouer-charged soule,
+And I am sent to tell his Maiestie,
+That euen now he cries alowd for him
+
+   Qu. Go tell this heauy Message to the King.
+
+Exit
+
+Aye me! What is this World? What newes are these?
+But wherefore greeue I at an houres poore losse,
+Omitting Suffolkes exile, my soules Treasure?
+Why onely Suffolke mourne I not for thee?
+And with the Southerne clouds, contend in teares?
+Theirs for the earths encrease, mine for my sorrowes.
+Now get thee hence, the King thou know'st is comming,
+If thou be found by me, thou art but dead
+
+   Suf. If I depart from thee, I cannot liue,
+And in thy sight to dye, what were it else,
+But like a pleasant slumber in thy lap?
+Heere could I breath my soule into the ayre,
+As milde and gentle as the Cradle-babe,
+Dying with mothers dugge betweene it's lips.
+Where from thy sight, I should be raging mad,
+And cry out for thee to close vp mine eyes:
+To haue thee with thy lippes to stop my mouth:
+So should'st thou eyther turne my flying soule,
+Or I should breathe it so into thy body,
+And then it liu'd in sweete Elizium.
+To dye by thee, were but to dye in iest,
+From thee to dye, were torture more then death:
+Oh let me stay, befall what may befall
+
+   Queen. Away: Though parting be a fretfull corosiue,
+It is applyed to a deathfull wound.
+To France sweet Suffolke: Let me heare from thee:
+For wheresoere thou art in this worlds Globe,
+Ile haue an Iris that shall finde thee out
+
+   Suf. I go
+
+   Qu. And take my heart with thee
+
+   Suf. A Iewell lockt into the wofulst Caske,
+That euer did containe a thing of worth,
+Euen as a splitted Barke, so sunder we:
+This way fall I to death
+
+   Qu. This way for me.
+
+Exeunt.
+
+Enter the King, Salisbury, and Warwicke, to the Cardinal in bed.
+
+  King. How fare's my Lord? Speake Beauford to thy
+Soueraigne
+
+   Ca. If thou beest death, Ile giue thee Englands Treasure,
+Enough to purchase such another Island,
+So thou wilt let me liue, and feele no paine
+
+   King. Ah, what a signe it is of euill life,
+Where death's approach is seene so terrible
+
+   War. Beauford, it is thy Soueraigne speakes to thee
+
+   Beau. Bring me vnto my Triall when you will.
+Dy'de he not in his bed? Where should he dye?
+Can I make men liue where they will or no?
+Oh torture me no more, I will confesse.
+Aliue againe? Then shew me where he is,
+Ile giue a thousand pound to looke vpon him.
+He hath no eyes, the dust hath blinded them.
+Combe downe his haire; looke, looke, it stands vpright,
+Like Lime-twigs set to catch my winged soule:
+Giue me some drinke, and bid the Apothecarie
+Bring the strong poyson that I bought of him
+
+   King. Oh thou eternall mouer of the heauens,
+Looke with a gentle eye vpon this Wretch,
+Oh beate away the busie medling Fiend,
+That layes strong siege vnto this wretches soule,
+And from his bosome purge this blacke dispaire
+
+   War. See how the pangs of death do make him grin
+
+   Sal. Disturbe him not, let him passe peaceably
+
+   King. Peace to his soule, if Gods good pleasure be.
+Lord Card'nall, if thou think'st on heauens blisse,
+Hold vp thy hand, make signall of thy hope.
+He dies and makes no signe: Oh God forgiue him
+
+   War. So bad a death, argues a monstrous life
+
+   King. Forbeare to iudge, for we are sinners all.
+Close vp his eyes, and draw the Curtaine close,
+And let vs all to Meditation.
+
+Exeunt.
+
+
+Alarum. Fight at Sea. Ordnance goes off.
+
+Enter Lieutenant, Suffolke, and others.
+
+  Lieu. The gaudy blabbing and remorsefull day,
+Is crept into the bosome of the Sea:
+And now loud houling Wolues arouse the Iades
+That dragge the Tragicke melancholy night:
+Who with their drowsie, slow, and flagging wings
+Cleape dead-mens graues, and from their misty Iawes,
+Breath foule contagious darknesse in the ayre:
+Therefore bring forth the Souldiers of our prize,
+For whilst our Pinnace Anchors in the Downes,
+Heere shall they make their ransome on the sand,
+Or with their blood staine this discoloured shore.
+Maister, this Prisoner freely giue I thee,
+And thou that art his Mate, make boote of this:
+The other Walter Whitmore is thy share
+
+   1.Gent. What is my ransome Master, let me know
+
+   Ma. A thousand Crownes, or else lay down your head
+  Mate. And so much shall you giue, or off goes yours
+
+   Lieu. What thinke you much to pay 2000. Crownes,
+And beare the name and port of Gentlemen?
+Cut both the Villaines throats, for dy you shall:
+The liues of those which we haue lost in fight,
+Be counter-poys'd with such a pettie summe
+
+   1.Gent. Ile giue it sir, and therefore spare my life
+
+   2.Gent. And so will I, and write home for it straight
+
+   Whitm. I lost mine eye in laying the prize aboord,
+And therefore to reuenge it, shalt thou dye,
+And so should these, if I might haue my will
+
+   Lieu. Be not so rash, take ransome, let him liue
+
+   Suf. Looke on my George, I am a Gentleman,
+Rate me at what thou wilt, thou shalt be payed
+
+   Whit. And so am I: my name is Walter Whitmore.
+How now? why starts thou? What doth death affright?
+  Suf. Thy name affrights me, in whose sound is death:
+A cunning man did calculate my birth,
+And told me that by Water I should dye:
+Yet let not this make thee be bloody-minded,
+Thy name is Gualtier, being rightly sounded
+
+   Whit. Gualtier or Walter, which it is I care not,
+Neuer yet did base dishonour blurre our name,
+But with our sword we wip'd away the blot.
+Therefore, when Merchant-like I sell reuenge,
+Broke be my sword, my Armes torne and defac'd,
+And I proclaim'd a Coward through the world
+
+   Suf. Stay Whitmore, for thy Prisoner is a Prince,
+The Duke of Suffolke, William de la Pole
+
+   Whit. The Duke of Suffolke, muffled vp in ragges?
+  Suf. I, but these ragges are no part of the Duke
+
+   Lieu. But Ioue was neuer slaine as thou shalt be,
+Obscure and lowsie Swaine, King Henries blood
+
+   Suf. The honourable blood of Lancaster
+Must not be shed by such a iaded Groome:
+Hast thou not kist thy hand, and held my stirrop?
+Bare-headed plodded by my foot-cloth Mule,
+And thought thee happy when I shooke my head.
+How often hast thou waited at my cup,
+Fed from my Trencher, kneel'd downe at the boord,
+When I haue feasted with Queene Margaret?
+Remember it, and let it make thee Crest-falne,
+I, and alay this thy abortiue Pride:
+How in our voyding Lobby hast thou stood,
+And duly wayted for my comming forth?
+This hand of mine hath writ in thy behalfe,
+And therefore shall it charme thy riotous tongue
+
+   Whit. Speak Captaine, shall I stab the forlorn Swain
+
+   Lieu. First let my words stab him, as he hath me
+
+   Suf. Base slaue, thy words are blunt, and so art thou
+
+   Lieu. Conuey him hence, and on our long boats side,
+Strike off his head
+
+   Suf. Thou dar'st not for thy owne
+
+   Lieu. Poole, Sir Poole? Lord,
+I kennell, puddle, sinke, whose filth and dirt
+Troubles the siluer Spring, where England drinkes:
+Now will I dam vp this thy yawning mouth,
+For swallowing the Treasure of the Realme.
+Thy lips that kist the Queene, shall sweepe the ground:
+And thou that smil'dst at good Duke Humfries death,
+Against the senselesse windes shall grin in vaine,
+Who in contempt shall hisse at thee againe.
+And wedded be thou to the Hagges of hell,
+For daring to affye a mighty Lord
+Vnto the daughter of a worthlesse King,
+Hauing neyther Subiect, Wealth, nor Diadem:
+By diuellish policy art thou growne great,
+And like ambitious Sylla ouer-gorg'd,
+With gobbets of thy Mother-bleeding heart.
+By thee Aniou and Maine were sold to France.
+The false reuolting Normans thorough thee,
+Disdaine to call vs Lord, and Piccardie
+Hath slaine their Gouernors, surpriz'd our Forts,
+And sent the ragged Souldiers wounded home.
+The Princely Warwicke, and the Neuils all,
+Whose dreadfull swords were neuer drawne in vaine,
+As hating thee, and rising vp in armes.
+And now the House of Yorke thrust from the Crowne,
+By shamefull murther of a guiltlesse King,
+And lofty proud incroaching tyranny,
+Burnes with reuenging fire, whose hopefull colours
+Aduance our halfe-fac'd Sunne, striuing to shine;
+Vnder the which is writ, Inuitis nubibus.
+The Commons heere in Kent are vp in armes,
+And to conclude, Reproach and Beggerie,
+Is crept into the Pallace of our King,
+And all by thee: away, conuey him hence
+
+   Suf. O that I were a God, to shoot forth Thunder
+Vpon these paltry, seruile, abiect Drudges:
+Small things make base men proud. This Villaine heere,
+Being Captaine of a Pinnace, threatens more
+Then Bargulus the strong Illyrian Pyrate.
+Drones sucke not Eagles blood, but rob Bee-hiues:
+It is impossible that I should dye
+By such a lowly Vassall as thy selfe.
+Thy words moue Rage, and not remorse in me:
+I go of Message from the Queene to France:
+I charge thee waft me safely crosse the Channell
+
+   Lieu. Water:
+  W. Come Suffolke, I must waft thee
+to thy death
+
+   Suf. Pine gelidus timor occupat artus, it is thee I feare
+
+   Wal. Thou shalt haue cause to feare before I leaue thee.
+What, are ye danted now? Now will ye stoope
+
+   1.Gent. My gracious Lord intreat him, speak him fair
+
+   Suf. Suffolkes Imperiall tongue is sterne and rough:
+Vs'd to command, vntaught to pleade for fauour.
+Farre be it, we should honor such as these
+With humble suite: no, rather let my head
+Stoope to the blocke, then these knees bow to any,
+Saue to the God of heauen, and to my King:
+And sooner dance vpon a bloody pole,
+Then stand vncouer'd to the Vulgar Groome.
+True Nobility, is exempt from feare:
+More can I beare, then you dare execute
+
+   Lieu. Hale him away, and let him talke no more:
+Come Souldiers, shew what cruelty ye can
+
+   Suf. That this my death may neuer be forgot.
+Great men oft dye by vilde Bezonions.
+A Romane Sworder, and Bandetto slaue
+Murder'd sweet Tully. Brutus Bastard hand
+Stab'd Iulius Cæsar. Sauage Islanders
+Pompey the Great, and Suffolke dyes by Pyrats.
+
+Exit Water with Suffolke.
+
+  Lieu. And as for these whose ransome we haue set,
+It is our pleasure one of them depart:
+Therefore come you with vs, and let him go.
+
+Exit Lieutenant, and the rest.
+
+Manet the first Gent. Enter Walter with the body.
+
+  Wal. There let his head, and liuelesse bodie lye,
+Vntill the Queene his Mistris bury it.
+
+Exit Walter
+
+   1.Gent. O barbarous and bloudy spectacle,
+His body will I beare vnto the King:
+If he reuenge it not, yet will his Friends,
+So will the Queene, that liuing, held him deere.
+Enter Beuis, and Iohn Holland.
+
+  Beuis. Come and get thee a sword, though made of a
+Lath, they haue bene vp these two dayes
+
+   Hol. They haue the more neede to sleepe now then
+
+   Beuis. I tell thee, Iacke Cade the Cloathier, meanes to
+dresse the Common-wealth and turne it, and set a new
+nap vpon it
+
+   Hol. So he had need, for 'tis thred-bare. Well, I say,
+it was neuer merrie world in England, since Gentlemen
+came vp
+
+   Beuis. O miserable Age: Vertue is not regarded in
+Handy-crafts men
+
+   Hol. The Nobilitie thinke scorne to goe in Leather
+Aprons
+
+   Beuis. Nay more, the Kings Councell are no good
+Workemen
+
+   Hol. True: and yet it is said, Labour in thy Vocation:
+which is as much to say, as let the Magistrates be labouring
+men, and therefore should we be Magistrates
+
+   Beuis. Thou hast hit it: for there's no better signe of a
+braue minde, then a hard hand
+
+   Hol. I see them, I see them: There's Bests Sonne, the
+Tanner of Wingham
+
+   Beuis. Hee shall haue the skinnes of our enemies, to
+make Dogges Leather of
+
+   Hol. And Dicke the Butcher
+
+   Beuis. Then is sin strucke downe like an Oxe, and iniquities
+throate cut like a Calfe
+
+   Hol. And Smith the Weauer
+
+   Beu. Argo, their thred of life is spun
+
+   Hol. Come, come, let's fall in with them.
+
+Drumme. Enter Cade, Dicke Butcher, Smith the Weauer, and a
+Sawyer, with
+infinite numbers.
+
+  Cade. Wee Iohn Cade, so tearm'd of our supposed Father
+
+   But. Or rather of stealing a Cade of Herrings
+
+   Cade. For our enemies shall faile before vs, inspired
+with the spirit of putting down Kings and Princes. Command
+silence
+
+   But. Silence
+
+   Cade. My Father was a Mortimer
+
+   But. He was an honest man, and a good Bricklayer
+
+   Cade. My mother a Plantagenet
+
+   Butch. I knew her well, she was a Midwife
+
+   Cade. My wife descended of the Lacies
+
+   But. She was indeed a Pedlers daughter, & sold many
+Laces
+
+   Weauer. But now of late, not able to trauell with her
+furr'd Packe, she washes buckes here at home
+
+   Cade. Therefore am I of an honorable house
+
+   But. I by my faith, the field is honourable, and there
+was he borne, vnder a hedge: for his Father had neuer a
+house but the Cage
+
+   Cade. Valiant I am
+
+   Weauer. A must needs, for beggery is valiant
+
+   Cade. I am able to endure much
+
+   But. No question of that: for I haue seene him whipt
+three Market dayes together
+
+   Cade. I feare neither sword, nor fire
+
+   Wea. He neede not feare the sword, for his Coate is of
+proofe
+
+   But. But me thinks he should stand in feare of fire, being
+burnt i'th hand for stealing of Sheepe
+
+   Cade. Be braue then, for your Captaine is Braue, and
+Vowes Reformation. There shall be in England, seuen
+halfe peny Loaues sold for a peny: the three hoop'd pot,
+shall haue ten hoopes, and I wil make it Fellony to drink
+small Beere. All the Realme shall be in Common, and in
+Cheapside shall my Palfrey go to grasse: and when I am
+King, as King I will be
+
+   All. God saue your Maiesty
+
+   Cade. I thanke you good people. There shall bee no
+mony, all shall eate and drinke on my score, and I will
+apparrell them all in one Liuery, that they may agree like
+Brothers, and worship me their Lord
+
+   But. The first thing we do, let's kill all the Lawyers
+
+   Cade. Nay, that I meane to do. Is not this a lamentable
+thing, that of the skin of an innocent Lambe should
+be made Parchment; that Parchment being scribeld ore,
+should vndoe a man. Some say the Bee stings, but I say,
+'tis the Bees waxe: for I did but seale once to a thing, and
+I was neuer mine owne man since. How now? Who's
+there?
+Enter a Clearke.
+
+  Weauer. The Clearke of Chartam: hee can write and
+reade, and cast accompt
+
+   Cade. O monstrous
+
+   Wea. We tooke him setting of boyes Copies
+
+   Cade. Here's a Villaine
+
+   Wea. Ha's a Booke in his pocket with red Letters in't
+  Cade. Nay then he is a Coniurer
+
+   But. Nay, he can make Obligations, and write Court
+hand
+
+   Cade. I am sorry for't: The man is a proper man of
+mine Honour: vnlesse I finde him guilty he shall not die.
+Come hither sirrah, I must examine thee: What is thy
+name?
+  Clearke. Emanuell
+
+   But. They vse to writ it on the top of Letters: 'Twill
+go hard with you
+
+   Cade. Let me alone: Dost thou vse to write thy name?
+Or hast thou a marke to thy selfe, like a honest plain dealing
+man?
+  Clearke. Sir I thanke God, I haue bin so well brought
+vp, that I can write my name
+
+   All. He hath confest: away with him: he's a Villaine
+and a Traitor
+
+   Cade. Away with him I say: Hang him with his Pen
+and Inke-horne about his necke.
+
+Exit one with the Clearke
+
+Enter Michael.
+
+  Mich. Where's our Generall?
+  Cade. Heere I am thou particular fellow
+
+   Mich. Fly, fly, fly, Sir Humfrey Stafford and his brother
+are hard by, with the Kings Forces
+
+   Cade. Stand villaine, stand, or Ile fell thee downe: he
+shall be encountred with a man as good as himselfe. He
+is but a Knight, is a?
+  Mich. No
+
+   Cade. To equall him I will make my selfe a knight, presently;
+Rise vp Sir Iohn Mortimer. Now haue at him.
+Enter Sir Humfrey Stafford, and his Brother, with Drum and
+Soldiers.
+
+  Staf. Rebellious Hinds, the filth and scum of Kent,
+Mark'd for the Gallowes: Lay your Weapons downe,
+Home to your Cottages: forsake this Groome.
+The King is mercifull, if you reuolt
+
+   Bro. But angry, wrathfull, and inclin'd to blood,
+If you go forward: therefore yeeld, or dye
+
+   Cade. As for these silken-coated slaues I passe not,
+It is to you good people, that I speake,
+Ouer whom (in time to come) I hope to raigne:
+For I am rightfull heyre vnto the Crowne
+
+   Staff. Villaine, thy Father was a Playsterer,
+And thou thy selfe a Sheareman, art thou not?
+  Cade. And Adam was a Gardiner
+
+   Bro. And what of that?
+  Cade. Marry, this Edmund Mortimer Earle of March,
+married the Duke of Clarence daughter, did he not?
+  Staf. I sir
+
+   Cade. By her he had two children at one birth
+
+   Bro. That's false
+
+   Cade. I, there's the question; But I say, 'tis true:
+The elder of them being put to nurse,
+Was by a begger-woman stolne away,
+And ignorant of his birth and parentage,
+Became a Bricklayer, when he came to age.
+His sonne am I, deny it if you can
+
+   But. Nay, 'tis too true, therefore he shall be King
+
+   Wea. Sir, he made a Chimney in my Fathers house, &
+the brickes are aliue at this day to testifie it: therefore
+deny it not
+
+   Staf. And will you credit this base Drudges Wordes,
+that speakes he knowes not what
+
+   All. I marry will we: therefore get ye gone
+
+   Bro. Iacke Cade, the D[uke]. of York hath taught you this
+
+   Cade. He lyes, for I inuented it my selfe. Go too Sirrah,
+tell the King from me, that for his Fathers sake Henry
+the fift, (in whose time, boyes went to Span-counter
+for French Crownes) I am content he shall raigne, but Ile
+be Protector ouer him
+
+   Butcher. And furthermore, wee'l haue the Lord Sayes
+head, for selling the Dukedome of Maine
+
+   Cade And good reason: for thereby is England main'd
+And faine to go with a staffe, but that my puissance holds
+it vp. Fellow-Kings, I tell you, that that Lord Say hath
+gelded the Commonwealth, and made it an Eunuch: &
+more then that, he can speake French, and therefore hee is
+a Traitor
+
+   Staf. O grosse and miserable ignorance
+
+   Cade. Nay answer if you can: The Frenchmen are our
+enemies: go too then, I ask but this: Can he that speaks
+with the tongue of an enemy, be a good Councellour, or
+no?
+  All. No, no, and therefore wee'l haue his head
+
+   Bro. Well, seeing gentle words will not preuayle,
+Assaile them with the Army of the King
+
+   Staf. Herald away, and throughout euery Towne,
+Proclaime them Traitors that are vp with Cade,
+That those which flye before the battell ends,
+May euen in their Wiues and Childrens sight,
+Be hang'd vp for example at their doores:
+And you that be the Kings Friends follow me.
+Enter.
+
+  Cade. And you that loue the Commons, follow me:
+Now shew your selues men, 'tis for Liberty.
+We will not leaue one Lord, one Gentleman:
+Spare none, but such as go in clouted shooen,
+For they are thrifty honest men, and such
+As would (but that they dare not) take our parts
+
+   But. They are all in order, and march toward vs
+
+   Cade. But then are we in order, when we are most out
+of order. Come, march forward.
+
+Alarums to the fight, wherein both the Staffords are slaine. Enter
+Cade
+and the rest.
+
+  Cade. Where's Dicke, the Butcher of Ashford?
+  But. Heere sir
+
+   Cade. They fell before thee like Sheepe and Oxen, &
+thou behaued'st thy selfe, as if thou hadst beene in thine
+owne Slaughter-house: Therfore thus will I reward thee,
+the Lent shall bee as long againe as it is, and thou shalt
+haue a License to kill for a hundred lacking one
+
+   But. I desire no more
+
+   Cade. And to speake truth, thou deseru'st no lesse.
+This Monument of the victory will I beare, and the bodies
+shall be dragg'd at my horse heeles, till I do come to
+London, where we will haue the Maiors sword born before
+vs
+
+   But. If we meane to thriue, and do good, breake open
+the Gaoles, and let out the Prisoners
+
+   Cade. Feare not that I warrant thee. Come, let's march
+towards London.
+
+Exeunt.
+
+Enter the King with a Supplication, and the Queene with Suffolkes
+head,
+the Duke of Buckingham, and the Lord Say.
+
+  Queene. Oft haue I heard that greefe softens the mind,
+And makes it fearefull and degenerate,
+Thinke therefore on reuenge, and cease to weepe.
+But who can cease to weepe, and looke on this.
+Heere may his head lye on my throbbing brest:
+But where's the body that I should imbrace?
+  Buc. What answer makes your Grace to the Rebells
+Supplication?
+  King. Ile send some holy Bishop to intreat:
+For God forbid, so many simple soules
+Should perish by the Sword. And I my selfe,
+Rather then bloody Warre shall cut them short,
+Will parley with Iacke Cade their Generall.
+But stay, Ile read it ouer once againe
+
+   Qu. Ah barbarous villaines: Hath this louely face,
+Rul'd like a wandering Plannet ouer me,
+And could it not inforce them to relent,
+That were vnworthy to behold the same
+
+   King. Lord Say, Iacke Cade hath sworne to haue thy
+head
+
+   Say. I, but I hope your Highnesse shall haue his
+
+   King. How now Madam?
+Still lamenting and mourning for Suffolkes death?
+I feare me (Loue) if that I had beene dead,
+Thou would'st not haue mourn'd so much for me
+
+   Qu. No my Loue, I should not mourne, but dye for
+thee.
+Enter a Messenger.
+
+  King. How now? What newes? Why com'st thou in
+such haste?
+  Mes. The Rebels are in Southwarke: Fly my Lord:
+Iacke Cade proclaimes himselfe Lord Mortimer,
+Descended from the Duke of Clarence house,
+And calles your Grace Vsurper, openly,
+And vowes to Crowne himselfe in Westminster.
+His Army is a ragged multitude
+Of Hindes and Pezants, rude and mercilesse:
+Sir Humfrey Stafford, and his Brothers death,
+Hath giuen them heart and courage to proceede:
+All Schollers, Lawyers, Courtiers, Gentlemen,
+They call false Catterpillers, and intend their death
+
+   Kin. Oh gracelesse men: they know not what they do
+
+   Buck. My gracious Lord, retire to Killingworth,
+Vntill a power be rais'd to put them downe
+
+   Qu. Ah were the Duke of Suffolke now aliue,
+These Kentish Rebels would be soone appeas'd
+
+   King. Lord Say, the Traitors hateth thee,
+Therefore away with vs to Killingworth
+
+   Say. So might your Graces person be in danger.
+The sight of me is odious in their eyes:
+And therefore in this Citty will I stay,
+And liue alone as secret as I may.
+Enter another Messenger.
+
+  Mess. Iacke Cade hath gotten London-bridge.
+The Citizens flye and forsake their houses:
+The Rascall people, thirsting after prey,
+Ioyne with the Traitor, and they ioyntly sweare
+To spoyle the City, and your Royall Court
+
+   Buc. Then linger not my Lord, away, take horse
+
+   King. Come Margaret, God our hope will succor vs
+
+   Qu. My hope is gone, now Suffolke is deceast
+
+   King. Farewell my Lord, trust not the Kentish Rebels
+  Buc. Trust no body for feare you betraid
+
+   Say. The trust I haue, is in mine innocence,
+And therefore am I bold and resolute.
+
+Exeunt.
+
+Enter Lord Scales vpon the Tower walking. Then enters two or
+three
+Citizens below.
+
+  Scales. How now? Is Iacke Cade slaine?
+  1.Cit. No my Lord, nor likely to be slaine:
+For they haue wonne the Bridge,
+Killing all those that withstand them:
+The L[ord]. Maior craues ayd of your Honor from the Tower
+To defend the City from the Rebels
+
+   Scales. Such ayd as I can spare you shall command,
+But I am troubled heere with them my selfe,
+The Rebels haue assay'd to win the Tower.
+But get you to Smithfield, and gather head,
+And thither I will send you Mathew Goffe.
+Fight for your King, your Countrey, and your Liues,
+And so farwell, for I must hence againe.
+
+Exeunt.
+
+Enter Iacke Cade and the rest, and strikes his staffe on London
+stone.
+
+  Cade. Now is Mortimer Lord of this City,
+And heere sitting vpon London Stone,
+I charge and command, that of the Cities cost
+The pissing Conduit run nothing but Clarret Wine
+This first yeare of our raigne.
+And now henceforward it shall be Treason for any,
+That calles me other then Lord Mortimer.
+Enter a Soldier running.
+
+  Soul. Iacke Cade, Iacke Cade
+
+   Cade. Knocke him downe there.
+
+They kill him.
+
+  But. If this Fellow be wise, hee'l neuer call yee Iacke
+Cade more, I thinke he hath a very faire warning
+
+   Dicke. My Lord, there's an Army gathered together
+in Smithfield
+
+   Cade. Come, then let's go fight with them:
+But first, go and set London Bridge on fire,
+And if you can, burne downe the Tower too.
+Come, let's away.
+
+Exeunt. omnes.
+
+Alarums. Mathew Goffe is slain, and all the rest. Then enter Iacke
+Cade,
+with his Company.
+
+  Cade. So sirs: now go some and pull down the Sauoy:
+Others to'th Innes of Court, downe with them all
+
+   But. I haue a suite vnto your Lordship
+
+   Cade. Bee it a Lordshippe, thou shalt haue it for that
+word
+
+   But. Onely that the Lawes of England may come out
+of your mouth
+
+   Iohn. Masse 'twill be sore Law then, for he was thrust
+in the mouth with a Speare, and 'tis not whole yet
+
+   Smith. Nay Iohn, it wil be stinking Law, for his breath
+stinkes with eating toasted cheese
+
+   Cade. I haue thought vpon it, it shall bee so. Away,
+burne all the Records of the Realme, my mouth shall be
+the Parliament of England
+
+   Iohn. Then we are like to haue biting Statutes
+Vnlesse his teeth be pull'd out
+
+   Cade. And hence-forward all things shall be in Common.
+Enter a Messenger.
+
+  Mes. My Lord, a prize, a prize, heeres the Lord Say,
+which sold the Townes in France. He that made vs pay
+one and twenty Fifteenes, and one shilling to the pound,
+the last Subsidie.
+Enter George, with the Lord Say.
+
+  Cade. Well, hee shall be beheaded for it ten times:
+Ah thou Say, thou Surge, nay thou Buckram Lord, now
+art thou within point-blanke of our Iurisdiction Regall.
+What canst thou answer to my Maiesty, for giuing vp of
+Normandie vnto Mounsieur Basimecu, the Dolphine of
+France? Be it knowne vnto thee by these presence, euen
+the presence of Lord Mortimer, that I am the Beesome
+that must sweepe the Court cleane of such filth as thou
+art: Thou hast most traiterously corrupted the youth of
+the Realme, in erecting a Grammar Schoole: and whereas
+before, our Fore-fathers had no other Bookes but the
+Score and the Tally, thou hast caused printing to be vs'd,
+and contrary to the King, his Crowne, and Dignity, thou
+hast built a Paper-Mill. It will be prooued to thy Face,
+that thou hast men about thee, that vsually talke of a
+Nowne and a Verbe, and such abhominable wordes, as
+no Christian eare can endure to heare. Thou hast appointed
+Iustices of Peace, to call poore men before them, about
+matters they were not able to answer. Moreouer,
+thou hast put them in prison, and because they could not
+reade, thou hast hang'd them, when (indeede) onely for
+that cause they haue beene most worthy to liue. Thou
+dost ride in a foot-cloth, dost thou not?
+  Say. What of that?
+  Cade. Marry, thou ought'st not to let thy horse weare
+a Cloake, when honester men then thou go in their Hose
+and Doublets
+
+   Dicke. And worke in their shirt to, as my selfe for example,
+that am a butcher
+
+   Say. You men of Kent
+
+   Dic. What say you of Kent
+
+   Say. Nothing but this: 'Tis bona terra, mala gens
+
+   Cade. Away with him, away with him, he speaks Latine
+
+   Say. Heare me but speake, and beare mee wher'e you
+will:
+Kent, in the Commentaries Cæsar writ,
+Is term'd the ciuel'st place of all this Isle:
+Sweet is the Country, because full of Riches,
+The People Liberall, Valiant, Actiue, Wealthy,
+Which makes me hope you are not void of pitty.
+I sold not Maine, I lost not Normandie,
+Yet to recouer them would loose my life:
+Iustice with fauour haue I alwayes done,
+Prayres and Teares haue mou'd me, Gifts could neuer.
+When haue I ought exacted at your hands?
+Kent to maintaine, the King, the Realme and you,
+Large gifts haue I bestow'd on learned Clearkes,
+Because my Booke preferr'd me to the King.
+And seeing Ignorance is the curse of God,
+Knowledge the Wing wherewith we flye to heauen.
+Vnlesse you be possest with diuellish spirits,
+You cannot but forbeare to murther me:
+This Tongue hath parlied vnto Forraigne Kings
+For your behoofe
+
+   Cade. Tut, when struck'st thou one blow in the field?
+  Say. Great men haue reaching hands: oft haue I struck
+Those that I neuer saw, and strucke them dead
+
+   Geo. O monstrous Coward! What, to come behinde
+Folkes?
+  Say. These cheekes are pale for watching for your good
+  Cade. Giue him a box o'th' eare, and that wil make 'em
+red againe
+
+   Say. Long sitting to determine poore mens causes,
+Hath made me full of sicknesse and diseases
+
+   Cade. Ye shall haue a hempen Candle then, & the help
+of hatchet
+
+   Dicke. Why dost thou quiuer man?
+  Say. The Palsie, and not feare prouokes me
+
+   Cade. Nay, he noddes at vs, as who should say, Ile be
+euen with you. Ile see if his head will stand steddier on
+a pole, or no: Take him away, and behead him
+
+   Say. Tell me: wherein haue I offended most?
+Haue I affected wealth, or honor? Speake.
+Are my Chests fill'd vp with extorted Gold?
+Is my Apparrell sumptuous to behold?
+Whom haue I iniur'd, that ye seeke my death?
+These hands are free from guiltlesse bloodshedding,
+This breast from harbouring foule deceitfull thoughts.
+O let me liue
+
+   Cade. I feele remorse in my selfe with his words: but
+Ile bridle it: he shall dye, and it bee but for pleading so
+well for his life. Away with him, he ha's a Familiar vnder
+his Tongue, he speakes not a Gods name. Goe, take
+him away I say, and strike off his head presently, and then
+breake into his Sonne in Lawes house, Sir Iames Cromer,
+and strike off his head, and bring them both vppon two
+poles hither
+
+   All. It shall be done
+
+   Say. Ah Countrimen: If when you make your prair's,
+God should be so obdurate as your selues:
+How would it fare with your departed soules,
+And therefore yet relent, and saue my life
+
+   Cade. Away with him, and do as I command ye: the
+proudest Peere in the Realme, shall not weare a head on
+his shoulders, vnlesse he pay me tribute: there shall not
+a maid be married, but she shall pay to me her Maydenhead
+ere they haue it: Men shall hold of mee in Capite.
+And we charge and command, that their wiues be as free
+as heart can wish, or tongue can tell
+
+   Dicke. My Lord,
+When shall we go to Cheapside, and take vp commodities
+vpon our billes?
+  Cade. Marry presently
+
+   All. O braue.
+Enter one with the heads.
+
+  Cade. But is not this brauer:
+Let them kisse one another: For they lou'd well
+When they were aliue. Now part them againe,
+Least they consult about the giuing vp
+Of some more Townes in France. Soldiers,
+Deferre the spoile of the Citie vntill night:
+For with these borne before vs, in steed of Maces,
+Will we ride through the streets, & at euery Corner
+Haue them kisse. Away.
+
+Exit
+
+Alarum, and Retreat. Enter againe Cade, and all his rabblement.
+
+  Cade. Vp Fish-streete, downe Saint Magnes corner,
+kill and knocke downe, throw them into Thames:
+
+Sound a parley.
+
+What noise is this I heare?
+Dare any be so bold to sound Retreat or Parley
+When I command them kill?
+Enter Buckingham, and old Clifford.
+
+  Buc. I heere they be, that dare and will disturb thee:
+Know Cade, we come Ambassadors from the King
+Vnto the Commons, whom thou hast misled,
+And heere pronounce free pardon to them all,
+That will forsake thee, and go home in peace
+
+   Clif. What say ye Countrimen, will ye relent
+And yeeld to mercy, whil'st 'tis offered you,
+Or let a rabble leade you to your deaths.
+Who loues the King, and will imbrace his pardon,
+Fling vp his cap, and say, God saue his Maiesty.
+Who hateth him, and honors not his Father,
+Henry the fift, that made all France to quake,
+Shake he his weapon at vs, and passe by
+
+   All. God saue the King, God saue the King
+
+   Cade. What Buckingham and Clifford are ye so braue?
+And you base Pezants, do ye beleeue him, will you needs
+be hang'd with your Pardons about your neckes? Hath
+my sword therefore broke through London gates, that
+you should leaue me at the White-heart in Southwarke.
+I thought ye would neuer haue giuen out these Armes til
+you had recouered your ancient Freedome. But you are
+all Recreants and Dastards, and delight to liue in slauerie
+to the Nobility. Let them breake your backes with burthens,
+take your houses ouer your heads, rauish your
+Wiues and Daughters before your faces. For me, I will
+make shift for one, and so Gods Cursse light vppon you
+all
+
+   All. Wee'l follow Cade,
+Wee'l follow Cade
+
+   Clif. Is Cade the sonne of Henry the fift,
+That thus you do exclaime you'l go with him.
+Will he conduct you through the heart of France,
+And make the meanest of you Earles and Dukes?
+Alas, he hath no home, no place to flye too:
+Nor knowes he how to liue, but by the spoile,
+Vnlesse by robbing of your Friends, and vs.
+Wer't not a shame, that whilst you liue at iarre,
+The fearfull French, whom you late vanquished
+Should make a start ore-seas, and vanquish you?
+Me thinkes alreadie in this ciuill broyle,
+I see them Lording it in London streets,
+Crying Villiago vnto all they meete.
+Better ten thousand base-borne Cades miscarry,
+Then you should stoope vnto a Frenchmans mercy.
+To France, to France, and get what you haue lost:
+Spare England, for it is your Natiue Coast:
+Henry hath mony, you are strong and manly:
+God on our side, doubt not of Victorie
+
+   All. A Clifford, a Clifford,
+Wee'l follow the King, and Clifford
+
+   Cade. Was euer Feather so lightly blowne too & fro,
+as this multitude? The name of Henry the fift, hales them
+to an hundred mischiefes, and makes them leaue mee desolate.
+I see them lay their heades together to surprize
+me. My sword make way for me, for heere is no staying:
+in despight of the diuels and hell, haue through the verie
+middest of you, and heauens and honor be witnesse, that
+no want of resolution in mee, but onely my Followers
+base and ignominious treasons, makes me betake mee to
+my heeles.
+
+Exit
+
+  Buck. What, is he fled? Go some and follow him,
+And he that brings his head vnto the King,
+Shall haue a thousand Crownes for his reward.
+
+Exeunt. some of them.
+
+Follow me souldiers, wee'l deuise a meane,
+To reconcile you all vnto the King.
+
+Exeunt. omnes.
+
+Sound Trumpets. Enter King, Queene, and Somerset on the Tarras.
+
+  King. Was euer King that ioy'd an earthly Throne,
+And could command no more content then I?
+No sooner was I crept out of my Cradle,
+But I was made a King, at nine months olde.
+Was neuer Subiect long'd to be a King,
+As I do long and wish to be a Subiect.
+Enter Buckingham and Clifford.
+
+  Buc. Health and glad tydings to your Maiesty
+
+   Kin. Why Buckingham, is the Traitor Cade surpris'd?
+Or is he but retir'd to make him strong?
+Enter Multitudes with Halters about their Neckes
+
+   Clif. He is fled my Lord, and all his powers do yeeld,
+And humbly thus with halters on their neckes,
+Expect your Highnesse doome of life, or death
+
+   King. Then heauen set ope thy euerlasting gates,
+To entertaine my vowes of thankes and praise.
+Souldiers, this day haue you redeem'd your liues,
+And shew'd how well you loue your Prince & Countrey:
+Continue still in this so good a minde,
+And Henry though he be infortunate,
+Assure your selues will neuer be vnkinde:
+And so with thankes, and pardon to you all,
+I do dismisse you to your seuerall Countries
+
+   All. God saue the King, God saue the King.
+Enter a Messenger.
+
+  Mes. Please it your Grace to be aduertised,
+The Duke of Yorke is newly come from Ireland,
+And with a puissant and a mighty power
+Of Gallow-glasses and stout Kernes,
+Is marching hitherward in proud array,
+And still proclaimeth as he comes along,
+His Armes are onely to remoue from thee
+The Duke of Somerset, whom he tearmes a Traitor
+
+   King. Thus stands my state, 'twixt Cade and Yorke
+distrest,
+Like to a Ship, that hauing scap'd a Tempest,
+Is straight way calme, and boorded with a Pyrate.
+But now is Cade driuen backe, his men dispierc'd,
+And now is Yorke in Armes, to second him.
+I pray thee Buckingham go and meete him,
+And aske him what's the reason of these Armes:
+Tell him, Ile send Duke Edmund to the Tower,
+And Somerset we will commit thee thither,
+Vntill his Army be dismist from him
+
+   Somerset. My Lord,
+Ile yeelde my selfe to prison willingly,
+Or vnto death, to do my Countrey good
+
+   King. In any case, be not to rough in termes,
+For he is fierce, and cannot brooke hard Language
+
+   Buc. I will my Lord, and doubt not so to deale,
+As all things shall redound vnto your good
+
+   King. Come wife, let's in, and learne to gouern better,
+For yet may England curse my wretched raigne.
+
+Flourish. Exeunt.
+
+Enter Cade.
+
+  Cade. Fye on Ambitions: fie on my selfe, that haue a
+sword, and yet am ready to famish. These fiue daies haue
+I hid me in these Woods, and durst not peepe out, for all
+the Country is laid for me: but now am I so hungry, that
+if I might haue a Lease of my life for a thousand yeares, I
+could stay no longer. Wherefore on a Bricke wall haue
+I climb'd into this Garden, to see if I can eate Grasse, or
+picke a Sallet another while, which is not amisse to coole
+a mans stomacke this hot weather: and I think this word
+Sallet was borne to do me good: for many a time but for
+a Sallet, my brain-pan had bene cleft with a brown Bill;
+and many a time when I haue beene dry, & brauely marching,
+it hath seru'd me insteede of a quart pot to drinke
+in: and now the word Sallet must serue me to feed on.
+Enter Iden.
+
+  Iden. Lord, who would liue turmoyled in the Court,
+And may enioy such quiet walkes as these?
+This small inheritance my Father left me,
+Contenteth me, and worth a Monarchy.
+I seeke not to waxe great by others warning,
+Or gather wealth I care not with what enuy:
+Sufficeth, that I haue maintaines my state,
+And sends the poore well pleased from my gate
+
+   Cade. Heere's the Lord of the soile come to seize me
+for a stray, for entering his Fee-simple without leaue. A
+Villaine, thou wilt betray me, and get a 1000. Crownes
+of the King by carrying my head to him, but Ile make
+thee eate Iron like an Ostridge, and swallow my Sword
+like a great pin ere thou and I part
+
+   Iden. Why rude Companion, whatsoere thou be,
+I know thee not, why then should I betray thee?
+Is't not enough to breake into my Garden,
+And like a Theefe to come to rob my grounds:
+Climbing my walles inspight of me the Owner,
+But thou wilt braue me with these sawcie termes?
+  Cade. Braue thee? I by the best blood that euer was
+broach'd, and beard thee to. Looke on mee well, I haue
+eate no meate these fiue dayes, yet come thou and thy
+fiue men, and if I doe not leaue you all as dead as a doore
+naile, I pray God I may neuer eate grasse more
+
+   Iden. Nay, it shall nere be said, while England stands,
+That Alexander Iden an Esquire of Kent,
+Tooke oddes to combate a poore famisht man.
+Oppose thy stedfast gazing eyes to mine,
+See if thou canst out-face me with thy lookes:
+Set limbe to limbe, and thou art farre the lesser:
+Thy hand is but a finger to my fist,
+Thy legge a sticke compared with this Truncheon,
+My foote shall fight with all the strength thou hast,
+And if mine arme be heaued in the Ayre,
+Thy graue is digg'd already in the earth:
+As for words, whose greatnesse answer's words,
+Let this my sword report what speech forbeares
+
+   Cade. By my Valour: the most compleate Champion
+that euer I heard. Steele, if thou turne the edge, or
+cut not out the burly bon'd Clowne in chines of Beefe,
+ere thou sleepe in thy Sheath, I beseech Ioue on my knees
+thou mayst be turn'd to Hobnailes.
+
+Heere they Fight.
+
+O I am slaine, Famine and no other hath slaine me, let ten
+thousand diuelles come against me, and giue me but the
+ten meales I haue lost, and I'de defie them all. Wither
+Garden, and be henceforth a burying place to all that do
+dwell in this house, because the vnconquered soule of
+Cade is fled
+
+   Iden. Is't Cade that I haue slain, that monstrous traitor?
+Sword, I will hallow thee for this thy deede,
+And hang thee o're my Tombe, when I am dead.
+Ne're shall this blood be wiped from thy point,
+But thou shalt weare it as a Heralds coate,
+To emblaze the Honor that thy Master got
+
+   Cade. Iden farewell, and be proud of thy victory: Tell
+Kent from me, she hath lost her best man, and exhort all
+the World to be Cowards: For I that neuer feared any,
+am vanquished by Famine, not by Valour.
+
+Dyes.
+
+  Id. How much thou wrong'st me, heauen be my iudge;
+Die damned Wretch, the curse of her that bare thee:
+And as I thrust thy body in with my sword,
+So wish I, I might thrust thy soule to hell.
+Hence will I dragge thee headlong by the heeles
+Vnto a dunghill, which shall be thy graue,
+And there cut off thy most vngracious head,
+Which I will beare in triumph to the King,
+Leauing thy trunke for Crowes to feed vpon.
+Enter.
+
+Enter Yorke, and his Army of Irish, with Drum and Colours.
+
+  Yor. From Ireland thus comes York to claim his right,
+And plucke the Crowne from feeble Henries head.
+Ring Belles alowd, burne Bonfires cleare and bright
+To entertaine great Englands lawfull King.
+Ah Sancta Maiestas! who would not buy thee deere?
+Let them obey, that knowes not how to Rule.
+This hand was made to handle nought but Gold.
+I cannot giue due action to my words,
+Except a Sword or Scepter ballance it.
+A Scepter shall it haue, haue I a soule,
+On which Ile tosse the Fleure-de-Luce of France.
+Enter Buckingham.
+
+Whom haue we heere? Buckingham to disturbe me?
+The king hath sent him sure: I must dissemble
+
+   Buc. Yorke, if thou meanest wel, I greet thee well
+
+   Yor. Humfrey of Buckingham, I accept thy greeting.
+Art thou a Messenger, or come of pleasure
+
+   Buc. A Messenger from Henry, our dread Liege,
+To know the reason of these Armes in peace.
+Or why, thou being a Subiect, as I am,
+Against thy Oath, and true Allegeance sworne,
+Should raise so great a power without his leaue?
+Or dare to bring thy Force so neere the Court?
+  Yor. Scarse can I speake, my Choller is so great.
+Oh I could hew vp Rockes, and fight with Flint,
+I am so angry at these abiect tearmes.
+And now like Aiax Telamonius,
+On Sheepe or Oxen could I spend my furie.
+I am farre better borne then is the king:
+More like a King, more Kingly in my thoughts.
+But I must make faire weather yet a while,
+Till Henry be more weake, and I more strong.
+Buckingham, I prethee pardon me,
+That I haue giuen no answer all this while:
+My minde was troubled with deepe Melancholly.
+The cause why I haue brought this Armie hither,
+Is to remoue proud Somerset from the King,
+Seditious to his Grace, and to the State
+
+   Buc. That is too much presumption on thy part:
+But if thy Armes be to no other end,
+The King hath yeelded vnto thy demand:
+The Duke of Somerset is in the Tower
+
+   Yorke. Vpon thine Honor is he Prisoner?
+  Buck. Vpon mine Honor he is Prisoner
+
+   Yorke. Then Buckingham I do dismisse my Powres.
+Souldiers, I thanke you all: disperse your selues:
+Meet me to morrow in S[aint]. Georges Field,
+You shall haue pay, and euery thing you wish.
+And let my Soueraigne, vertuous Henry,
+Command my eldest sonne, nay all my sonnes,
+As pledges of my Fealtie and Loue,
+Ile send them all as willing as I liue:
+Lands, Goods, Horse, Armor, any thing I haue
+Is his to vse, so Somerset may die
+
+   Buc. Yorke, I commend this kinde submission,
+We twaine will go into his Highnesse Tent.
+Enter King and Attendants.
+
+  King. Buckingham, doth Yorke intend no harme to vs
+That thus he marcheth with thee arme in arme?
+  Yorke. In all submission and humility,
+Yorke doth present himselfe vnto your Highnesse
+
+   K. Then what intends these Forces thou dost bring?
+  Yor. To heaue the Traitor Somerset from hence,
+And fight against that monstrous Rebell Cade,
+Who since I heard to be discomfited.
+Enter Iden with Cades head.
+
+  Iden. If one so rude, and of so meane condition
+May passe into the presence of a King:
+Loe, I present your Grace a Traitors head,
+The head of Cade, whom I in combat slew
+
+   King. The head of Cade? Great God, how iust art thou?
+Oh let me view his Visage being dead,
+That liuing wrought me such exceeding trouble.
+Tell me my Friend, art thou the man that slew him?
+  Iden. I was, an't like your Maiesty
+
+   King. How art thou call'd? And what is thy degree?
+  Iden. Alexander Iden, that's my name,
+A poore Esquire of Kent, that loues his King
+
+   Buc. So please it you my Lord, 'twere not amisse
+He were created Knight for his good seruice
+
+   King. Iden, kneele downe, rise vp a Knight:
+We giue thee for reward a thousand Markes,
+And will, that thou henceforth attend on vs
+
+   Iden. May Iden liue to merit such a bountie,
+And neuer liue but true vnto his Liege.
+Enter Queene and Somerset.
+
+  K. See Buckingham, Somerset comes with th' Queene,
+Go bid her hide him quickly from the Duke
+
+   Qu. For thousand Yorkes he shall not hide his head,
+But boldly stand, and front him to his face
+
+   Yor. How now? is Somerset at libertie?
+Then Yorke vnloose thy long imprisoned thoughts,
+And let thy tongue be equall with thy heart.
+Shall I endure the sight of Somerset?
+False King, why hast thou broken faith with me,
+Knowing how hardly I can brooke abuse?
+King did I call thee? No: thou art not King:
+Not fit to gouerne and rule multitudes,
+Which dar'st not, no nor canst not rule a Traitor.
+That Head of thine doth not become a Crowne:
+Thy Hand is made to graspe a Palmers staffe,
+And not to grace an awefull Princely Scepter.
+That Gold, must round engirt these browes of mine,
+Whose Smile and Frowne, like to Achilles Speare
+Is able with the change, to kill and cure.
+Heere is hand to hold a Scepter vp,
+And with the same to acte controlling Lawes:
+Giue place: by heauen thou shalt rule no more
+O're him, whom heauen created for thy Ruler
+
+   Som. O monstrous Traitor! I arrest thee Yorke
+Of Capitall Treason 'gainst the King and Crowne:
+Obey audacious Traitor, kneele for Grace
+
+   York. Wold'st haue me kneele? First let me ask of thee,
+If they can brooke I bow a knee to man:
+Sirrah, call in my sonne to be my bale:
+I know ere they will haue me go to Ward,
+They'l pawne their swords of my infranchisement
+
+   Qu. Call hither Clifford, bid him come amaine,
+To say, if that the Bastard boyes of Yorke
+Shall be the Surety for their Traitor Father
+
+   Yorke. O blood-bespotted Neopolitan,
+Out-cast of Naples, Englands bloody Scourge,
+The sonnes of Yorke, thy betters in their birth,
+Shall be their Fathers baile, and bane to those
+That for my Surety will refuse the Boyes.
+Enter Edward and Richard.
+
+See where they come, Ile warrant they'l make it good.
+Enter Clifford.
+
+  Qu. And here comes Clifford to deny their baile
+
+   Clif. Health, and all happinesse to my Lord the King
+
+   Yor. I thanke thee Clifford: Say, what newes with thee?
+Nay, do not fright vs with an angry looke:
+We are thy Soueraigne Clifford, kneele againe;
+For thy mistaking so, We pardon thee
+
+   Clif. This is my King Yorke, I do not mistake,
+But thou mistakes me much to thinke I do,
+To Bedlem with him, is the man growne mad
+
+   King. I Clifford, a Bedlem and ambitious humor
+Makes him oppose himselfe against his King
+
+   Clif. He is a Traitor, let him to the Tower,
+And chop away that factious pate of his
+
+   Qu. He is arrested, but will not obey:
+His sonnes (he sayes) shall giue their words for him
+
+   Yor. Will you not Sonnes?
+  Edw. I Noble Father, if our words will serue
+
+   Rich. And if words will not, then our Weapons shal
+
+   Clif. Why what a brood of Traitors haue we heere?
+  Yorke. Looke in a Glasse, and call thy Image so.
+I am thy King, and thou a false-heart Traitor:
+Call hither to the stake my two braue Beares,
+That with the very shaking of their Chaines,
+They may astonish these fell-lurking Curres,
+Bid Salsbury and Warwicke come to me.
+Enter the Earles of Warwicke, and Salisbury.
+
+  Clif. Are these thy Beares? Wee'l bate thy Bears to death,
+And manacle the Berard in their Chaines,
+If thou dar'st bring them to the bayting place
+
+   Rich. Oft haue I seene a hot ore-weening Curre,
+Run backe and bite, because he was with-held,
+Who being suffer'd with the Beares fell paw,
+Hath clapt his taile, betweene his legges and cride,
+And such a peece of seruice will you do,
+If you oppose your selues to match Lord Warwicke
+
+   Clif. Hence heape of wrath, foule indigested lumpe,
+As crooked in thy manners, as thy shape
+
+   Yor. Nay we shall heate you thorowly anon
+
+   Clif. Take heede least by your heate you burne your
+selues:
+  King. Why Warwicke, hath thy knee forgot to bow?
+Old Salsbury, shame to thy siluer haire,
+Thou mad misleader of thy brain-sicke sonne,
+What wilt thou on thy death-bed play the Ruffian?
+And seeke for sorrow with thy Spectacles?
+Oh where is Faith? Oh, where is Loyalty?
+If it be banisht from the frostie head,
+Where shall it finde a harbour in the earth?
+Wilt thou go digge a graue to finde out Warre,
+And shame thine honourable Age with blood?
+Why art thou old, and want'st experience?
+Or wherefore doest abuse it, if thou hast it?
+For shame in dutie bend thy knee to me,
+That bowes vnto the graue with mickle age
+
+   Sal. My Lord, I haue considered with my selfe
+The Title of this most renowned Duke,
+And in my conscience, do repute his grace
+The rightfull heyre to Englands Royall seate
+
+   King. Hast thou not sworne Allegeance vnto me?
+  Sal. I haue
+
+   Ki. Canst thou dispense with heauen for such an oath?
+  Sal. It is great sinne, to sweare vnto a sinne:
+But greater sinne to keepe a sinfull oath:
+Who can be bound by any solemne Vow
+To do a murd'rous deede, to rob a man,
+To force a spotlesse Virgins Chastitie,
+To reaue the Orphan of his Patrimonie,
+To wring the Widdow from her custom'd right,
+And haue no other reason for this wrong,
+But that he was bound by a solemne Oath?
+  Qu. A subtle Traitor needs no Sophister
+
+   King. Call Buckingham, and bid him arme himselfe
+
+   Yorke. Call Buckingham, and all the friends thou hast,
+I am resolu'd for death and dignitie
+
+   Old Clif. The first I warrant thee, if dreames proue true
+  War. You were best to go to bed, and dreame againe,
+To keepe thee from the Tempest of the field
+
+   Old Clif. I am resolu'd to beare a greater storme,
+Then any thou canst coniure vp to day:
+And that Ile write vpon thy Burgonet,
+Might I but know thee by thy housed Badge
+
+   War. Now by my Fathers badge, old Neuils Crest,
+The rampant Beare chain'd to the ragged staffe,
+This day Ile weare aloft my Burgonet,
+As on a Mountaine top, the Cedar shewes,
+That keepes his leaues inspight of any storme,
+Euen to affright thee with the view thereof
+
+   Old Clif. And from thy Burgonet Ile rend thy Beare,
+And tread it vnder foot with all contempt,
+Despight the Bearard, that protects the Beare
+
+   Yo.Clif. And so to Armes victorious Father,
+To quell the Rebels, and their Complices
+
+   Rich. Fie, Charitie for shame, speake not in spight,
+For you shall sup with Iesu Christ to night
+
+   Yo.Clif. Foule stygmaticke that's more then thou
+canst tell
+
+   Ric. If not in heauen, you'l surely sup in hell.
+
+Exeunt.
+
+Enter Warwicke.
+
+  War. Clifford of Cumberland, 'tis Warwicke calles:
+And if thou dost not hide thee from the Beare,
+Now when the angrie Trumpet sounds alarum,
+And dead mens cries do fill the emptie ayre,
+Clifford I say, come forth and fight with me,
+Proud Northerne Lord, Clifford of Cumberland,
+Warwicke is hoarse with calling thee to armes.
+Enter Yorke.
+
+  War. How now my Noble Lord? What all a-foot
+
+   Yor. The deadly handed Clifford slew my Steed:
+But match to match I haue encountred him,
+And made a prey for Carrion Kytes and Crowes
+Euen of the bonnie beast he loued so well.
+Enter Clifford.
+
+  War. Of one or both of vs the time is come
+
+   Yor. Hold Warwick: seek thee out some other chace
+For I my selfe must hunt this Deere to death
+
+   War. Then nobly Yorke, 'tis for a Crown thou fightst:
+As I intend Clifford to thriue to day,
+It greeues my soule to leaue thee vnassail'd.
+
+Exit War.
+
+  Clif. What seest thou in me Yorke?
+Why dost thou pause?
+  Yorke. With thy braue bearing should I be in loue,
+But that thou art so fast mine enemie
+
+   Clif. Nor should thy prowesse want praise & esteeme,
+But that 'tis shewne ignobly, and in Treason
+
+   Yorke. So let it helpe me now against thy sword,
+As I in iustice, and true right expresse it
+
+   Clif. My soule and bodie on the action both
+
+   Yor. A dreadfull lay, addresse thee instantly
+
+   Clif. La fin Corrone les eumenes
+
+   Yor. Thus Warre hath giuen thee peace, for y art still,
+Peace with his soule, heauen if it be thy will.
+Enter yong Clifford.
+
+  Clif. Shame and Confusion all is on the rout,
+Feare frames disorder, and disorder wounds
+Where it should guard. O Warre, thou sonne of hell,
+Whom angry heauens do make their minister,
+Throw in the frozen bosomes of our part,
+Hot Coales of Vengeance. Let no Souldier flye.
+He that is truly dedicate to Warre,
+Hath no selfe-loue: nor he that loues himselfe,
+Hath not essentially, but by circumstance
+The name of Valour. O let the vile world end,
+And the premised Flames of the Last day,
+Knit earth and heauen together.
+Now let the generall Trumpet blow his blast,
+Particularities, and pettie sounds
+To cease. Was't thou ordain'd (deere Father)
+To loose thy youth in peace, and to atcheeue
+The Siluer Liuery of aduised Age,
+And in thy Reuerence, and thy Chaire-dayes, thus
+To die in Ruffian battell? Euen at this sight,
+My heart is turn'd to stone: and while 'tis mine,
+It shall be stony. Yorke, not our old men spares:
+No more will I their Babes, Teares Virginall,
+Shall be to me, euen as the Dew to Fire,
+And Beautie, that the Tyrant oft reclaimes,
+Shall to my flaming wrath, be Oyle and Flax:
+Henceforth, I will not haue to do with pitty.
+Meet I an infant of the house of Yorke,
+Into as many gobbits will I cut it
+As wilde Medea yong Absirtis did.
+In cruelty, will I seeke out my Fame.
+Come thou new ruine of olde Cliffords house:
+As did Aeneas old Anchyses beare,
+So beare I thee vpon my manly shoulders:
+But then, Aeneas bare a liuing loade;
+Nothing so heauy as these woes of mine.
+Enter Richard, and Somerset to fight.
+
+  Rich. So lye thou there:
+For vnderneath an Ale-house paltry signe,
+The Castle in S[aint]. Albons, Somerset
+Hath made the Wizard famous in his death:
+Sword, hold thy temper; Heart, be wrathfull still:
+Priests pray for enemies, but Princes kill.
+
+Fight. Excursions.
+
+Enter King, Queene, and others.
+
+  Qu. Away my Lord, you are slow, for shame away
+
+   King. Can we outrun the Heauens? Good Margaret
+stay
+
+   Qu. What are you made of? You'l nor fight nor fly:
+Now is it manhood, wisedome, and defence,
+To giue the enemy way, and to secure vs
+By what we can, which can no more but flye.
+
+Alarum a farre off.
+
+If you be tane, we then should see the bottome
+Of all our Fortunes: but if we haply scape,
+(As well we may, if not through your neglect)
+We shall to London get, where you are lou'd,
+And where this breach now in our Fortunes made
+May readily be stopt.
+Enter Clifford.
+
+  Clif. But that my hearts on future mischeefe set,
+I would speake blasphemy ere bid you flye:
+But flye you must: Vncureable discomfite
+Reignes in the hearts of all our present parts.
+Away for your releefe, and we will liue
+To see their day, and them our Fortune giue.
+Away my Lord, away.
+
+Exeunt.
+
+Alarum. Retreat. Enter Yorke, Richard, Warwicke, and Soldiers,
+with Drum &
+Colours.
+
+  Yorke. Of Salsbury, who can report of him,
+That Winter Lyon, who in rage forgets
+Aged contusions, and all brush of Time:
+And like a Gallant, in the brow of youth,
+Repaires him with Occasion. This happy day
+Is not it selfe, nor haue we wonne one foot,
+If Salsbury be lost
+
+   Rich. My Noble Father:
+Three times to day I holpe him to his horse,
+Three times bestrid him: Thrice I led him off,
+Perswaded him from any further act:
+But still where danger was, still there I met him,
+And like rich hangings in a homely house,
+So was his Will, in his old feeble body,
+But Noble as he is, looke where he comes.
+Enter Salisbury.
+
+  Sal. Now by my Sword, well hast thou fought to day:
+By'th' Masse so did we all. I thanke you Richard.
+God knowes how long it is I haue to liue:
+And it hath pleas'd him that three times to day
+You haue defended me from imminent death.
+Well Lords, we haue not got that which we haue,
+'Tis not enough our foes are this time fled,
+Being opposites of such repayring Nature
+
+   Yorke. I know our safety is to follow them,
+For (as I heare) the King is fled to London,
+To call a present Court of Parliament:
+Let vs pursue him ere the Writs go forth.
+What sayes Lord Warwicke, shall we after them?
+  War. After them: nay before them if we can:
+Now by my hand (Lords) 'twas a glorious day.
+Saint Albons battell wonne by famous Yorke,
+Shall be eterniz'd in all Age to come.
+Sound Drumme and Trumpets, and to London all,
+And more such dayes as these, to vs befall.
+
+Exeunt.
+
+
+FINIS. The second Part of Henry the Sixt, with the death of the
+Good Duke
+HVMFREY.

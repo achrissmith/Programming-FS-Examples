@@ -1,0 +1,3986 @@
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+****************The Merry Wiues of Windsor**********************
+
+This is our 3rd edition of most of these plays.  See the index.
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+The Merry Wiues of Windsor
+
+by William Shakespeare
+
+July, 2000  [Etext #2237]
+
+
+***The Project Gutenberg's Etext of Shakespeare's First Folio***
+****************The Merry Wiues of Windsor**********************
+
+*****This file should be named 0ws2010.txt or 0ws2010.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 0ws2011.txt
+VERSIONS based on separate sources get new LETTER, 0ws2010a.txt
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Project Gutenberg's Etext of Shakespeare's The first Part of 
+Henry the Sixt
+
+
+
+
+Executive Director's Notes:
+
+In addition to the notes below, and so you will *NOT* think all
+the spelling errors introduced by the printers of the time have
+been corrected, here are the first few lines of Hamlet, as they
+are presented herein:
+
+  Barnardo. Who's there?
+  Fran. Nay answer me: Stand & vnfold
+your selfe
+
+   Bar. Long liue the King
+
+***
+
+As I understand it, the printers often ran out of certain words
+or letters they had often packed into a "cliche". . .this is the
+original meaning of the term cliche. . .and thus, being unwilling
+to unpack the cliches, and thus you will see some substitutions
+that look very odd. . .such as the exchanges of u for v, v for u,
+above. . .and you may wonder why they did it this way, presuming
+Shakespeare did not actually write the play in this manner. . . .
+
+The answer is that they MAY have packed "liue" into a cliche at a
+time when they were out of "v"'s. . .possibly having used "vv" in
+place of some "w"'s, etc.  This was a common practice of the day,
+as print was still quite expensive, and they didn't want to spend
+more on a wider selection of characters than they had to.
+
+You will find a lot of these kinds of "errors" in this text, as I
+have mentioned in other times and places, many "scholars" have an
+extreme attachment to these errors, and many have accorded them a
+very high place in the "canon" of Shakespeare.  My father read an
+assortment of these made available to him by Cambridge University
+in England for several months in a glass room constructed for the
+purpose.  To the best of my knowledge he read ALL those available
+. . .in great detail. . .and determined from the various changes,
+that Shakespeare most likely did not write in nearly as many of a
+variety of errors we credit him for, even though he was in/famous
+for signing his name with several different spellings.
+
+So, please take this into account when reading the comments below
+made by our volunteer who prepared this file:  you may see errors
+that are "not" errors. . . .
+
+So. . .with this caveat. . .we have NOT changed the canon errors,
+here is the Project Gutenberg Etext of Shakespeare's The first 
+Part of Henry the Sixt.
+
+Michael S. Hart
+Project Gutenberg
+Executive Director
+
+
+***
+
+
+Scanner's Notes: What this is and isn't.  This was taken from
+a copy of Shakespeare's first folio and it is as close as I can
+come in ASCII to the printed text.
+
+The elongated S's have been changed to small s's and the
+conjoined ae have been changed to ae.  I have left the spelling,
+punctuation, capitalization as close as possible to the
+printed text.  I have corrected some spelling mistakes (I have put
+together a spelling dictionary devised from the spellings of the
+Geneva Bible and Shakespeare's First Folio and have unified
+spellings according to this template), typo's and expanded
+abbreviations as I have come across them.  Everything within
+brackets [] is what I have added.  So if you don't like that
+you can delete everything within the brackets if you want a
+purer Shakespeare.
+
+Another thing that you should be aware of is that there are textual
+differences between various copies of the first folio.  So there may
+be differences (other than what I have mentioned above) between
+this and other first folio editions.  This is due to the printer's
+habit of setting the type and running off a number of copies and
+then proofing the printed copy and correcting the type and then
+continuing the printing run.  The proof run wasn't thrown away but
+incorporated into the printed copies.  This is just the way it is.
+The text I have used was a composite of more than 30 different
+First Folio editions' best pages.
+
+If you find any scanning errors, out and out typos, punctuation
+errors, or if you disagree with my spelling choices please feel
+free to email me those errors.  I wish to make this the best
+etext possible.  My email address for right now are haradda@aol.com
+and davidr@inconnect.com.  I hope that you enjoy this.
+
+David Reed
+
+The Merry Wiues of Windsor
+
+Actus primus, Scena prima.
+
+Enter Iustice Shallow, Slender, Sir Hugh Euans, Master Page,
+Falstoffe,
+Bardolph, Nym, Pistoll, Anne Page, Mistresse Ford, Mistresse
+Page, Simple.
+
+
+  Shallow. Sir Hugh, perswade me not: I will make a StarChamber
+matter of it, if hee were twenty Sir
+Iohn Falstoffs, he shall not abuse Robert Shallow
+Esquire
+
+   Slen. In the County of Glocester, Iustice of Peace and Coram
+
+   Shal. I (Cosen Slender) and Custalorum
+
+   Slen. I, and Ratolorum too; and a Gentleman borne
+(Master Parson) who writes himselfe Armigero, in any
+Bill, Warrant, Quittance, or Obligation, Armigero
+
+   Shal. I that I doe, and haue done any time these three
+hundred yeeres
+
+   Slen. All his successors (gone before him) hath don't:
+and all his Ancestors (that come after him) may: they
+may giue the dozen white Luces in their Coate
+
+   Shal. It is an olde Coate
+
+   Euans. The dozen white Lowses doe become an old
+Coat well: it agrees well passant: It is a familiar beast to
+man, and signifies Loue
+
+   Shal. The Luse is the fresh-fish, the salt-fish, is an old
+Coate
+
+   Slen. I may quarter (Coz)
+
+   Shal. You may, by marrying
+
+   Euans. It is marring indeed, if he quarter it
+
+   Shal. Not a whit
+
+   Euan. Yes per-lady: if he ha's a quarter of your coat,
+there is but three Skirts for your selfe, in my simple coniectures;
+but that is all one: if Sir Iohn Falstaffe haue
+committed disparagements vnto you, I am of the Church
+and will be glad to do my beneuolence, to make attonements
+and compremises betweene you
+
+   Shal. The Councell shall heare it, it is a Riot
+
+   Euan. It is not meet the Councell heare a Riot: there
+is no feare of Got in a Riot: The Councell (looke you)
+shall desire to heare the feare of Got, and not to heare a
+Riot: take your vizaments in that
+
+   Shal. Ha; o'my life, if I were yong againe, the sword
+should end it
+
+   Euans. It is petter that friends is the sword, and end
+it: and there is also another deuice in my praine, which
+peraduenture prings goot discretions with it. There is
+Anne Page, which is daughter to Master Thomas Page,
+which is pretty virginity
+
+   Slen. Mistris Anne Page? she has browne haire, and
+speakes small like a woman
+
+   Euans. It is that ferry person for all the orld, as iust as
+you will desire, and seuen hundred pounds of Moneyes,
+and Gold, and Siluer, is her Grand-sire vpon his deathsbed,
+(Got deliuer to a ioyfull resurrections) giue, when
+she is able to ouertake seuenteene yeeres old. It were a
+goot motion, if we leaue our pribbles and prabbles, and
+desire a marriage betweene Master Abraham, and Mistris
+Anne Page
+
+   Slen. Did her Grand-sire leaue her seauen hundred
+pound?
+  Euan. I, and her father is make her a petter penny
+
+   Slen. I know the young Gentlewoman, she has good
+gifts
+
+   Euan. Seuen hundred pounds, and possibilities, is
+goot gifts
+
+   Shal. Wel, let vs see honest Mr Page: is Falstaffe there?
+  Euan. Shall I tell you a lye? I doe despise a lyer, as I
+doe despise one that is false, or as I despise one that is not
+true: the Knight Sir Iohn is there, and I beseech you be
+ruled by your well-willers: I will peat the doore for Mr.
+Page. What hoa? Got-plesse your house heere
+
+   Mr.Page. Who's there?
+  Euan. Here is go't's plessing and your friend, and Iustice
+Shallow, and heere yong Master Slender: that peraduentures
+shall tell you another tale, if matters grow to
+your likings
+
+   Mr.Page. I am glad to see your Worships well: I
+thanke you for my Venison Master Shallow
+
+   Shal. Master Page, I am glad to see you: much good
+doe it your good heart: I wish'd your Venison better, it
+was ill killd: how doth good Mistresse Page? and I thank
+you alwaies with my heart, la: with my heart
+
+   M.Page. Sir, I thanke you
+
+   Shal. Sir, I thanke you: by yea, and no I doe
+
+   M.Pa. I am glad to see you, good Master Slender
+
+   Slen. How do's your fallow Greyhound, Sir, I heard
+say he was out-run on Cotsall
+
+   M.Pa. It could not be iudg'd, Sir
+
+   Slen. You'll not confesse: you'll not confesse
+
+   Shal. That he will not, 'tis your fault, 'tis your fault:
+'tis a good dogge
+
+   M.Pa. A Cur, Sir
+
+   Shal. Sir: hee's a good dog, and a faire dog, can there
+be more said? he is good, and faire. Is Sir Iohn Falstaffe
+heere?
+  M.Pa. Sir, hee is within: and I would I could doe a
+good office betweene you
+
+   Euan. It is spoke as a Christians ought to speake
+
+   Shal. He hath wrong'd me (Master Page.)
+  M.Pa. Sir, he doth in some sort confesse it
+
+   Shal. If it be confessed, it is not redressed; is not that
+so (M[aster]. Page?) he hath wrong'd me, indeed he hath, at a
+word he hath: beleeue me, Robert Shallow Esquire, saith
+he is wronged
+
+   Ma.Pa. Here comes Sir Iohn
+
+   Fal. Now, Master Shallow, you'll complaine of me to
+the King?
+  Shal. Knight, you haue beaten my men, kill'd my
+deere, and broke open my Lodge
+
+   Fal. But not kiss'd your Keepers daughter?
+  Shal. Tut, a pin: this shall be answer'd
+
+   Fal. I will answere it strait, I haue done all this:
+That is now answer'd
+
+   Shal. The Councell shall know this
+
+   Fal. 'Twere better for you if it were known in councell:
+you'll be laugh'd at
+
+   Eu. Pauca verba; (Sir Iohn) good worts
+
+   Fal. Good worts? good Cabidge; Slender, I broke
+your head: what matter haue you against me?
+  Slen. Marry sir, I haue matter in my head against you,
+and against your cony-catching Rascalls, Bardolf, Nym,
+and Pistoll
+
+   Bar. You Banbery Cheese
+
+   Slen. I, it is no matter
+
+   Pist. How now, Mephostophilus?
+  Slen. I, it is no matter
+
+   Nym. Slice, I say; pauca, pauca: Slice, that's my humor
+
+   Slen. Where's Simple my man? can you tell, Cosen?
+  Eua. Peace, I pray you: now let vs vnderstand: there
+is three Vmpires in this matter, as I vnderstand; that is,
+Master Page (fidelicet Master Page,) & there is my selfe,
+(fidelicet my selfe) and the three party is (lastly, and finally)
+mine Host of the Garter
+
+   Ma.Pa. We three to hear it, & end it between them
+
+   Euan. Ferry goo't, I will make a priefe of it in my
+note-booke, and we wil afterwards orke vpon the cause,
+with as great discreetly as we can
+
+   Fal. Pistoll
+
+   Pist. He heares with eares
+
+   Euan. The Teuill and his Tam: what phrase is this?
+he heares with eare? why, it is affectations
+
+   Fal. Pistoll, did you picke M[aster]. Slenders purse?
+  Slen. I, by these gloues did hee, or I would I might
+neuer come in mine owne great chamber againe else, of
+seauen groates in mill-sixpences, and two Edward Shouelboords,
+that cost me two shilling and two pence a
+peece of Yead Miller: by these gloues
+
+   Fal. Is this true, Pistoll?
+  Euan. No, it is false, if it is a picke-purse
+
+   Pist. Ha, thou mountaine Forreyner: Sir Iohn, and
+Master mine, I combat challenge of this Latine Bilboe:
+word of deniall in thy labras here; word of denial; froth,
+and scum thou liest
+
+   Slen. By these gloues, then 'twas he
+
+   Nym. Be auis'd sir, and passe good humours: I will
+say marry trap with you, if you runne the nut-hooks humor
+on me, that is the very note of it
+
+   Slen. By this hat, then he in the red face had it: for
+though I cannot remember what I did when you made
+me drunke, yet I am not altogether an asse
+
+   Fal. What say you Scarlet, and Iohn?
+  Bar. Why sir, (for my part) I say the Gentleman had
+drunke himselfe out of his fiue sentences
+
+   Eu. It is his fiue sences: fie, what the ignorance is
+
+   Bar. And being fap, sir, was (as they say) casheerd: and
+so conclusions past the Careires
+
+   Slen. I, you spake in Latten then to: but 'tis no matter;
+Ile nere be drunk whilst I liue againe, but in honest,
+ciuill, godly company for this tricke: if I be drunke, Ile
+be drunke with those that haue the feare of God, and not
+with drunken knaues
+
+   Euan. So got-udge me, that is a vertuous minde
+
+   Fal. You heare all these matters deni'd, Gentlemen;
+you heare it
+
+   Mr.Page. Nay daughter, carry the wine in, wee'll
+drinke within
+
+   Slen. Oh heauen: This is Mistresse Anne Page
+
+   Mr.Page. How now Mistris Ford?
+  Fal. Mistris Ford, by my troth you are very wel met:
+by your leaue good Mistris
+
+   Mr.Page. Wife, bid these gentlemen welcome: come,
+we haue a hot Venison pasty to dinner; Come gentlemen,
+I hope we shall drinke downe all vnkindnesse
+
+   Slen. I had rather then forty shillings I had my booke
+of Songs and Sonnets heere: How now Simple, where
+haue you beene? I must wait on my selfe, must I? you
+haue not the booke of Riddles about you, haue you?
+  Sim. Booke of Riddles? why did you not lend it to
+Alice Short-cake vpon Alhallowmas last, a fortnight afore
+Michaelmas
+
+   Shal. Come Coz, come Coz, we stay for you: a word
+with you Coz: marry this, Coz: there is as 'twere a tender,
+a kinde of tender, made a farre-off by Sir Hugh here:
+doe you vnderstand me?
+  Slen. I Sir, you shall finde me reasonable; if it be so,
+I shall doe that that is reason
+
+   Shal. Nay, but vnderstand me
+
+   Slen. So I doe Sir
+
+   Euan. Giue eare to his motions; (Mr. Slender) I will
+description the matter to you, if you be capacity of it
+
+   Slen. Nay, I will doe as my Cozen Shallow saies: I
+pray you pardon me, he's a Iustice of Peace in his Countrie,
+simple though I stand here
+
+   Euan. But that is not the question: the question is
+concerning your marriage
+
+   Shal. I, there's the point Sir
+
+   Eu. Marry is it: the very point of it, to Mi[stris]. An Page
+
+   Slen. Why if it be so; I will marry her vpon any reasonable
+demands
+
+   Eu. But can you affection the 'oman, let vs command
+to know that of your mouth, or of your lips: for diuers
+Philosophers hold, that the lips is parcell of the mouth:
+therfore precisely, ca[n] you carry your good wil to y maid?
+  Sh. Cosen Abraham Slender, can you loue her?
+  Slen. I hope sir, I will do as it shall become one that
+would doe reason
+
+   Eu. Nay, got's Lords, and his Ladies, you must speake
+possitable, if you can carry-her your desires towards her
+
+   Shal. That you must:
+Will you, (vpon good dowry) marry her?
+  Slen. I will doe a greater thing then that, vpon your
+request (Cosen) in any reason
+
+   Shal. Nay conceiue me, conceiue mee, (sweet Coz):
+What I doe is to pleasure you (Coz:) can you loue the
+maid?
+  Slen. I will marry her (Sir) at your request; but if
+there bee no great loue in the beginning, yet Heauen
+may decrease it vpon better acquaintance, when wee
+are married, and haue more occasion to know one another:
+I hope vpon familiarity will grow more content:
+but if you say mary-her, I will mary-her, that I am freely
+dissolued, and dissolutely
+
+   Eu. It is a fery discretion-answere; saue the fall is in
+the 'ord, dissolutely: the ort is (according to our meaning)
+resolutely: his meaning is good
+
+   Sh. I: I thinke my Cosen meant well
+
+   Sl. I, or else I would I might be hang'd (la.)
+  Sh. Here comes faire Mistris Anne; would I were
+yong for your sake, Mistris Anne
+
+   An. The dinner is on the Table, my Father desires
+your worships company
+
+   Sh. I will wait on him, (faire Mistris Anne.)
+  Eu. Od's plessed-wil: I wil not be abse[n]ce at the grace
+
+   An. Wil't please your worship to come in, Sir?
+  Sl. No, I thank you forsooth, hartely; I am very well
+
+   An. The dinner attends you, Sir
+
+   Sl. I am not a-hungry, I thanke you, forsooth: goe,
+Sirha, for all you are my man, goe wait vpon my Cosen
+Shallow: a Iustice of peace sometime may be beholding
+to his friend, for a Man; I keepe but three Men, and a
+Boy yet, till my Mother be dead: but what though, yet
+I liue like a poore Gentleman borne
+
+   An. I may not goe in without your worship: they
+will not sit till you come
+
+   Sl. I' faith, ile eate nothing: I thanke you as much as
+though I did
+
+   An. I pray you Sir walke in
+
+   Sl. I had rather walke here (I thanke you) I bruiz'd
+my shin th' other day, with playing at Sword and Dagger
+with a Master of Fence (three veneys for a dish of
+stew'd Prunes) and by my troth, I cannot abide the smell
+of hot meate since. Why doe your dogs barke so? be
+there Beares ith' Towne?
+  An. I thinke there are, Sir, I heard them talk'd of
+
+   Sl. I loue the sport well, but I shall as soone quarrell
+at it, as any man in England: you are afraid if you see the
+Beare loose, are you not?
+  An. I indeede Sir
+
+   Sl. That's meate and drinke to me now: I haue seene
+Saskerson loose, twenty times, and haue taken him by the
+Chaine: but (I warrant you) the women haue so cride
+and shrekt at it, that it past: But women indeede, cannot
+abide 'em, they are very ill-fauour'd rough things
+
+   Ma.Pa. Come, gentle M[aster]. Slender, come; we stay for you
+
+   Sl. Ile eate nothing, I thanke you Sir
+
+   Ma.Pa. By cocke and pie, you shall not choose, Sir:
+come, come
+
+   Sl. Nay, pray you lead the way
+
+   Ma.Pa. Come on, Sir
+
+   Sl. Mistris Anne: your selfe shall goe first
+
+   An. Not I Sir, pray you keepe on
+
+   Sl. Truely I will not goe first: truely-la: I will not
+doe you that wrong
+
+   An. I pray you Sir
+
+   Sl. Ile rather be vnmannerly, then troublesome: you
+doe your selfe wrong indeede-la.
+
+Exeunt.
+
+
+Scena Secunda.
+
+Enter Euans, and Simple.
+
+  Eu. Go your waies, and aske of Doctor Caius house,
+which is the way; and there dwels one Mistris Quickly;
+which is in the manner of his Nurse; or his dry-Nurse; or
+his Cooke; or his Laundry; his Washer, and his Ringer
+
+   Si. Well Sir
+
+   Eu. Nay, it is petter yet: giue her this letter; for it is
+a 'oman that altogeathers acquainta[n]ce with Mistris Anne
+Page; and the Letter is to desire, and require her to solicite
+your Masters desires, to Mistris Anne Page: I pray
+you be gon: I will make an end of my dinner; ther's Pippins
+and Cheese to come.
+
+Exeunt.
+
+
+Scena Tertia.
+
+Enter Falstaffe, Host, Bardolfe, Nym, Pistoll, Page.
+
+  Fal. Mine Host of the Garter?
+  Ho. What saies my Bully Rooke? speake schollerly,
+and wisely
+
+   Fal. Truely mine Host; I must turne away some of my
+followers
+
+   Ho. Discard, (bully Hercules) casheere; let them wag;
+trot, trot
+
+   Fal. I sit at ten pounds a weeke
+
+   Ho. Thou'rt an Emperor (Cesar, Keiser and Pheazar)
+I will entertaine Bardolfe: he shall draw; he shall tap; said
+I well (bully Hector?)
+  Fa. Doe so (good mine Host.)
+  Ho. I haue spoke; let him follow; let me see thee froth,
+and liue: I am at a word: follow
+
+   Fal. Bardolfe, follow him: a Tapster is a good trade:
+an old Cloake, makes a new Ierkin: a wither'd Seruingman,
+a fresh Tapster: goe, adew
+
+   Ba. It is a life that I haue desir'd: I will thriue
+
+   Pist. O base hungarian wight: wilt y the spigot wield
+
+   Ni. He was gotten in drink: is not the humor co[n]ceited?
+  Fal. I am glad I am so acquit of this Tinderbox: his
+Thefts were too open: his filching was like an vnskilfull
+Singer, he kept not time
+
+   Ni. The good humor is to steale at a minutes rest
+
+   Pist. Conuay: the wise it call: Steale? foh: a fico for
+the phrase
+
+   Fal. Well sirs, I am almost out at heeles
+
+   Pist. Why then let Kibes ensue
+
+   Fal. There is no remedy: I must conicatch, I must shift
+
+   Pist. Yong Rauens must haue foode
+
+   Fal. Which of you know Ford of this Towne?
+  Pist. I ken the wight: he is of substance good
+
+   Fal. My honest Lads, I will tell you what I am about
+
+   Pist. Two yards, and more
+
+   Fal. No quips now Pistoll: (Indeede I am in the waste
+two yards about: but I am now about no waste: I am about
+thrift) briefely: I doe meane to make loue to Fords
+wife: I spie entertainment in her: shee discourses: shee
+carues: she giues the leere of inuitation: I can construe
+the action of her familier stile, & the hardest voice of her
+behauior (to be english'd rightly) is, I am Sir Iohn Falstafs
+
+   Pist. He hath studied her will; and translated her will:
+out of honesty, into English
+
+   Ni. The Anchor is deepe: will that humor passe?
+  Fal. Now, the report goes, she has all the rule of her
+husbands Purse: he hath a legend of Angels
+
+   Pist. As many diuels entertaine: and to her Boy say I
+
+   Ni. The humor rises: it is good: humor me the angels
+
+   Fal. I haue writ me here a letter to her: & here another
+to Pages wife, who euen now gaue mee good eyes
+too; examind my parts with most iudicious illiads: sometimes
+the beame of her view, guilded my foote: sometimes
+my portly belly
+
+   Pist. Then did the Sun on dung-hill shine
+
+   Ni. I thanke thee for that humour
+
+   Fal. O she did so course o're my exteriors with such
+a greedy intention, that the appetite of her eye, did seeme
+to scorch me vp like a burning-glasse: here's another
+letter to her: She beares the Purse too: She is a Region
+in Guiana: all gold, and bountie: I will be Cheaters to
+them both, and they shall be Exchequers to mee: they
+shall be my East and West Indies, and I will trade to
+them both: Goe, beare thou this Letter to Mistris Page;
+and thou this to Mistris Ford: we will thriue (Lads) we
+will thriue
+
+   Pist. Shall I Sir Pandarus of Troy become,
+And by my side weare Steele? then Lucifer take all
+
+   Ni. I will run no base humor: here take the humor-Letter;
+I will keepe the hauior of reputation
+
+   Fal. Hold Sirha, beare you these Letters tightly,
+Saile like my Pinnasse to these golden shores.
+Rogues, hence, auaunt, vanish like haile-stones; goe,
+Trudge; plod away ith' hoofe: seeke shelter, packe:
+Falstaffe will learne the honor of the age,
+French-thrift, you Rogues, my selfe, and skirted Page
+
+   Pist. Let Vultures gripe thy guts: for gourd, and
+Fullam holds: & high and low beguiles the rich & poore,
+Tester ile haue in pouch when thou shalt lacke,
+Base Phrygian Turke
+
+   Ni. I haue opperations,
+Which be humors of reuenge
+
+   Pist. Wilt thou reuenge?
+  Ni. By Welkin, and her Star
+
+   Pist. With wit, or Steele?
+  Ni. With both the humors, I:
+I will discusse the humour of this Loue to Ford
+
+   Pist. And I to Page shall eke vnfold
+How Falstaffe (varlet vile)
+His Doue will proue; his gold will hold,
+And his soft couch defile
+
+   Ni. My humour shall not coole: I will incense Ford
+to deale with poyson: I will possesse him with yallownesse,
+for the reuolt of mine is dangerous: that is my
+true humour
+
+   Pist. Thou art the Mars of Malecontents: I second
+thee: troope on.
+
+Exeunt.
+
+
+Scoena Quarta.
+
+Enter Mistris Quickly, Simple, Iohn Rugby, Doctor, Caius, Fenton.
+
+  Qu. What, Iohn Rugby, I pray thee goe to the Casement,
+and see if you can see my Master, Master Docter
+Caius comming: if he doe (I' faith) and finde any body
+in the house; here will be an old abusing of Gods patience,
+and the Kings English
+
+   Ru. Ile goe watch
+
+   Qu. Goe, and we'll haue a posset for't soone at night,
+(in faith) at the latter end of a Sea-cole-fire: An honest,
+willing, kinde fellow, as euer seruant shall come in house
+withall: and I warrant you, no tel-tale, nor no breedebate:
+his worst fault is, that he is giuen to prayer; hee is
+something peeuish that way: but no body but has his
+fault: but let that passe. Peter Simple, you say your
+name is?
+  Si. I: for fault of a better
+
+   Qu. And Master Slender's your Master?
+  Si. I forsooth
+
+   Qu. Do's he not weare a great round Beard, like a
+Glouers pairing-knife?
+  Si. No forsooth: he hath but a little wee-face; with
+a little yellow Beard: a Caine colourd Beard
+
+   Qu. A softly-sprighted man, is he not?
+  Si. I forsooth: but he is as tall a man of his hands, as
+any is betweene this and his head: he hath fought with
+a Warrener
+
+   Qu. How say you: oh, I should remember him: do's
+he not hold vp his head (as it were?) and strut in his gate?
+  Si. Yes indeede do's he
+
+   Qu. Well, heauen send Anne Page, no worse fortune:
+Tell Master Parson Euans, I will doe what I can for your
+Master: Anne is a good girle, and I wish -
+  Ru. Out alas: here comes my Master
+
+   Qu. We shall all be shent: Run in here, good young
+man: goe into this Closset: he will not stay long: what
+Iohn Rugby? Iohn: what Iohn I say? goe Iohn, goe enquire
+for my Master, I doubt he be not well, that hee
+comes not home: (and downe, downe, adowne'a. &c
+
+   Ca. Vat is you sing? I doe not like des-toyes: pray
+you goe and vetch me in my Closset, vnboyteere verd;
+a Box, a greene-a-Box: do intend vat I speake? a greene-a-Box
+
+   Qu. I forsooth ile fetch it you:
+I am glad hee went not in himselfe: if he had found the
+yong man he would haue bin horne-mad
+
+   Ca. Fe, fe, fe, fe, mai foy, il fait for ehando, Ie man voi a le
+Court la grand affaires
+
+   Qu. Is it this Sir?
+  Ca. Ouy mette le au mon pocket, depeech quickly:
+Vere is dat knaue Rugby?
+  Qu. What Iohn Rugby, Iohn?
+  Ru. Here Sir
+
+   Ca. You are Iohn Rugby, and you are Iacke Rugby:
+Come, take-a-your Rapier, and come after my heele to
+the Court
+
+   Ru. 'Tis ready Sir, here in the Porch
+
+   Ca. By my trot: I tarry too long: od's-me: que ay ie
+oublie: dere is some Simples in my Closset, dat I vill not
+for the varld I shall leaue behinde
+
+   Qu. Ay-me, he'll finde the yong man there, & be mad
+
+   Ca. O Diable, Diable: vat is in my Closset?
+Villanie, Laroone: Rugby, my Rapier
+
+   Qu. Good Master be content
+
+   Ca. Wherefore shall I be content-a?
+  Qu. The yong man is an honest man
+
+   Ca. What shall de honest man do in my Closset: dere
+is no honest man dat shall come in my Closset
+
+   Qu. I beseech you be not so flegmaticke: heare the
+truth of it. He came of an errand to mee, from Parson
+Hugh
+
+   Ca. Vell
+
+   Si. I forsooth: to desire her to -
+  Qu. Peace, I pray you
+
+   Ca. Peace-a-your tongue: speake-a-your Tale
+
+   Si. To desire this honest Gentlewoman (your Maid)
+to speake a good word to Mistris Anne Page, for my Master
+in the way of Marriage
+
+   Qu. This is all indeede-la: but ile nere put my finger
+in the fire, and neede not
+
+   Ca. Sir Hugh send-a you? Rugby, ballow mee some
+paper: tarry you a littell-a-while
+
+   Qui. I am glad he is so quiet: if he had bin throughly
+moued, you should haue heard him so loud, and so melancholly:
+but notwithstanding man, Ile doe yoe your
+Master what good I can: and the very yea, & the no is, y
+French Doctor my Master, (I may call him my Master,
+looke you, for I keepe his house; and I wash, ring, brew,
+bake, scowre, dresse meat and drinke, make the beds, and
+doe all my selfe.)
+  Simp. 'Tis a great charge to come vnder one bodies
+hand
+
+   Qui. Are you auis'd o'that? you shall finde it a great
+charge: and to be vp early, and down late: but notwithstanding,
+(to tell you in your eare, I wold haue no words
+of it) my Master himselfe is in loue with Mistris Anne
+Page: but notwithstanding that I know Ans mind, that's
+neither heere nor there
+
+   Caius. You, Iack'Nape: giue-'a this Letter to Sir
+Hugh, by gar it is a shallenge: I will cut his troat in de
+Parke, and I will teach a scuruy Iackanape Priest to
+meddle, or make:- you may be gon: it is not good
+you tarry here: by gar I will cut all his two stones: by
+gar, he shall not haue a stone to throw at his dogge
+
+   Qui. Alas: he speakes but for his friend
+
+   Caius. It is no matter 'a ver dat: do not you tell-a-me
+dat I shall haue Anne Page for my selfe? by gar, I vill
+kill de Iack-Priest: and I haue appointed mine Host of
+de Iarteer to measure our weapon: by gar, I wil my selfe
+haue Anne Page
+
+   Qui. Sir, the maid loues you, and all shall bee well:
+We must giue folkes leaue to prate: what the goodier
+
+   Caius. Rugby, come to the Court with me: by gar, if
+I haue not Anne Page, I shall turne your head out of my
+dore: follow my heeles, Rugby
+
+   Qui. You shall haue An-fooles head of your owne:
+No, I know Ans mind for that: neuer a woman in Windsor
+knowes more of Ans minde then I doe, nor can doe
+more then I doe with her, I thanke heauen
+
+   Fenton. Who's with in there, hoa?
+  Qui. Who's there, I troa? Come neere the house I
+pray you
+
+   Fen. How now (good woman) how dost thou?
+  Qui. The better that it pleases your good Worship
+to aske?
+  Fen. What newes? how do's pretty Mistris Anne?
+  Qui. In truth Sir, and shee is pretty, and honest, and
+gentle, and one that is your friend, I can tell you that by
+the way, I praise heauen for it
+
+   Fen. Shall I doe any good thinkst thou? shall I not
+loose my suit?
+  Qui. Troth Sir, all is in his hands aboue: but notwithstanding
+(Master Fenton) Ile be sworne on a booke
+shee loues you: haue not your Worship a wart aboue
+your eye?
+  Fen. Yes marry haue I, what of that?
+  Qui. Wel, thereby hangs a tale: good faith, it is such
+another Nan; (but (I detest) an honest maid as euer
+broke bread: wee had an howres talke of that wart; I
+shall neuer laugh but in that maids company: but (indeed)
+shee is giuen too much to Allicholy and musing:
+but for you - well - goe too -
+  Fen. Well: I shall see her to day: hold, there's money
+for thee: Let mee haue thy voice in my behalfe: if
+thou seest her before me, commend me. -
+  Qui. Will I? I faith that wee will: And I will tell
+your Worship more of the Wart, the next time we haue
+confidence, and of other wooers
+
+   Fen. Well, fare-well, I am in great haste now
+
+   Qui. Fare-well to your Worship: truely an honest
+Gentleman: but Anne loues him not: for I know Ans
+minde as well as another do's: out vpon't: what haue I
+forgot.
+
+Enter.
+
+
+Actus Secundus. Scoena Prima.
+
+Enter Mistris Page, Mistris Ford, Master Page, Master Ford,
+Pistoll, Nim,
+Quickly, Host, Shallow.
+
+  Mist.Page. What, haue scap'd Loue-letters in the
+holly-day-time of my beauty, and am I now a subiect
+for them? let me see?
+Aske me no reason why I loue you, for though Loue vse Reason
+for his precisian, hee admits him not for his Counsailour:
+you are not yong, no more am I: goe to then, there's simpathie:
+you are merry, so am I: ha, ha, then there's more simpathie:
+you loue sacke, and so do I: would you desire better simpathie?
+Let it suffice thee (Mistris Page) at the least if the Loue of
+Souldier can suffice, that I loue thee: I will not say pitty mee,
+'tis not a Souldier-like phrase; but I say, loue me:
+By me, thine owne true Knight, by day or night:
+Or any kinde of light, with all his might,
+For thee to fight. Iohn Falstaffe.
+What a Herod of Iurie is this? O wicked, wicked world:
+One that is well-nye worne to peeces with age
+To show himselfe a yong Gallant? What an vnwaied
+Behauiour hath this Flemish drunkard pickt (with
+The Deuills name) out of my conuersation, that he dares
+In this manner assay me? why, hee hath not beene thrice
+In my Company: what should I say to him? I was then
+Frugall of my mirth: (heauen forgiue mee:) why Ile
+Exhibit a Bill in the Parliament for the putting downe
+of men: how shall I be reueng'd on him? for reueng'd I
+will be? as sure as his guts are made of puddings
+
+   Mis.Ford. Mistris Page, trust me, I was going to your
+house
+
+   Mis.Page. And trust me, I was comming to you: you
+looke very ill
+
+   Mis.Ford. Nay Ile nere beleeue that; I haue to shew
+to the contrary
+
+   Mis.Page. 'Faith but you doe in my minde
+
+   Mis.Ford. Well: I doe then: yet I say, I could shew
+you to the contrary: O Mistris Page, giue mee some
+counsaile
+
+   Mis.Page. What's the matter, woman?
+  Mi.Ford. O woman: if it were not for one trifling respect,
+I could come to such honour
+
+   Mi.Page. Hang the trifle (woman) take the honour:
+what is it? dispence with trifles: what is it?
+  Mi.Ford. If I would but goe to hell, for an eternall
+moment, or so: I could be knighted
+
+   Mi.Page. What thou liest? Sir Alice Ford? these
+Knights will hacke, and so thou shouldst not alter the article
+of thy Gentry
+
+   Mi.Ford. Wee burne day-light: heere, read, read:
+perceiue how I might bee knighted, I shall thinke the
+worse of fat men, as long as I haue an eye to make difference
+of mens liking: and yet hee would not sweare:
+praise womens modesty: and gaue such orderly and welbehaued
+reproofe to al vncomelinesse, that I would haue
+sworne his disposition would haue gone to the truth of
+his words: but they doe no more adhere and keep place
+together, then the hundred Psalms to the tune of Greensleeues:
+What tempest (I troa) threw this Whale, (with
+so many Tuns of oyle in his belly) a'shoare at Windsor?
+How shall I bee reuenged on him? I thinke the best way
+were, to entertaine him with hope, till the wicked fire
+of lust haue melted him in his owne greace: Did you euer
+heare the like?
+  Mis.Page. Letter for letter; but that the name of
+Page and Ford differs: to thy great comfort in this mystery
+of ill opinions, heere's the twyn-brother of thy Letter:
+but let thine inherit first, for I protest mine neuer
+shall: I warrant he hath a thousand of these Letters, writ
+with blancke-space for different names (sure more): and
+these are of the second edition: hee will print them out
+of doubt: for he cares not what hee puts into the presse,
+when he would put vs two: I had rather be a Giantesse,
+and lye vnder Mount Pelion: Well; I will find you twentie
+lasciuious Turtles ere one chaste man
+
+   Mis.Ford. Why this is the very same: the very hand:
+the very words: what doth he thinke of vs?
+  Mis.Page. Nay I know not: it makes me almost readie
+to wrangle with mine owne honesty: Ile entertaine
+my selfe like one that I am not acquainted withall: for
+sure vnlesse hee know some straine in mee, that I know
+not my selfe, hee would neuer haue boorded me in this
+furie
+
+   Mi.Ford. Boording, call you it? Ile bee sure to keepe
+him aboue decke
+
+   Mi.Page. So will I: if hee come vnder my hatches,
+Ile neuer to Sea againe: Let's bee reueng'd on him: let's
+appoint him a meeting: giue him a show of comfort in
+his Suit, and lead him on with a fine baited delay, till hee
+hath pawn'd his horses to mine Host of the Garter
+
+   Mi.Ford. Nay, I wil consent to act any villany against
+him, that may not sully the charinesse of our honesty: oh
+that my husband saw this Letter: it would giue eternall
+food to his iealousie
+
+   Mis.Page. Why look where he comes; and my good
+man too: hee's as farre from iealousie, as I am from giuing
+him cause, and that (I hope) is an vnmeasurable distance
+
+   Mis.Ford. You are the happier woman
+
+   Mis.Page. Let's consult together against this greasie
+Knight: Come hither
+
+   Ford. Well: I hope, it be not so
+
+   Pist. Hope is a curtall-dog in some affaires:
+Sir Iohn affects thy wife
+
+   Ford. Why sir, my wife is not young
+
+   Pist. He wooes both high and low, both rich & poor,
+both yong and old, one with another (Ford) he loues the
+Gally-mawfry (Ford) perpend
+
+   Ford. Loue my wife?
+  Pist. With liuer, burning hot: preuent:
+Or goe thou like Sir Acteon he, with
+Ring-wood at thy heeles: O, odious is the name
+
+   Ford. What name Sir?
+  Pist. The horne I say: Farewell:
+Take heed, haue open eye, for theeues doe foot by night.
+Take heed, ere sommer comes, or Cuckoo-birds do sing.
+Away sir Corporall Nim:
+Beleeue it (Page) he speakes sence
+
+   Ford. I will be patient: I will find out this
+
+   Nim. And this is true: I like not the humor of lying:
+hee hath wronged mee in some humors: I should haue
+borne the humour'd Letter to her: but I haue a sword:
+and it shall bite vpon my necessitie: he loues your wife;
+There's the short and the long: My name is Corporall
+Nim: I speak, and I auouch; 'tis true: my name is Nim:
+and Falstaffe loues your wife: adieu, I loue not the humour
+of bread and cheese: adieu
+
+   Page. The humour of it (quoth 'a?) heere's a fellow
+frights English out of his wits
+
+   Ford. I will seeke out Falstaffe
+
+   Page. I neuer heard such a drawling-affecting rogue
+
+   Ford. If I doe finde it: well
+
+   Page. I will not beleeue such a Cataian, though the
+Priest o' th' Towne commended him for a true man
+
+   Ford. 'Twas a good sensible fellow: well
+
+   Page. How now Meg?
+  Mist.Page. Whether goe you (George?) harke you
+
+   Mis.Ford. How now (sweet Frank) why art thou melancholy?
+  Ford. I melancholy? I am not melancholy:
+Get you home: goe
+
+   Mis.Ford. Faith, thou hast some crochets in thy head,
+Now: will you goe, Mistris Page?
+  Mis.Page. Haue with you: you'll come to dinner
+George? Looke who comes yonder: shee shall bee our
+Messenger to this paltrie Knight
+
+   Mis.Ford. Trust me, I thought on her: shee'll fit it
+
+   Mis.Page. You are come to see my daughter Anne?
+  Qui. I forsooth: and I pray how do's good Mistresse
+Anne?
+  Mis.Page. Go in with vs and see: we haue an houres
+talke with you
+
+   Page. How now Master Ford?
+  For. You heard what this knaue told me, did you not?
+  Page. Yes, and you heard what the other told me?
+  Ford. Doe you thinke there is truth in them?
+  Pag. Hang 'em slaues: I doe not thinke the Knight
+would offer it: But these that accuse him in his intent
+towards our wiues, are a yoake of his discarded men: very
+rogues, now they be out of seruice
+
+   Ford. Were they his men?
+  Page. Marry were they
+
+   Ford. I like it neuer the beter for that,
+Do's he lye at the Garter?
+  Page. I marry do's he: if hee should intend this voyage
+toward my wife, I would turne her loose to him;
+and what hee gets more of her, then sharpe words, let it
+lye on my head
+
+   Ford. I doe not misdoubt my wife: but I would bee
+loath to turne them together: a man may be too confident:
+I would haue nothing lye on my head: I cannot
+be thus satisfied
+
+   Page. Looke where my ranting-Host of the Garter
+comes: there is eyther liquor in his pate, or mony in his
+purse, when hee lookes so merrily: How now mine
+Host?
+  Host. How now Bully-Rooke: thou'rt a Gentleman
+Caueleiro Iustice, I say
+
+   Shal. I follow, (mine Host) I follow: Good-euen,
+and twenty (good Master Page.) Master Page, wil you go
+with vs? we haue sport in hand
+
+   Host. Tell him Caueleiro-Iustice: tell him Bully-Rooke
+
+   Shall. Sir, there is a fray to be fought, betweene Sir
+Hugh the Welch Priest, and Caius the French Doctor
+
+   Ford. Good mine Host o'th' Garter: a word with you
+
+   Host. What saist thou, my Bully-Rooke?
+  Shal. Will you goe with vs to behold it? My merry
+Host hath had the measuring of their weapons; and (I
+thinke) hath appointed them contrary places: for (beleeue
+mee) I heare the Parson is no Iester: harke, I will
+tell you what our sport shall be
+
+   Host. Hast thou no suit against my Knight? my guest-Caualeire?
+  Shal. None, I protest: but Ile giue you a pottle of
+burn'd sacke, to giue me recourse to him, and tell him
+my name is Broome: onely for a iest
+
+   Host. My hand, (Bully:) thou shalt haue egresse and
+regresse, (said I well?) and thy name shall be Broome. It
+is a merry Knight: will you goe An-heires?
+  Shal. Haue with you mine Host
+
+   Page. I haue heard the French-man hath good skill
+in his Rapier
+
+   Shal. Tut sir: I could haue told you more: In these
+times you stand on distance: your Passes, Stoccado's, and
+I know not what: 'tis the heart (Master Page) 'tis heere,
+'tis heere: I haue seene the time, with my long-sword, I
+would haue made you fowre tall fellowes skippe like
+Rattes
+
+   Host. Heere boyes, heere, heere: shall we wag?
+  Page. Haue with you: I had rather heare them scold,
+then fight
+
+   Ford. Though Page be a secure foole, and stands so
+firmely on his wiues frailty; yet, I cannot put-off my opinion
+so easily: she was in his company at Pages house:
+and what they made there, I know not. Well, I wil looke
+further into't, and I haue a disguise, to sound Falstaffe; if
+I finde her honest, I loose not my labor: if she be otherwise,
+'tis labour well bestowed.
+
+Exeunt.
+
+
+Scoena Secunda.
+
+
+Enter Falstaffe, Pistoll, Robin, Quickly, Bardolffe, Ford.
+
+  Fal. I will not lend thee a penny
+
+   Pist. Why then the world's mine Oyster, which I,
+with sword will open
+
+   Fal. Not a penny: I haue beene content (Sir,) you
+should lay my countenance to pawne: I haue grated vpon
+my good friends for three Repreeues for you, and
+your Coach-fellow Nim; or else you had look'd through
+the grate, like a Geminy of Baboones: I am damn'd in
+hell, for swearing to Gentlemen my friends, you were
+good Souldiers, and tall-fellowes. And when Mistresse
+Briget lost the handle of her Fan, I took't vpon mine honour
+thou hadst it not
+
+   Pist. Didst not thou share? hadst thou not fifteene
+pence?
+  Fal. Reason, you roague, reason: thinkst thou Ile endanger
+my soule, gratis? at a word, hang no more about
+mee, I am no gibbet for you: goe, a short knife, and a
+throng, to your Mannor of Pickt-hatch: goe, you'll not
+beare a Letter for mee you roague? you stand vpon your
+honor: why, (thou vnconfinable basenesse) it is as much
+as I can doe to keepe the termes of my honor precise:
+I, I, I my selfe sometimes, leauing the feare of heauen on
+the left hand, and hiding mine honor in my necessity, am
+faine to shufflle: to hedge, and to lurch, and yet, you
+Rogue, will en-sconce your raggs; your Cat-a-Mountaine-lookes,
+your red-lattice phrases, and your boldbeating-oathes,
+vnder the shelter of your honor? you
+will not doe it? you?
+
+  Pist. I doe relent: what would thou more of man?
+
+  Robin. Sir, here's a woman would speake with you
+
+   Fal. Let her approach
+
+   Qui. Giue your worship good morrow
+
+   Fal. Good-morrow, good-wife
+
+   Qui. Not so, and't please your worship
+
+   Fal. Good maid then
+
+   Qui. Ile be sworne,
+As my mother was the first houre I was borne
+
+   Fal. I doe beleeue the swearer; what with me?
+
+  Qui. Shall I vouch-safe your worship a word, or
+two?
+
+  Fal. Two thousand (faire woman) and ile vouchsafe
+thee the hearing
+
+   Qui. There is one Mistresse Ford, (Sir) I pray come a
+little neerer this waies: I my selfe dwell with M[aster]. Doctor
+Caius:
+  Fal. Well, on; Mistresse Ford, you say
+
+   Qui. Your worship saies very true: I pray your worship
+come a little neerer this waies
+
+   Fal. I warrant thee, no-bodie heares: mine owne
+people, mine owne people
+
+   Qui. Are they so? heauen-blesse them, and make
+them his Seruants
+
+   Fal. Well; Mistresse Ford, what of her?
+
+  Qui. Why, Sir; shee's a good-creature; Lord, Lord,
+your Worship's a wanton: well: heauen forgiue you,
+and all of vs, I pray -
+
+   Fal. Mistresse Ford: come, Mistresse Ford
+
+   Qui. Marry this is the short, and the long of it: you
+haue brought her into such a Canaries, as 'tis wonderfull:
+the best Courtier of them all (when the Court lay
+at Windsor) could neuer haue brought her to such a Canarie:
+yet there has beene Knights, and Lords, and Gentlemen,
+with their Coaches; I warrant you Coach after
+Coach, letter after letter, gift after gift, smelling so sweetly;
+all Muske, and so rushling, I warrant you, in silke
+and golde, and in such alligant termes, and in such wine
+and suger of the best, and the fairest, that would haue
+wonne any womans heart: and I warrant you, they could
+neuer get an eye-winke of her: I had my selfe twentie
+Angels giuen me this morning, but I defie all Angels (in
+any such sort, as they say) but in the way of honesty: and
+I warrant you, they could neuer get her so much as sippe
+on a cup with the prowdest of them all, and yet there has
+beene Earles: nay, (which is more) Pentioners, but I
+warrant you all is one with her
+
+   Fal. But what saies shee to mee? be briefe my good
+sheeMercurie
+
+   Qui. Marry, she hath receiu'd your Letter: for the
+which she thankes you a thousand times; and she giues
+you to notifie, that her husband will be absence from his
+house, betweene ten and eleuen
+
+   Fal. Ten, and eleuen
+
+   Qui. I, forsooth: and then you may come and see the
+picture (she sayes) that you wot of: Master Ford her husband
+will be from home: alas, the sweet woman leades
+an ill life with him: hee's a very iealousie-man; she leads
+a very frampold life with him, (good hart.)
+
+   Fal. Ten, and eleuen.
+Woman, commend me to her, I will not faile her
+
+   Qui. Why, you say well: But I haue another messenger
+to your worship: Mistresse Page hath her heartie
+commendations to you to: and let mee tell you in your
+eare, shee's as fartuous a ciuill modest wife, and one (I
+tell you) that will not misse you morning nor euening
+prayer, as any is in Windsor, who ere bee the other: and
+shee bade me tell your worship, that her husband is seldome
+from home, but she hopes there will come a time.
+I neuer knew a woman so doate vpon a man; surely I
+thinke you haue charmes, la: yes in truth
+
+   Fal. Not I, I assure thee; setting the attraction of my
+good parts aside, I haue no other charmes
+
+   Qui. Blessing on your heart for't
+
+   Fal. But I pray thee tell me this: has Fords wife, and
+Pages wife acquainted each other, how they loue me?
+
+  Qui. That were a iest indeed: they haue not so little
+grace I hope, that were a tricke indeed: But Mistris Page
+would desire you to send her your little Page of al loues:
+her husband has a maruellous infectio[n] to the little Page:
+and truely Master Page is an honest man: neuer a wife in
+Windsor leades a better life then she do's: doe what shee
+will, say what she will, take all, pay all, goe to bed when
+she list, rise when she list, all is as she will: and truly she
+deserues it; for if there be a kinde woman in Windsor, she
+is one: you must send her your Page, no remedie
+
+   Fal. Why, I will
+
+   Qu. Nay, but doe so then, and looke you, hee may
+come and goe betweene you both: and in any case haue
+a nay-word, that you may know one anothers minde,
+and the Boy neuer neede to vnderstand any thing; for
+'tis not good that children should know any wickednes:
+olde folkes you know, haue discretion, as they say, and
+know the world
+
+   Fal. Farethee-well, commend mee to them both:
+there's my purse, I am yet thy debter: Boy, goe along
+with this woman, this newes distracts me
+
+   Pist. This Puncke is one of Cupids Carriers,
+Clap on more sailes, pursue: vp with your sights:
+Giue fire: she is my prize, or Ocean whelme them all
+
+   Fal. Saist thou so (old Iacke) go thy waies: Ile make
+more of thy olde body then I haue done: will they yet
+looke after thee? wilt thou after the expence of so much
+money, be now a gainer? good Body, I thanke thee: let
+them say 'tis grossely done, so it bee fairely done, no
+matter
+
+   Bar. Sir Iohn, there's one Master Broome below would
+faine speake with you, and be acquainted with you; and
+hath sent your worship a mornings draught of Sacke
+
+   Fal. Broome is his name?
+
+   Bar. I Sir
+
+   Fal. Call him in: such Broomes are welcome to mee,
+that ore'flowes such liquor: ah ha, Mistresse Ford and Mistresse
+Page, haue I encompass'd you? goe to, via
+
+   Ford. 'Blesse you sir
+
+   Fal. And you sir: would you speake with me?
+
+   Ford. I make bold, to presse, with so little preparation
+vpon you
+
+   Fal. You'r welcome, what's your will? giue vs leaue
+Drawer
+
+   Ford. Sir, I am a Gentleman that haue spent much,
+my name is Broome
+
+   Fal. Good Master Broome, I desire more acquaintance
+of you
+
+   Ford. Good Sir Iohn, I sue for yours: not to charge
+you, for I must let you vnderstand, I thinke my selfe in
+better plight for a Lender, then you are: the which hath
+something emboldned me to this vnseason'd intrusion:
+for they say, if money goe before, all waies doe lye
+open
+
+   Fal. Money is a good Souldier (Sir) and will on
+
+   Ford. Troth, and I haue a bag of money heere troubles
+me: if you will helpe to beare it (Sir Iohn) take all,
+or halfe, for easing me of the carriage
+
+   Fal. Sir, I know not how I may deserue to bee your
+Porter
+
+   Ford. I will tell you sir, if you will giue mee the hearing
+
+   Fal. Speake (good Master Broome) I shall be glad to
+be your Seruant
+
+   Ford. Sir, I heare you are a Scholler: (I will be briefe
+with you) and you haue been a man long knowne to me,
+though I had neuer so good means as desire, to make my
+selfe acquainted with you. I shall discouer a thing to
+you, wherein I must very much lay open mine owne imperfection:
+but (good Sir Iohn) as you haue one eye vpon
+my follies, as you heare them vnfolded, turne another
+into the Register of your owne, that I may passe with a
+reproofe the easier, sith you your selfe know how easie it
+is to be such an offender
+
+   Fal. Very well Sir, proceed
+
+   Ford. There is a Gentlewoman in this Towne, her
+husbands name is Ford
+
+   Fal. Well Sir
+
+   Ford. I haue long lou'd her, and I protest to you, bestowed
+much on her: followed her with a doating obseruance:
+Ingross'd opportunities to meete her: fee'd euery
+slight occasion that could but nigardly giue mee
+sight of her: not only bought many presents to giue her,
+but haue giuen largely to many, to know what shee
+would haue giuen: briefly, I haue pursu'd her, as Loue
+hath pursued mee, which hath beene on the wing of all
+occasions: but whatsoeuer I haue merited, either in my
+minde, or in my meanes, meede I am sure I haue receiued
+none, vnlesse Experience be a Iewell, that I haue purchased
+at an infinite rate, and that hath taught mee to say
+this,
+``Loue like a shadow flies, when substance Loue pursues,
+``Pursuing that that flies, and flying what pursues
+
+   Fal. Haue you receiu'd no promise of satisfaction at
+her hands?
+  Ford. Neuer
+
+   Fal. Haue you importun'd her to such a purpose?
+  Ford. Neuer
+
+   Fal. Of what qualitie was your loue then?
+  Ford. Like a fair house, built on another mans ground,
+so that I haue lost my edifice, by mistaking the place,
+where I erected it
+
+   Fal. To what purpose haue you vnfolded this to me?
+  For. When I haue told you that, I haue told you all:
+Some say, that though she appeare honest to mee, yet in
+other places shee enlargeth her mirth so farre, that there
+is shrewd construction made of her. Now (Sir Iohn) here
+is the heart of my purpose: you are a gentleman of excellent
+breeding, admirable discourse, of great admittance,
+authenticke in your place and person, generally
+allow'd for your many war-like, court-like, and learned
+preparations
+
+   Fal. O Sir
+
+   Ford. Beleeue it, for you know it: there is money,
+spend it, spend it, spend more; spend all I haue, onely
+giue me so much of your time in enchange of it, as to lay
+an amiable siege to the honesty of this Fords wife: vse
+your Art of wooing; win her to consent to you: if any
+man may, you may as soone as any
+
+   Fal. Would it apply well to the vehemency of your
+affection that I should win what you would enioy? Methinkes
+you prescribe to your selfe very preposterously
+
+   Ford. O, vnderstand my drift: she dwells so securely
+on the excellency of her honor, that the folly of my soule
+dares not present it selfe: shee is too bright to be look'd
+against. Now, could I come to her with any detection
+in my hand; my desires had instance and argument to
+commend themselues, I could driue her then from the
+ward of her purity, her reputation, her marriage-vow,
+and a thousand other her defences, which now are tootoo
+strongly embattaild against me: what say you too't,
+Sir Iohn?
+  Fal. Master Broome, I will first make bold with your
+money: next, giue mee your hand: and last, as I am a
+gentleman, you shall, if you will, enioy Fords wife
+
+   Ford. O good Sir
+
+   Fal. I say you shall
+
+   Ford. Want no money (Sir Iohn) you shall want none
+
+   Fal. Want no Mistresse Ford (Master Broome) you shall
+want none: I shall be with her (I may tell you) by her
+owne appointment, euen as you came in to me, her assistant,
+or goe-betweene, parted from me: I say I shall be
+with her betweene ten and eleuen: for at that time the
+iealious-rascally-knaue her husband will be forth: come
+you to me at night, you shall know how I speed
+
+   Ford. I am blest in your acquaintance: do you know
+Ford Sir?
+  Fal. Hang him (poore Cuckoldly knaue) I know
+him not: yet I wrong him to call him poore: They say
+the iealous wittolly-knaue hath masses of money, for
+the which his wife seemes to me well-fauourd: I will vse
+her as the key of the Cuckoldly-rogues Coffer, & ther's
+my haruest-home
+
+   Ford. I would you knew Ford, sir, that you might auoid
+him, if you saw him
+
+   Fal. Hang him, mechanicall-salt-butter rogue; I wil
+stare him out of his wits: I will awe-him with my cudgell:
+it shall hang like a Meteor ore the Cuckolds horns:
+Master Broome, thou shalt know, I will predominate ouer
+the pezant, and thou shalt lye with his wife. Come
+to me soone at night: Ford's a knaue, and I will aggrauate
+his stile: thou (Master Broome) shalt know him for
+knaue, and Cuckold. Come to me soone at night
+
+   Ford. What a damn'd Epicurian-Rascall is this? my
+heart is ready to cracke with impatience: who saies this
+is improuident iealousie? my wife hath sent to him, the
+howre is fixt, the match is made: would any man haue
+thought this? see the hell of hauing a false woman: my
+bed shall be abus'd, my Coffers ransack'd, my reputation
+gnawne at, and I shall not onely receiue this villanous
+wrong, but stand vnder the adoption of abhominable
+termes, and by him that does mee this wrong: Termes,
+names: Amaimon sounds well: Lucifer, well: Barbason,
+well: yet they are Diuels additions, the names of fiends:
+But Cuckold, Wittoll, Cuckold? the Diuell himselfe
+hath not such a name. Page is an Asse, a secure Asse; hee
+will trust his wife, hee will not be iealous: I will rather
+trust a Fleming with my butter, Parson Hugh the Welshman
+with my Cheese, an Irish-man with my Aqua-vitae-bottle,
+or a Theefe to walke my ambling gelding, then
+my wife with her selfe. Then she plots, then shee ruminates,
+then shee deuises: and what they thinke in their
+hearts they may effect; they will breake their hearts but
+they will effect. Heauen bee prais'd for my iealousie:
+eleuen o' clocke the howre, I will preuent this, detect
+my wife, bee reueng'd on Falstaffe, and laugh at Page. I
+will about it, better three houres too soone, then a mynute
+too late: fie, fie, fie: Cuckold, Cuckold, Cuckold.
+
+Enter.
+
+
+Scena Tertia.
+
+Enter Caius, Rugby, Page, Shallow, Slender, Host.
+
+  Caius. Iacke Rugby
+
+   Rug. Sir
+
+   Caius. Vat is the clocke, Iack
+
+   Rug. 'Tis past the howre (Sir) that Sir Hugh promis'd
+to meet
+
+   Cai. By gar, he has saue his soule, dat he is no-come:
+hee has pray his Pible well, dat he is no-come: by gar
+(Iack Rugby) he is dead already, if he be come
+
+   Rug. Hee is wise Sir: hee knew your worship would
+kill him if he came
+
+   Cai. By gar, de herring is no dead, so as I vill kill
+him: take your Rapier, (Iacke) I vill tell you how I vill
+kill him
+
+   Rug. Alas sir, I cannot fence
+
+   Cai. Villaine, take your Rapier
+
+   Rug. Forbeare: heer's company
+
+   Host. 'Blesse thee, bully-Doctor
+
+   Shal. 'Saue you Mr. Doctor Caius
+
+   Page. Now good Mr. Doctor
+
+   Slen. 'Giue you good-morrow, sir
+
+   Caius. Vat be all you one, two, tree, fowre, come for?
+  Host. To see thee fight, to see thee foigne, to see thee
+trauerse, to see thee heere, to see thee there, to see thee
+passe thy puncto, thy stock, thy reuerse, thy distance, thy
+montant: Is he dead, my Ethiopian? Is he dead, my Francisco?
+ha Bully? what saies my Esculapius? my Galien? my
+heart of Elder? ha? is he dead bully-Stale? is he dead?
+  Cai. By gar, he is de Coward-Iack-Priest of de vorld:
+he is not show his face
+
+   Host. Thou art a Castalion-king-Vrinall: Hector of
+Greece (my Boy)
+  Cai. I pray you beare witnesse, that me haue stay,
+sixe or seuen, two tree howres for him, and hee is nocome
+
+   Shal. He is the wiser man (M[aster]. Doctor) he is a curer of
+soules, and you a curer of bodies: if you should fight, you
+goe against the haire of your professions: is it not true,
+Master Page?
+  Page. Master Shallow; you haue your selfe beene a
+great fighter, though now a man of peace
+
+   Shal. Body-kins M[aster]. Page, though I now be old, and
+of the peace; if I see a sword out, my finger itches to
+make one: though wee are Iustices, and Doctors, and
+Church-men (M[aster]. Page) wee haue some salt of our youth
+in vs, we are the sons of women (M[aster]. Page.)
+  Page. 'Tis true, Mr. Shallow
+
+   Shal. It wil be found so, (M[aster]. Page:) M[aster]. Doctor
+Caius,
+I am come to fetch you home: I am sworn of the peace:
+you haue show'd your selfe a wise Physician, and Sir
+Hugh hath showne himselfe a wise and patient Churchman:
+you must goe with me, M[aster]. Doctor
+
+   Host. Pardon, Guest-Iustice; a Mounseur Mocke-water
+
+   Cai. Mock-vater? vat is dat?
+  Host. Mock-water, in our English tongue, is Valour
+(Bully.)
+  Cai. By gar, then I haue as much Mock-vater as de
+Englishman: scuruy-Iack-dog-Priest: by gar, mee vill
+cut his eares
+
+   Host. He will Clapper-claw thee tightly (Bully.)
+  Cai. Clapper-de-claw? vat is dat?
+  Host. That is, he will make thee amends
+
+   Cai. By-gar, me doe looke hee shall clapper-de-claw
+me, for by-gar, me vill haue it
+
+   Host. And I will prouoke him to't, or let him wag
+
+   Cai. Me tanck you for dat
+
+   Host. And moreouer, (Bully) but first, Mr. Ghuest,
+and M[aster]. Page, & eeke Caualeiro Slender, goe you through
+the Towne to Frogmore
+
+   Page. Sir Hugh is there, is he?
+  Host. He is there, see what humor he is in: and I will
+bring the Doctor about by the Fields: will it doe well?
+  Shal. We will doe it
+
+   All. Adieu, good M[aster]. Doctor
+
+   Cai. By-gar, me vill kill de Priest, for he speake for a
+Iack-an-Ape to Anne Page
+
+   Host. Let him die: sheath thy impatience: throw cold
+water on thy Choller: goe about the fields with mee
+through Frogmore, I will bring thee where Mistris Anne
+Page is, at a Farm-house a Feasting: and thou shalt wooe
+her: Cride-game, said I well?
+  Cai. By-gar, mee dancke you vor dat: by gar I loue
+you: and I shall procure 'a you de good Guest: de Earle,
+de Knight, de Lords, de Gentlemen, my patients
+
+   Host. For the which, I will be thy aduersary toward
+Anne Page: said I well?
+  Cai. By-gar, 'tis good: vell said
+
+   Host. Let vs wag then
+
+   Cai. Come at my heeles, Iack Rugby.
+
+Exeunt.
+
+
+Actus Tertius. Scoena Prima.
+
+Enter Euans, Simple, Page, Shallow, Slender, Host, Caius, Rugby.
+
+  Euans. I pray you now, good Master Slenders seruingman,
+and friend Simple by your name; which way haue
+you look'd for Master Caius, that calls himselfe Doctor
+of Phisicke
+
+   Sim. Marry Sir, the pittie-ward, the Parke-ward:
+euery way: olde Windsor way, and euery way but the
+Towne-way
+
+   Euan. I most fehemently desire you, you will also
+looke that way
+
+   Sim. I will sir
+
+   Euan. 'Plesse my soule: how full of Chollors I am, and
+trempling of minde: I shall be glad if he haue deceiued
+me: how melancholies I am? I will knog his Vrinalls about
+his knaues costard, when I haue good oportunities
+for the orke: 'Plesse my soule: To shallow Riuers to whose
+falls: melodious Birds sings Madrigalls: There will we make
+our Peds of Roses: and a thousand fragrant posies. To shallow:
+'Mercie on mee, I haue a great dispositions to cry.
+Melodious birds sing Madrigalls: - When as I sat in Pabilon:
+and a thousand vagram Posies. To shallow, &c
+
+   Sim. Yonder he is comming, this way, Sir Hugh
+
+   Euan. Hee's welcome: To shallow Riuers, to whose fals:
+Heauen prosper the right: what weapons is he?
+  Sim. No weapons, Sir: there comes my Master, Mr.
+Shallow, and another Gentleman; from Frogmore, ouer
+the stile, this way
+
+   Euan. Pray you giue mee my gowne, or else keepe it
+in your armes
+
+   Shal. How now Master Parson? good morrow good
+Sir Hugh: keepe a Gamester from the dice, and a good
+Studient from his booke, and it is wonderfull
+
+   Slen. Ah sweet Anne Page
+
+   Page. 'Saue you, good Sir Hugh
+
+   Euan. 'Plesse you from his mercy-sake, all of you
+
+   Shal. What? the Sword, and the Word?
+Doe you study them both, Mr. Parson?
+  Page. And youthfull still, in your doublet and hose,
+this raw-rumaticke day?
+  Euan. There is reasons, and causes for it
+
+   Page. We are come to you, to doe a good office, Mr.
+Parson
+
+   Euan. Fery-well: what is it?
+  Page. Yonder is a most reuerend Gentleman; who
+(be-like) hauing receiued wrong by some person, is at
+most odds with his owne grauity and patience, that euer
+you saw
+
+   Shal. I haue liued foure-score yeeres, and vpward: I
+neuer heard a man of his place, grauity, and learning, so
+wide of his owne respect
+
+   Euan. What is he?
+  Page. I thinke you know him: Mr. Doctor Caius the
+renowned French Physician
+
+   Euan. Got's-will, and his passion of my heart: I had
+as lief you would tell me of a messe of porredge
+
+   Page. Why?
+  Euan. He has no more knowledge in Hibocrates and
+  Galen , and hee is a knaue besides: a cowardly knaue, as
+you would desires to be acquainted withall
+
+   Page. I warrant you, hee's the man should fight with
+him
+
+   Slen. O sweet Anne Page
+
+   Shal. It appeares so by his weapons: keepe them asunder:
+here comes Doctor Caius
+
+   Page. Nay good Mr. Parson, keepe in your weapon
+
+   Shal. So doe you, good Mr. Doctor
+
+   Host. Disarme them, and let them question: let them
+keepe their limbs whole, and hack our English
+
+   Cai. I pray you let-a-mee speake a word with your
+eare; vherefore vill you not meet-a me?
+  Euan. Pray you vse your patience in good time
+
+   Cai. By-gar, you are de Coward: de Iack dog: Iohn
+Ape
+
+   Euan. Pray you let vs not be laughing-stocks to other
+mens humors: I desire you in friendship, and I will one
+way or other make you amends: I will knog your Vrinal
+about your knaues Cogs-combe
+
+   Cai. Diable: Iack Rugby: mine Host de Iarteer: haue I
+not stay for him, to kill him? haue I not at de place I did
+appoint?
+  Euan. As I am a Christians-soule, now looke you:
+this is the place appointed, Ile bee iudgement by mine
+Host of the Garter
+
+   Host. Peace, I say, Gallia and Gaule, French & Welch,
+Soule-Curer, and Body-Curer
+
+   Cai. I, dat is very good, excellant
+
+   Host. Peace, I say: heare mine Host of the Garter,
+Am I politicke? Am I subtle? Am I a Machiuell?
+Shall I loose my Doctor? No, hee giues me the Potions
+and the Motions. Shall I loose my Parson? my Priest?
+my Sir Hugh? No, he giues me the Prouerbes, and the
+No-verbes. Giue me thy hand (Celestiall) so: Boyes of
+Art, I haue deceiu'd you both: I haue directed you to
+wrong places: your hearts are mighty, your skinnes are
+whole, and let burn'd Sacke be the issue: Come, lay their
+swords to pawne: Follow me, Lad of peace, follow, follow,
+follow
+
+   Shal. Trust me, a mad Host: follow Gentlemen, follow
+
+   Slen. O sweet Anne Page
+
+   Cai. Ha' do I perceiue dat? Haue you make-a-de-sot
+of vs, ha, ha?
+  Eua. This is well, he has made vs his vlowting-stog:
+I desire you that we may be friends: and let vs knog our
+praines together to be reuenge on this same scall
+scuruy-cogging-companion
+the Host of the Garter
+
+   Cai. By gar, with all my heart: he promise to bring
+me where is Anne Page: by gar he deceiue me too
+
+   Euan. Well, I will smite his noddles: pray you follow.
+
+Scena Secunda.
+
+Mist.Page, Robin, Ford, Page, Shallow, Slender, Host, Euans,
+Caius.
+
+  Mist.Page. Nay keepe your way (little Gallant) you
+were wont to be a follower, but now you are a Leader:
+whether had you rather lead mine eyes, or eye your masters
+heeles?
+  Rob. I had rather (forsooth) go before you like a man,
+then follow him like a dwarfe
+
+   M.Pa. O you are a flattering boy, now I see you'l be a
+(Courtier
+
+   Ford. Well met mistris Page, whether go you
+
+   M.Pa. Truly Sir, to see your wife, is she at home?
+  Ford. I, and as idle as she may hang together for want
+of company: I thinke if your husbands were dead, you
+two would marry
+
+   M.Pa. Be sure of that, two other husbands
+
+   Ford. Where had you this pretty weather-cocke?
+  M.Pa. I cannot tell what (the dickens) his name is my
+husband had him of, what do you cal your Knights name sirrah?
+  Rob. Sir Iohn Falstaffe
+
+   Ford. Sir Iohn Falstaffe
+
+   M.Pa. He, he, I can neuer hit on's name; there is such a
+league betweene my goodman, and he: is your Wife at home
+indeed?
+  Ford. Indeed she is
+
+   M.Pa. By your leaue sir, I am sicke till I see her
+
+   Ford. Has Page any braines? Hath he any eies? Hath he
+any thinking? Sure they sleepe, he hath no vse of them:
+why this boy will carrie a letter twentie mile as easie, as
+a Canon will shoot point-blanke twelue score: hee peeces
+out his wiues inclination: he giues her folly motion
+and aduantage: and now she's going to my wife, & Falstaffes
+boy with her: A man may heare this showre sing
+in the winde; and Falstaffes boy with her: good plots,
+they are laide, and our reuolted wiues share damnation
+together. Well, I will take him, then torture my wife,
+plucke the borrowed vaile of modestie from the so-seeming
+Mist[ris]. Page, divulge Page himselfe for a secure and
+wilfull Acteon, and to these violent proceedings all my
+neighbors shall cry aime. The clocke giues me my Qu,
+and my assurance bids me search, there I shall finde Falstaffe:
+I shall be rather praisd for this, then mock'd, for
+it is as possitiue, as the earth is firme, that Falstaffe is
+there: I will go
+
+   Shal. Page, &c. Well met Mr Ford
+
+   Ford. Trust me, a good knotte; I haue good cheere at
+home, and I pray you all go with me
+
+   Shal. I must excuse my selfe Mr Ford
+
+   Slen. And so must I Sir,
+We haue appointed to dine with Mistris Anne,
+And I would not breake with her for more mony
+Then Ile speake of
+
+   Shal. We haue linger'd about a match betweene An
+Page, and my cozen Slender, and this day wee shall haue
+our answer
+
+   Slen. I hope I haue your good will Father Page
+
+   Pag. You haue Mr Slender, I stand wholly for you,
+But my wife (Mr Doctor) is for you altogether
+
+   Cai. I be-gar, and de Maid is loue-a-me: my nursh-a-Quickly
+tell me so mush
+
+   Host. What say you to yong Mr Fenton? He capers,
+he dances, he has eies of youth: he writes verses, hee
+speakes holliday, he smels April and May, he wil carry't,
+he will carry't, 'tis in his buttons, he will carry't
+
+   Page. Not by my consent I promise you. The Gentleman
+is of no hauing, hee kept companie with the wilde
+Prince, and Pointz: he is of too high a Region, he knows
+too much: no, hee shall not knit a knot in his fortunes,
+with the finger of my substance: if he take her, let him
+take her simply: the wealth I haue waits on my consent,
+and my consent goes not that way
+
+   Ford. I beseech you heartily, some of you goe home
+with me to dinner: besides your cheere you shall haue
+sport, I will shew you a monster: Mr Doctor, you shal
+go, so shall you Mr Page, and you Sir Hugh
+
+   Shal. Well, fare you well:
+We shall haue the freer woing at Mr Pages
+
+   Cai. Go home Iohn Rugby, I come anon
+
+   Host. Farewell my hearts, I will to my honest Knight
+Falstaffe, and drinke Canarie with him
+
+   Ford. I thinke I shall drinke in Pipe-wine first with
+him, Ile make him dance. Will you go Gentles?
+  All. Haue with you, to see this Monster.
+
+
+
+Scena Tertia.
+
+Enter M.Ford, M.Page, Seruants, Robin, Falstaffe, Ford, Page,
+Caius,
+Euans.
+
+  Mist.Ford. What Iohn, what Robert
+
+   M.Page. Quickly, quickly: Is the Buck-basket -
+  Mis.Ford. I warrant. What Robin I say
+
+   Mis.Page. Come, come, come
+
+   Mist.Ford. Heere, set it downe
+
+   M.Pag. Giue your men the charge, we must be briefe
+
+   M.Ford. Marrie, as I told you before (Iohn & Robert)
+be ready here hard-by in the Brew-house, & when I sodainly
+call you, come forth, and (without any pause, or
+staggering) take this basket on your shoulders: y done,
+trudge with it in all hast, and carry it among the Whitsters
+in Dotchet Mead, and there empty it in the muddie
+ditch, close by the Thames side
+
+   M.Page. You will do it?
+  M.Ford. I ha told them ouer and ouer, they lacke no direction.
+Be gone, and come when you are call'd
+
+   M.Page. Here comes little Robin
+
+   Mist.Ford. How now my Eyas-Musket, what newes with you?
+  Rob. My M[aster]. Sir Iohn is come in at your backe doore
+(Mist[ris]. Ford, and requests your company
+
+   M.Page. You litle Iack-a-lent, haue you bin true to vs
+  Rob. I, Ile be sworne: my Master knowes not of your
+being heere: and hath threatned to put me into euerlasting
+liberty, if I tell you of it: for he sweares he'll turne
+me away
+
+   Mist.Pag. Thou'rt a good boy: this secrecy of thine
+shall be a Tailor to thee, and shal make thee a new doublet
+and hose. Ile go hide me
+
+   Mi.Ford. Do so: go tell thy Master, I am alone: Mistris
+Page, remember you your Qu
+
+   Mist.Pag. I warrant thee, if I do not act it, hisse me
+
+   Mist.Ford. Go-too then: we'l vse this vnwholsome
+humidity, this grosse-watry Pumpion; we'll teach him
+to know Turtles from Iayes
+
+   Fal. Haue I caught thee, my heauenly Iewell? Why
+now let me die, for I haue liu'd long enough: This is the
+period of my ambition: O this blessed houre
+
+   Mist.Ford. O sweet Sir Iohn
+
+   Fal. Mistris Ford, I cannot cog, I cannot prate (Mist[ris].
+Ford) now shall I sin in my wish; I would thy Husband
+were dead, Ile speake it before the best Lord, I would
+make thee my Lady
+
+   Mist.Ford. I your Lady Sir Iohn? Alas, I should bee a
+pittifull Lady
+
+   Fal. Let the Court of France shew me such another:
+I see how thine eye would emulate the Diamond: Thou
+hast the right arched-beauty of the brow, that becomes
+the Ship-tyre, the Tyre-valiant, or any Tire of Venetian
+admittance
+
+   Mist.Ford. A plaine Kerchiefe, Sir Iohn:
+My browes become nothing else, nor that well neither
+
+   Fal. Thou art a tyrant to say so: thou wouldst make
+an absolute Courtier, and the firme fixture of thy foote,
+would giue an excellent motion to thy gate, in a semicircled
+Farthingale. I see what thou wert if Fortune thy
+foe, were not Nature thy friend: Come, thou canst not
+hide it
+
+   Mist.Ford. Beleeue me, ther's no such thing in me
+
+   Fal. What made me loue thee? Let that perswade
+thee. Ther's something extraordinary in thee: Come, I
+cannot cog, and say thou art this and that, like a-manie
+of these lisping-hauthorne buds, that come like women
+in mens apparrell, and smell like Bucklers-berry in simple
+time: I cannot, but I loue thee, none but thee; and
+thou deseru'st it
+
+   M.Ford. Do not betray me sir, I fear you loue M[istris]. Page
+
+   Fal. Thou mightst as well say, I loue to walke by the
+Counter-gate, which is as hatefull to me, as the reeke of
+a Lime-kill
+
+   Mis.Ford. Well, heauen knowes how I loue you,
+And you shall one day finde it
+
+   Fal. Keepe in that minde, Ile deserue it
+
+   Mist.Ford. Nay, I must tell you, so you doe;
+Or else I could not be in that minde
+
+   Rob. Mistris Ford, Mistris Ford: heere's Mistris Page at
+the doore, sweating, and blowing, and looking wildely,
+and would needs speake with you presently
+
+   Fal. She shall not see me, I will ensconce mee behinde
+the Arras
+
+   M.Ford. Pray you do so, she's a very tatling woman.
+Whats the matter? How now?
+  Mist.Page. O mistris Ford what haue you done?
+You'r sham'd, y'are ouerthrowne, y'are vndone for euer
+
+   M.Ford. What's the matter, good mistris Page?
+  M.Page. O weladay, mist[ris]. Ford, hauing an honest man
+to your husband, to giue him such cause of suspition
+
+   M.Ford. What cause of suspition?
+  M.Page. What cause of suspition? Out vpon you:
+How am I mistooke in you?
+  M.Ford. Why (alas) what's the matter?
+  M.Page. Your husband's comming hether (Woman)
+with all the Officers in Windsor, to search for a Gentleman,
+that he sayes is heere now in the house; by your
+consent to take an ill aduantage of his absence: you are
+vndone
+
+   M.Ford. 'Tis not so, I hope
+
+   M.Page. Pray heauen it be not so, that you haue such
+a man heere: but 'tis most certaine your husband's comming,
+with halfe Windsor at his heeles, to serch for such
+a one, I come before to tell you: If you know your selfe
+cleere, why I am glad of it: but if you haue a friend here,
+conuey, conuey him out. Be not amaz'd, call all your
+senses to you, defend your reputation, or bid farwell to
+your good life for euer
+
+   M.Ford. What shall I do? There is a Gentleman my
+deere friend: and I feare not mine owne shame so much,
+as his perill. I had rather then a thousand pound he were
+out of the house
+
+   M.Page. For shame, neuer stand (you had rather, and
+you had rather:) your husband's heere at hand, bethinke
+you of some conueyance: in the house you cannot hide
+him. Oh, how haue you deceiu'd me? Looke, heere is a
+basket, if he be of any reasonable stature, he may creepe
+in heere, and throw fowle linnen vpon him, as if it were
+going to bucking: Or it is whiting time, send him by
+your two men to Datchet-Meade
+
+   M.Ford. He's too big to go in there: what shall I do?
+  Fal. Let me see't, let me see't, O let me see't:
+Ile in, Ile in: Follow your friends counsell, Ile in
+
+   M.Page. What Sir Iohn Falstaffe? Are these your Letters,
+Knight?
+  Fal. I loue thee, helpe mee away: let me creepe in
+heere: ile neuer -
+  M.Page. Helpe to couer your master (Boy:) Call
+your men (Mist[ris]. Ford.) You dissembling Knight
+
+   M.Ford. What Iohn, Robert, Iohn; Go, take vp these
+cloathes heere, quickly: Wher's the Cowle-staffe? Look
+how you drumble? Carry them to the Landresse in Datchet
+mead: quickly, come
+
+   Ford. 'Pray you come nere: if I suspect without cause,
+Why then make sport at me, then let me be your iest,
+I deserue it: How now? Whether beare you this?
+  Ser. To the Landresse forsooth?
+  M.Ford. Why, what haue you to doe whether they
+beare it? You were best meddle with buck-washing
+
+   Ford. Buck? I would I could wash my selfe of y Buck:
+Bucke, bucke, bucke, I bucke: I warrant you Bucke,
+And of the season too; it shall appeare.
+Gentlemen, I haue dream'd to night, Ile tell you my
+dreame: heere, heere, heere bee my keyes, ascend my
+Chambers, search, seeke, finde out: Ile warrant wee'le
+vnkennell the Fox. Let me stop this way first: so, now
+vncape
+
+   Page. Good master Ford, be contented:
+You wrong your selfe too much
+
+   Ford. True (master Page) vp Gentlemen,
+You shall see sport anon:
+Follow me Gentlemen
+
+   Euans. This is fery fantasticall humors and iealousies
+
+   Caius. By gar, 'tis no-the fashion of France:
+It is not iealous in France
+
+   Page. Nay follow him (Gentlemen) see the yssue of
+his search
+
+   Mist.Page. Is there not a double excellency in this?
+  Mist.Ford. I know not which pleases me better,
+That my husband is deceiued, or Sir Iohn
+
+   Mist.Page. What a taking was hee in, when your
+husband askt who was in the basket?
+  Mist.Ford. I am halfe affraid he will haue neede of
+washing: so throwing him into the water, will doe him
+a benefit
+
+   Mist.Page. Hang him dishonest rascall: I would all
+of the same straine, were in the same distresse
+
+   Mist.Ford. I thinke my husband hath some speciall
+suspition of Falstaffs being heere: for I neuer saw him so
+grosse in his iealousie till now
+
+   Mist.Page. I will lay a plot to try that, and wee will
+yet haue more trickes with Falstaffe: his dissolute disease
+will scarse obey this medicine
+
+   Mis.Ford. Shall we send that foolishion Carion, Mist[ris].
+Quickly to him, and excuse his throwing into the water,
+and giue him another hope, to betray him to another
+punishment?
+  Mist.Page. We will do it: let him be sent for to morrow
+eight a clocke to haue amends
+
+   Ford. I cannot finde him: may be the knaue bragg'd
+of that he could not compasse
+
+   Mis.Page. Heard you that?
+  Mis.Ford. You vse me well, M[aster]. Ford? Do you?
+  Ford. I, I do so
+
+   M.Ford. Heauen make you better then your thoghts
+  Ford. Amen
+
+   Mi.Page. You do your selfe mighty wrong (M[aster]. Ford)
+  Ford. I, I: I must beare it
+
+   Eu. If there be any pody in the house, & in the chambers,
+and in the coffers, and in the presses: heauen forgiue
+my sins at the day of iudgement
+
+   Caius. Be gar, nor I too: there is no-bodies
+
+   Page. Fy, fy, M[aster]. Ford, are you not asham'd? What spirit,
+what diuell suggests this imagination? I wold not ha
+your distemper in this kind, for y welth of Windsor castle
+
+   Ford. 'Tis my fault (M[aster]. Page) I suffer for it
+
+   Euans. You suffer for a pad conscience: your wife is
+as honest a o'mans, as I will desires among fiue thousand,
+and fiue hundred too
+
+   Cai. By gar, I see 'tis an honest woman
+
+   Ford. Well, I promisd you a dinner: come, come, walk
+in the Parke, I pray you pardon me: I wil hereafter make
+knowne to you why I haue done this. Come wife, come
+Mi[stris]. Page, I pray you pardon me. Pray hartly pardon me
+
+   Page. Let's go in Gentlemen, but (trust me) we'l mock
+him: I doe inuite you to morrow morning to my house
+to breakfast: after we'll a Birding together, I haue a fine
+Hawke for the bush. Shall it be so:
+  Ford. Any thing
+
+   Eu. If there is one, I shall make two in the Companie
+  Ca. If there be one, or two, I shall make-a-theturd
+
+   Ford. Pray you go, M[aster]. Page
+
+   Eua. I pray you now remembrance to morrow on the
+lowsie knaue, mine Host
+
+   Cai. Dat is good by gar, withall my heart
+
+   Eua. A lowsie knaue, to haue his gibes, and his mockeries.
+
+Exeunt.
+
+
+Scoena Quarta.
+
+Enter Fenton, Anne, Page, Shallow, Slender, Quickly, Page,
+Mist.Page.
+
+  Fen. I see I cannot get thy Fathers loue,
+Therefore no more turne me to him (sweet Nan.)
+  Anne. Alas, how then?
+  Fen. Why thou must be thy selfe.
+He doth obiect, I am too great of birth,
+And that my state being gall'd with my expence,
+I seeke to heale it onely by his wealth.
+Besides these, other barres he layes before me,
+My Riots past, my wilde Societies,
+And tels me 'tis a thing impossible
+I should loue thee, but as a property
+
+   An. May be he tels you true.
+No, heauen so speed me in my time to come,
+Albeit I will confesse, thy Fathers wealth
+Was the first motiue that I woo'd thee (Anne:)
+Yet wooing thee, I found thee of more valew
+Then stampes in Gold, or summes in sealed bagges:
+And 'tis the very riches of thy selfe,
+That now I ayme at
+
+   An. Gentle M[aster]. Fenton,
+Yet seeke my Fathers loue, still seeke it sir,
+If opportunity and humblest suite
+Cannot attaine it, why then harke you hither
+
+   Shal. Breake their talke Mistris Quickly.
+My Kinsman shall speake for himselfe
+
+   Slen. Ile make a shaft or a bolt on't, slid, tis but venturing
+
+   Shal. Be not dismaid
+
+   Slen. No, she shall not dismay me:
+I care not for that, but that I am affeard
+
+   Qui. Hark ye, M[aster]. Slender would speak a word with you
+  An. I come to him. This is my Fathers choice:
+O what a world of vilde ill-fauour'd faults
+Lookes handsome in three hundred pounds a yeere?
+  Qui. And how do's good Master Fenton?
+Pray you a word with you
+
+   Shal. Shee's comming; to her Coz:
+O boy, thou hadst a father
+
+   Slen. I had a father (M[istris]. An) my vncle can tel you good
+iests of him: pray you Vncle, tel Mist[ris]. Anne the iest how
+my Father stole two Geese out of a Pen, good Vnckle
+
+   Shal. Mistris Anne, my Cozen loues you
+
+   Slen. I that I do, as well as I loue any woman in Glocestershire
+
+   Shal. He will maintaine you like a Gentlewoman
+
+   Slen. I that I will, come cut and long-taile, vnder the
+degree of a Squire
+
+   Shal. He will make you a hundred and fiftie pounds
+ioynture
+
+   Anne. Good Maister Shallow let him woo for himselfe
+
+   Shal. Marrie I thanke you for it: I thanke you for
+that good comfort: she cals you (Coz) Ile leaue you
+
+   Anne. Now Master Slender
+
+   Slen. Now good Mistris Anne
+
+   Anne. What is your will?
+  Slen. My will? Odd's-hartlings, that's a prettie
+iest indeede: I ne're made my Will yet (I thanke Heauen:)
+I am not such a sickely creature, I giue Heauen
+praise
+
+   Anne. I meane (M[aster]. Slender) what wold you with me?
+  Slen. Truely, for mine owne part, I would little or
+nothing with you: your father and my vncle hath made
+motions: if it be my lucke, so; if not, happy man bee his
+dole, they can tell you how things go, better then I can:
+you may aske your father, heere he comes
+
+   Page. Now Mr Slender; Loue him daughter Anne.
+Why how now? What does Mr Fenten here?
+You wrong me Sir, thus still to haunt my house.
+I told you Sir, my daughter is disposd of
+
+   Fen. Nay Mr Page, be not impatient
+
+   Mist.Page. Good M[aster]. Fenton, come not to my child
+
+   Page. She is no match for you
+
+   Fen. Sir, will you heare me?
+  Page. No, good M[aster]. Fenton.
+Come M[aster]. Shallow: Come sonne Slender, in;
+Knowing my minde, you wrong me (M[aster]. Fenton.)
+  Qui. Speake to Mistris Page
+
+   Fen. Good Mist[ris]. Page, for that I loue your daughter
+In such a righteous fashion as I do,
+Perforce, against all checkes, rebukes, and manners,
+I must aduance the colours of my loue,
+And not retire. Let me haue your good will
+
+   An. Good mother, do not marry me to yond foole
+
+   Mist.Page. I meane it not, I seeke you a better husband
+
+   Qui. That's my master, M[aster]. Doctor
+
+   An. Alas I had rather be set quick i'th earth,
+And bowl'd to death with Turnips
+
+   Mist.Page. Come, trouble not your selfe good M[aster].
+Fenton, I will not be your friend, nor enemy:
+My daughter will I question how she loues you,
+And as I finde her, so am I affected:
+Till then, farewell Sir, she must needs go in,
+Her father will be angry
+
+   Fen. Farewell gentle Mistris: farewell Nan
+
+   Qui. This is my doing now: Nay, saide I, will you
+cast away your childe on a Foole, and a Physitian:
+Looke on M[aster]. Fenton, this is my doing
+
+   Fen. I thanke thee: and I pray thee once to night,
+Giue my sweet Nan this Ring: there's for thy paines
+
+   Qui. Now heauen send thee good fortune, a kinde
+heart he hath: a woman would run through fire & water
+for such a kinde heart. But yet, I would my Maister
+had Mistris Anne, or I would M[aster]. Slender had her: or (in
+sooth) I would M[aster]. Fenton had her; I will do what I can
+for them all three, for so I haue promisd, and Ile bee as
+good as my word, but speciously for M[aster]. Fenton. Well, I
+must of another errand to Sir Iohn Falstaffe from my two
+Mistresses: what a beast am I to slacke it.
+
+Exeunt.
+
+Scena Quinta.
+
+Enter Falstaffe, Bardolfe, Quickly, Ford.
+
+  Fal. Bardolfe I say
+
+   Bar. Heere Sir
+
+   Fal. Go, fetch me a quart of Sacke, put a tost in't.
+Haue I liu'd to be carried in a Basket like a barrow of
+butchers Offall? and to be throwne in the Thames? Wel,
+if I be seru'd such another tricke, Ile haue my braines
+'tane out and butter'd, and giue them to a dogge for a
+New-yeares gift. The rogues slighted me into the riuer
+with as little remorse, as they would haue drown'de a
+blinde bitches Puppies, fifteene i'th litter: and you may
+know by my size, that I haue a kinde of alacrity in sinking:
+if the bottome were as deepe as hell, I shold down.
+I had beene drown'd, but that the shore was sheluy and
+shallow: a death that I abhorre: for the water swelles a
+man; and what a thing should I haue beene, when I
+had beene swel'd? I should haue beene a Mountaine of
+Mummie
+
+   Bar. Here's M[istris]. Quickly Sir to speake with you
+
+   Fal. Come, let me poure in some Sack to the Thames
+water: for my bellies as cold as if I had swallow'd snowbals,
+for pilles to coole the reines. Call her in
+
+   Bar. Come in woman
+
+   Qui. By your leaue: I cry you mercy?
+Giue your worship good morrow
+
+   Fal. Take away these Challices:
+Go, brew me a pottle of Sacke finely
+
+   Bard. With Egges, Sir?
+  Fal. Simple of it selfe: Ile no Pullet-Spersme in my
+brewage. How now?
+  Qui. Marry Sir, I come to your worship from M[istris]. Ford
+
+   Fal. Mist[ris]. Ford? I haue had Ford enough: I was thrown
+into the Ford; I haue my belly full of Ford
+
+   Qui. Alas the day, (good-heart) that was not her
+fault: she do's so take on with her men; they mistooke
+their erection
+
+   Fal. So did I mine, to build vpon a foolish Womans promise
+
+   Qui. Well, she laments Sir for it, that it would yern
+your heart to see it: her husband goes this morning a
+birding; she desires you once more to come to her, betweene
+eight and nine: I must carry her word quickely,
+she'll make you amends I warrant you
+
+   Fal. Well, I will visit her, tell her so: and bidde her
+thinke what a man is: Let her consider his frailety, and
+then iudge of my merit
+
+   Qui. I will tell her
+
+   Fal. Do so. Betweene nine and ten saist thou?
+  Qui. Eight and nine Sir
+
+   Fal. Well, be gone: I will not misse her
+
+   Qui. Peace be with you Sir
+
+   Fal. I meruaile I heare not of Mr Broome: he sent me
+word to stay within: I like his money well.
+Oh, heere he comes
+
+   Ford. Blesse you Sir
+
+   Fal. Now M[aster]. Broome, you come to know
+What hath past betweene me, and Fords wife
+
+   Ford. That indeed (Sir Iohn) is my businesse
+
+   Fal. M[aster]. Broome I will not lye to you,
+I was at her house the houre she appointed me
+
+   Ford. And sped you Sir?
+  Fal. Very ill-fauouredly M[aster]. Broome
+
+   Ford. How so sir, did she change her determination?
+  Fal. No (M[aster]. Broome) but the peaking Curnuto her husband
+(M[aster]. Broome) dwelling in a continual larum of ielousie,
+coms me in the instant of our encounter, after we had
+embrast, kist, protested, & (as it were) spoke the prologue
+of our Comedy: and at his heeles, a rabble of his companions,
+thither prouoked and instigated by his distemper,
+and (forsooth) to serch his house for his wiues Loue
+
+   Ford. What? While you were there?
+  Fal. While I was there
+
+   For. And did he search for you, & could not find you?
+  Fal. You shall heare. As good lucke would haue it,
+comes in one Mist[ris]. Page, giues intelligence of Fords approch:
+and in her inuention, and Fords wiues distraction,
+they conuey'd me into a bucke-basket
+
+   Ford. A Buck-basket?
+  Fal. Yes: a Buck-basket: ram'd mee in with foule
+Shirts and Smockes, Socks, foule Stockings, greasie
+Napkins, that (Master Broome) there was the rankest
+compound of villanous smell, that euer offended nostrill
+
+   Ford. And how long lay you there?
+  Fal. Nay, you shall heare (Master Broome) what I
+haue sufferd, to bring this woman to euill, for your
+good: Being thus cram'd in the Basket, a couple of
+Fords knaues, his Hindes, were cald forth by their Mistris,
+to carry mee in the name of foule Cloathes to
+Datchet-lane: they tooke me on their shoulders: met
+the iealous knaue their Master in the doore; who
+ask'd them once or twice what they had in their Basket?
+I quak'd for feare least the Lunatique Knaue
+would haue search'd it: but Fate (ordaining he should
+be a Cuckold) held his hand: well, on went hee, for
+a search, and away went I for foule Cloathes: But
+marke the sequell (Master Broome) I suffered the pangs
+of three seuerall deaths: First, an intollerable fright,
+to be detected with a iealious rotten Bell-weather:
+Next to be compass'd like a good Bilbo in the circumference
+of a Pecke, hilt to point, heele to head. And
+then to be stopt in like a strong distillation with stinking
+Cloathes, that fretted in their owne grease:
+thinke of that, a man of my Kidney; thinke of that,
+that am as subiect to heate as butter; a man of continuall
+dissolution, and thaw: it was a miracle to scape
+suffocation. And in the height of this Bath (when I
+was more then halfe stew'd in grease (like a Dutch-dish)
+to be throwne into the Thames, and
+coold, glowing-hot, in that serge like a Horse-shoo;
+thinke of that; hissing hot: thinke of that (Master
+Broome.)
+  Ford. In good sadnesse Sir, I am sorry, that for my sake
+you haue sufferd all this.
+My suite then is desperate: You'll vndertake her no
+more?
+  Fal. Master Broome: I will be throwne into Etna,
+as I haue beene into Thames, ere I will leaue her thus;
+her Husband is this morning gone a Birding: I
+haue receiued from her another ambassie of meeting:
+'twixt eight and nine is the houre (Master
+Broome.)
+  Ford. 'Tis past eight already Sir
+
+   Fal. Is it? I will then addresse mee to my appointment:
+Come to mee at your conuenient leisure, and
+you shall know how I speede: and the conclusion
+shall be crowned with your enioying her: adiew: you
+shall haue her (Master Broome) Master Broome, you shall
+cuckold Ford
+
+   Ford. Hum: ha? Is this a vision? Is this a dreame?
+doe I sleepe? Master Ford awake, awake Master Ford:
+ther's a hole made in your best coate (Master Ford:) this
+'tis to be married; this 'tis to haue Lynnen, and Buckbaskets:
+Well, I will proclaime my selfe what I am:
+I will now take the Leacher: hee is at my house: hee
+cannot scape me: 'tis impossible hee should: hee cannot
+creepe into a halfe-penny purse, nor into a PepperBoxe:
+But least the Diuell that guides him, should
+aide him, I will search impossible places: though
+what I am, I cannot auoide; yet to be what I would
+not, shall not make me tame: If I haue hornes, to make
+one mad, let the prouerbe goe with me, Ile be hornemad.
+
+Exeunt.
+
+
+Actus Quartus. Scoena Prima.
+
+Enter Mistris Page, Quickly, William, Euans.
+
+  Mist.Pag. Is he at M[aster]. Fords already think'st thou?
+  Qui. Sure he is by this; or will be presently; but
+truely he is very couragious mad, about his throwing
+into the water. Mistris Ford desires you to come sodainely
+
+   Mist.Pag. Ile be with her by and by: Ile but bring
+my yong-man here to Schoole: looke where his Master
+comes; 'tis a playing day I see: how now Sir Hugh, no
+Schoole to day?
+  Eua. No: Master Slender is let the Boyes leaue to play
+
+   Qui 'Blessing of his heart
+
+   Mist.Pag. Sir Hugh, my husband saies my sonne profits
+nothing in the world at his Booke: I pray you aske
+him some questions in his Accidence
+
+   Eu. Come hither William; hold vp your head; come
+
+   Mist.Pag. Come-on Sirha; hold vp your head; answere
+your Master, be not afraid
+
+   Eua. William, how many Numbers is in Nownes?
+  Will. Two
+
+   Qui. Truely, I thought there had bin one Number
+more, because they say od's-Nownes
+
+   Eua. Peace, your tatlings. What is (Faire) William?
+  Will. Pulcher
+
+   Qu. Powlcats? there are fairer things then Powlcats,
+sure
+
+   Eua. You are a very simplicity o'man: I pray you
+peace. What is (Lapis) William?
+  Will. A Stone
+
+   Eua. And what is a Stone (William?)
+  Will. A Peeble
+
+   Eua. No; it is Lapis: I pray you remember in your
+praine
+
+   Will. Lapis
+
+   Eua. That is a good William: what is he (William) that
+do's lend Articles
+
+   Will. Articles are borrowed of the Pronoune; and be
+thus declined. Singulariter nominatiuo hic, haec, hoc
+
+   Eua. Nominatiuo hig, hag, hog: pray you marke: genitiuo
+huius: Well: what is your Accusatiue-case?
+  Will. Accusatiuo hinc
+
+   Eua. I pray you haue your remembrance (childe) Accusatiuo
+hing, hang, hog
+
+   Qu. Hang-hog, is latten for Bacon, I warrant you
+
+   Eua. Leaue your prables (o'man) What is the Focatiue
+case (William?)
+  Will. O, Vocatiuo, O
+
+   Eua. Remember William, Focatiue, is caret
+
+   Qu. And that's a good roote
+
+   Eua. O'man, forbeare
+
+   Mist.Pag. Peace
+
+   Eua. What is your Genitiue case plurall (William?)
+  Will. Genitiue case?
+  Eua. I
+
+   Will. Genitiue horum, harum, horum
+
+   Qu. 'Vengeance of Ginyes case; fie on her; neuer
+name her (childe) if she be a whore
+
+   Eua. For shame o'man
+
+   Qu. You doe ill to teach the childe such words: hee
+teaches him to hic, and to hac; which they'll doe fast
+enough of themselues, and to call horum; fie vpon you
+
+   Euans. O'man, art thou Lunatics? Hast thou no vnderstandings
+for thy Cases, & the numbers of the Genders?
+Thou art as foolish Christian creatures, as I would
+desires
+
+   Mi.Page. Pre'thee hold thy peace
+
+   Eu. Shew me now (William) some declensions of your
+Pronounes
+
+   Will. Forsooth, I haue forgot
+
+   Eu. It is Qui, que, quod; if you forget your Quies,
+your Ques, and your Quods, you must be preeches: Goe
+your waies and play, go
+
+   M.Pag. He is a better scholler then I thought he was
+
+   Eu. He is a good sprag-memory: Farewel Mis[tris]. Page
+
+   Mis.Page. Adieu good Sir Hugh:
+Get you home boy, Come we stay too long.
+
+Exeunt.
+
+
+Scena Secunda.
+
+Enter Falstoffe, Mist.Ford, Mist.Page, Seruants, Ford, Page, Caius,
+Euans,
+Shallow.
+
+  Fal. Mi[stris]. Ford, Your sorrow hath eaten vp my sufferance;
+I see you are obsequious in your loue, and I professe
+requitall to a haires bredth, not onely Mist[ris]. Ford,
+in the simple office of loue, but in all the accustrement,
+complement, and ceremony of it: But are you sure of
+your husband now?
+  Mis.Ford. Hee's a birding (sweet Sir Iohn.)
+  Mis.Page. What hoa, gossip Ford: what hoa
+
+   Mis.Ford. Step into th' chamber, Sir Iohn
+
+   Mis.Page. How now (sweete heart) whose at home
+besides your selfe?
+  Mis.Ford. Why none but mine owne people
+
+   Mis.Page. Indeed?
+  Mis.Ford. No certainly: Speake louder
+
+   Mist.Pag. Truly, I am so glad you haue no body here
+
+   Mist.Ford. Why?
+  Mis.Page. Why woman, your husband is in his olde
+lines againe: he so takes on yonder with my husband, so
+railes against all married mankinde; so curses all Eues
+daughters, of what complexion soeuer; and so buffettes
+himselfe on the for-head: crying peere-out, peere-out,
+that any madnesse I euer yet beheld, seem'd but tamenesse,
+ciuility, and patience to this his distemper he is in
+now: I am glad the fat Knight is not heere
+
+   Mist.Ford. Why, do's he talke of him?
+  Mist.Page. Of none but him, and sweares he was caried
+out the last time hee search'd for him, in a Basket:
+Protests to my husband he is now heere, & hath drawne
+him and the rest of their company from their sport, to
+make another experiment of his suspition: But I am glad
+the Knight is not heere; now he shall see his owne foolerie
+
+   Mist.Ford. How neere is he Mistris Page?
+  Mist.Pag. Hard by, at street end; he wil be here anon
+
+   Mist.Ford. I am vndone, the Knight is heere
+
+   Mist.Page. Why then you are vtterly sham'd, & hee's
+but a dead man. What a woman are you? Away with
+him, away with him: Better shame, then murther
+
+   Mist.Ford. Which way should he go? How should I
+bestow him? Shall I put him into the basket againe?
+  Fal. No, Ile come no more i'th Basket:
+May I not go out ere he come?
+  Mist.Page. Alas: three of Mr. Fords brothers watch
+the doore with Pistols, that none shall issue out: otherwise
+you might slip away ere hee came: But what make
+you heere?
+  Fal. What shall I do? Ile creepe vp into the chimney
+
+   Mist.Ford. There they alwaies vse to discharge their
+Birding-peeces: creepe into the Kill-hole
+
+   Fal. Where is it?
+  Mist.Ford. He will seeke there on my word: Neyther
+Presse, Coffer, Chest, Trunke, Well, Vault, but he hath
+an abstract for the remembrance of such places, and goes
+to them by his Note: There is no hiding you in the
+house
+
+   Fal. Ile go out then
+
+   Mist.Ford. If you goe out in your owne semblance,
+you die Sir Iohn, vnlesse you go out disguis'd
+
+   Mist.Ford. How might we disguise him?
+  Mist.Page. Alas the day I know not, there is no womans
+gowne bigge enough for him: otherwise he might
+put on a hat, a muffler, and a kerchiefe, and so escape
+
+   Fal. Good hearts, deuise something: any extremitie,
+rather then a mischiefe
+
+   Mist.Ford. My Maids Aunt the fat woman of Brainford,
+has a gowne aboue
+
+   Mist.Page. On my word it will serue him: shee's as
+big as he is: and there's her thrum'd hat, and her muffler
+too: run vp Sir Iohn
+
+   Mist.Ford. Go, go, sweet Sir Iohn: Mistris Page and
+I will looke some linnen for your head
+
+   Mist.Page. Quicke, quicke, wee'le come dresse you
+straight: put on the gowne the while
+
+   Mist.Ford. I would my husband would meete him
+in this shape: he cannot abide the old woman of Brainford;
+he sweares she's a witch, forbad her my house, and
+hath threatned to beate her
+
+   Mist.Page. Heauen guide him to thy husbands cudgell:
+and the diuell guide his cudgell afterwards
+
+   Mist.Ford. But is my husband comming?
+  Mist.Page. I in good sadnesse is he, and talkes of the
+basket too, howsoeuer he hath had intelligence
+
+   Mist.Ford. Wee'l try that: for Ile appoint my men to
+carry the basket againe, to meete him at the doore with
+it, as they did last time
+
+   Mist.Page. Nay, but hee'l be heere presently: let's go
+dresse him like the witch of Brainford
+
+   Mist.Ford. Ile first direct my men, what they
+shall doe with the basket: Goe vp, Ile bring linnen for
+him straight
+
+   Mist.Page. Hang him dishonest Varlet,
+We cannot misuse enough:
+We'll leaue a proofe by that which we will doo,
+Wiues may be merry, and yet honest too:
+We do not acte that often, iest, and laugh,
+'Tis old, but true, Still Swine eats all the draugh
+
+   Mist.Ford. Go Sirs, take the basket againe on your
+shoulders: your Master is hard at doore: if hee bid you
+set it downe, obey him: quickly, dispatch
+
+   1 Ser. Come, come, take it vp
+
+   2 Ser. Pray heauen it be not full of Knight againe
+
+   1 Ser. I hope not, I had liefe as beare so much lead
+
+   Ford. I, but if it proue true (Mr. Page) haue you any
+way then to vnfoole me againe. Set downe the basket
+villaine: some body call my wife: Youth in a basket:
+Oh you Panderly Rascals, there's a knot: a gin, a packe,
+a conspiracie against me: Now shall the diuel be sham'd.
+What wife I say: Come, come forth: behold what honest
+cloathes you send forth to bleaching
+
+   Page. Why, this passes M[aster]. Ford: you are not to goe
+loose any longer, you must be pinnion'd
+
+   Euans. Why, this is Lunaticks: this is madde, as a
+mad dogge
+
+   Shall. Indeed M[aster]. Ford, this is not well indeed
+
+   Ford. So say I too Sir, come hither Mistris Ford, Mistris
+Ford, the honest woman, the modest wife, the vertuous
+creature, that hath the iealious foole to her husband:
+I suspect without cause (Mistris) do I?
+  Mist.Ford. Heauen be my witnesse you doe, if you
+suspect me in any dishonesty
+
+   Ford. Well said Brazon-face, hold it out: Come forth
+sirrah
+
+   Page. This passes
+
+   Mist.Ford. Are you not asham'd, let the cloths alone
+
+   Ford. I shall finde you anon
+
+   Eua. 'Tis vnreasonable; will you take vp your wiues
+cloathes? Come, away
+
+   Ford. Empty the basket I say
+
+   M.Ford. Why man, why?
+  Ford. Master Page, as I am a man, there was one conuay'd
+out of my house yesterday in this basket: why
+may not he be there againe, in my house I am sure he is:
+my Intelligence is true, my iealousie is reasonable, pluck
+me out all the linnen
+
+   Mist.Ford. If you find a man there, he shall dye a Fleas
+death
+
+   Page. Heer's no man
+
+   Shal. By my fidelity this is not well Mr. Ford: This
+wrongs you
+
+   Euans. Mr Ford, you must pray, and not follow the
+imaginations of your owne heart: this is iealousies
+
+   Ford. Well, hee's not heere I seeke for
+
+   Page. No, nor no where else but in your braine
+
+   Ford. Helpe to search my house this one time: if I find
+not what I seeke, shew no colour for my extremity: Let
+me for euer be your Table-sport: Let them say of me, as
+iealous as Ford, that search'd a hollow Wall-nut for his
+wiues Lemman. Satisfie me once more, once more serch
+with me
+
+   M.Ford. What hoa (Mistris Page,) come you and
+the old woman downe: my husband will come into the
+Chamber
+
+   Ford. Old woman? what old womans that?
+  M.Ford. Why it is my maids Aunt of Brainford
+
+   Ford. A witch, a Queane, an olde couzening queane:
+Haue I not forbid her my house. She comes of errands
+do's she? We are simple men, wee doe not know what's
+brought to passe vnder the profession of Fortune-telling.
+She workes by Charmes, by Spels, by th' Figure, & such
+dawbry as this is, beyond our Element: wee know nothing.
+Come downe you Witch, you Hagge you, come
+downe I say
+
+   Mist.Ford. Nay, good sweet husband, good Gentlemen,
+let him strike the old woman
+
+   Mist.Page. Come mother Prat, Come giue me your
+hand
+
+   Ford. Ile Prat-her: Out of my doore, you Witch,
+you Ragge, you Baggage, you Poulcat, you Runnion,
+out, out: Ile coniure you, Ile fortune-tell you
+
+   Mist.Page. Are you not asham'd?
+I thinke you haue kill'd the poore woman
+
+   Mist.Ford. Nay he will do it, 'tis a goodly credite
+for you
+
+   Ford. Hang her witch
+
+   Eua. By yea, and no, I thinke the o'man is a witch indeede:
+I like not when a o'man has a great peard; I spie
+a great peard vnder his muffler
+
+   Ford. Will you follow Gentlemen, I beseech you follow:
+see but the issue of my iealousie: If I cry out thus
+vpon no traile, neuer trust me when I open againe
+
+   Page. Let's obey his humour a little further:
+Come Gentlemen
+
+   Mist.Page. Trust me he beate him most pittifully
+
+   Mist.Ford. Nay by th' Masse that he did not: he beate
+him most vnpittifully, me thought
+
+   Mist.Page. Ile haue the cudgell hallow'd, and hung
+ore the Altar, it hath done meritorious seruice
+
+   Mist.Ford. What thinke you? May we with the warrant
+of woman-hood, and the witnesse of a good conscience,
+pursue him with any further reuenge?
+  M.Page. The spirit of wantonnesse is sure scar'd out
+of him, if the diuell haue him not in fee-simple, with
+fine and recouery, he will neuer (I thinke) in the way of
+waste, attempt vs againe
+
+   Mist.Ford. Shall we tell our husbands how wee haue
+seru'd him?
+  Mist.Page. Yes, by all meanes: if it be but to scrape
+the figures out of your husbands braines: if they can find
+in their hearts, the poore vnuertuous fat Knight shall be
+any further afflicted, wee two will still bee the ministers
+
+   Mist.Ford. Ile warrant, they'l haue him publiquely
+sham'd, and me thinkes there would be no period to the
+iest, should he not be publikely sham'd
+
+   Mist.Page. Come, to the Forge with it, then shape it:
+I would not haue things coole.
+
+Exeunt.
+
+Scena Tertia.
+
+Enter Host and Bardolfe.
+
+  Bar. Sir, the Germane desires to haue three of your
+horses: the Duke himselfe will be to morrow at Court,
+and they are going to meet him
+
+   Host. What Duke should that be comes so secretly?
+I heare not of him in the Court: let mee speake with the
+Gentlemen, they speake English?
+  Bar. I Sir? Ile call him to you
+
+   Host. They shall haue my horses, but Ile make them
+pay: Ile sauce them, they haue had my houses a week at
+commaund: I haue turn'd away my other guests, they
+must come off, Ile sawce them, come.
+
+Exeunt.
+
+Scena Quarta.
+
+Enter Page, Ford, Mistris Page, Mistris Ford, and Euans.
+
+  Eua. 'Tis one of the best discretions of a o'man as euer
+I did looke vpon
+
+   Page. And did he send you both these Letters at an
+instant?
+  Mist.Page. Within a quarter of an houre
+
+   Ford. Pardon me (wife) henceforth do what y wilt:
+I rather will suspect the Sunne with gold,
+Then thee with wantonnes: Now doth thy honor stand
+(In him that was of late an Heretike)
+As firme as faith
+
+   Page. 'Tis well, 'tis well, no more:
+Be not as extreme in submission, as in offence,
+But let our plot go forward: Let our wiues
+Yet once againe (to make vs publike sport)
+Appoint a meeting with this old fat-fellow,
+Where we may take him, and disgrace him for it
+
+   Ford. There is no better way then that they spoke of
+
+   Page. How? to send him word they'll meete him in
+the Parke at midnight? Fie, fie, he'll neuer come
+
+   Eu. You say he has bin throwne in the Riuers: and
+has bin greeuously peaten, as an old o'man: me-thinkes
+there should be terrors in him, that he should not come:
+Me-thinkes his flesh is punish'd, hee shall haue no desires
+
+   Page. So thinke I too
+
+   M.Ford. Deuise but how you'l vse him whe[n] he comes,
+And let vs two deuise to bring him thether
+
+   Mis.Page. There is an old tale goes, that Herne the
+Hunter (sometime a keeper heere in Windsor Forrest)
+Doth all the winter time, at still midnight
+Walke round about an Oake, with great rag'd-hornes,
+And there he blasts the tree, and takes the cattle,
+And make milch-kine yeeld blood, and shakes a chaine
+In a most hideous and dreadfull manner.
+You haue heard of such a Spirit, and well you know
+The superstitious idle-headed-Eld
+Receiu'd, and did deliuer to our age
+This tale of Herne the Hunter, for a truth
+
+   Page. Why yet there want not many that do feare
+In deepe of night to walke by this Hernes Oake:
+But what of this?
+  Mist.Ford. Marry this is our deuise,
+That Falstaffe at that Oake shall meete with vs
+
+   Page. Well, let it not be doubted but he'll come,
+And in this shape, when you haue brought him thether,
+What shall be done with him? What is your plot?
+  Mist.Pa. That likewise haue we thoght vpon: & thus:
+Nan Page (my daughter) and my little sonne,
+And three or foure more of their growth, wee'l dresse
+Like Vrchins, Ouphes, and Fairies, greene and white,
+With rounds of waxen Tapers on their heads,
+And rattles in their hands; vpon a sodaine,
+As Falstaffe, she, and I, are newly met,
+Let them from forth a saw-pit rush at once
+With some diffused song: Vpon their sight
+We two, in great amazednesse will flye:
+Then let them all encircle him about,
+And Fairy-like to pinch the vncleane Knight;
+And aske him why that houre of Fairy Reuell,
+In their so sacred pathes, he dares to tread
+In shape prophane
+
+   Ford. And till he tell the truth,
+Let the supposed Fairies pinch him, sound,
+And burne him with their Tapers
+
+   Mist.Page. The truth being knowne,
+We'll all present our selues; dis-horne the spirit,
+And mocke him home to Windsor
+
+   Ford. The children must
+Be practis'd well to this, or they'll neu'r doo't
+
+   Eua. I will teach the children their behauiours: and I
+will be like a Iacke-an-Apes also, to burne the Knight
+with my Taber
+
+   Ford. That will be excellent,
+Ile go buy them vizards
+
+   Mist.Page. My Nan shall be the Queene of all the
+Fairies, finely attired in a robe of white
+
+   Page. That silke will I go buy, and in that time
+Shall M[aster]. Slender steale my Nan away,
+And marry her at Eaton: go, send to Falstaffe straight
+
+   Ford. Nay, Ile to him againe in name of Broome,
+Hee'l tell me all his purpose: sure hee'l come
+
+   Mist.Page. Feare not you that: Go get vs properties
+And tricking for our Fayries
+
+   Euans. Let vs about it,
+It is admirable pleasures, and ferry honest knaueries
+
+   Mis.Page. Go Mist[ris]. Ford,
+Send quickly to Sir Iohn, to know his minde:
+Ile to the Doctor, he hath my good will,
+And none but he to marry with Nan Page:
+That Slender (though well landed) is an Ideot:
+And he, my husband best of all affects:
+The Doctor is well monied, and his friends
+Potent at Court: he, none but he shall haue her,
+Though twenty thousand worthier come to craue her.
+
+Scena Quinta.
+
+Enter Host, Simple, Falstaffe, Bardolfe, Euans, Caius, Quickly.
+
+  Host. What wouldst thou haue? (Boore) what? (thick
+skin) speake, breathe, discusse: breefe, short, quicke,
+snap
+
+   Simp. Marry Sir, I come to speake with Sir Iohn Falstaffe
+from M[aster]. Slender
+
+   Host. There's his Chamber, his House, his Castle,
+his standing-bed and truckle-bed: 'tis painted about
+with the story of the Prodigall, fresh and new: go, knock
+and call: hee'l speake like an Anthropophaginian vnto
+thee: Knocke I say
+
+   Simp. There's an olde woman, a fat woman gone vp
+into his chamber: Ile be so bold as stay Sir till she come
+downe: I come to speake with her indeed
+
+   Host. Ha? A fat woman? The Knight may be robb'd:
+Ile call. Bully-Knight, Bully Sir Iohn: speake from thy
+Lungs Military: Art thou there? It is thine Host, thine
+Ephesian cals
+
+   Fal. How now, mine Host?
+  Host. Here's a Bohemian-Tartar taries the comming
+downe of thy fat-woman: Let her descend (Bully) let
+her descend: my Chambers are honourable: Fie, priuacy?
+Fie
+
+   Fal. There was (mine Host) an old-fat-woman euen
+now with me, but she's gone
+
+   Simp. Pray you Sir, was't not the Wise-woman of
+Brainford?
+  Fal. I marry was it (Mussel-shell) what would you
+with her?
+  Simp. My Master (Sir) my master Slender, sent to her
+seeing her go thorough the streets, to know (Sir) whether
+one Nim (Sir) that beguil'd him of a chaine, had the
+chaine, or no
+
+   Fal. I spake with the old woman about it
+
+   Sim. And what sayes she, I pray Sir?
+  Fal. Marry shee sayes, that the very same man that
+beguil'd Master Slender of his Chaine, cozon'd him of it
+
+   Simp. I would I could haue spoken with the Woman
+her selfe, I had other things to haue spoken with her
+too, from him
+
+   Fal. What are they? let vs know
+
+   Host. I: come: quicke
+
+   Fal. I may not conceale them (Sir.)
+  Host. Conceale them, or thou di'st
+
+   Sim. Why sir, they were nothing but about Mistris
+Anne Page, to know if it were my Masters fortune to
+haue her, or no
+
+   Fal. 'Tis, 'tis his fortune
+
+   Sim. What Sir?
+  Fal. To haue her, or no: goe; say the woman told
+me so
+
+   Sim. May I be bold to say so Sir?
+  Fal. I Sir: like who more bold
+
+   Sim. I thanke your worship: I shall make my Master
+glad with these tydings
+
+   Host. Thou art clearkly: thou art clearkly (Sir Iohn)
+was there a wise woman with thee?
+  Fal. I that there was (mine Host) one that hath taught
+me more wit, then euer I learn'd before in my life: and
+I paid nothing for it neither, but was paid for my learning
+
+   Bar. Out alas (Sir) cozonage: meere cozonage
+
+   Host. Where be my horses? speake well of them varletto
+
+   Bar. Run away with the cozoners: for so soone as
+I came beyond Eaton, they threw me off, from behinde
+one of them, in a slough of myre; and set spurres, and
+away; like three Germane-diuels; three Doctor Faustasses
+
+   Host. They are gone but to meete the Duke (villaine)
+doe not say they be fled: Germanes are honest men
+
+   Euan. Where is mine Host?
+  Host. What is the matter Sir?
+  Euan. Haue a care of your entertainments: there is a
+friend of mine come to Towne, tels mee there is three
+Cozen-Iermans, that has cozend all the Hosts of Reading,
+of Maidenhead; of Cole-brooke, of horses and money: I
+tell you for good will (looke you) you are wise, and full
+of gibes, and vlouting-stocks: and 'tis not conuenient
+you should be cozoned. Fare you well
+
+   Cai. Ver' is mine Host de Iarteere?
+  Host. Here (Master Doctor) in perplexitie, and doubtfull
+delemma
+
+   Cai. I cannot tell vat is dat: but it is tell-a-me, dat
+you make grand preparation for a Duke de Iamanie: by
+my trot: der is no Duke that the Court is know, to
+come: I tell you for good will: adieu
+
+   Host. Huy and cry, (villaine) goe: assist me Knight, I
+am vndone: fly, run: huy, and cry (villaine) I am vndone
+
+   Fal. I would all the world might be cozond, for I
+haue beene cozond and beaten too: if it should come
+to the eare of the Court, how I haue beene transformed;
+and how my transformation hath beene washd, and
+cudgeld, they would melt mee out of my fat drop by
+drop, and liquor Fishermens-boots with me: I warrant
+they would whip me with their fine wits, till I were as
+crest-falne as a dride-peare: I neuer prosper'd, since I
+forswore my selfe at Primero: well, if my winde were
+but long enough; I would repent: Now? Whence come
+you?
+  Qui. From the two parties forsooth
+
+   Fal. The Diuell take one partie, and his Dam the
+other: and so they shall be both bestowed; I haue suffer'd
+more for their sakes; more then the villanous inconstancy
+of mans disposition is able to beare
+
+   Qui. And haue not they suffer'd? Yes, I warrant; speciously
+one of them; Mistris Ford (good heart) is beaten
+blacke and blew, that you cannot see a white spot about
+her
+
+   Fal. What tell'st thou mee of blacke, and blew? I
+was beaten my selfe into all the colours of the Rainebow:
+and I was like to be apprehended for the Witch
+of Braineford, but that my admirable dexteritie of wit,
+my counterfeiting the action of an old woman deliuer'd
+me, the knaue Constable had set me ith' Stocks, ith' common
+Stocks, for a Witch
+
+   Qu, Sir: let me speake with you in your Chamber,
+you shall heare how things goe, and (I warrant) to your
+content: here is a Letter will say somewhat: (good-hearts)
+what adoe here is to bring you together? Sure,
+one of you do's not serue heauen well, that you are so
+cross'd
+
+   Fal. Come vp into my Chamber.
+
+Exeunt.
+
+
+Scena Sexta.
+
+Enter Fenton, Host.
+
+  Host. Master Fenton, talke not to mee, my minde is
+heauy: I will giue ouer all
+
+   Fen. Yet heare me speake: assist me in my purpose,
+And (as I am a gentleman) ile giue thee
+A hundred pound in gold, more then your losse
+
+   Host. I will heare you (Master Fenton) and I will (at
+the least) keepe your counsell
+
+   Fen. From time to time, I haue acquainted you
+With the deare loue I beare to faire Anne Page,
+Who, mutually, hath answer'd my affection,
+(So farre forth, as her selfe might be her chooser)
+Euen to my wish; I haue a letter from her
+Of such contents, as you will wonder at;
+The mirth whereof, so larded with my matter,
+That neither (singly) can be manifested
+Without the shew of both: fat Falstaffe
+Hath a great Scene; the image of the iest
+Ile show you here at large (harke good mine Host:)
+To night at Hernes-Oke, iust 'twixt twelue and one,
+Must my sweet Nan present the Faerie-Queene:
+The purpose why, is here: in which disguise
+While other Iests are something ranke on foote,
+Her father hath commanded her to slip
+Away with Slender, and with him, at Eaton
+Immediately to Marry: She hath consented: Now Sir,
+Her Mother, (euen strong against that match
+And firme for Doctor Caius) hath appointed
+That he shall likewise shuffle her away,
+While other sports are tasking of their mindes,
+And at the Deanry, where a Priest attends
+Strait marry her: to this her Mothers plot
+She seemingly obedient) likewise hath
+Made promise to the Doctor: Now, thus it rests,
+Her Father meanes she shall be all in white;
+And in that habit, when Slender sees his time
+To take her by the hand, and bid her goe,
+She shall goe with him: her Mother hath intended
+(The better to deuote her to the Doctor;
+For they must all be mask'd, and vizarded)
+That quaint in greene, she shall be loose en-roab'd,
+With Ribonds-pendant, flaring 'bout her head;
+And when the Doctor spies his vantage ripe,
+To pinch her by the hand, and on that token,
+The maid hath giuen consent to go with him
+
+   Host. Which meanes she to deceiue? Father, or Mother
+
+   Fen. Both (my good Host) to go along with me:
+And heere it rests, that you'l procure the Vicar
+To stay for me at Church, 'twixt twelue, and one,
+And in the lawfull name of marrying,
+To giue our hearts vnited ceremony
+
+   Host. Well, husband your deuice; Ile to the Vicar,
+Bring you the Maid, you shall not lacke a Priest
+
+   Fen. So shall I euermore be bound to thee;
+Besides, Ile make a present recompence.
+
+Exeunt.
+
+Actus Quintus. Scoena Prima.
+
+Enter Falstoffe, Quickly, and Ford.
+
+  Fal. Pre'thee no more pratling: go, Ile hold, this is
+the third time: I hope good lucke lies in odde numbers:
+Away, go, they say there is Diuinity in odde Numbers,
+either in natiuity, chance, or death: away
+
+   Qui. Ile prouide you a chaine, and Ile do what I can
+to get you a paire of hornes
+
+   Fall. Away I say, time weares, hold vp your head &
+mince. How now M[aster]. Broome? Master Broome, the matter
+will be knowne to night, or neuer. Bee you in the
+Parke about midnight, at Hernes-Oake, and you shall
+see wonders
+
+   Ford. Went you not to her yesterday (Sir) as you told
+me you had appointed?
+  Fal. I went to her (Master Broome) as you see, like a
+poore-old-man, but I came from her (Master Broome)
+like a poore-old-woman; that same knaue (Ford hir husband)
+hath the finest mad diuell of iealousie in him (Master
+Broome) that euer gouern'd Frensie. I will tell you,
+he beate me greeuously, in the shape of a woman: (for in
+the shape of Man (Master Broome) I feare not Goliath
+with a Weauers beame, because I know also, life is a
+Shuttle) I am in hast, go along with mee, Ile tell you all
+(Master Broome:) since I pluckt Geese, plaide Trewant,
+and whipt Top, I knew not what 'twas to be beaten, till
+lately. Follow mee, Ile tell you strange things of this
+knaue Ford, on whom to night I will be reuenged, and I
+will deliuer his wife into your hand. Follow, straunge
+things in hand (M[aster]. Broome) follow.
+
+Exeunt.
+
+
+Scena Secunda.
+
+Enter Page, Shallow, Slender.
+
+  Page. Come, come: wee'll couch i'th Castle-ditch,
+till we see the light of our Fairies. Remember son Slender,
+my
+  Slen. I forsooth, I haue spoke with her, & we haue
+a nay-word, how to know one another. I come to her
+in white, and cry Mum; she cries Budget, and by that
+we know one another
+
+   Shal. That's good too: But what needes either your
+Mum, or her Budget? The white will decipher her well
+enough. It hath strooke ten a' clocke
+
+   Page. The night is darke, Light and Spirits will become
+it wel: Heauen prosper our sport. No man means
+euill but the deuill, and we shal know him by his hornes.
+Lets away: follow me.
+
+Exeunt.
+
+
+Scena Tertia.
+
+Enter Mist.Page, Mist.Ford, Caius.
+
+  Mist.Page. Mr Doctor, my daughter is in green, when
+you see your time, take her by the hand, away with her
+to the Deanerie, and dispatch it quickly: go before into
+the Parke: we two must go together
+
+   Cai. I know vat I haue to do, adieu
+
+   Mist.Page. Fare you well (Sir:) my husband will not
+reioyce so much at the abuse of Falstaffe, as he will chafe
+at the Doctors marrying my daughter: But 'tis no matter;
+better a little chiding, then a great deale of heartbreake
+
+   Mist.Ford. Where is Nan now? and her troop of Fairies?
+and the Welch-deuill Herne?
+  Mist.Page. They are all couch'd in a pit hard by Hernes
+Oake, with obscur'd Lights; which at the very instant
+of Falstaffes and our meeting, they will at once display to
+the night
+
+   Mist.Ford. That cannot choose but amaze him
+
+   Mist.Page. If he be not amaz'd he will be mock'd: If
+he be amaz'd, he will euery way be mock'd
+
+   Mist.Ford. Wee'll betray him finely
+
+   Mist.Page. Against such Lewdsters, and their lechery,
+Those that betray them, do no treachery
+
+   Mist.Ford. The houre drawes-on: to the Oake, to the
+Oake.
+
+Exeunt.
+
+
+Scena Quarta.
+
+Enter Euans and Fairies.
+
+  Euans. Trib, trib Fairies: Come, and remember your
+parts: be pold (I pray you) follow me into the pit, and
+when I giue the watch-'ords, do as I pid you: Come,
+come, trib, trib.
+
+Exeunt.
+
+Scena Quinta.
+
+Enter Falstaffe, Mistris Page, Mistris Ford, Euans, Anne Page,
+Fairies,
+Page, Ford, Quickly, Slender, Fenton, Caius, Pistoll.
+
+  Fal. The Windsor-bell hath stroke twelue: the Minute
+drawes-on: Now the hot-bloodied-Gods assist me:
+Remember Ioue, thou was't a Bull for thy Europa, Loue
+set on thy hornes. O powerfull Loue, that in some respects
+makes a Beast a Man: in som other, a Man a beast.
+You were also (Iupiter) a Swan, for the loue of Leda: O
+omnipotent Loue, how nere the God drew to the complexion
+of a Goose: a fault done first in the forme of a
+beast, (O Ioue, a beastly fault:) and then another fault,
+in the semblance of a Fowle, thinke on't (Ioue) a fowle-fault.
+When Gods haue hot backes, what shall poore
+men do? For me, I am heere a Windsor Stagge, and the
+fattest (I thinke) i'th Forrest. Send me a coole rut-time
+(Ioue) or who can blame me to pisse my Tallow? Who
+comes heere? my Doe?
+  M.Ford. Sir Iohn? Art thou there (my Deere?)
+My male-Deere?
+  Fal. My Doe, with the blacke Scut? Let the skie
+raine Potatoes: let it thunder, to the tune of Greenesleeues,
+haile-kissing Comfits, and snow Eringoes: Let
+there come a tempest of prouocation, I will shelter mee
+heere
+
+   M.Ford. Mistris Page is come with me (sweet hart.)
+  Fal. Diuide me like a brib'd-Bucke, each a Haunch:
+I will keepe my sides to my selfe, my shoulders for the
+fellow of this walke; and my hornes I bequeath your
+husbands. Am I a Woodman, ha? Speake I like Herne
+the Hunter? Why, now is Cupid a child of conscience,
+he makes restitution. As I am a true spirit, welcome
+
+   M.Page. Alas, what noise?
+  M.Ford. Heauen forgiue our sinnes
+
+   Fal. What should this be?
+  M.Ford. M.Page. Away, away
+
+   Fal. I thinke the diuell wil not haue me damn'd,
+Least the oyle that's in me should set hell on fire;
+He would neuer else crosse me thus.
+
+Enter Fairies.
+
+  Qui. Fairies blacke, gray, greene, and white,
+You Moone-shine reuellers, and shades of night.
+You Orphan heires of fixed destiny,
+Attend your office, and your quality.
+Crier Hob-goblyn, make the Fairy Oyes
+
+   Pist. Elues, list your names: Silence you aiery toyes.
+Cricket, to Windsor-chimnies shalt thou leape;
+Where fires thou find'st vnrak'd, and hearths vnswept,
+There pinch the Maids as blew as Bill-berry,
+Our radiant Queene, hates Sluts, and Sluttery
+
+   Fal. They are Fairies, he that speaks to them shall die,
+Ile winke, and couch: No man their workes must eie
+
+   Eu. Wher's Bede? Go you, and where you find a maid
+That ere she sleepe has thrice her prayers said,
+Raise vp the Organs of her fantasie,
+Sleepe she as sound as carelesse infancie,
+But those as sleepe, and thinke not on their sins,
+Pinch them armes, legs, backes, shoulders, sides, & shins
+
+   Qu. About, about:
+Search Windsor Castle (Elues) within, and out.
+Strew good lucke (Ouphes) on euery sacred roome,
+That it may stand till the perpetuall doome,
+In state as wholsome, as in state 'tis fit,
+Worthy the Owner, and the Owner it.
+The seuerall Chaires of Order, looke you scowre
+With iuyce of Balme; and euery precious flowre,
+Each faire Instalment, Coate, and seu'rall Crest,
+With loyall Blazon, euermore be blest.
+And Nightly-meadow-Fairies, looke you sing
+Like to the Garters-Compasse, in a ring
+Th' expressure that it beares: Greene let it be,
+More fertile-fresh then all the Field to see:
+And, Hony Soit Qui Maly-Pence, write
+In Emrold-tuffes, Flowres purple, blew, and white,
+Like Saphire-pearle, and rich embroiderie,
+Buckled below faire Knight-hoods bending knee;
+Fairies vse Flowres for their characterie.
+Away, disperse: But till 'tis one a clocke,
+Our Dance of Custome, round about the Oke
+Of Herne the Hunter, let vs not forget
+
+   Euan. Pray you lock hand in hand: your selues in order set:
+And twenty glow-wormes shall our Lanthornes bee
+To guide our Measure round about the Tree.
+But stay, I smell a man of middle earth
+
+   Fal. Heauens defend me from that Welsh Fairy,
+Least he transforme me to a peece of Cheese
+
+   Pist. Vilde worme, thou wast ore-look'd euen in thy
+birth
+
+   Qu. With Triall-fire touch me his finger end:
+If he be chaste, the flame will backe descend
+And turne him to no paine: but if he start,
+It is the flesh of a corrupted hart
+
+   Pist. A triall, come
+
+   Eua. Come: will this wood take fire?
+  Fal. Oh, oh, oh
+
+   Qui. Corrupt, corrupt, and tainted in desire.
+About him (Fairies) sing a scornfull rime,
+And as you trip, still pinch him to your time.
+
+The Song.
+
+Fie on sinnefull phantasie: Fie on Lust, and Luxurie:
+Lust is but a bloudy fire, kindled with vnchaste desire,
+Fed in heart whose flames aspire,
+As thoughts do blow them higher and higher.
+Pinch him (Fairies) mutually: Pinch him for his villanie.
+Pinch him, and burne him, and turne him about,
+Till Candles, & Star-light, & Moone-shine be out
+
+   Page. Nay do not flye, I thinke we haue watcht you
+now: Will none but Herne the Hunter serue your
+turne?
+  M.Page. I pray you come, hold vp the iest no higher.
+Now (good Sir Iohn) how like you Windsor wiues?
+See you these husband? Do not these faire yoakes
+Become the Forrest better then the Towne?
+  Ford. Now Sir, whose a Cuckold now?
+Mr Broome, Falstaffes a Knaue, a Cuckoldly knaue,
+Heere are his hornes Master Broome:
+And Master Broome, he hath enioyed nothing of Fords,
+but his Buck-basket, his cudgell, and twenty pounds of
+money, which must be paid to Mr Broome, his horses are
+arrested for it, Mr Broome
+
+   M.Ford. Sir Iohn, we haue had ill lucke: wee could
+neuer meete: I will neuer take you for my Loue againe,
+but I will alwayes count you my Deere
+
+   Fal. I do begin to perceiue that I am made an Asse
+
+   Ford. I, and an Oxe too: both the proofes are extant
+
+   Fal. And these are not Fairies:
+I was three or foure times in the thought they were not
+Fairies, and yet the guiltinesse of my minde, the sodaine
+surprize of my powers, droue the grossenesse of the foppery
+into a receiu'd beleefe, in despight of the teeth of
+all rime and reason, that they were Fairies. See now
+how wit may be made a Iacke-a-Lent, when 'tis vpon ill
+imployment
+
+   Euans. Sir Iohn Falstaffe, serue Got, and leaue your
+desires, and Fairies will not pinse you
+
+   Ford. Well said Fairy Hugh
+
+   Euans. And leaue you your iealouzies too, I pray
+you
+
+   Ford. I will neuer mistrust my wife againe, till thou
+art able to woo her in good English
+
+   Fal. Haue I laid my braine in the Sun, and dri'de it,
+that it wants matter to preuent so grosse ore-reaching as
+this? Am I ridden with a Welch Goate too? Shal I haue
+a Coxcombe of Frize? Tis time I were choak'd with a
+peece of toasted Cheese
+
+   Eu. Seese is not good to giue putter; your belly is al
+putter
+
+   Fal. Seese, and Putter? Haue I liu'd to stand at the
+taunt of one that makes Fritters of English? This is enough
+to be the decay of lust and late-walking through
+the Realme
+
+   Mist.Page. Why Sir Iohn, do you thinke though wee
+would haue thrust vertue out of our hearts by the head
+and shoulders, and haue giuen our selues without scruple
+to hell, that euer the deuill could haue made you our
+delight?
+  Ford. What, a hodge-pudding? A bag of flax?
+  Mist.Page. A puft man?
+  Page. Old, cold, wither'd, and of intollerable entrailes?
+  Ford. And one that is as slanderous as Sathan?
+  Page. And as poore as Iob?
+  Ford. And as wicked as his wife?
+  Euan. And giuen to Fornications, and to Tauernes,
+and Sacke, and Wine, and Metheglins, and to drinkings
+and swearings, and starings? Pribles and prables?
+  Fal. Well, I am your Theame: you haue the start of
+me, I am deiected: I am not able to answer the Welch
+Flannell, Ignorance it selfe is a plummet ore me, vse me
+as you will
+
+   Ford. Marry Sir, wee'l bring you to Windsor to one
+Mr Broome, that you haue cozon'd of money, to whom
+you should haue bin a Pander: ouer and aboue that you
+haue suffer'd, I thinke, to repay that money will be a biting
+affliction
+
+   Page. Yet be cheerefull Knight: thou shalt eat a posset
+to night at my house, wher I will desire thee to laugh
+at my wife, that now laughes at thee: Tell her Mr Slender
+hath married her daughter
+
+   Mist.Page. Doctors doubt that;
+If Anne Page be my daughter, she is (by this) Doctour
+Caius wife
+
+   Slen. Whoa hoe, hoe, Father Page
+
+   Page. Sonne? How now? How now Sonne,
+Haue you dispatch'd?
+  Slen. Dispatch'd? Ile make the best in Glostershire
+know on't: would I were hang'd la, else
+
+   Page. Of what sonne?
+  Slen. I came yonder at Eaton to marry Mistris Anne
+Page, and she's a great lubberly boy. If it had not bene
+i'th Church, I would haue swing'd him, or hee should
+haue swing'd me. If I did not thinke it had beene Anne
+Page, would I might neuer stirre, and 'tis a Post-masters
+Boy
+
+   Page. Vpon my life then, you tooke the wrong
+
+   Slen. What neede you tell me that? I think so, when
+I tooke a Boy for a Girle: If I had bene married to him,
+(for all he was in womans apparrell) I would not haue
+had him
+
+   Page. Why this is your owne folly,
+Did not I tell you how you should know my daughter,
+By her garments?
+  Slen. I went to her in greene, and cried Mum, and
+she cride budget, as Anne and I had appointed, and yet
+it was not Anne, but a Post-masters boy
+
+   Mist.Page. Good George be not angry, I knew of
+your purpose: turn'd my daughter into white, and indeede
+she is now with the Doctor at the Deanrie, and
+there married
+
+   Cai. Ver is Mistris Page: by gar I am cozoned, I ha
+married oon Garsoon, a boy; oon pesant, by gar. A boy,
+it is not An Page, by gar, I am cozened
+
+   M.Page. Why? did you take her in white?
+  Cai. I bee gar, and 'tis a boy: be gar, Ile raise all
+Windsor
+
+   Ford. This is strange: Who hath got the right Anne?
+  Page. My heart misgiues me, here comes Mr Fenton.
+How now Mr Fenton?
+  Anne. Pardon good father, good my mother pardon
+  Page. Now Mistris:
+How chance you went not with Mr Slender?
+  M.Page. Why went you not with Mr Doctor, maid?
+  Fen. You do amaze her: heare the truth of it,
+You would haue married her most shamefully,
+Where there was no proportion held in loue:
+The truth is, she and I (long since contracted)
+Are now so sure that nothing can dissolue vs:
+Th' offence is holy, that she hath committed,
+And this deceit looses the name of craft,
+Of disobedience, or vnduteous title,
+Since therein she doth euitate and shun
+A thousand irreligious cursed houres
+Which forced marriage would haue brought vpon her
+
+   Ford. Stand not amaz'd, here is no remedie:
+In Loue, the heauens themselues do guide the state,
+Money buyes Lands, and wiues are sold by fate
+
+   Fal. I am glad, though you haue tane a special stand
+to strike at me, that your Arrow hath glanc'd
+
+   Page. Well, what remedy? Fenton, heauen giue thee
+ioy, what cannot be eschew'd, must be embrac'd
+
+   Fal. When night-dogges run, all sorts of Deere are
+chac'd
+
+   Mist.Page. Well, I will muse no further: Mr Fenton,
+Heauen giue you many, many merry dayes:
+Good husband, let vs euery one go home,
+And laugh this sport ore by a Countrie fire,
+Sir Iohn and all
+
+   Ford. Let it be so (Sir Iohn:)
+To Master Broome, you yet shall hold your word,
+For he, to night, shall lye with Mistris Ford:
+
+Exeunt.
+
+FINIS. THE Merry Wiues of Windsor.

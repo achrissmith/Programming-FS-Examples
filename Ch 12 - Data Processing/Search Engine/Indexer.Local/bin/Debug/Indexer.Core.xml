@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>Indexer.Core</name></assembly>
+<members>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:Indexer.DataTypes.BasicTokenPostingList.Empty(System.Int32)">
+<summary>
+ Creates a new, empty BasicTokenPostingList.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="T:Indexer.DataTypes.BasicTokenPostingList">
+<summary>
+ Posting list for a given token. Note that the token occurences are
+ sorted.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="P:Indexer.DataTypes.TokenPosition.InvalidTokenPosition">
+<summary>
+ Placeholder position for invalid locations. (E.g. an ended iterator.)
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:Indexer.DataTypes.TokenPosition">
+<summary>
+ Fancy way to represent a document ID and position tuple. Note that this
+ type implements custom comparison and equality.
+
+ TokenPositions are sorted by document id first, and then document position.
+</summary>
+</member>
+<member name="T:Indexer.DataTypes.DocumentPosition">
+<summary>
+ 0-indexed position within a document.
+</summary>
+</member>
+<member name="T:Indexer.DataTypes.DocumentID">
+<summary>
+ Unique ID to represent a document. Obtained by taking the hashcode of the
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:Indexer.DataTypes.Token">
+<summary>
+ Fancy way to represent a token id and lexeme tuple.
+</summary>
+</member>
+<member name="T:Indexer.DataTypes.TokenID">
+<summary>
+ Unique ID to represent a token. Obtained by taking the has hashcode of the
+ raw token.
+</summary>
+</member>
+<member name="T:Indexer.DataTypes.RawToken">
+<summary>
+ Raw, unprocessed token. An individual word within a document. For example:
+ &quot;Hello&quot;; &quot;,&quot;; &quot;World&quot;; &quot;!&quot;.
+</summary>
+</member>
+<member name="M:Indexer.DataTypes.getTokenID(System.String)">
+<summary>
+ Converts a RawToken into a TokenID
+</summary>
+</member>
+<member name="T:Indexer.DataTypes">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:Indexer.Mappers.ExtractTokenMapper">
+<summary>
+ Mapper which maps an input file to a series of token and lexemes.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:Indexer.Mappers.Mapper`2">
+<summary>
+ Base mapper.
+ &apos;k and &apos;v make up the key/value pairs on output. Takes a string input.
+</summary>
+</member>
+<member name="T:Indexer.Mappers">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:Indexer.Reducers.DedupeTokensReducer">
+<summary>
+ Reducer which dedupes token/lexeme pairs. Used to create a lexicon.
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:Indexer.Reducers.Reducer`3">
+<summary>
+ Base reducer.
+</summary>
+</member>
+<member name="T:Indexer.Reducers">
+
+</member>
+<member name="M:Indexer.Tokenization.tokenizeFile(System.String)">
+<summary>
+ Tokenizes a file.
+</summary>
+</member>
+<member name="M:Indexer.Tokenization.tokenizeText(System.String[])">
+<summary>
+ Tokenizes an array of raw tokens.
+</summary>
+</member>
+<member name="M:Indexer.Tokenization.breakFile(System.String)">
+<summary>
+ Breaks a file into an array of raw tokens.
+</summary>
+</member>
+<member name="M:Indexer.Tokenization.breakText(System.String)">
+<summary>
+ Breaks text into raw tokens.
+</summary>
+</member>
+<member name="P:Indexer.Tokenization.delimiters">
+<summary>
+ We intentionally omit the apostrophe since &quot;it&apos;s&quot; should be considered
+ a single word. Same for the hypen.
+</summary>
+</member>
+<member name="T:Indexer.Tokenization">
+
+</member>
+</members>
+</doc>

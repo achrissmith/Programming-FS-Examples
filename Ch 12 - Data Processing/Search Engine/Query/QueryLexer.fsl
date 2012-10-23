@@ -1,0 +1,40 @@
+﻿// Copyright 2012 Chris Smith. All Rights Reserved.
+
+{
+module Query.Lexer
+
+open System
+open Query.Parser
+
+open Microsoft.FSharp.Text.Lexing
+
+}
+ 
+// These are some regular expression definitions
+let digit = ['0'-'9']
+let whitespace = [' ' '\t' ]
+let newline = ('\n' | '\r' '\n')
+
+// Just grab a sequence of characters to form a token. We will turn that into
+// a 'document token' later.
+let wordcharacter = ['a'-'z''A'-'Z''\'']
+let softcharacter = ['.' ',' '!' '?']
+let term = (wordcharacter | softcharacter)+
+
+rule tokenize = parse
+// Eat whitespace
+| whitespace	{ tokenize lexbuf }
+| newline       { tokenize lexbuf }
+// Symbols
+| "\""			{ QUOTATION_MARK }
+| "("			{ LEFT_PAREN }
+| ")"			{ RIGHT_PAREN }
+// Keywords
+| "AND"
+| "and"			{ AND }
+| "OR"
+| "or"			{ OR }
+// Any other string is considered a term in a search query.
+| term         { TERM(LexBuffer<_>.LexemeString(lexbuf)) }
+// EOF
+| eof   { EOF }

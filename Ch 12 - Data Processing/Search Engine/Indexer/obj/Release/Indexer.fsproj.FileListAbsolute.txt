@@ -1,0 +1,11 @@
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer\bin\Release\Indexer.Core.XML
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer\bin\Release\Indexer.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer\bin\Release\Indexer.Core.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer\obj\Release\Indexer.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer\obj\Release\Indexer.Core.pdb
+C:\Users\Chris\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer\bin\Release\Indexer.Core.XML
+C:\Users\Chris\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer\bin\Release\Indexer.Core.dll
+C:\Users\Chris\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer\bin\Release\Indexer.Core.pdb
+C:\Users\Chris\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer\obj\Release\Indexer.Core.dll
+C:\Users\Chris\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Indexer\obj\Release\Indexer.Core.pdb

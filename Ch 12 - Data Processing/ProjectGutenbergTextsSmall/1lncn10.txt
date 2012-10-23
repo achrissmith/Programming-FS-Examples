@@ -1,0 +1,1111 @@
+The Project Gutenberg Etext of Abraham Lincoln, by James Lowell
+#2 in our series by James Russell Lowell
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Abraham Lincoln
+
+by James Russell Lowell
+
+May, 1997  [Etext #906]
+
+
+The Project Gutenberg Etext of Abraham Lincoln, by James Lowell
+*****This file should be named 1lncn10.txt or 1lncn10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 1lncn11.txt.
+VERSIONS based on separate sources get new LETTER, 1lncn10a.txt.
+
+
+This Etext prepared by Tony Adam
+anthony-adam@tamu.edu
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, for time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+fifty hours is one conservative estimate for how long it we take
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-two text
+files per month:  or 400 more Etexts in 1996 for a total of 800.
+If these reach just 10% of the computerized population, then the
+total should reach 80 billion Etexts.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only 10% of the present number of computer users.  2001
+should have at least twice as many computer users as that, so it
+will require us reaching less than 5% of the users in 2001.
+
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+
+We would prefer to send you this information by email
+(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
+
+******
+If you have an FTP program (or emulator), please
+FTP directly to the Project Gutenberg archives:
+[Mac users, do NOT point and click. . .type]
+
+ftp uiarchive.cso.uiuc.edu
+login:  anonymous
+password:  your@login
+cd etext/etext90 through /etext96
+or cd etext/articles [get suggest gut for more information]
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET INDEX?00.GUT
+for a list of books
+and
+GET NEW GUT for general information
+and
+MGET GUT* for newsletters.
+
+**Information prepared by the Project Gutenberg legal advisor**
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+This Etext prepared by Tony Adam
+anthony-adam@tamu.edu
+
+
+
+
+
+Abraham Lincoln
+by James Russell Lowell
+
+
+THERE have been many painful crises since the impatient vanity of
+South Carolina hurried ten prosperous Commonwealths into a
+crime whose assured retribution was to leave them either at the
+mercy of the nation they had wronged, or of the anarchy they had
+summoned but could not control, when no thoughtful American
+opened his morning paper without dreading to find that he had no
+longer a country to love and honor.  Whatever the result of the
+convulsion whose first shocks were beginning to be felt, there
+would still be enough square miles of earth for elbow-room; but
+that ineffable sentiment made up of memory and hope, of instinct
+and tradition, which swells every man's heart and shapes his
+thought, though perhaps never present to his consciousness, would
+be gone from it, leaving it common earth and nothing more.  Men
+might gather rich crops from it, but that ideal harvest of priceless
+associations would be reaped no longer; that fine virtue which sent
+up messages of courage and security from every sod of it would
+have evaporated beyond recall.  We should be irrevocably cut off
+from our past, and be forced to splice the ragged ends of our lives
+upon whatever new conditions chance might leave dangling for us.
+
+We confess that we had our doubts at first whether the patriotism
+of our people were not too narrowly provincial to embrace the
+proportions of national peril.  We felt an only too natural distrust of
+immense public meetings and enthusiastic cheers.
+
+That a reaction should follow the holiday enthusiasm with which
+the war was entered on, that it should follow soon, and that the
+slackening of public spirit should be proportionate to the previous
+over-tension, might well be foreseen by all who had studied human
+nature or history.  Men acting gregariously are always in extremes;
+as they are one moment capable of higher courage, so they are
+liable, the next, to baser depression, and it is often a matter of
+chance whether numbers shall multiply confidence or
+discouragement.  Nor does deception lead more surely to distrust of
+men, than self-deception to suspicion of principles.  The only faith
+that wears well and holds its color in all weathers is that which is
+woven of conviction and set with the sharp mordant of experience. 
+Enthusiasm is good material for the orator, but the statesman needs
+something more durable to work in,--must be able to rely on the
+deliberate reason and consequent firmness of the people, without
+which that presence of mind, no less essential in times of moral than
+of material peril, will be wanting at the critical moment.  Would this
+fervor of the Free States hold out?  Was it kindled by a just feeling
+of the value of constitutional liberty?  Had it body enough to
+withstand the inevitable dampening of checks, reverses, delays? 
+Had our population intelligence enough to comprehend that the
+choice was between order and anarchy, between the equilibrium of
+a government by law and the tussle of misrule by
+*pronunciamiento?*  Could a war be maintained without the
+ordinary stimulus of hatred and plunder, and with the impersonal
+loyalty of principle?  These were serious questions, and with no
+precedent to aid in answering them.
+
+At the beginning of the war there was, indeed, occasion for the
+most anxious apprehension.  A President known to be infected with
+the political heresies, and suspected of sympathy with the treason,
+of the Southern conspirators, had just surrendered the reins, we will
+not say of power, but of chaos, to a successor known only as the
+representative of a party whose leaders, with long training in
+opposition, had none in the conduct of affairs; an empty treasury
+was called on to supply resources beyond precedent in the history
+of finance; the trees were yet growing and the iron unmined with
+which a navy was to be built and armored; officers without
+discipline were to make a mob into an army; and, above all, the
+public opinion of Europe, echoed and reinforced with every vague
+hint and every specious argument of despondency by a powerful
+faction at home, was either contemptuously sceptical or actively
+hostile.  It would be hard to over-estimate the force of this latter
+element of disintegration and discouragement among a people
+where every citizen at home, and every soldier in the field, is a
+reader of newspapers.  The peddlers of rumor in the North were the
+most effective allies of the rebellion.  A nation can be liable to no
+more insidious treachery than that of the telegraph, sending hourly
+its electric thrill of panic along the remotest nerves of the
+community, till the excited imagination makes every real danger
+loom heightened with its unreal double.
+
+And even if we look only at more palpable difficulties, the problem
+to be solved by our civil war was so vast, both in its immediate
+relations and its future consequences; the conditions of its solution
+were so intricate and so greatly dependent on incalculable and
+uncontrollable contingencies; so many of the data, whether for hope
+or fear, were, from their novelty, incapable of arrangement under
+any of the categories of historical precedent, that there were
+moments of crisis when the firmest believer in the strength and
+sufficiency of the democratic theory of government might well hold
+his breath in vague apprehension of disaster.  Our teachers of
+political philosophy, solemnly arguing from the precedent of some
+petty Grecian, Italian, or Flemish city, whose long periods of
+aristocracy were broken now and then by awkward parentheses of
+mob, had always taught us that democracies were incapable of the
+sentiment of loyalty, of concentrated and prolonged effort, of far-
+reaching conceptions; were absorbed in material interests; impatient
+of regular, and much more of exceptional restraint; had no natural
+nucleus of gravitation, nor any forces but centrifugal; were always
+on the verge of civil war, and slunk at last into the natural
+almshouse of bankrupt popular government, a military despotism. 
+Here was indeed a dreary outlook for persons who knew
+democracy, not by rubbing shoulders with it lifelong, but merely
+from books, and America only by the report of some fellow-Briton,
+who, having eaten a bad dinner or lost a carpet-bag here, had
+written to *The Times* demanding redress, and drawing a
+mournful inference of democratic instability.  Nor were men
+wanting among ourselves who had so steeped their brains in
+London literature as to mistake Cockneyism for European culture,
+and contempt of their country for cosmopolitan breadth of view,
+and who, owing all they had an all they were to democracy, thought
+it had an air of high-breeding to join in the shallow epicedium that
+our bubble had burst.
+
+But beside any disheartening influences which might affect the timid
+or the despondent, there were reasons enough of settled gravity
+against any over-confidence of hope.  A war--which, whether we
+consider the expanse of the territory at stake, the hosts brought into
+the field, or the reach of the principles involved, may fairly be
+reckoned the most momentous of modern times--was to be waged
+by a people divided at home, unnerved by fifty years of peace,
+under a chief magistrate without experience and without reputation,
+whose every measure was sure to be cunningly hampered by a
+jealous and unscrupulous minority, and who, while dealing with
+unheard-of complications at home, must soothe a hostile neutrality
+abroad, waiting only a pretext to become war.  All this was to be
+done without warning and without preparation, while at the same
+time a social revolution was to be accomplished in the political
+condition of four millions of people, by softening the prejudices,
+allaying the fears, and gradually obtaining the cooperation, of their
+unwilling liberators.  Surely, if ever there were an occasion when
+the heightened imagination of the historian might see Destiny visibly
+intervening in human affairs, here was a knot worthy of her shears. 
+Never, perhaps, was any system of government tried by so
+continuous and searching a strain as ours during the last three
+years; never has any shown itself stronger; and never could that
+strength be so directly traced to the virtue and intelligence of the
+people,--to that general enlightenment and prompt efficiency of
+public opinion possible only under the influence of a political
+framework like our own.  We find it hard to understand how even a
+foreigner should be blind to the grandeur of the combat of ideas
+that has been going on here,--to the heroic energy, persistency, and
+self-reliance of a nation proving that it knows how much dearer
+greatness is than mere power; and we own that it is impossible for
+us to conceive the mental and moral condition of the American who
+does not feel his spirit braced and heightened by being even a
+spectator of such qualities and achievements.  That a steady
+purpose and a definite aim have been given to the jarring forces
+which, at the beginning of the war, spent themselves in the
+discussion of schemes which could only become operative, if at all,
+after the war was over; that a popular excitement has been slowly
+intensified into an earnest national will; that a somewhat
+impracticable moral sentiment has been made the unconscious
+instrument of a practical moral end; that the treason of covert
+enemies, the jealousy of rivals, the unwise zeal of friends, have been
+made not only useless for mischief, but even useful for good; that
+the conscientious sensitiveness of England to the horrors of civil
+conflict has been prevented from complicating a domestic with a
+foreign war;--all these results, any one of which might suffice to
+prove greatness in a ruler, have been mainly due to the good sense,
+the good-humor, the sagacity, the large-mindedness, and the
+unselfish honesty of the unknown man whom a blind fortune, as it
+seemed, had lifted from the crowd to the most dangerous and
+difficult eminence of modern times.  It is by presence of mind in
+untried emergencies that the native metal of a man is tested; it is by
+the sagacity to see, and the fearless honesty to admit, whatever of
+truth there may be in an adverse opinion, in order more
+convincingly to expose the fallacy that lurks behind it, that a
+reasoner at length gains for his mere statement of a fact the force of
+argument; it is by a wise forecast which allows hostile combinations
+to go so far as by the inevitable reaction to become elements of his
+own power, that a politician proves his genius for state-craft; and
+especially it is by so gently guiding public sentiment that he seems
+to follow it, by so yielding doubtful points that he can be firm
+without seeming obstinate in essential ones, and thus gain the
+advantages of compromise without the weakness of concession; by
+so instinctively comprehending the temper and prejudices of a
+people as to make them gradually conscious of the superior wisdom
+of his freedom from temper and prejudice,--it is by qualities such as
+these that a magistrate shows himself worthy to be chief in a
+commonwealth of freemen.  And it is for qualities such as these that
+we firmly believe History will rank Mr. Lincoln among the most
+prudent of statesmen and the most successful of rulers.  If we wish
+to appreciate him, we have only to conceive the inevitable chaos in
+which we should now be weltering, had a weak man or an unwise
+one been chosen in his stead.
+
+"Bare is back," says the Norse proverb, "without brother behind it;"
+and this is, by analogy, true of an elective magistracy.  The
+hereditary ruler in any critical emergency may reckon on the
+inexhaustible resources of *prestige,* of sentiment, of superstition,
+of dependent interest, while the new man must slowly and painfully
+create all these out of the unwilling material around him, by
+superiority of character, by patient singleness of purpose, by
+sagacious presentiment of popular tendencies and instinctive
+sympathy with the national character.  Mr. Lincoln's task was one
+of peculiar and exceptional difficulty.  Long habit had accustomed
+the American people to the notion of a party in power, and of a
+President as its creature and organ, while the more vital fact, that
+the executive for the time being represents the abstract idea of
+government as a permanent principle superior to all party and all
+private interest, had gradually become unfamiliar.  They had so long
+seen the public policy more or less directed by views of party, and
+often even of personal advantage, as to be ready to suspect the
+motives of a chief magistrate compelled, for the first time in our
+history, to feel himself the head and hand of a great nation, and to
+act upon the fundamental maxim, laid down by all publicists, that
+the first duty of a government is to depend and maintain its own
+existence.  Accordingly, a powerful weapon seemed to be put into
+the hands of the opposition by the necessity under which the
+administration found itself of applying this old truth to new
+relations.  Nor were the opposition his only nor his most dangerous
+opponents.
+
+The Republicans had carried the country upon an issue in which
+ethics were more directly and visibly mingled with politics than
+usual.  Their leaders were trained to a method of oratory which
+relied for its effect rather on the moral sense than the
+understanding.  Their arguments were drawn, not so much from
+experience as from general principles of right and wrong.  When the
+war came, their system continued to be applicable and effective, for
+here again the reason of the people was to be reached and kindled
+through their sentiments.  It was one of those periods of
+excitement, gathering, contagious, universal, which, while they last,
+exalt and clarify the minds of men, giving to the mere words
+*country, human rights, democracy,* a meaning and a force beyond
+that of sober and logical argument.  They were convictions,
+maintained and defended by the supreme logic of passion.  That
+penetrating fire ran in and roused those primary instincts that make
+their lair in the dens and caverns of the mind.  What is called the
+great popular heart was awakened, that indefinable something
+which may be, according to circumstances, the highest reason or
+the most brutish unreason.  But enthusiasm, once cold, can never be
+warmed over into anything better than cant,--and phrases, when
+once the inspiration that filled them with beneficent power has
+ebbed away, retain only that semblance of meaning which enables
+them to supplant reason in hasty minds.  Among the lessons taught
+by the French Revolution there is none sadder or more striking than
+this, that you may make everything else out of the passions of men
+except a political system that will work, and that there is nothing so
+pitilessly and unconsciously cruel as sincerity formulated into
+dogma. It is always demoralizing to extend the domain of sentiment
+over questions where it has no legitimate jurisdiction; and perhaps
+the severest strain upon Mr. Lincoln was in resisting a tendency of
+his own supporters which chimed with his own private desires,
+while wholly opposed to his convictions of what would be wise
+policy.
+
+The change which three years have brought about is too remarkable
+to be passed over without comment, too weighty in its lesson not to
+be laid to heart.  Never did a President enter upon office with less
+means at his command, outside his own strength of heart and
+steadiness of understanding, for inspiring confidence in the people,
+and so winning it for himself, than Mr. Lincoln.  All that was known
+of him was that he was a good stump-speaker, nominated for his
+*availability,*--that is, because he had no history,--and chosen by a
+party with whose more extreme opinions he was not in sympathy. 
+It might well be feared that a man past fifty, against whom the
+ingenuity of hostile partisans could rake up no accusation, must be
+lacking in manliness of character, in decision of principle, in
+strength of will; that a man who was at best only the representative
+of a party, and who yet did not fairly represent even that, would fail
+of political, much more of popular, support.  And certainly no one
+ever entered upon office with so few resources of power in the
+past, and so many materials of weakness in the present, as Mr.
+Lincoln.  Even in that half of the Union which acknowledged him as
+President, there was a large, and at that time dangerous, minority,
+that hardly admitted his claim to the office, and even in the party
+that elected him there was also a large minority that suspected him
+of being secretly a communicant with the church of Laodicea.(1) 
+All he did was sure to be virulently attacked as ultra by one side; all
+that he left undone, to be stigmatized as proof of lukewarmness and
+backsliding by the other.  Meanwhile he was to carry on a truly
+colossal war by means of both; he was to disengage the country
+from diplomatic entanglements of unprecedented peril undisturbed
+by the help or the hindrance of either, and to win from the crowning
+dangers of his administration, in the confidence of the people, the
+means of his safety and their own.  He has contrived to do it, and
+perhaps none of our Presidents since Washington has stood so firm
+in the confidence of the people as he does after three years of
+stormy administration.
+
+(1) See *Revelation,* chapter 3, verse 15.
+
+Mr. Lincoln's policy was a tentative one, and rightly so.  He laid
+down no programme which must compel him to be either
+inconsistent or unwise, no cast-iron theorem to which
+circumstances must be fitted as they rose, or else be useless to his
+ends.  He seemed to have chosen Mazarin's motto, *Le temps et
+moi.*(1)   The *moi,* to be sure, was not very prominent at first;
+but it has grown more and more so, till the world is beginning to be
+persuaded that it stands for a character of marked individuality and
+capacity for affairs.  Time was his prime-minister, and, we began to
+think, at one period, his general-in-chief also.  At first he was so
+slow that he tired out all those who see no evidence of progress but
+in blowing up the engine; then he was so fast, that he took the
+breath away from those who think there is no getting on safety
+while there is a spark of fire under the boilers.  God is the only
+being who has time enough; but a prudent man, who knows how to
+seize occasion, can commonly make a shift to find as much as he
+needs.  Mr. Lincoln, as it seems to us in reviewing his career,
+though we have sometimes in our impatience thought otherwise,
+has always waited, as a wise man should, till the right moment
+brought up all his reserves.  *Semper nocuit differre paratis,*(2) is
+a sound axiom, but the really efficacious man will also be sure to
+know when he is *not* ready, and be firm against all persuasion
+and reproach till he is.
+
+(1) Time and I.   Cardinal Mazarin was prime-minister of Louis
+XIV. of France.  Time, Mazarin said, was his prime-minister.
+(2)  It is always bad for those who are ready to put off action.
+
+One would be apt to think, from some of the criticisms made on
+Mr. Lincoln's course by those who mainly agree with him in
+principle, that the chief object of a statesman should be rather to
+proclaim his adhesion to certain doctrines, than to achieve their
+triumph by quietly accomplishing his ends.  In our opinion, there is
+no more unsafe politician than a conscientiously rigid *doctrinaire,*
+nothing more sure to end in disaster than a theoretic scheme of
+policy that admits of no pliability for contingencies.  True, there is a
+popular image of an impossible He, in whose plastic hands the
+submissive destinies of mankind become as wax, and to whose
+commanding necessity the toughest facts yield with the graceful
+pliancy of fiction; but in real life we commonly find that the men
+who control circumstances, as it is called, are those who have
+learned to allow for the influence of their eddies, and have the nerve
+to turn them to account at the happy instant.  Mr. Lincoln's perilous
+task has been to carry a rather shaky raft through the rapids,
+making fast the unrulier logs as he could snatch opportunity, and
+the country is to be congratulated that he did not think it his duty to
+run straight at all hazards, but cautiously to assure himself with his
+setting-pole where the main current was, and keep steadily to that. 
+He is still in wild water, but we have faith that his skill and sureness
+of eye will bring him out right at last.
+
+A curious, and, as we think, not inapt parallel, might be drawn
+between Mr. Lincoln and one of the most striking figures in modern
+history,--Henry IV. of France.  The career of the latter may be more
+picturesque, as that of a daring captain always is; but in all its
+vicissitudes there is nothing more romantic than that sudden
+change, as by a rub of Aladdin's lamp, from the attorney's office in a
+country town of Illinois to the helm of a great nation in times like
+these.  The analogy between the characters and circumstances of
+the two men is in many respects singularly close.  Succeeding to a
+rebellion rather than a crown, Henry's chief material dependence
+was the Huguenot party, whose doctrines sat upon him with a
+looseness distasteful certainly, if not suspicious, to the more
+fanatical among them.  King only in name over the greater part of
+France, and with his capital barred against him, it yet gradually
+became clear to the more far-seeing even of the Catholic party that
+he was the only centre of order and legitimate authority round
+which France could reorganize itself.  While preachers who held the
+divine right of kings made the churches of Paris ring with
+declamations in favor of democracy rather than submit to the
+heretic dog of Bearnois,(1)--much as our *soi-disant* Democrats
+have lately been preaching the divine right of slavery, and
+denouncing the heresies of the Declaration of Independence,--
+Henry bore both parties in hand till he was convinced that only one
+course of action could possibly combine his own interests and those
+of France.  Meanwhile the Protestants believed somewhat
+doubtfully that he was theirs, the Catholics hoped somewhat
+doubtfully that he would be theirs, and Henry himself turned aside
+remonstrance, advice and curiosity alike with a jest or a proverb (if
+a little *high,* he liked them none the worse), joking continually as
+his manner was.  We have seen Mr. Lincoln contemptuously
+compared to Sancho Panza by persons incapable of appreciating
+one of the deepest pieces of wisdom in the profoundest romance
+ever written; namely, that, while Don Quixote was incomparable in
+theoretic and ideal statesmanship, Sancho, with his stock of
+proverbs, the ready money of human experience, made the best
+possible practical governor.  Henry IV. was as full of wise saws and
+modern instances as Mr. Lincoln, but beneath all this was the
+thoughtful, practical, humane, and thoroughly earnest man, around
+whom the fragments of France were to gather themselves till she
+took her place again as a planet of the first magnitude in the
+European system.  In one respect Mr. Lincoln was more fortunate
+than Henry.  However some may think him wanting in zeal, the
+most fanatical can find no taint of apostasy in any measure of his,
+nor can the most bitter charge him with being influenced by motives
+of personal interest.  The leading distinction between the policies of
+the two is one of circumstances.  Henry went over to the nation;
+Mr. Lincoln has steadily drawn the nation over to him.  One left a
+united France; the other, we hope and believe, will leave a reunited
+America.  We leave our readers to trace the further points of
+difference and resemblance for themselves, merely suggesting a
+general similarity which has often occurred to us.  One only point of
+melancholy interest we will allow ourselves to touch upon.  That
+Mr. Lincoln is not handsome nor elegant, we learn from certain
+English tourists who would consider similar revelations in regard to
+Queen Victoria as thoroughly American in the want of
+*bienseance.*   It is no concern of ours, nor does it affect his fitness
+for the high place he so worthily occupies; but he is certainly as
+fortunate as Henry in the matter of good looks, if we may trust
+contemporary evidence.  Mr. Lincoln has also been reproached with
+Americanism by some not unfriendly British critics; but, with all
+deference, we cannot say that we like him any the worse for it, or
+see in it any reason why he should govern Americans the less
+wisely.
+
+(1) One of Henry's titles was Prince of Bearn, that being the old
+province of France from which he came.
+
+People of more sensitive organizations may be shocked, but we are
+glad that in this our true war of independence, which is to free us
+forever from the Old World, we have had at the head of our affairs
+a man whom America made, as God made Adam, out of the very
+earth, unancestried, unprivileged, unknown, to show us how much
+truth, how much magnanimity, and how much statecraft await the
+call of opportunity in simple manhood when it believes in the justice
+of God and the worth of man.  Conventionalities are all very well in
+their proper place, but they shrivel at the touch of nature like
+stubble in the fire.  The genius that sways a nation by its arbitrary
+will seems less august to us than that which multiplies and
+reinforces itself in the instincts and convictions of an entire people. 
+Autocracy may have something in it more melodramatic than this,
+but falls far short of it in human value and interest.
+
+Experience would have bred in us a rooted distrust of improved
+statesmanship, even if we did not believe politics to be a science,
+which, if it cannot always command men of special aptitude and
+great powers, at least demands the long and steady application of
+the best powers of such men as it can command to master even its
+first principles.  It is curious, that, in a country which boasts of its
+intelligence the theory should be so generally held that the most
+complicated of human contrivances, and one which every day
+becomes more complicated, can be worked at sight by any man able
+to talk for an hour or two without stopping to think.
+
+Mr. Lincoln is sometimes claimed as an example of a ready-made
+ruler.  But no case could well be less in point; for, besides that he
+was a man of such fair-mindedness as is always the raw material of
+wisdom, he had in his profession a training precisely the opposite of
+that to which a partisan is subjected. His experience as a lawyer
+compelled him not only to see that there is a principle underlying
+every phenomenon in human affairs, but that there are always two
+sides to every question, both of which must be fully understood in
+order to understand either, and that it is of greater advantage to an
+advocate to appreciate the strength than the weakness of his
+antagonist's position.  Nothing is more remarkable than the unerring
+tact with which, in his debate with Mr. Douglas, he went straight to
+the reason of the question; nor have we ever had a more striking
+lesson in political tactics than the fact, that opposed to a man
+exceptionally adroit in using popular prejudice and bigotry to his
+purpose, exceptionally unscrupulous in appealing to those baser
+motives that turn a meeting of citizens into a mob of barbarians, he
+should yet have won his case before a jury of the people.  Mr.
+Lincoln was as far as possible from an impromptu politician.  His
+wisdom was made up of a knowledge of things as well as of men;
+his sagacity resulted from a clear perception and honest
+acknowledgment of difficulties, which enabled him to see that the
+only durable triumph of political opinion is based, not on any
+abstract right, but upon so much of justice, the highest attainable at
+any given moment in human affairs, as may be had in the balance of
+mutual concession.  Doubtless he had an ideal, but it was the ideal
+of a practical statesman,--to aim at the best, and to take the next
+best, if he is lucky enough to get even that.  His slow, but singularly
+masculine, intelligence taught him that precedent is only another
+name for embodied experience, and that it counts for even more in
+the guidance of communities of men than in that of the individual
+life.  He was not a man who held it good public economy to pull
+down on the mere chance of rebuilding better.  Mr. Lincoln's faith
+in God was qualified by a very well-founded distrust of the wisdom
+of man.  perhaps it was his want of self-confidence that more than
+anything else won him the unlimited confidence of the people, for
+they felt that there would be no need of retreat from any position he
+had deliberately taken.  The cautious, but steady, advance of his
+policy during the war was like that of a Roman army.  He left
+behind him a firm road on which public confidence could follow; he
+took America with him where he went; what he gained he occupied,
+and his advanced posts became colonies.  The very homeliness of
+his genius was its distinction.  His kingship was conspicuous by its
+workday homespun.  Never was ruler so absolute as he, nor so little
+conscious of it; for he was the incarnate common-sense of the
+people.  With all that tenderness of nature whose sweet sadness
+touched whoever saw him with something of its own pathos, there
+was no trace of sentimentalism in his speech or action.  He seems to
+have had one rule of conduct, always that of practical and
+successful politics, to let himself be guided by events, when they
+were sure to bring him out where he wished to go, though by what
+seemed to unpractical minds, which let go the possible to grasp at
+the desirable, a longer road.
+
+Undoubtedly the highest function of statesmanship is by degrees to
+accommodate the conduct of communities to ethical laws, and to
+subordinate the conflicting self-interests of the day to higher and
+more permanent concerns.  But it is on the understanding, and not
+on the sentiment, of a nation that all safe legislation must be based. 
+Voltaire's saying, that "a consideration of petty circumstances is the
+tomb of great things," may be true of individual men, but it certainly
+is not true of governments.  It is by a multitude of such
+considerations, each in itself trifling, but all together weighty, that
+the framers of policy can alone divine what is practicable and
+therefore wise.  The imputation of inconsistency is one to which
+every sound politician and every honest thinker must sooner or later
+subject himself.  The foolish and the dead alone never change their
+opinion.  The course of a great statesman resembles that of
+navigable rivers, avoiding immovable obstacles with noble bends of
+concession, seeking the broad levels of opinion on which men
+soonest settle and longest dwell, following and marking the almost
+imperceptible slopes of national tendency, yet always aiming at
+direct advances, always recruited from sources nearer heaven, and
+sometimes bursting open paths of progress and fruitful human
+commerce through what seem the eternal barriers of both.  It is
+loyalty to great ends, even though forced to combine the small and
+opposing motives of selfish men to accomplish them; it is the
+anchored cling to solid principles of duty and action, which knows
+how to swing with the tide, but is never carried away by it,--that we
+demand in public men, and not sameness of policy, or a
+conscientious persistency in what is impracticable.  For the
+impracticable, however theoretically enticing, is always politically
+unwise, sound statesmanship being the application of that prudence
+to the public business which is the safest guide in that of private
+men.
+
+No doubt slavery was the most delicate and embarrassing question
+with which Mr. Lincoln was called on to deal, and it was one which
+no man in his position, whatever his opinions, could evade; for,
+though he might withstand the clamor of partisans, he must sooner
+or later yield to the persistent importunacy of circumstances, which
+thrust the problem upon him at every turn and in every shape.
+
+It has been brought against us as an accusation abroad, and
+repeated here by people who measure their country rather by what
+is thought of it than by what is, that our war has not been distinctly
+and avowedly for the extinction of slavery, but a war rather for the
+preservation of our national power and greatness, in which the
+emancipation of the negro has been forced upon us by
+circumstances and accepted as a necessity.  We are very far from
+denying this; nay, we admit that it is so far true that we were slow
+to renounce our constitutional obligations even toward those who
+had absolved us by their own act from the letter of our duty.  We
+are speaking of the government which, legally installed for the
+whole country, was bound, so long as it was possible, not to
+overstep the limits of orderly prescription, and could not, without
+abnegating its own very nature, take the lead off a Virginia reel. 
+They forgot, what should be forgotten least of all in a system like
+ours, that the administration for the time being represents not only
+the majority which elects it, but the minority as well,--a minority in
+this case powerful, and so little ready for emancipation that it was
+opposed even to war.  Mr. Lincoln had not been chosen as general
+agent of the an anti-slavery society, but President of the United
+States, to perform certain functions exactly defined by law. 
+Whatever were his wishes, it was no less duty than policy to mark
+out for himself a line of action that would not further distract the
+country, by raising before their time questions which plainly would
+soon enough compel attention, and for which every day was making
+the answer more easy.
+
+Meanwhile he must solve the riddle of this new Sphinx, or be
+devoured.  Though Mr. Lincoln's policy in this critical affair has not
+been such as to satisfy those who demand an heroic treatment for
+even the most trifling occasion, and who will not cut their coat
+according to their cloth, unless they can borrow the scissors of
+Atropos,(1) it has been at least not unworthy of the long-headed
+king of Ithaca.(2)  Mr. Lincoln had the choice of Bassanio(3)
+offered him.  Which of the three caskets held the prize that was to
+redeem the fortunes of the country?  There was the golden one
+whose showy speciousness might have tempted a vain man; the
+silver of compromise, which might have decided the choice of a
+merely acute one; and the leaden,--dull and homely-looking, as
+prudence always is,--yet with something about it sure to attract the
+eye of practical wisdom.  Mr. Lincoln dallied with his decision
+perhaps longer than seemed needful to those on whom its awful
+responsibility was not to rest, but when he made it, it was worthy of
+his cautious but sure-footed understanding.  The moral of the
+Sphinx-riddle, and it is a deep one, lies in the childish simplicity of
+the solution.  Those who fail in guessing it, fail because they are
+over-ingenious, and cast about for an answer that shall suit their
+own notion of the gravity of the occasion and of their own dignity,
+rather than the occasion itself.
+
+In a matter which must be finally settled by public opinion, and in
+regard to which the ferment of prejudice and passion on both sides
+has not yet subsided to that equilibrium of compromise from which
+alone a sound public opinion can result, it is proper enough for the
+private citizen to press his own convictions with all possible force
+of argument and persuasion; but the popular magistrate, whose
+judgment must become action, and whose action involves the whole
+country, is bound to wait till the sentiment of the people is so far
+advanced toward his own point of view, that what he does shall find
+support in it, instead of merely confusing it with new elements of
+division.  It was not unnatural that men earnestly devoted to the
+saving of their country, and profoundly convinced that slavery was
+its only real enemy, should demand a decided policy round which all
+patriots might rally,--and this might have been the wisest course for
+an absolute ruler.  But in the then unsettled state of the public mind,
+with a large party decrying even resistance to the slaveholders'
+rebellion as not only unwise, but even unlawful; with a majority,
+perhaps, even of the would-be loyal so long accustomed to regard
+the Constitution as a deed of gift conveying to the South their own
+judgment as to policy and instinct as to right, that they were in
+doubt at first whether their loyalty were due to the country or to
+slavery; and with a respectable body of honest and influential men
+who still believed in the possibility of conciliation,--Mr. Lincoln
+judged wisely, that, in laying down a policy in deference to one
+party, he should be giving to the other the very fulcrum for which
+their disloyalty had been waiting.
+
+(1) One of the three Fates.
+(2) Odysseus, or Ulysses, the hero of Homer's Odyssey.
+(3) See Shakespeare's *Merchant of Venice.*
+
+It behooved a clear-headed man in his position not to yield so far to
+an honest indignation against the brokers of treason in the North as
+to lose sight of the materials for misleading which were their stock
+in trade, and to forget that it is not the falsehood of sophistry which
+is to be feared, but the grain of truth mingled with it to make it
+specious,--that it is not the knavery of the leaders so much as the
+honesty of the followers they may seduce, that gives them power
+for evil.  It was especially his duty to do nothing which might help
+the people to forget the true cause of the war in fruitless disputes
+about its inevitable consequences.
+
+The doctrine of State rights can be so handled by an adroit
+demagogue as easily to confound the distinction between liberty
+and lawlessness in the minds of ignorant persons, accustomed
+always to be influenced by the sound of certain words, rather than
+to reflect upon the principles which give them meaning.  For,
+though Secession involves the manifest absurdity of denying to the
+State the right of making war against any foreign power while
+permitting it against the United States; though it supposes a
+compact of mutual concessions and guaranties among States
+without any arbiter in case of dissension; though it contradicts
+common-sense in assuming that the men who framed our
+government did not know what they meant when they substituted
+Union for confederation; though it falsifies history, which shows
+that the main opposition to the adoption of the Constitution was
+based on the argument that it did not allow that independence in the
+several States which alone would justify them in seceding;--yet, as
+slavery was universally admitted to be a reserved right, an inference
+could be drawn from any direct attack upon it (though only in self-
+defence) to a natural right of resistance, logical enough to satisfy
+minds untrained to detect fallacy, as the majority of men always are,
+and now too much disturbed by the disorder of the times, to
+consider that the order of events had any legitimate bearing on the
+argument.  Though Mr. Lincoln was too sagacious to give the
+Northern allies of the Rebels the occasion they desired and even
+strove to provoke, yet from the beginning of the war the most
+persistent efforts have been made to confuse the public mind as to
+its origin and motives, and to drag the people of the loyal States
+down from the national position they had instinctively taken to the
+old level of party squabbles and antipathies.  The wholly
+unprovoked rebellion of an oligarchy proclaiming negro slavery the
+corner-stone of free institutions, and in the first flush of over-hasty
+confidence venturing to parade the logical sequence of their leading
+dogma, "that slavery is right in principle, and has nothing to do with
+difference of complexion," has been represented as a legitimate and
+gallant attempt to maintain the true principles of democracy.  The
+rightful endeavor of an established government, the least onerous
+that ever existed, to defend itself against a treacherous attack on its
+very existence, has been cunningly made to seem the wicked effort
+of a fanatical clique to force its doctrines on an oppressed
+population.
+
+Even so long ago as when Mr. Lincoln, not yet convinced of the
+danger and magnitude of the crisis, was endeavoring to persuade
+himself of Union majorities at the South, and to carry on a war that
+was half peace in the hope of a peace that would have been all war,-
+-while he was still enforcing the Fugitive Slave Law, under some
+theory that Secession, however it might absolve States from their
+obligations, could not escheat them of their claims under the
+Constitution, and that slaveholders in rebellion had alone among
+mortals the privilege of having their cake and eating it at the same
+time,--the enemies of free government were striving to persuade the
+people that the war was an Abolition crusade.  To rebel without
+reason was proclaimed as one of the rights of man, while it was
+carefully kept out of sight that to suppress rebellion is the first duty
+of government.  All the evils that have come upon the country have
+been attributed to the Abolitionists, though it is hard to see how any
+party can become permanently powerful except in one of two ways,
+either by the greater truth of its principles, or the extravagance of
+the party opposed to it.  To fancy the ship of state, riding safe at
+her constitutional moorings, suddenly engulfed by a huge kraken of
+Abolitionism, rising from unknown depths and grasping it with
+slimy tentacles, is to look at the natural history of the matter with
+the eyes of Pontoppidan.(1)   To believe that the leaders in the
+Southern treason feared any danger from Abolitionism, would be to
+deny them ordinary intelligence, though there can be little doubt
+that they made use of it to stir the passions and excite the fears of
+their deluded accomplices.  They rebelled, not because they thought
+slavery weak, but because they believed it strong enough, not to
+overthrow the government, but to get possession of it; for it
+becomes daily clearer that they used rebellion only as a means of
+revolution, and if they got revolution, though not in the shape they
+looked for, is the American people to save them from its
+consequences at the cost of its own existence?  The election of Mr.
+Lincoln, which it was clearly in their power to prevent had they
+wished, was the occasion merely, and not the cause of their revolt. 
+Abolitionism, till within a year or two, was the despised heresy of a
+few earnest persons, without political weight enough to carry the
+election of a parish constable; and their cardinal principle was
+disunion, because they were convinced that within the Union the
+position of slavery was impregnable.  In spite of the proverb, great
+effects do not follow from small causes,--that is, disproportionately
+small,--but from adequate causes acting under certain required
+conditions.  To contrast the size of the oak with that of the parent
+acorn, as if the poor seed had paid all costs from its slender strong-
+box, may serve for a child's wonder; but the real miracle lies in that
+divine league which bound all the forces of nature to the service of
+the tiny germ in fulfilling its destiny.  Everything has been at work
+for the past ten years in the cause of anti-slavery, but Garrison and
+Phillips have been far less successful propagandists than the
+slaveholders themselves, with the constantly growing arrogance of
+their pretensions and encroachments.  They have forced the
+question upon the attention of every voter in the Free States, by
+defiantly putting freedom and democracy on the defensive.  But,
+even after the Kansas outrages, there was no wide-spread desire on
+the part of the North to commit aggressions, though there was a
+growing determination to resist them.  The popular unanimity in
+favor of the war three years ago was but in small measure the result
+of anti-slavery sentiment, far less of any zeal for abolition.  But
+every month of the war, every movement of the allies of slavery in
+the Free States, has been making Abolitionists by the thousand. 
+The masses of any people, however intelligent, are very little moved
+by abstract principles of humanity and justice, until those principles
+are interpreted for them by the stinging commentary of some
+infringement upon their own rights, and then their instincts and
+passions, once aroused, do indeed derive an incalculable
+reinforcement of impulse and intensity from those higher ideas,
+those sublime traditions, which have no motive political force till
+they are allied with a sense of immediate personal wrong or
+imminent peril.  Then at last the stars in their courses begin to fight
+against Sisera.  Had any one doubted before that the rights of
+human nature are unitary, that oppression is of one hue the world
+over, no matter what the color of the oppressed,--had any one
+failed to see what the real essence of the contest was,--the efforts of
+the advocates of slavery among ourselves to throw discredit upon
+the fundamental axioms of the Declaration of Independence and the
+radical doctrines of Christianity, could not fail to sharpen his eyes. 
+
+(1) A Danish antiquary and theologian.
+
+While every day was bringing the people nearer to the conclusion
+which all thinking men saw to be inevitable from the beginning, it
+was wise in Mr. Lincoln to leave the shaping of his policy to events. 
+In this country, where the rough and ready understanding of the
+people is sure at last to be the controlling power, a profound
+common-sense is the best genius for statesmanship.  Hitherto the
+wisdom of the President's measures has been justified by the fact
+that they have always resulted in more firmly uniting public opinion. 
+One of the things particularly admirable in the public utterances of
+President Lincoln is a certain tone of familiar dignity, which, while
+it is perhaps the most difficult attainment of mere style, is also no
+doubtful indication of personal character.  There must be something
+essentially noble in an elective ruler who can descend to the level of
+confidential ease without losing respect, something very manly in
+one who can break through the etiquette of his conventional rank
+and trust himself to the reason and intelligence of those who have
+elected him.  No higher compliment was ever paid to a nation than
+the simple confidence, the fireside plainness, with which Mr.
+Lincoln always addresses himself to the reason of the American
+people.  This was, indeed, a true democrat, who grounded himself
+on the assumption that a democracy can think.  "Come, let us
+reason together about this matter," has been the tone of all his
+addresses to the people; and accordingly we have never had a chief
+magistrate who so won to himself the love and at the same time the
+judgment of his countrymen.  To us, that simple confidence of his in
+the right-mindedness of his fellowmen is very touching, and its
+success is as strong an argument as we have ever seen in favor of
+the theory that men can govern themselves.  He never appeals to
+any vulgar sentiment, he never alludes to the humbleness of his
+origin; it probably never occurred to him, indeed, that there was
+anything higher to start from than manhood; and he put himself on a
+level with those he addressed, not by going down to them, but only
+by taking it for granted that they had brains and would come up to
+a common ground of reason.  In an article lately printed in *The
+Nation,* Mr. Bayard Taylor mentions the striking fact, that in the
+foulest dens of the Five Points he found the portrait of Lincoln. 
+The wretched population that makes its hive there threw all its
+votes and more against him, and yet paid this instinctive tribute to
+the sweet humanity of his nature.  Their ignorance sold its vote and
+took its money, but all that was left of manhood in them recognized
+its saint and martyr.
+
+Mr. Lincoln is not in the habit of saying, "This is *my* opinion, or
+*my* theory," but "This is the conclusion to which, in my
+judgment, the time has come, and to which, accordingly, the sooner
+we come the better for us."  His policy has been the policy of public
+opinion based on adequate discussion and on a timely recognition
+of the influence of passing events in shaping the features of events
+to come.
+
+One secret of Mr. Lincoln's remarkable success in captivating the
+popular mind is undoubtedly an unconsciousness of self which
+enables him, though under the necessity of constantly using the
+capital *I*, to do it without any suggestion of egotism.  There is no
+single vowel which men's mouths can pronounce with such
+difference of effect.  That which one shall hide away, as it were,
+behind the substance of his discourse, or, if he bring it to the front,
+shall use merely to give an agreeable accent of individuality to what
+he says, another shall make an offensive challenge to the self-
+satisfaction of all his hearers, and an unwarranted intrusion upon
+each man's sense of personal importance, irritating every pore of his
+vanity, like a dry northeast wind, to a goose-flesh of opposition and
+hostility.  Mr. Lincoln has never studied Quintilian;(1) but he has, in
+the earnest simplicity and unaffected Americanism of his own
+character, one art of oratory worth all the rest.  He forgets himself
+so entirely in his object as to give his *I* the sympathetic and
+persuasive effect of *We* with the great body of his countrymen. 
+Homely, dispassionate, showing all the rough-edged process of his
+thought as it goes along, yet arriving at his conclusions with an
+honest kind of every-day logic, he is so eminently our
+representative man, that, when he speaks, it seems as if the people
+were listening to their own thinking aloud.  The dignity of his
+thought owes nothing to any ceremonial garb of words, but to the
+manly movement that comes of settled purpose and an energy of
+reason that knows not what rhetoric means.  There has been
+nothing of Cleon, still less of Strepsiades(2) striving to underbid
+him in demagogism, to be found in the public utterances of Mr.
+Lincoln.  He has always addressed the intelligence of men, never
+their prejudice, their passion, or their ignorance.
+
+(1) A famous Latin writer on the *Art of Oratory.*
+(2) Two Athenian demagogues, satirized by the dramatist
+Aristophanes.
+
+                      __________________________
+
+On the day of his death, this simple Western attorney, who
+according to one party was a vulgar joker, and whom the
+*doctrinaires* among his own supporters accused of wanting every
+element of statesmanship, was the most absolute ruler in
+Christendom, and this solely by the hold his good-humored sagacity
+had laid on the hearts and understandings of his countrymen.  Nor
+was this all, for it appeared that he had drawn the great majority,
+not only of his fellow-citizens, but of mankind also, to his side.  So
+strong and so persuasive is honest manliness without a single
+quality of romance or unreal sentiment to help it!  A civilian during
+times of the most captivating military achievement, awkward, with
+no skill in the lower technicalities of manners, he left behind him a
+fame beyond that of any conqueror, the memory of a grace higher
+than that of outward person, and of a gentlemanliness deeper than
+mere breeding.  Never before that startled April morning did such
+multitudes of men shed tears for the death of one they had never
+seen, as if with him a friendly presence had been taken away from
+their lives, leaving them colder and darker.  Never was funeral
+panegyric so eloquent as the silent look of sympathy which
+strangers exchanged when they met on that day.  Their common
+manhood had lost a kinsman.
+
+
+
+
+
+End of The Project Gutenberg Etext of Abraham Lincoln, by James Lowell
+

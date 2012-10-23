@@ -1,0 +1,10 @@
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Query\bin\Release\Query.Core.XML
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Query\bin\Release\Query.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Query\bin\Release\Query.Core.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Query\bin\Release\Indexer.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Query\bin\Release\Indexer.Core.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Query\bin\Release\Indexer.Core.xml
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Query\obj\Release\ResolveAssemblyReference.cache
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Query\obj\Release\Query.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Query\obj\Release\Query.Core.pdb
+C:\Users\Chris\Desktop\Dropbox\Writing\Programming F# 2nd Ed\3. Early Access\ZZ - Search Engine\final\Search Engine\Query\obj\Release\Query.fsprojResolveAssemblyReference.cache

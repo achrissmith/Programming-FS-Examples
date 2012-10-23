@@ -1,0 +1,12 @@
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Indexer.Core\Query.Core\bin\Debug\Query.Core.XML
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Indexer.Core\Query.Core\bin\Debug\Query.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Indexer.Core\Query.Core\bin\Debug\Query.Core.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Indexer.Core\Query.Core\obj\Debug\Query.Core.fsprojResolveAssemblyReference.cache
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Indexer.Core\Query.Core\obj\Debug\Query.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Indexer.Core\Query.Core\obj\Debug\Query.Core.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Search Engine\Query.Core\bin\Debug\Query.Core.XML
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Search Engine\Query.Core\bin\Debug\Query.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Search Engine\Query.Core\bin\Debug\Query.Core.pdb
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Search Engine\Query.Core\obj\Debug\Query.Core.fsprojResolveAssemblyReference.cache
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Search Engine\Query.Core\obj\Debug\Query.Core.dll
+C:\Users\chrsmith\Desktop\Dropbox\Programming F# 2nd Ed\2. Second Edition Draft\ZZ - Search Engine\Search Engine\Query.Core\obj\Debug\Query.Core.pdb

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B02AC2D2-4440-46CB-88FE-E7B735CDDCB6}"
+	ProjectSection(SolutionItems) = preProject
+		01 - Intro to FS.fsx = 01 - Intro to FS.fsx
+		02 - Fundamentals.fsx = 02 - Fundamentals.fsx
+		03 - Functional Programming.fsx = 03 - Functional Programming.fsx
+		04 - Imperative Programming.fsx = 04 - Imperative Programming.fsx
+		05 - Object Oriented Programming.fsx = 05 - Object Oriented Programming.fsx
+		06 - .NET Programming.fsx = 06 - .NET Programming.fsx
+		07 - Applied Functional Programming.fsx = 07 - Applied Functional Programming.fsx
+		08 - Applied OOP.fsx = 08 - Applied OOP.fsx
+		09 - Async and Parallel Programming.fsx = 09 - Async and Parallel Programming.fsx
+		10 - Scripting.fsx = 10 - Scripting.fsx
+		12 - Reflection.fsx = 12 - Reflection.fsx
+		13 - Computation Expressions.fsx = 13 - Computation Expressions.fsx
+		14 - Quotations.fsx = 14 - Quotations.fsx
+		Apdx A - Overview of .NET Libs.fsx = Apdx A - Overview of .NET Libs.fsx
+		Apdx B - FS Introp.fsx = Apdx B - FS Introp.fsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
