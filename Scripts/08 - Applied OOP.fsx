@@ -124,7 +124,7 @@ type TextBlock(text : string) =
     let words = text.Split([| ' ' |])
     
     member this.AverageWordLength =
-        words |> Array.map float |> Array.average
+        words |> Array.map String.length |> Array.map float |> Array.average
     
     member this.GetSlice(lowerBound : int option, upperBound : int option) =
         let words =
